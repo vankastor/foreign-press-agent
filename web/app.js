@@ -129,31 +129,35 @@ function cardHTML(item, idx) {
   const label = CATEGORIES[cat];
   const when = fmtDateTime(item.published_at) || fmtDate(item.date);
   const bullets = (item.bullets || []).length
-    ? `<ul class="card__bullets">${item.bullets.map((b) => `<li>${escapeHTML(b)}</li>`).join("")}</ul>`
+    ? `<ul class="row__bullets">${item.bullets.map((b) => `<li>${escapeHTML(b)}</li>`).join("")}</ul>`
     : "";
   const summary = item.summary
-    ? `<p class="card__summary">${escapeHTML(item.summary)}</p>`
+    ? `<p class="row__summary">${escapeHTML(item.summary)}</p>`
     : "";
   const related = (item.related || []).length
-    ? `<div class="card__related"><span class="card__related-label">Ещё:</span> ${item.related
+    ? `<span class="row__related"><span class="row__related-label">Ещё:</span> ${item.related
         .map((r) => `<a href="${encodeURI(r.url)}" target="_blank" rel="noopener">${escapeHTML(r.domain || "источник")}</a>`)
-        .join(" · ")}</div>`
+        .join(" · ")}</span>`
     : "";
   return `
-    <article class="card" style="animation-delay:${Math.min(idx * 60, 400)}ms">
-      <div class="card__top">
+    <article class="row" style="animation-delay:${Math.min(idx * 40, 320)}ms">
+      <div class="row__meta">
         <span class="tag tag--${cat}">${label}</span>
-        <span class="card__date">${when}</span>
+        <time class="row__time">${when}</time>
       </div>
-      <a class="card__title" href="${encodeURI(item.source_url)}" target="_blank" rel="noopener">${escapeHTML(item.title)}</a>
-      ${summary}
-      ${bullets}
-      ${related}
-      <a class="card__source" href="${encodeURI(item.source_url)}" target="_blank" rel="noopener">
-        <span class="dot"></span>${escapeHTML(item.source_domain)}
-        <span class="card__read">Читать оригинал</span>
-        <span class="arrow">→</span>
-      </a>
+      <div class="row__body">
+        <a class="row__title" href="${encodeURI(item.source_url)}" target="_blank" rel="noopener">${escapeHTML(item.title)}</a>
+        ${summary}
+        ${bullets}
+        <div class="row__foot">
+          <a class="row__source" href="${encodeURI(item.source_url)}" target="_blank" rel="noopener">
+            <span class="dot"></span>${escapeHTML(item.source_domain)}
+            <span class="row__read">Читать оригинал</span>
+            <span class="arrow">→</span>
+          </a>
+          ${related}
+        </div>
+      </div>
     </article>`;
 }
 
@@ -173,10 +177,10 @@ function render() {
   let idx = 0;
   $("#feed").innerHTML = dates
     .map((date) => {
-      const cards = groups[date].map((i) => cardHTML(i, idx++)).join("");
+      const rows = groups[date].map((i) => cardHTML(i, idx++)).join("");
       return `<div class="daygroup">
         <div class="daygroup__label">${fmtDate(date)}</div>
-        <div class="grid">${cards}</div>
+        <div class="list">${rows}</div>
       </div>`;
     })
     .join("");
