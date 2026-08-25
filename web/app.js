@@ -1,7 +1,12 @@
+const SECTIONS = {
+  news: { label: "Новости", icon: "📰", hint: "Оперативные факты" },
+  stats: { label: "Статистика", icon: "📊", hint: "Результаты и цифры" },
+  analytics: { label: "Аналитика", icon: "🧠", hint: "Авторские разборы" },
+};
+
 const CATEGORIES = {
   all: "Все",
-  preview: "Расклад",
-  analytics: "Разбор",
+  match: "Матч/турнир",
   transfers: "Трансферы",
   statements: "Заявления",
   records: "Рекорды",
@@ -12,7 +17,7 @@ const CATEGORIES = {
   other: "Прочее",
 };
 
-const state = { items: [], filter: "all" };
+const state = { items: [], section: "news", filter: "all" };
 
 const $ = (sel) => document.querySelector(sel);
 
@@ -21,8 +26,21 @@ function fmtDate(iso) {
   return d.toLocaleDateString("ru-RU", { day: "numeric", month: "long", year: "numeric" });
 }
 
+function fmtDateTime(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  if (isNaN(d)) return "";
+  return d.toLocaleString("ru-RU", {
+    day: "numeric", month: "short", hour: "2-digit", minute: "2-digit",
+  });
+}
+
 function catKey(c) {
   return CATEGORIES[c] ? c : "other";
+}
+
+function sectionKey(s) {
+  return SECTIONS[s] ? s : "news";
 }
 
 async function load() {
@@ -32,6 +50,7 @@ async function load() {
     state.items = (data.items || []).slice().sort((a, b) => (a.date < b.date ? 1 : -1));
     renderMeta(data.generated_at);
     renderStats();
+    renderSections();
     renderFilters();
     render();
   } catch (e) {
@@ -43,22 +62,48 @@ function renderMeta(generatedAt) {
   if (generatedAt) $("#navMeta").textContent = "обновлено " + fmtDate(generatedAt.slice(0, 10));
 }
 
+function sectionItems(section) {
+  return state.items.filter((i) => sectionKey(i.section) === section);
+}
+
 function renderStats() {
-  const items = state.items;
-  const sources = new Set(items.map((i) => i.source_domain)).size;
-  const days = new Set(items.map((i) => i.date)).size;
-  const stats = [
-    [items.length, "материалов"],
-    [sources, "источников"],
-    [days, "дней в архиве"],
-  ];
+  const stats = Object.keys(SECTIONS).map((s) => [
+    sectionItems(s).length,
+    SECTIONS[s].label,
+  ]);
   $("#heroStats").innerHTML = stats
     .map(([n, l]) => `<div class="stat"><div class="stat__num">${n}</div><div class="stat__label">${l}</div></div>`)
     .join("");
 }
 
+function renderSections() {
+  $("#sections").innerHTML = Object.keys(SECTIONS)
+    .map((s) => {
+      const n = sectionItems(s).length;
+      return `<button class="seg" data-section="${s}" aria-pressed="${s === state.section}">
+        <span class="seg__icon">${SECTIONS[s].icon}</span>
+        <span class="seg__label">${SECTIONS[s].label}</span>
+        <span class="seg__count">${n}</span>
+      </button>`;
+    })
+    .join("");
+  $("#sections")
+    .querySelectorAll(".seg")
+    .forEach((btn) =>
+      btn.addEventListener("click", () => {
+        state.section = btn.dataset.section;
+        state.filter = "all";
+        $("#sections")
+          .querySelectorAll(".seg")
+          .forEach((b) => b.setAttribute("aria-pressed", b.dataset.section === state.section));
+        renderFilters();
+        render();
+      })
+    );
+}
+
 function renderFilters() {
-  const present = new Set(state.items.map((i) => catKey(i.category)));
+  const present = new Set(sectionItems(state.section).map((i) => catKey(i.category)));
   const keys = ["all", ...Object.keys(CATEGORIES).filter((k) => k !== "all" && present.has(k))];
   $("#filters").innerHTML = keys
     .map(
@@ -82,31 +127,42 @@ function renderFilters() {
 function cardHTML(item, idx) {
   const cat = catKey(item.category);
   const label = CATEGORIES[cat];
-  const why = item.why
-    ? `<div class="card__why"><b>Повод:</b> ${escapeHTML(item.why)}</div>`
+  const when = fmtDateTime(item.published_at) || fmtDate(item.date);
+  const bullets = (item.bullets || []).length
+    ? `<ul class="card__bullets">${item.bullets.map((b) => `<li>${escapeHTML(b)}</li>`).join("")}</ul>`
+    : "";
+  const summary = item.summary
+    ? `<p class="card__summary">${escapeHTML(item.summary)}</p>`
+    : "";
+  const related = (item.related || []).length
+    ? `<div class="card__related"><span class="card__related-label">Ещё:</span> ${item.related
+        .map((r) => `<a href="${encodeURI(r.url)}" target="_blank" rel="noopener">${escapeHTML(r.domain || "источник")}</a>`)
+        .join(" · ")}</div>`
     : "";
   return `
-    <a class="card" href="${encodeURI(item.source_url)}" target="_blank" rel="noopener"
-       style="animation-delay:${Math.min(idx * 60, 400)}ms">
+    <article class="card" style="animation-delay:${Math.min(idx * 60, 400)}ms">
       <div class="card__top">
         <span class="tag tag--${cat}">${label}</span>
-        <span class="card__date">${fmtDate(item.date)}</span>
+        <span class="card__date">${when}</span>
       </div>
-      <h3 class="card__title">${escapeHTML(item.title)}</h3>
-      <p class="card__summary">${escapeHTML(item.summary)}</p>
-      ${why}
-      <div class="card__source">
+      <a class="card__title" href="${encodeURI(item.source_url)}" target="_blank" rel="noopener">${escapeHTML(item.title)}</a>
+      ${summary}
+      ${bullets}
+      ${related}
+      <a class="card__source" href="${encodeURI(item.source_url)}" target="_blank" rel="noopener">
         <span class="dot"></span>${escapeHTML(item.source_domain)}
+        <span class="card__read">Читать оригинал</span>
         <span class="arrow">→</span>
-      </div>
-    </a>`;
+      </a>
+    </article>`;
 }
 
 function render() {
+  const inSection = sectionItems(state.section);
   const items =
     state.filter === "all"
-      ? state.items
-      : state.items.filter((i) => catKey(i.category) === state.filter);
+      ? inSection
+      : inSection.filter((i) => catKey(i.category) === state.filter);
 
   $("#empty").hidden = items.length > 0;
 

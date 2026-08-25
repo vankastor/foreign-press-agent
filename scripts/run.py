@@ -90,48 +90,48 @@ def chunk_text(text, size):
         yield buf
 
 
-CATEGORIES = ["preview", "analytics", "transfers", "statements", "records", "scandals", "rumors", "injury", "russians", "other"]
+SECTIONS = ["news", "stats", "analytics"]
+CATEGORIES = ["match", "transfers", "statements", "records", "scandals", "rumors", "injury", "russians", "other"]
 
 PROMPT = """Ты — редактор-аналитик, ведущий мониторинг зарубежной (не русскоязычной) спортивной прессы для контент-портала «Лига Ставок».
 
-Задача: с помощью WebSearch/WebFetch найди 5–8 самых значимых и свежих спортивных материалов, опубликованных за последние 12 часов, из международной спортивной прессы.
+Задача: с помощью WebSearch/WebFetch собери дайджест самых значимых и свежих спортивных материалов, опубликованных за последние 12 часов, из международной спортивной прессы. Сейчас фокус — ФУТБОЛ (топ-чемпионаты, еврокубки, трансферы). Найди 6–10 материалов, распределённых по трём разделам (см. ниже).
 
-⚠️ Строго по свежести: бери только материалы не старше 12 часов на момент запуска. Для каждого материала обязательно укажи точное время публикации (`published_at`) в формате ISO 8601 со смещением зоны, напр. 2026-08-25T07:30:00+02:00. Если у публикации не удаётся определить дату и время выпуска — НЕ включай её.
+⚠️ Строго по свежести: бери только материалы не старше 12 часов на момент запуска. Для каждого материала обязательно укажи точное время публикации (`published_at`) в формате ISO 8601 со смещением зоны, напр. 2026-08-25T07:30:00+02:00. Если время выпуска определить нельзя — НЕ включай материал.
+
+⚠️ Дедуп по сюжету: одна история — один материал. Если один и тот же инфоповод освещают несколько изданий — возьми самый ранний по времени источник как основной, а остальные вынеси в `related` (домен + ссылка). Не давай 10 карточек про одно и то же.
+
+Три раздела (`section`):
+- "news" — НОВОСТИ. Короткие оперативные факты: трансфер оформлен, травма, дисквалификация, жеребьёвка, заявление. Ценность — свежесть и конкретика, не авторский разбор.
+- "stats" — СТАТИСТИКА. Фактические результаты и цифры: итоги матчей/тура, владение, удары, карточки, тоталы, статистические обзоры. По возможности КОНСОЛИДИРУЙ по туру целиком (а не по каждому матчу отдельно): общий итог тура + ключевые цифры.
+- "analytics" — АНАЛИТИКА. Авторские колонки и разборы журналистов: мнение о трансфере, расклад/превью на матч, оценка формы, авторская позиция по итогам. Только полноценные авторские материалы, НЕ короткие новостные заметки.
 
 Приоритетные источники (ищи прежде всего в них):
 Marca (marca.com), AS (as.com), Mundo Deportivo (mundodeportivo.com), Sport.es (sport.es), ESPN (espn.com), L'Equipe (lequipe.fr), Get French Football News (getfootballnewsfrance.com), La Gazzetta dello Sport (gazzetta.it), Corriere dello Sport (corrieredellosport.it), Tuttosport (tuttosport.com), Calciomercato (calciomercato.com), Kicker (kicker.de), Sky Sports (skysports.com), Daily Mail Sport (dailymail.co.uk/sport), TalkSPORT (talksport.com), Goal (goal.com), The Athletic (nytimes.com/athletic), O Globo (oglobo.globo.com/esportes), Record (record.pt), NU Sport (nu.nl/sport), AD Sport (ad.nl/sport), Reuters Sports (reuters.com/sports), Sportskeeda (sportskeeda.com), Fanatik (fanatik.com.tr).
 
-Темы, которые нас интересуют:
-- расклад/аналитика перед матчем или турниром, авторская позиция по итогам;
-- заявления и цитаты спортсменов, тренеров, функционеров;
-- трансферы и деньги;
-- российские игроки и тренеры в зарубежных чемпионатах;
-- рекорды и достижения;
-- скандалы: дисквалификации, громкие процессы;
-- слухи;
-- травмы, дисквалификации, риски.
+Тематики (`category`): match (матч/турнир: расклады, превью, итоги) | transfers (трансферы/деньги) | statements (заявления/цитаты) | records (рекорды) | scandals (скандалы/дисквалификации) | rumors (слухи) | injury (травмы/риск) | russians (наши за рубежом) | other.
 
-Приоритет — авторские разборы, аналитика и статистические исследования (углублённая экспертиза персоны/матча/турнира/явления), а также яркие новости с чётким новостным поводом.
+Для КАЖДОГО материала прочитай публикацию и выдай `bullets` — 2–4 коротких буллит-поинта по-русски с сутью: о чём материал, главные факты/выводы. Задача буллитов — чтобы читатель по ним понял, о чём статья, и решил, идти ли читать оригинал. НИЧЕГО не додумывай и не галлюцинируй — только то, что реально есть в источнике.
 
 Требования к отбору (иначе материал не берём):
-- не старше 12 часов; обязательно с проверяемым временем публикации (`published_at`);
-- обязателен новостной повод и конкретика — материал должен раскрывать событие, а не «наполнять портал»;
-- только свежее и актуальное, не архив;
-- факты проверяемы; НИЧЕГО не додумывай и не галлюцинируй — только то, что реально есть в источнике;
-- только зарубежные источники (не РФ).
+- не старше 12 часов; обязательно с проверяемым `published_at`;
+- обязателен новостной повод и конкретика — материал должен раскрывать событие;
+- факты проверяемы; только зарубежные источники (не РФ).
 
 ВЕРНИ РЕЗУЛЬТАТ СТРОГО КАК ОДИН JSON-ОБЪЕКТ, без пояснений и без markdown-ограждений:
 {
   "date": "YYYY-MM-DD",            // дата дайджеста
   "items": [
     {
+      "section": "одно из: news | stats | analytics",
       "title": "цепляющий заголовок по-русски, до 7–9 слов",
-      "summary": "лид: суть материала по-русски, 1–2 предложения (кто/что/где/когда/почему)",
-      "why": "новостной повод — чем цепляет и почему интересно аудитории, 1 строка по-русски",
-      "category": "одно из: preview | analytics | transfers | statements | records | scandals | rumors | injury | russians | other",
-      "published_at": "время публикации в ISO 8601 со смещением зоны, напр. 2026-08-25T07:30:00+02:00",
+      "summary": "одна строка по-русски: о чём этот материал",
+      "bullets": ["короткий буллит с сутью", "ещё буллит", "ещё буллит"],
+      "category": "одно из: match | transfers | statements | records | scandals | rumors | injury | russians | other",
+      "published_at": "время публикации в ISO 8601 со смещением зоны",
       "source_domain": "домен источника, напр. marca.com",
-      "source_url": "полный URL публикации"
+      "source_url": "полный URL публикации",
+      "related": [{"domain": "домен другого издания про тот же сюжет", "url": "URL"}]
     }
   ],
   "next_steps": ["1–2 идеи, что из этого стоит развить в материал для портала, по-русски"]
@@ -170,16 +170,29 @@ def normalize_items(payload):
         cat = (it.get("category") or "other").strip().lower()
         if cat not in CATEGORIES:
             cat = "other"
+        section = (it.get("section") or "news").strip().lower()
+        if section not in SECTIONS:
+            section = "news"
+        bullets = [b.strip() for b in (it.get("bullets") or []) if isinstance(b, str) and b.strip()][:4]
+        related = []
+        for r in (it.get("related") or []):
+            if isinstance(r, dict) and (r.get("url") or "").strip():
+                related.append({
+                    "domain": (r.get("domain") or "").strip(),
+                    "url": (r.get("url") or "").strip(),
+                })
         items.append({
             "id": f"{date}-{slugify(title)}",
             "date": it.get("date", date),
+            "section": section,
             "title": title,
             "summary": (it.get("summary") or "").strip(),
-            "why": (it.get("why") or "").strip(),
+            "bullets": bullets,
             "category": cat,
             "published_at": (it.get("published_at") or "").strip(),
             "source_domain": (it.get("source_domain") or "").strip(),
             "source_url": url,
+            "related": related,
         })
     return date, items
 
@@ -257,20 +270,22 @@ def merge_web_data(new_items):
 
 def render_telegram(date, items, next_steps):
     lines = [f"🏟 Foreign Sports Digest — {date}", ""]
-    icon = {
-        "preview": "🔮", "analytics": "📊", "transfers": "🔁", "statements": "🗣",
-        "records": "🏅", "scandals": "⚡", "rumors": "👀", "injury": "🚑",
-        "russians": "🇷🇺", "other": "•",
-    }
-    for it in items:
-        lines.append(f"{icon.get(it['category'], '•')} {it['title']}")
-        if it["summary"]:
-            lines.append(it["summary"])
-        if it["why"]:
-            lines.append(f"→ Повод: {it['why']}")
-        if it["source_domain"]:
-            lines.append(f"Источник: {it['source_domain']} — {it['source_url']}")
+    section_hdr = {"news": "📰 НОВОСТИ", "stats": "📊 СТАТИСТИКА", "analytics": "🧠 АНАЛИТИКА"}
+    for section in SECTIONS:
+        group = [it for it in items if it.get("section") == section]
+        if not group:
+            continue
+        lines.append(section_hdr[section])
         lines.append("")
+        for it in group:
+            lines.append(it["title"])
+            if it["summary"]:
+                lines.append(it["summary"])
+            for b in it.get("bullets", []):
+                lines.append(f"• {b}")
+            if it["source_domain"]:
+                lines.append(f"Источник: {it['source_domain']} — {it['source_url']}")
+            lines.append("")
     if next_steps:
         lines.append("Next steps:")
         for ns in next_steps:

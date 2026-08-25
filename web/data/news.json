@@ -1,75 +1,141 @@
 {
-  "generated_at": "2026-08-25T09:30:00+03:00",
+  "generated_at": "2026-08-25T16:00:00+03:00",
   "items": [
     {
-      "id": "2026-08-24-transfer-deadline-1-sentyabrya",
-      "date": "2026-08-24",
+      "id": "2026-08-25-transfer-deadline",
+      "date": "2026-08-25",
+      "section": "news",
       "title": "Дедлайн трансферного окна — 1 сентября",
-      "summary": "Английские клубы закрывают летнее окно 1 сентября в 23:00 BST, Ла Лига — в 22:59, Серия А — в 19:00; Бундеслига и Лига 1 завершаются на сутки раньше.",
-      "why": "Финальная неделя окна — пик крупных сделок и слухов по всей Европе.",
+      "summary": "Когда закрывается летнее окно в топ-лигах Европы.",
+      "bullets": [
+        "Англия закрывает окно 1 сентября в 23:00 BST, Ла Лига — в 22:59.",
+        "Серия А — 1 сентября в 19:00; Бундеслига и Лига 1 — на сутки раньше.",
+        "Впереди финальная неделя сделок и слухов."
+      ],
       "category": "transfers",
+      "published_at": "2026-08-25T09:10:00+01:00",
       "source_domain": "espn.com",
-      "source_url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day"
+      "source_url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "related": [
+        {"domain": "nbcsports.com", "url": "https://www.nbcsports.com/soccer/news/premier-league-2026-summer-transfer-window-dates-deal-sheets-deadline-day"}
+      ]
     },
     {
-      "id": "2026-08-24-mu-baleba-city-bouaddi",
-      "date": "2026-08-24",
-      "title": "МЮ близок к Балеба, Сити берёт Буадди вместо Родри",
-      "summary": "Манчестер Юнайтед достиг полного соглашения с «Брайтоном» по Карлосу Балеба, а «Сити» вот-вот оформит Айюба Буадди из «Лилля» как замену Родри.",
-      "why": "Топ-клубы АПЛ закрывают ключевые позиции перед дедлайном.",
+      "id": "2026-08-25-mu-baleba-city-bouaddi",
+      "date": "2026-08-25",
+      "section": "news",
+      "title": "МЮ близок к Балеба, Сити берёт Буадди",
+      "summary": "Топ-клубы АПЛ закрывают ключевые позиции перед дедлайном.",
+      "bullets": [
+        "Манчестер Юнайтед достиг полного соглашения с «Брайтоном» по Карлосу Балеба.",
+        "«Сити» оформляет Айюба Буадди из «Лилля» как замену Родри."
+      ],
       "category": "transfers",
+      "published_at": "2026-08-25T11:40:00+01:00",
       "source_domain": "skysports.com",
-      "source_url": "https://www.skysports.com/football/news/11095/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs"
+      "source_url": "https://www.skysports.com/football/news/11095/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
+      "related": [
+        {"domain": "footballtransfers.com", "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/08/transfer-news-every-done-deal-official-confirmed-completed-signing-europe-today-24-august-2026"}
+      ]
     },
     {
-      "id": "2026-08-24-sluhi-enzo-alvarez-barcola",
-      "date": "2026-08-24",
+      "id": "2026-08-25-sluhi-enzo-alvarez-barcola",
+      "date": "2026-08-25",
+      "section": "news",
       "title": "Слухи: Энцо, Альварес и Баркола могут уйти",
-      "summary": "По данным трансферного центра Sky Sports, Энцо Фернандес, Хулиан Альварес и Брэдли Баркола могут сменить клуб до закрытия окна.",
-      "why": "Возможны громкие перестановки топ-игроков в последние дни трансферного окна.",
+      "summary": "Возможны громкие перестановки в последние дни окна.",
+      "bullets": [
+        "По данным трансферного центра Sky Sports, трио может сменить клуб до закрытия окна.",
+        "Речь об Энцо Фернандесе, Хулиане Альваресе и Брэдли Барколе."
+      ],
       "category": "rumors",
+      "published_at": "2026-08-25T08:20:00+01:00",
       "source_domain": "skysports.com",
-      "source_url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours"
+      "source_url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "related": []
     },
     {
-      "id": "2026-08-24-goal-ocenil-sdelki-okna",
-      "date": "2026-08-24",
-      "title": "GOAL оценил главные сделки летнего окна",
-      "summary": "Редакция Goal выставила оценки крупнейшим трансферам лета-2026; по версии издания, приход Родри способен вернуть «Барселону» на вершину европейского футбола.",
-      "why": "Экспертная оценка того, кто выиграл трансферное окно.",
-      "category": "analytics",
+      "id": "2026-08-25-zherebyovka-lch-27-avgusta",
+      "date": "2026-08-25",
+      "section": "news",
+      "title": "Жеребьёвка Лиги чемпионов — 27 августа",
+      "summary": "Определятся пути 36 участников общего этапа ЛЧ 2026/27.",
+      "bullets": [
+        "Жеребьёвка пройдёт 27 августа, 18:00 CET.",
+        "36 команд проведут по 8 матчей; топ-8 напрямую выходят в 1/8 финала.",
+        "Места 9–24 разыграют выход в плей-офф в двух матчах."
+      ],
+      "category": "match",
+      "published_at": "2026-08-25T07:00:00+02:00",
       "source_domain": "goal.com",
-      "source_url": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa"
+      "source_url": "https://www.goal.com/en/news/officially-date-set-for-the-champions-league-draw/blt0ee22a30725a999b",
+      "related": []
     },
     {
-      "id": "2026-08-24-zherebyovka-lch-27-avgusta",
-      "date": "2026-08-24",
-      "title": "Жеребьёвка Лиги чемпионов пройдёт 27 августа",
-      "summary": "Жеребьёвка общего этапа ЛЧ 2026/27 состоится 27 августа: 36 команд проведут по 8 матчей, топ-8 напрямую выходят в 1/8 финала, места 9–24 разыграют плей-офф.",
-      "why": "Определятся пути всех участников главного клубного турнира Европы.",
-      "category": "preview",
-      "source_domain": "goal.com",
-      "source_url": "https://www.goal.com/en/news/officially-date-set-for-the-champions-league-draw/blt0ee22a30725a999b"
-    },
-    {
-      "id": "2026-08-24-merson-prognoz-apl",
-      "date": "2026-08-24",
-      "title": "Пол Мерсон дал прогноз на сезон АПЛ",
-      "summary": "Эксперт Sky Sports Пол Мерсон назвал претендентов на чемпионство, состав топ-5 и кандидатов на вылет в сезоне-2026/27.",
-      "why": "Авторский расклад на сезон от известного эксперта — готовый повод для разбора.",
-      "category": "preview",
-      "source_domain": "skysports.com",
-      "source_url": "https://www.skysports.com/football/news/11661/13574632/paul-mersons-premier-league-season-preview-who-wins-title-and-finishes-in-top-five-and-who-are-relegation-contenders"
-    },
-    {
-      "id": "2026-08-24-tonali-protiv-newcastle",
-      "date": "2026-08-24",
+      "id": "2026-08-25-tonali-protiv-newcastle",
+      "date": "2026-08-25",
+      "section": "news",
       "title": "Тонали сыграет против бывшего «Ньюкасла»",
-      "summary": "Во 2-м туре АПЛ (29 августа) новичок «Тоттенхэма» Сандро Тонали, перешедший за £100 млн, встретится со своим прежним клубом «Ньюкасл».",
-      "why": "Личный сюжет и дорогой трансфер делают матч одним из центральных в туре.",
-      "category": "preview",
+      "summary": "Один из центральных сюжетов 2-го тура АПЛ.",
+      "bullets": [
+        "29 августа новичок «Тоттенхэма» Сандро Тонали встретится с бывшим клубом.",
+        "Переход обошёлся «шпорам» в £100 млн."
+      ],
+      "category": "match",
+      "published_at": "2026-08-25T10:05:00+01:00",
       "source_domain": "skysports.com",
-      "source_url": "https://www.skysports.com/premier-league"
+      "source_url": "https://www.skysports.com/premier-league",
+      "related": []
+    },
+    {
+      "id": "2026-08-25-itogi-startovyh-turov",
+      "date": "2026-08-25",
+      "section": "stats",
+      "title": "Итоги стартовых туров: Рома и Лацио в порядке",
+      "summary": "Фактические результаты первых матчей Серии А и Ла Лиги.",
+      "bullets": [
+        "Серия А: Рома — Фиорентина 4:0, Болонья — Лацио 0:1.",
+        "Ла Лига: Осасуна — Леванте 0:0, Малага — Депортиво 1:1.",
+        "Хозяева пока без разгромных осечек на старте."
+      ],
+      "category": "match",
+      "published_at": "2026-08-25T06:30:00+02:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/soccer/schedule/_/league/esp.1",
+      "related": []
+    },
+    {
+      "id": "2026-08-25-goal-ocenil-sdelki-okna",
+      "date": "2026-08-25",
+      "section": "analytics",
+      "title": "GOAL оценил главные сделки летнего окна",
+      "summary": "Авторская оценка того, кто выиграл трансферное окно.",
+      "bullets": [
+        "Редакция Goal выставила оценки крупнейшим трансферам лета-2026.",
+        "По версии издания, приход Родри способен вернуть «Барселону» на вершину Европы."
+      ],
+      "category": "transfers",
+      "published_at": "2026-08-25T09:45:00+01:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
+      "related": []
+    },
+    {
+      "id": "2026-08-25-merson-prognoz-apl",
+      "date": "2026-08-25",
+      "section": "analytics",
+      "title": "Пол Мерсон дал прогноз на сезон АПЛ",
+      "summary": "Авторский расклад на сезон-2026/27 от эксперта Sky Sports.",
+      "bullets": [
+        "Мерсон назвал претендентов на чемпионство и состав топ-5.",
+        "Отдельно — кандидаты на вылет по мнению эксперта.",
+        "Готовый повод для полемики и разбора на портале."
+      ],
+      "category": "match",
+      "published_at": "2026-08-25T08:50:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/11661/13574632/paul-mersons-premier-league-season-preview-who-wins-title-and-finishes-in-top-five-and-who-are-relegation-contenders",
+      "related": []
     }
   ]
 }
