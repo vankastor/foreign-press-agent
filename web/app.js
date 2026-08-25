@@ -1,11 +1,14 @@
 const CATEGORIES = {
   all: "Все",
-  regulation: "Регуляции",
-  ma: "M&A",
-  operators: "Операторы",
-  product: "Продукт",
-  analytics: "Аналитика",
-  sports: "Спорт",
+  preview: "Расклад",
+  analytics: "Разбор",
+  transfers: "Трансферы",
+  statements: "Заявления",
+  records: "Рекорды",
+  scandals: "Скандалы",
+  rumors: "Слухи",
+  injury: "Травмы/риск",
+  russians: "Наши за рубежом",
   other: "Прочее",
 };
 
@@ -80,7 +83,7 @@ function cardHTML(item, idx) {
   const cat = catKey(item.category);
   const label = CATEGORIES[cat];
   const why = item.why
-    ? `<div class="card__why"><b>Почему важно:</b> ${escapeHTML(item.why)}</div>`
+    ? `<div class="card__why"><b>Повод:</b> ${escapeHTML(item.why)}</div>`
     : "";
   return `
     <a class="card" href="${encodeURI(item.source_url)}" target="_blank" rel="noopener"

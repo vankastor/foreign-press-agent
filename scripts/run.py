@@ -90,32 +90,47 @@ def chunk_text(text, size):
         yield buf
 
 
-CATEGORIES = ["regulation", "ma", "operators", "product", "analytics", "sports", "other"]
+CATEGORIES = ["preview", "analytics", "transfers", "statements", "records", "scandals", "rumors", "injury", "russians", "other"]
 
-PROMPT = """Ты — аналитик, ведущий мониторинг зарубежной (не русскоязычной) прессы для Head of Product Analytics беттинг-компании «Лига Ставок».
+PROMPT = """Ты — редактор-аналитик, ведущий мониторинг зарубежной (не русскоязычной) спортивной прессы для контент-портала «Лига Ставок».
 
-Задача: с помощью WebSearch найди 5–8 самых значимых новостей за последние ~24–48 часов из международной прессы по темам:
-- iGaming / sports betting индустрия (регуляции, M&A, крупные операторы, технологии, продукты);
-- значимые спортивные события, влияющие на беттинг;
-- продуктовая аналитика, growth, retention практики в gambling/betting;
-- всё, что может быть полезно для стратегии продукта беттинг-компании.
+Задача: с помощью WebSearch/WebFetch найди 5–8 самых значимых и свежих спортивных материалов за последние ~24–48 часов из международной спортивной прессы.
 
-Только зарубежные источники (EN и др.), не РФ.
+Приоритетные источники (ищи прежде всего в них):
+Marca (marca.com), AS (as.com), Mundo Deportivo (mundodeportivo.com), Sport.es (sport.es), ESPN (espn.com), L'Equipe (lequipe.fr), Get French Football News (getfootballnewsfrance.com), La Gazzetta dello Sport (gazzetta.it), Corriere dello Sport (corrieredellosport.it), Tuttosport (tuttosport.com), Calciomercato (calciomercato.com), Kicker (kicker.de), Sky Sports (skysports.com), Daily Mail Sport (dailymail.co.uk/sport), TalkSPORT (talksport.com), Goal (goal.com), The Athletic (nytimes.com/athletic), O Globo (oglobo.globo.com/esportes), Record (record.pt), NU Sport (nu.nl/sport), AD Sport (ad.nl/sport), Reuters Sports (reuters.com/sports), Sportskeeda (sportskeeda.com), Fanatik (fanatik.com.tr).
+
+Темы, которые нас интересуют:
+- расклад/аналитика перед матчем или турниром, авторская позиция по итогам;
+- заявления и цитаты спортсменов, тренеров, функционеров;
+- трансферы и деньги;
+- российские игроки и тренеры в зарубежных чемпионатах;
+- рекорды и достижения;
+- скандалы: дисквалификации, громкие процессы;
+- слухи;
+- травмы, дисквалификации, риски.
+
+Приоритет — авторские разборы, аналитика и статистические исследования (углублённая экспертиза персоны/матча/турнира/явления), а также яркие новости с чётким новостным поводом.
+
+Требования к отбору (иначе материал не берём):
+- обязателен новостной повод и конкретика — материал должен раскрывать событие, а не «наполнять портал»;
+- только свежее и актуальное, не архив;
+- факты проверяемы; НИЧЕГО не додумывай и не галлюцинируй — только то, что реально есть в источнике;
+- только зарубежные источники (не РФ).
 
 ВЕРНИ РЕЗУЛЬТАТ СТРОГО КАК ОДИН JSON-ОБЪЕКТ, без пояснений и без markdown-ограждений:
 {
   "date": "YYYY-MM-DD",            // дата дайджеста
   "items": [
     {
-      "title": "краткий заголовок по-русски",
-      "summary": "1–2 предложения сути по-русски",
-      "why": "почему это важно для продуктовой аналитики ЛС, 1 строка по-русски",
-      "category": "одно из: regulation | ma | operators | product | analytics | sports | other",
-      "source_domain": "домен источника, напр. igamingbusiness.com",
+      "title": "цепляющий заголовок по-русски, до 7–9 слов",
+      "summary": "лид: суть материала по-русски, 1–2 предложения (кто/что/где/когда/почему)",
+      "why": "новостной повод — чем цепляет и почему интересно аудитории, 1 строка по-русски",
+      "category": "одно из: preview | analytics | transfers | statements | records | scandals | rumors | injury | russians | other",
+      "source_domain": "домен источника, напр. marca.com",
       "source_url": "полный URL публикации"
     }
   ],
-  "next_steps": ["1–2 коротких next steps для продуктовой команды, по-русски"]
+  "next_steps": ["1–2 идеи, что из этого стоит развить в материал для портала, по-русски"]
 }
 Только JSON. Ничего кроме JSON."""
 
@@ -202,17 +217,18 @@ def merge_web_data(new_items):
 
 
 def render_telegram(date, items, next_steps):
-    lines = [f"🗞 Foreign Press Digest — {date}", ""]
+    lines = [f"🏟 Foreign Sports Digest — {date}", ""]
     icon = {
-        "regulation": "⚖️", "ma": "🤝", "operators": "🏢",
-        "product": "🧩", "analytics": "📊", "sports": "🏆", "other": "•",
+        "preview": "🔮", "analytics": "📊", "transfers": "🔁", "statements": "🗣",
+        "records": "🏅", "scandals": "⚡", "rumors": "👀", "injury": "🚑",
+        "russians": "🇷🇺", "other": "•",
     }
     for it in items:
         lines.append(f"{icon.get(it['category'], '•')} {it['title']}")
         if it["summary"]:
             lines.append(it["summary"])
         if it["why"]:
-            lines.append(f"→ Почему важно: {it['why']}")
+            lines.append(f"→ Повод: {it['why']}")
         if it["source_domain"]:
             lines.append(f"Источник: {it['source_domain']} — {it['source_url']}")
         lines.append("")
@@ -285,7 +301,7 @@ def main():
     payload = extract_json(out)
     if not payload or not payload.get("items"):
         # Fallback: preserve original behavior — post whatever Claude returned.
-        header = f"🗞 Foreign Press Digest — {now}\n\n"
+        header = f"🏟 Foreign Sports Digest — {now}\n\n"
         tg_send(bot_token, chat_id, thread_id, header + out)
         print(f"[{now}] posted raw digest ({len(out)} chars); JSON parse failed",
               file=sys.stderr)
