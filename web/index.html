@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Foreign Press — дайджест зарубежной прессы</title>
+  <meta name="description" content="Ежедневный дайджест международной прессы по iGaming и sports betting для продуктовой аналитики." />
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>" />
+</head>
+<body>
+  <div class="aurora" aria-hidden="true"></div>
+
+  <header class="nav" id="nav">
+    <div class="nav__inner">
+      <div class="nav__brand">
+        <span class="nav__logo">◒</span>
+        <span class="nav__title">Foreign&nbsp;Press</span>
+      </div>
+      <div class="nav__meta" id="navMeta"></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="hero__eyebrow">Ежедневный мониторинг · не РФ</p>
+      <h1 class="hero__title">Зарубежная пресса<br />по <em>iGaming</em> и ставкам.</h1>
+      <p class="hero__lead">
+        Самое значимое из международных источников — регуляции, сделки,
+        продукт и аналитика. Собирается автоматически каждый день.
+      </p>
+      <div class="hero__stats" id="heroStats"></div>
+    </section>
+
+    <nav class="filters" id="filters" aria-label="Фильтр по темам"></nav>
+
+    <section class="feed" id="feed" aria-live="polite"></section>
+
+    <div class="empty" id="empty" hidden>
+      <p>Ничего не найдено по этому фильтру.</p>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>Foreign Press Agent · внутренний дайджест продуктовой аналитики</p>
+    <p class="footer__dim">Источники — зарубежная пресса. Обновляется ежедневно в 08:00.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
