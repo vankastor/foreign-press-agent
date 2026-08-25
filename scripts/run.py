@@ -17,7 +17,7 @@ import subprocess
 import sys
 import time
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 HOME = Path.home()
@@ -94,7 +94,9 @@ CATEGORIES = ["preview", "analytics", "transfers", "statements", "records", "sca
 
 PROMPT = """Ты — редактор-аналитик, ведущий мониторинг зарубежной (не русскоязычной) спортивной прессы для контент-портала «Лига Ставок».
 
-Задача: с помощью WebSearch/WebFetch найди 5–8 самых значимых и свежих спортивных материалов за последние ~24–48 часов из международной спортивной прессы.
+Задача: с помощью WebSearch/WebFetch найди 5–8 самых значимых и свежих спортивных материалов, опубликованных за последние 12 часов, из международной спортивной прессы.
+
+⚠️ Строго по свежести: бери только материалы не старше 12 часов на момент запуска. Для каждого материала обязательно укажи точное время публикации (`published_at`) в формате ISO 8601 со смещением зоны, напр. 2026-08-25T07:30:00+02:00. Если у публикации не удаётся определить дату и время выпуска — НЕ включай её.
 
 Приоритетные источники (ищи прежде всего в них):
 Marca (marca.com), AS (as.com), Mundo Deportivo (mundodeportivo.com), Sport.es (sport.es), ESPN (espn.com), L'Equipe (lequipe.fr), Get French Football News (getfootballnewsfrance.com), La Gazzetta dello Sport (gazzetta.it), Corriere dello Sport (corrieredellosport.it), Tuttosport (tuttosport.com), Calciomercato (calciomercato.com), Kicker (kicker.de), Sky Sports (skysports.com), Daily Mail Sport (dailymail.co.uk/sport), TalkSPORT (talksport.com), Goal (goal.com), The Athletic (nytimes.com/athletic), O Globo (oglobo.globo.com/esportes), Record (record.pt), NU Sport (nu.nl/sport), AD Sport (ad.nl/sport), Reuters Sports (reuters.com/sports), Sportskeeda (sportskeeda.com), Fanatik (fanatik.com.tr).
@@ -112,6 +114,7 @@ Marca (marca.com), AS (as.com), Mundo Deportivo (mundodeportivo.com), Sport.es (
 Приоритет — авторские разборы, аналитика и статистические исследования (углублённая экспертиза персоны/матча/турнира/явления), а также яркие новости с чётким новостным поводом.
 
 Требования к отбору (иначе материал не берём):
+- не старше 12 часов; обязательно с проверяемым временем публикации (`published_at`);
 - обязателен новостной повод и конкретика — материал должен раскрывать событие, а не «наполнять портал»;
 - только свежее и актуальное, не архив;
 - факты проверяемы; НИЧЕГО не додумывай и не галлюцинируй — только то, что реально есть в источнике;
@@ -126,6 +129,7 @@ Marca (marca.com), AS (as.com), Mundo Deportivo (mundodeportivo.com), Sport.es (
       "summary": "лид: суть материала по-русски, 1–2 предложения (кто/что/где/когда/почему)",
       "why": "новостной повод — чем цепляет и почему интересно аудитории, 1 строка по-русски",
       "category": "одно из: preview | analytics | transfers | statements | records | scandals | rumors | injury | russians | other",
+      "published_at": "время публикации в ISO 8601 со смещением зоны, напр. 2026-08-25T07:30:00+02:00",
       "source_domain": "домен источника, напр. marca.com",
       "source_url": "полный URL публикации"
     }
@@ -173,10 +177,45 @@ def normalize_items(payload):
             "summary": (it.get("summary") or "").strip(),
             "why": (it.get("why") or "").strip(),
             "category": cat,
+            "published_at": (it.get("published_at") or "").strip(),
             "source_domain": (it.get("source_domain") or "").strip(),
             "source_url": url,
         })
     return date, items
+
+
+MAX_AGE_HOURS = 12
+
+
+def parse_dt(s):
+    """Parse an ISO 8601 datetime (with time component). Returns aware datetime or None."""
+    if not s:
+        return None
+    s = s.strip()
+    if s.endswith("Z"):
+        s = s[:-1] + "+00:00"
+    try:
+        dt = datetime.fromisoformat(s)
+    except ValueError:
+        return None
+    if dt.tzinfo is None:  # no offset given — assume UTC
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt
+
+
+def filter_fresh(items, max_age_hours=MAX_AGE_HOURS):
+    """Keep only items with a verifiable publish time within the last max_age_hours."""
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=max_age_hours)
+    future_skew = now + timedelta(hours=2)  # tolerate small clock/timezone skew
+    fresh, dropped = [], 0
+    for it in items:
+        dt = parse_dt(it.get("published_at"))
+        if dt is not None and cutoff <= dt <= future_skew:
+            fresh.append(it)
+        else:
+            dropped += 1
+    return fresh, dropped
 
 
 MAX_ARCHIVE = 2000
@@ -308,6 +347,16 @@ def main():
         return
 
     date, items = normalize_items(payload)
+    items, dropped = filter_fresh(items)
+    if not items:
+        tg_send(bot_token, chat_id, thread_id,
+                f"🏟 Foreign Sports Digest — {date}\n\n"
+                f"За последние {MAX_AGE_HOURS} ч свежих материалов не нашлось "
+                f"(отброшено устаревших/без даты: {dropped}).")
+        print(f"[{now}] no fresh items (<{MAX_AGE_HOURS}h); dropped {dropped}",
+              file=sys.stderr)
+        return
+
     added = merge_web_data(items)
     ok, err = git_publish(added)
     if not ok:
@@ -315,8 +364,9 @@ def main():
 
     tg_send(bot_token, chat_id, thread_id,
             render_telegram(date, items, payload.get("next_steps", [])))
-    print(f"[{now}] posted {len(items)} items to thread {thread_id}; "
-          f"web +{added} (push={'ok' if ok else 'fail'})", flush=True)
+    print(f"[{now}] posted {len(items)} items to thread {thread_id} "
+          f"(dropped {dropped} stale); web +{added} (push={'ok' if ok else 'fail'})",
+          flush=True)
 
 
 if __name__ == "__main__":
