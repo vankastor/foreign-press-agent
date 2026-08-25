@@ -139,11 +139,17 @@ function cardHTML(item, idx) {
         .map((r) => `<a href="${encodeURI(r.url)}" target="_blank" rel="noopener">${escapeHTML(r.domain || "источник")}</a>`)
         .join(" · ")}</span>`
     : "";
+  const ruBadge = item.ru_covered
+    ? `<span class="ru-badge" title="Сюжет уже освещён российскими спортивными СМИ${
+        item.ru_source ? " · " + escapeHTML(item.ru_source) : ""
+      }"><span class="ru-badge__flag">🇷🇺</span>Уже в РФ</span>`
+    : "";
   return `
     <article class="row" style="animation-delay:${Math.min(idx * 40, 320)}ms">
       <div class="row__meta">
         <span class="tag tag--${cat}">${label}</span>
         <time class="row__time">${when}</time>
+        ${ruBadge}
       </div>
       <div class="row__body">
         <a class="row__title" href="${encodeURI(item.source_url)}" target="_blank" rel="noopener">${escapeHTML(item.title)}</a>

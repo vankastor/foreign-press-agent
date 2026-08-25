@@ -113,6 +113,8 @@ Marca (marca.com), AS (as.com), Mundo Deportivo (mundodeportivo.com), Sport.es (
 
 Для КАЖДОГО материала прочитай публикацию и выдай `bullets` — 2–4 коротких буллит-поинта по-русски с сутью: о чём материал, главные факты/выводы. Задача буллитов — чтобы читатель по ним понял, о чём статья, и решил, идти ли читать оригинал. НИЧЕГО не додумывай и не галлюцинируй — только то, что реально есть в источнике.
 
+Проверка «уже в РФ»: для каждого сюжета через WebSearch быстро проверь, освещён ли он уже российскими спортивными СМИ (sports.ru, championat.com, sport-express.ru, matchtv.ru, sovsport.ru, rsport.ria.ru, bobsoccer.ru, football.ua-нет — только РФ). Если тот же инфоповод уже есть на российском сервисе — проставь `ru_covered: true` и `ru_source` (домен российского СМИ, напр. sports.ru). Если не нашёл российской публикации — `ru_covered: false` и `ru_source: ""`. Не выдумывай — ставь true только если реально видел совпадающий по сюжету материал.
+
 Требования к отбору (иначе материал не берём):
 - не старше 12 часов; обязательно с проверяемым `published_at`;
 - обязателен новостной повод и конкретика — материал должен раскрывать событие;
@@ -131,6 +133,8 @@ Marca (marca.com), AS (as.com), Mundo Deportivo (mundodeportivo.com), Sport.es (
       "published_at": "время публикации в ISO 8601 со смещением зоны",
       "source_domain": "домен источника, напр. marca.com",
       "source_url": "полный URL публикации",
+      "ru_covered": false,             // true, если сюжет уже есть на российских спорт-СМИ
+      "ru_source": "",                 // домен российского СМИ, если ru_covered=true
       "related": [{"domain": "домен другого издания про тот же сюжет", "url": "URL"}]
     }
   ],
@@ -192,6 +196,8 @@ def normalize_items(payload):
             "published_at": (it.get("published_at") or "").strip(),
             "source_domain": (it.get("source_domain") or "").strip(),
             "source_url": url,
+            "ru_covered": bool(it.get("ru_covered")),
+            "ru_source": (it.get("ru_source") or "").strip(),
             "related": related,
         })
     return date, items
@@ -283,6 +289,9 @@ def render_telegram(date, items, next_steps):
                 lines.append(it["summary"])
             for b in it.get("bullets", []):
                 lines.append(f"• {b}")
+            if it.get("ru_covered"):
+                ru = it.get("ru_source")
+                lines.append(f"🇷🇺 Уже в РФ{f' ({ru})' if ru else ''}")
             if it["source_domain"]:
                 lines.append(f"Источник: {it['source_domain']} — {it['source_url']}")
             lines.append("")

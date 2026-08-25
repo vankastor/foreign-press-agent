@@ -22,7 +22,9 @@
           "domain": "espn.com",
           "url": "https://www.espn.com/soccer/story/_/id/49719909/tottenham-savio-premier-league-transfers-man-city"
         }
-      ]
+      ],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     },
     {
       "id": "2026-08-25-астон-вилла-вышла-на-матета-и-леау",
@@ -45,7 +47,9 @@
           "domain": "calciomercato.com",
           "url": "https://www.calciomercato.com/liste/ecco-perche-l-aston-villa-e-la-soluzione-per-il-milan-al-caso-rafael-leao-un-estate-di-cessioni-per-il-fair-play-finanziario-l-addio-di-rogers-e-forse-quello-di-watkins-e-il-fattore-emery/blt55dda7596e322ec8"
         }
-      ]
+      ],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     },
     {
       "id": "2026-08-25-альварес-барселона-арсенал-или-атлетико",
@@ -68,7 +72,9 @@
           "domain": "eldesmarque.com",
           "url": "https://www.eldesmarque.com/futbol/mercado-de-fichajes/20260825/interes-river-plate-venta-atletico-madrid-julian-alvarez_18_020015325.html"
         }
-      ]
+      ],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     },
     {
       "id": "2026-08-25-манчестер-сити-интересуется-гакпо-из-ливерпуля",
@@ -86,7 +92,9 @@
       "published_at": "2026-08-25T04:30:00-04:00",
       "source_domain": "espn.com",
       "source_url": "https://www.espn.com/soccer/story/_/id/49719832/manchester-city-monitoring-liverpool-cody-gakpo-transfer-deadline-sources",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     },
     {
       "id": "2026-08-25-барколя-ливерпуль-лидирует-арсенал-выходит-из-гонки",
@@ -109,7 +117,9 @@
           "domain": "getfootballnewsfrance.com",
           "url": "https://www.getfootballnewsfrance.com/2026/arsenal-unlikely-to-enter-the-race-for-bradley-barcola-before-the-end-of-the-transfer-window/"
         }
-      ]
+      ],
+      "ru_covered": true,
+      "ru_source": "championat.com"
     },
     {
       "id": "2026-08-25-моуринью-вокруг-винисиуса-сложилась-спираль",
@@ -132,7 +142,9 @@
           "domain": "goal.com",
           "url": "https://www.goal.com/en-gb/lists/jose-mourinho-referees-vinicius-junior/blt4f858cb2f28b67c9"
         }
-      ]
+      ],
+      "ru_covered": true,
+      "ru_source": "championat.com"
     },
     {
       "id": "2026-08-25-у-йылдыза-перелом-стопы-минимум-три-месяца",
@@ -150,7 +162,9 @@
       "published_at": "2026-08-25T07:44:00+02:00",
       "source_domain": "tuttosport.com",
       "source_url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/08/25-150781861/infortunio_yildiz_si_cura_cos_vi_spiego_i_tempi_di_recupero_e_perch_non_aveva_dolore",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "championat.com"
     },
     {
       "id": "2026-08-25-де-йонг-вернулся-на-поле-и-получил-рецидив",
@@ -168,7 +182,9 @@
       "published_at": "2026-08-25T14:26:00+02:00",
       "source_domain": "voetbalprimeur.nl",
       "source_url": "https://www.voetbalprimeur.nl/nieuws/2127279/tegenvaller-voor-de-jong-rentree-op-trainingsveld-barca-resulteert-in-terugslag.html",
-      "related": []
+      "related": [],
+      "ru_covered": false,
+      "ru_source": ""
     },
     {
       "id": "2026-08-25-лацио-закрыл-сделку-по-пинамонти",
@@ -186,7 +202,9 @@
       "published_at": "2026-08-25T14:15:00+02:00",
       "source_domain": "calciomercato.com",
       "source_url": "https://www.calciomercato.com/liste/la-lazio-chiude-per-andrea-pinamonti-dal-sassuolo-tutte-le-cifre-e-la-formula-dell-operazione-e-il-terzo-acquisto-per-gattuso/blt21876a6841a49143",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     },
     {
       "id": "2026-08-25-совладелец-лидса-и-рейнджерс-арестован-в-огайо",
@@ -204,7 +222,9 @@
       "published_at": "2026-08-25T08:44:00+01:00",
       "source_domain": "skysports.com",
       "source_url": "https://www.skysports.com/football/news/11095/13576878/leeds-and-rangers-co-owner-jed-york-arrested-in-ohio-and-pleads-no-contest-to-misdemeanour-charges-of-disorderly-conduct-and-possessing-criminal-tools",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "sport-express.ru"
     },
     {
       "id": "2026-08-25-бордокамера-поймала-разговор-лаутаро-с-арбитром",
@@ -222,7 +242,9 @@
       "published_at": "2026-08-25T14:43:00+02:00",
       "source_domain": "tuttosport.com",
       "source_url": "https://www.tuttosport.com/news/calcio/serie-a/inter/2026/08/25-150788047/lautaro_dirige_marinelli_inter-monza_da_bordocam_surreale_ti_devi_calmareallarbitro_",
-      "related": []
+      "related": [],
+      "ru_covered": false,
+      "ru_source": ""
     },
     {
       "id": "2026-08-25-фонсека-перед-фенербахче-они-едут-побеждать",
@@ -240,7 +262,9 @@
       "published_at": "2026-08-25T14:37:00+03:00",
       "source_domain": "fanatik.com.tr",
       "source_url": "https://www.fanatik.com.tr/fenerbahce/paulo-fonseca-fenerbahce-taraftari-agresif-ve-saldirgan-degil-kerem-ve-asensio-sorusuna-yanit-2635514",
-      "related": []
+      "related": [],
+      "ru_covered": false,
+      "ru_source": ""
     },
     {
       "id": "2026-08-25-богард-уровень-аякса-упал-это-видно",
@@ -257,7 +281,9 @@
       "published_at": "2026-08-25T14:45:00+02:00",
       "source_domain": "voetbalprimeur.nl",
       "source_url": "https://www.voetbalprimeur.nl/nieuws/2127294/bogarde-heb-totaal-geen-contact-met-ajax-de-norm-is-naar-beneden-en-dat-zie-je.html",
-      "related": []
+      "related": [],
+      "ru_covered": false,
+      "ru_source": ""
     },
     {
       "id": "2026-08-25-чистое-время-в-серии-а-выросло-почти-на-пять-минут",
@@ -275,7 +301,9 @@
       "published_at": "2026-08-25T14:38:00+02:00",
       "source_domain": "corrieredellosport.it",
       "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/08/25-150788361/tempo_effettivo_serie_a_perch_le_nuove_regole_aiutano_i_retroscena_sugli_allenatori_e_i_giocatori",
-      "related": []
+      "related": [],
+      "ru_covered": false,
+      "ru_source": ""
     },
     {
       "id": "2026-08-25-все-20-клубов-апл-сыграли-разбор-первого-тура",
@@ -293,7 +321,9 @@
       "published_at": "2026-08-25T07:14:00-04:00",
       "source_domain": "espn.com",
       "source_url": "https://www.espn.com/soccer/story/_/id/49716245/premier-league-overreactions-takeaways-now-all-20-teams-played-their-first-games",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "championat.com"
     },
     {
       "id": "2026-08-25-дебют-сангаре-7-подборов-и-ассист-на-12-й-минуте",
@@ -311,7 +341,9 @@
       "published_at": "2026-08-25T03:55:00-04:00",
       "source_domain": "espn.com",
       "source_url": "https://www.espn.com/espn/story/_/id/49719175/has-brentford-mamadou-sangare-won-signing-season-already",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     },
     {
       "id": "2026-08-25-фулхэм-челси-2-3-цифры-дебюта-алонсо",
@@ -334,7 +366,9 @@
           "domain": "skysports.com",
           "url": "https://www.skysports.com/football/fulham-vs-chelsea/stats/559453"
         }
-      ]
+      ],
+      "ru_covered": true,
+      "ru_source": "championat.com"
     },
     {
       "id": "2026-08-25-пасиенсия-переписал-рекорды-санта-клары",
@@ -352,7 +386,9 @@
       "published_at": "2026-08-25T02:19:00+01:00",
       "source_domain": "record.pt",
       "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/santa-clara/detalhe/goncalo-paciencia-bate-recordes-no-santa-clara",
-      "related": []
+      "related": [],
+      "ru_covered": false,
+      "ru_source": ""
     },
     {
       "id": "2026-08-25-символическая-сборная-3-го-тура-чемпионата-португалии",
@@ -370,7 +406,9 @@
       "published_at": "2026-08-25T09:32:00+01:00",
       "source_domain": "abola.pt",
       "source_url": "https://www.abola.pt/noticias/o-melhor-onze-da-terceira-jornada-da-liga-fotos-2026082509321854819",
-      "related": []
+      "related": [],
+      "ru_covered": false,
+      "ru_source": ""
     },
     {
       "id": "2026-08-25-проблемы-эмери-множатся-разбор-разгрома-0-4",
@@ -388,7 +426,9 @@
       "published_at": "2026-08-25T08:00:00+01:00",
       "source_domain": "skysports.com",
       "source_url": "https://www.skysports.com/football/news/11096/13576531/aston-villa-unai-emerys-problems-mounting-ahead-of-arsenal-test-after-threadbare-squad-falls-apart-against-brighton",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "championat.com"
     },
     {
       "id": "2026-08-25-беккантини-в-италии-не-осталось-своих-вратарей",
@@ -406,7 +446,9 @@
       "published_at": "2026-08-25T09:47:00+02:00",
       "source_domain": "corrieredellosport.it",
       "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/2026/08/25-150784617/niente_italia_neanche_tra_i_pali",
-      "related": []
+      "related": [],
+      "ru_covered": false,
+      "ru_source": ""
     },
     {
       "id": "2026-08-25-почему-астон-вилла-идеальный-выход-по-леау",
@@ -424,7 +466,9 @@
       "published_at": "2026-08-25T09:57:00+02:00",
       "source_domain": "calciomercato.com",
       "source_url": "https://www.calciomercato.com/liste/ecco-perche-l-aston-villa-e-la-soluzione-per-il-milan-al-caso-rafael-leao-un-estate-di-cessioni-per-il-fair-play-finanziario-l-addio-di-rogers-e-forse-quello-di-watkins-e-il-fattore-emery/blt55dda7596e322ec8",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     },
     {
       "id": "2026-08-25-английское-нашествие-в-интере-стоунз-спенс-джонс",
@@ -442,7 +486,9 @@
       "published_at": "2026-08-25T10:03:00+02:00",
       "source_domain": "calciomercato.com",
       "source_url": "https://www.calciomercato.com/originali/prima-john-stones-poi-djed-spence-e-ora-curtis-jones-l-invasione-inglese-all-inter-dimostra-che-l-italia-resta-una-meta-attraente-per-i-giocatori-della-premier-league/blt73d57afd9880a7ab",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "championat.com"
     },
     {
       "id": "2026-08-25-палинья-и-цена-качества-колонка-в-защиту-трансфера",
@@ -460,7 +506,9 @@
       "published_at": "2026-08-25T07:59:00+01:00",
       "source_domain": "ojogo.pt",
       "source_url": "https://www.ojogo.pt/opiniao/artigo/palhinha-e-o-preco-da-qualidade/18119631",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "sport-express.ru"
     },
     {
       "id": "2026-08-25-новой-эре-спортинга-нужны-время-и-терпение",
@@ -478,7 +526,9 @@
       "published_at": "2026-08-25T13:20:00+01:00",
       "source_domain": "record.pt",
       "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/nova-era-do-leao-requer-tempo-e-paciencia-foco-esta-em-crescer-com-seguranca-e-adn-vencedor",
-      "related": []
+      "related": [],
+      "ru_covered": false,
+      "ru_source": ""
     },
     {
       "id": "2026-08-25-transfer-deadline",
@@ -500,7 +550,9 @@
           "domain": "nbcsports.com",
           "url": "https://www.nbcsports.com/soccer/news/premier-league-2026-summer-transfer-window-dates-deal-sheets-deadline-day"
         }
-      ]
+      ],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     },
     {
       "id": "2026-08-25-mu-baleba-city-bouaddi",
@@ -521,7 +573,9 @@
           "domain": "footballtransfers.com",
           "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/08/transfer-news-every-done-deal-official-confirmed-completed-signing-europe-today-24-august-2026"
         }
-      ]
+      ],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     },
     {
       "id": "2026-08-25-sluhi-enzo-alvarez-barcola",
@@ -537,7 +591,9 @@
       "published_at": "2026-08-25T08:20:00+01:00",
       "source_domain": "skysports.com",
       "source_url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     },
     {
       "id": "2026-08-25-zherebyovka-lch-27-avgusta",
@@ -554,7 +610,9 @@
       "published_at": "2026-08-25T07:00:00+02:00",
       "source_domain": "goal.com",
       "source_url": "https://www.goal.com/en/news/officially-date-set-for-the-champions-league-draw/blt0ee22a30725a999b",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     },
     {
       "id": "2026-08-25-tonali-protiv-newcastle",
@@ -570,7 +628,9 @@
       "published_at": "2026-08-25T10:05:00+01:00",
       "source_domain": "skysports.com",
       "source_url": "https://www.skysports.com/premier-league",
-      "related": []
+      "related": [],
+      "ru_covered": false,
+      "ru_source": ""
     },
     {
       "id": "2026-08-25-itogi-startovyh-turov",
@@ -587,7 +647,9 @@
       "published_at": "2026-08-25T06:30:00+02:00",
       "source_domain": "espn.com",
       "source_url": "https://www.espn.com/soccer/schedule/_/league/esp.1",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "championat.com"
     },
     {
       "id": "2026-08-25-goal-ocenil-sdelki-okna",
@@ -603,7 +665,9 @@
       "published_at": "2026-08-25T09:45:00+01:00",
       "source_domain": "goal.com",
       "source_url": "https://www.goal.com/en/lists/summer-transfer-window-2026-biggest-deals-graded/bltba6505bafe3b2faa",
-      "related": []
+      "related": [],
+      "ru_covered": false,
+      "ru_source": ""
     },
     {
       "id": "2026-08-25-merson-prognoz-apl",
@@ -620,7 +684,9 @@
       "published_at": "2026-08-25T08:50:00+01:00",
       "source_domain": "skysports.com",
       "source_url": "https://www.skysports.com/football/news/11661/13574632/paul-mersons-premier-league-season-preview-who-wins-title-and-finishes-in-top-five-and-who-are-relegation-contenders",
-      "related": []
+      "related": [],
+      "ru_covered": true,
+      "ru_source": "sports.ru"
     }
   ]
 }
