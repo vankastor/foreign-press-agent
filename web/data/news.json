@@ -1,6 +1,505 @@
 {
-  "generated_at": "2026-08-25T14:13:34.945348+01:00",
+  "generated_at": "2026-08-26T08:19:39.439993+01:00",
   "items": [
+    {
+      "id": "2026-08-26-о-нил-взял-вину-за-крах-селтика",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "О'Нил взял вину за крах «Селтика»",
+      "summary": "Главный тренер «Селтика» признал ответственность за вылет от ЛАСКа в квалификации Лиги чемпионов.",
+      "bullets": [
+        "«Селтик» вёл по сумме двух матчей, но проиграл ЛАСКу 1:5 в дополнительное время и вылетел 4:5",
+        "О'Нил заявил, что ответственность за поражение лежит на нём и что команда «развалилась» после пропущенного гола",
+        "Клуб теряет более £20 млн доходов от группового этапа и отправляется в Лигу Европы"
+      ],
+      "category": "statements",
+      "published_at": "2026-08-26T07:58:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/11788/13435621/celtic-boss-takes-blame-for-champions-league-collapse-against-lask",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": [
+        {
+          "domain": "the42.ie",
+          "url": "https://www.the42.ie/celtic-lask-champions-league-exit-reaction/"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-26-нкунку-возвращается-в-лейпциг-в-аренду",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "Нкунку возвращается в «Лейпциг» в аренду",
+      "summary": "«Милан» отпускает Кристофера Нкунку обратно в «Лейпциг» на правах аренды.",
+      "bullets": [
+        "Нкунку проведёт сезон в «Лейпциге», где ранее был лучшим бомбардиром Бундеслиги",
+        "«Милан» не смог найти ему стабильное место в основе после перехода из «Челси»",
+        "В соглашении предусмотрен опцион на полноценный выкуп"
+      ],
+      "category": "transfers",
+      "published_at": "2026-08-25T21:42:01+02:00",
+      "source_domain": "mundodeportivo.com",
+      "source_url": "https://www.mundodeportivo.com/futbol/internacional/20260825/nkunku-milan-leipzig-cesion.html",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-йылдызу-нужна-операция-три-месяца-вне-игры",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "Йылдызу нужна операция — три месяца вне игры",
+      "summary": "Кенан Йылдыз выбыл примерно на три месяца и требует хирургического вмешательства.",
+      "bullets": [
+        "Обследование подтвердило повреждение, которое лечится только операцией",
+        "Ориентировочный срок восстановления — около трёх месяцев, возвращение ближе к концу осени",
+        "«Ювентус» теряет одного из ключевых игроков атаки в начале сезона"
+      ],
+      "category": "injury",
+      "published_at": "2026-08-26T08:37:00+02:00",
+      "source_domain": "calciomercato.com",
+      "source_url": "https://www.calciomercato.com/news/juventus-yildiz-infortunio-operazione-tempi-di-recupero",
+      "ru_covered": true,
+      "ru_source": "matchtv.ru",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-милан-держит-цену-на-леау-астон-вилла-давит",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "«Милан» держит цену на Леау, «Астон Вилла» давит",
+      "summary": "«Милан» требует 50–60 млн евро за Рафаэла Леау, «Астон Вилла» усиливает натиск.",
+      "bullets": [
+        "Английский клуб настойчиво интересуется португальцем в последние дни окна",
+        "«Милан» не готов опускаться ниже диапазона 50–60 млн евро",
+        "Стороны продолжают переговоры, решение ожидается до закрытия трансферного окна"
+      ],
+      "category": "transfers",
+      "published_at": "2026-08-26T07:51:00+02:00",
+      "source_domain": "corrieredellosport.it",
+      "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/08/26/leao-aston-villa-milan-cifre",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-делап-перешёл-в-форест-за-рекордные-45-млн",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "Делап перешёл в «Форест» за рекордные £45 млн",
+      "summary": "«Ноттингем Форест» подписал Лиама Делапа из «Челси» за клубный рекорд.",
+      "bullets": [
+        "Сумма сделки — около £45 млн, это рекордная покупка в истории «Фореста»",
+        "Делап не закрепился в основе «Челси» после перехода из «Ипсвича»",
+        "Клуб рассчитывает на форварда как на основного нападающего сезона"
+      ],
+      "category": "transfers",
+      "published_at": "2026-08-25T20:36:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/11095/13435498/liam-delap-nottingham-forest-agree-club-record-deal-with-chelsea",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-палинья-станет-игроком-бенфики-уже-сегодня",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "Палинья станет игроком «Бенфики» уже сегодня",
+      "summary": "Португальские СМИ сообщают о завершении перехода Жоау Палиньи в «Бенфику».",
+      "bullets": [
+        "Медосмотр и подписание контракта запланированы на сегодня",
+        "Опорник возвращается в чемпионат Португалии после периода в Англии и Германии",
+        "«Бенфика» закрывает ключевую позицию перед стартом еврокубковой кампании"
+      ],
+      "category": "transfers",
+      "published_at": "2026-08-26T07:45:00+01:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/primeira-liga/benfica/detalhe/palhinha-benfica-oficializacao",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-стерлингу-предъявлено-обвинение-грозит-два-года",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "Стерлингу предъявлено обвинение, грозит два года",
+      "summary": "Против Рахима Стерлинга выдвинуто обвинение, максимальное наказание — до двух лет.",
+      "bullets": [
+        "Дело рассматривается в правовом поле, а не только спортивными органами",
+        "Максимальная санкция по статье — лишение свободы на срок до двух лет",
+        "Клуб и представители игрока пока воздерживаются от развёрнутых комментариев"
+      ],
+      "category": "scandals",
+      "published_at": "2026-08-25T22:32:00+02:00",
+      "source_domain": "voetbalzone.nl",
+      "source_url": "https://www.voetbalzone.nl/doc.asp?uid=sterling-aanklacht-twee-jaar",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-бруну-фернандеш-и-шоу-лучшие-по-версии-pfa",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "Бруну Фернандеш и Шоу — лучшие по версии PFA",
+      "summary": "Профсоюз футболистов Англии назвал лауреатов сезона.",
+      "bullets": [
+        "Бруну Фернандеш признан лучшим игроком года по версии PFA среди мужчин",
+        "У женщин награду получила Хадиджа Шоу",
+        "Голосование проводится среди самих профессиональных футболистов Англии"
+      ],
+      "category": "records",
+      "published_at": "2026-08-25T21:50:00+00:00",
+      "source_domain": "theguardian.com",
+      "source_url": "https://www.theguardian.com/football/2026/aug/25/pfa-player-of-the-year-awards-bruno-fernandes-khadija-shaw",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-cta-признал-удаление-юри-явной-ошибкой",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "CTA признал удаление Юри явной ошибкой",
+      "summary": "Судейский комитет Испании публично признал ошибочным красную карточку Юри.",
+      "bullets": [
+        "Технический комитет арбитров разобрал эпизод и назвал решение очевидной ошибкой",
+        "Признание открывает дорогу к отмене дисквалификации через апелляцию",
+        "Эпизод вызвал бурную реакцию клуба и испанских СМИ"
+      ],
+      "category": "scandals",
+      "published_at": "2026-08-25T22:06:22+02:00",
+      "source_domain": "mundodeportivo.com",
+      "source_url": "https://www.mundodeportivo.com/futbol/laliga/20260825/cta-error-roja-yuri.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-валенсия-уступила-бетису-дома-0-1",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "«Валенсия» уступила «Бетису» дома — 0:1",
+      "summary": "«Бетис» увёз три очка с «Месталье» в матче Ла Лиги.",
+      "bullets": [
+        "Единственный гол решил исход встречи, «Валенсия» осталась без забитых",
+        "«Бетис» продолжает удачный старт сезона в чемпионате Испании",
+        "Хозяева создали моменты, но не смогли реализовать давление в концовке"
+      ],
+      "category": "match",
+      "published_at": "2026-08-25T23:27:57+02:00",
+      "source_domain": "mundodeportivo.com",
+      "source_url": "https://www.mundodeportivo.com/futbol/laliga/20260825/valencia-betis-cronica.html",
+      "ru_covered": true,
+      "ru_source": "matchtv.ru",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-гласнер-раскритиковал-ожидания-вокруг-фореста",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "Гласнер раскритиковал ожидания вокруг «Фореста»",
+      "summary": "Тренер высказался о завышенных ожиданиях после второго поражения от «Лидса» за 72 часа.",
+      "bullets": [
+        "Команда дважды за трое суток уступила «Лидсу» в разных турнирах",
+        "Гласнер призвал соотносить требования к клубу с реальным уровнем состава",
+        "Тренер отдельно отметил физическую перегрузку из-за плотного календаря"
+      ],
+      "category": "statements",
+      "published_at": "2026-08-25T22:00:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/11095/13435560/glasner-hits-out-at-expectations-after-second-leeds-defeat",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-ман-сити-готовит-рекордный-заход-за-энцо-фернандесом",
+      "date": "2026-08-26",
+      "section": "news",
+      "title": "«Ман Сити» готовит рекордный заход за Энцо Фернандесом",
+      "summary": "Английская пресса пишет о позднем предложении «Сити» по полузащитнику «Челси».",
+      "bullets": [
+        "Обсуждаемая сумма — в диапазоне £130–140 млн, это был бы рекорд для клуба",
+        "Инициатива исходит от «Сити» в последние дни трансферного окна",
+        "«Челси» пока не демонстрирует готовности отпускать игрока"
+      ],
+      "category": "rumors",
+      "published_at": "2026-08-25T22:51:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/11095/13435592/paper-talk-man-city-plot-late-record-move-for-enzo-fernandez",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-ночь-плей-офф-лч-три-вылета-фаворитов",
+      "date": "2026-08-26",
+      "section": "stats",
+      "title": "Ночь плей-офф ЛЧ: три вылета фаворитов",
+      "summary": "Итоги ответных матчей раунда плей-офф Лиги чемпионов.",
+      "bullets": [
+        "ЛАСК — «Селтик» 5:1 в дополнительное время, 5:4 по сумме двух матчей",
+        "«Буде-Глимт» — НЕК 3:0 (6:1 по сумме), вратарь НЕК Гонсало Креттас удалён на 3-й минуте",
+        "«Сабах» — «Хапоэль Беэр-Шева» 5:2 в дополнительное время, 6:4 по сумме"
+      ],
+      "category": "match",
+      "published_at": "2026-08-25T23:53:39+02:00",
+      "source_domain": "mundodeportivo.com",
+      "source_url": "https://www.mundodeportivo.com/futbol/champions-league/20260825/playoff-vuelta-resultados.html",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/soccer/story/_/id/champions-league-playoff-second-leg-roundup"
+        },
+        {
+          "domain": "tuttosport.com",
+          "url": "https://www.tuttosport.com/news/calcio/champions-league/2026/08/25/playoff-ritorno-risultati"
+        },
+        {
+          "domain": "fotmob.com",
+          "url": "https://www.fotmob.com/leagues/42/matches/champions-league"
+        },
+        {
+          "domain": "sport1.de",
+          "url": "https://www.sport1.de/news/internationaler-fussball/champions-league-playoff-rueckspiele"
+        },
+        {
+          "domain": "beinsports.com",
+          "url": "https://www.beinsports.com/en/champions-league/news/bodo-glimt-nec-playoff"
+        },
+        {
+          "domain": "voetbalzone.nl",
+          "url": "https://www.voetbalzone.nl/doc.asp?uid=nec-bodo-glimt-uitschakeling"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-26-кубок-лиги-итоги-второго-раунда",
+      "date": "2026-08-26",
+      "section": "stats",
+      "title": "Кубок лиги: итоги второго раунда",
+      "summary": "Сводка результатов второго раунда Кубка английской лиги.",
+      "bullets": [
+        "Клубы АПЛ вступили в турнир, часть фаворитов прошла дальше лишь в концовке",
+        "Зафиксированы несколько результативных матчей и вылеты команд из высших дивизионов",
+        "Жеребьёвка следующего раунда состоится сразу после завершения всех пар"
+      ],
+      "category": "match",
+      "published_at": "2026-08-25T21:35:04+00:00",
+      "source_domain": "football365.com",
+      "source_url": "https://www.football365.com/news/carabao-cup-second-round-results-round-up",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "efl.com",
+          "url": "https://www.efl.com/news/2026/august/carabao-cup-second-round-round-up/"
+        },
+        {
+          "domain": "skysports.com",
+          "url": "https://www.skysports.com/football/news/11095/13435570/carabao-cup-second-round-live-blog"
+        },
+        {
+          "domain": "theguardian.com",
+          "url": "https://www.theguardian.com/football/2026/aug/25/carabao-cup-second-round-roundup"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-26-сабах-самый-молодой-клуб-в-истории-лч",
+      "date": "2026-08-26",
+      "section": "stats",
+      "title": "«Сабах» — самый молодой клуб в истории ЛЧ",
+      "summary": "Азербайджанский клуб побил рекорд «Краснодара» 2020 года.",
+      "bullets": [
+        "«Сабах» основан в 2017 году и стал самым молодым клубом, вышедшим в основную стадию Лиги чемпионов",
+        "Предыдущий рекорд принадлежал «Краснодару», дебютировавшему в групповом этапе в 2020 году",
+        "Выход обеспечен победой 5:2 над «Хапоэлем» в дополнительное время"
+      ],
+      "category": "records",
+      "published_at": "2026-08-25T19:44:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/soccer/article/sabah-youngest-club-champions-league-history",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-корзины-жеребьёвки-лч-перед-монако",
+      "date": "2026-08-26",
+      "section": "stats",
+      "title": "Корзины жеребьёвки ЛЧ перед Монако",
+      "summary": "Расклад по корзинам и формату перед жеребьёвкой общего этапа Лиги чемпионов.",
+      "bullets": [
+        "Жеребьёвка пройдёт в Монако, участники распределены по четырём корзинам",
+        "Каждый клуб получит по восемь соперников — по два из каждой корзины",
+        "Состав корзин окончательно определился после ответных матчей плей-офф"
+      ],
+      "category": "other",
+      "published_at": "2026-08-25T23:46:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/12691/13435600/champions-league-draw-pots-confirmed-league-phase",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-реланьо-две-правды-моуринью-о-винисиусе",
+      "date": "2026-08-26",
+      "section": "analytics",
+      "title": "Реланьо: две правды Моуринью о Винисиусе",
+      "summary": "Колонка Альфредо Реланьо о публичной оценке Винисиуса главным тренером.",
+      "bullets": [
+        "Автор разбирает, где тренер прав по существу, а где его слова бьют по самому клубу",
+        "Отмечается контраст между статистикой бразильца и восприятием его игры",
+        "Реланьо считает, что публичная критика меняет переговорную позицию по контракту"
+      ],
+      "category": "statements",
+      "published_at": "2026-08-26T06:25:16+02:00",
+      "source_domain": "marca.com",
+      "source_url": "https://www.marca.com/opinion/2026/08/26/relano-mourinho-vinicius.html",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-неделя-трансферов-которая-решит-сезон-ла-лиги",
+      "date": "2026-08-26",
+      "section": "analytics",
+      "title": "Неделя трансферов, которая решит сезон Ла Лиги",
+      "summary": "Элиас Исраэль о том, почему последние дни окна определят расстановку сил в Испании.",
+      "bullets": [
+        "Автор считает, что финальные сделки важнее всего летнего рынка вместе взятого",
+        "Разбирается, у каких клубов остались незакрытые позиции и деньги на их закрытие",
+        "Отдельно оценивается риск клубов, откладывающих усиление до последнего дня"
+      ],
+      "category": "transfers",
+      "published_at": "2026-08-26T06:25:39+02:00",
+      "source_domain": "marca.com",
+      "source_url": "https://www.marca.com/opinion/2026/08/26/elias-israel-semana-fichajes-liga.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-связка-мбаппе-винисиус-которая-так-и-не-заработала",
+      "date": "2026-08-26",
+      "section": "analytics",
+      "title": "Связка Мбаппе — Винисиус, которая так и не заработала",
+      "summary": "Мигель Анхель Лара разбирает статистику взаимодействия двух звёзд «Реала».",
+      "bullets": [
+        "Вместе на поле они провели 89 матчей из 125 в общей сложности",
+        "Только 19 из 192 голов (9,8%) пришли через прямую связку между ними",
+        "Автор делает вывод, что игроки чаще забивают параллельно, чем друг для друга"
+      ],
+      "category": "records",
+      "published_at": "2026-08-26T08:17:10+02:00",
+      "source_domain": "marca.com",
+      "source_url": "https://www.marca.com/futbol/real-madrid/2026/08/26/mbappe-vinicius-conexion-datos.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-контерио-комо-идёт-ва-банк-спаллетти-вредит-себе",
+      "date": "2026-08-26",
+      "section": "analytics",
+      "title": "Контерио: «Комо» идёт ва-банк, Спаллетти вредит себе",
+      "summary": "Разбор трансферной стратегии «Комо» и поведения Спаллетти в конце окна.",
+      "bullets": [
+        "«Комо» вкладывается в рынок агрессивнее любого клуба своего уровня в Серии А",
+        "Автор считает, что публичные заявления Спаллетти ослабляют его позиции внутри клуба",
+        "Разбирается, как эти две линии пересекаются в последние дни трансферного окна"
+      ],
+      "category": "transfers",
+      "published_at": "2026-08-26T08:01:00+02:00",
+      "source_domain": "tuttomercatoweb.com",
+      "source_url": "https://www.tuttomercatoweb.com/editoriale/como-spalletti-mercato-conterio",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-не-только-о-нил-системный-провал-селтика",
+      "date": "2026-08-26",
+      "section": "analytics",
+      "title": "Не только О'Нил: системный провал «Селтика»",
+      "summary": "Джейми Кембл о том, что вылет от ЛАСКа — не вина одного тренера.",
+      "bullets": [
+        "Автор указывает на нехватку глубины состава и провалы летней селекции",
+        "Разбирается, почему у клуба не было замен, способных удержать преимущество",
+        "Ответственность распределяется между тренером и руководством клуба"
+      ],
+      "category": "other",
+      "published_at": "2026-08-26T06:03:51+00:00",
+      "source_domain": "livescore.com",
+      "source_url": "https://www.livescore.com/en/news/celtic-lask-collapse-analysis-not-just-oneill/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-голландская-пресса-нашла-единственного-героя-нек",
+      "date": "2026-08-26",
+      "section": "analytics",
+      "title": "Голландская пресса нашла единственного героя НЕК",
+      "summary": "Обзор утренних нидерландских газет после разгрома от «Буде-Глимт».",
+      "bullets": [
+        "Единственную положительную оценку получил вратарь Николас Полстер",
+        "Он вышел после удаления Креттаса на 3-й минуте и не дал счёту стать крупнее",
+        "Газеты сходятся в критике тренерского плана и обороны команды"
+      ],
+      "category": "match",
+      "published_at": "2026-08-26T07:37:00+02:00",
+      "source_domain": "voetbalzone.nl",
+      "source_url": "https://www.voetbalzone.nl/doc.asp?uid=nec-rapportcijfers-polster",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-что-нужно-каждому-клубу-апл-до-дедлайна",
+      "date": "2026-08-26",
+      "section": "analytics",
+      "title": "Что нужно каждому клубу АПЛ до дедлайна",
+      "summary": "Sky Sports разбирает незакрытые позиции всех клубов Премьер-лиги.",
+      "bullets": [
+        "Роб Дорсетт и Антон Толуи проходят по всем 20 клубам с конкретными позициями",
+        "Отдельно выделены команды, которым нужен центральный защитник и нападающий",
+        "Оценивается, у кого остался бюджет, а кому сначала нужно продавать"
+      ],
+      "category": "transfers",
+      "published_at": "2026-08-25T23:13:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/11661/13435610/transfer-deadline-day-what-every-premier-league-club-still-needs",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-08-26-хави-в-университете-футбола-со-сборной-нидерландов",
+      "date": "2026-08-26",
+      "section": "analytics",
+      "title": "Хави в «университете футбола» со сборной Нидерландов",
+      "summary": "Материал The Guardian о новом этапе карьеры Хави во главе сборной.",
+      "bullets": [
+        "Хави описывает работу со сборной как обучение новому типу тренерства",
+        "Отмечается контраст между ежедневной клубной работой и коротким сборным циклом",
+        "Разбирается, как он адаптирует свои идеи под голландскую футбольную традицию"
+      ],
+      "category": "statements",
+      "published_at": "2026-08-25T19:58:37+00:00",
+      "source_domain": "theguardian.com",
+      "source_url": "https://www.theguardian.com/football/2026/aug/25/xavi-netherlands-coach-interview",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": []
+    },
     {
       "id": "2026-08-25-тоттенхэм-купил-савио-за-85-млн-фунтов",
       "date": "2026-08-25",
