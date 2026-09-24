@@ -88,7 +88,7 @@ function countryOf(item) {
   return "other";
 }
 
-const state = { items: [], section: "news", country: "all" };
+const state = { items: [], section: "news", country: "all", category: "all" };
 
 const $ = (sel) => document.querySelector(sel);
 
@@ -123,6 +123,7 @@ async function load() {
     renderStats();
     renderSections();
     renderCountries();
+    renderCategories();
     render();
   } catch (e) {
     $("#feed").innerHTML = `<p class="empty">Не удалось загрузить дайджест.</p>`;
@@ -170,10 +171,12 @@ function renderSections() {
       btn.addEventListener("click", () => {
         state.section = btn.dataset.section;
         state.country = "all";
+        state.category = "all";
         $("#sections")
           .querySelectorAll(".seg")
           .forEach((b) => b.setAttribute("aria-pressed", b.dataset.section === state.section));
         renderCountries();
+        renderCategories();
         render();
       })
     );
@@ -196,9 +199,41 @@ function renderCountries() {
         $("#countries")
           .querySelectorAll(".chip")
           .forEach((b) => b.setAttribute("aria-pressed", b.dataset.country === state.country));
+        renderCategories();
         render();
       })
     );
+}
+
+// Base feed for the current section+country, before the (secondary) topic filter.
+// Country chips are the primary nav; the topic dropdown refines within them.
+function baseItems() {
+  let items = sectionItems(state.section);
+  if (state.country !== "all") {
+    items = items.filter((i) => countryOf(i) === state.country);
+  }
+  return items;
+}
+
+function renderCategories() {
+  const present = new Set(baseItems().map((i) => catKey(i.category)));
+  const keys = ["all", ...Object.keys(CATEGORIES).filter((k) => k !== "all" && present.has(k))];
+  if (!keys.includes(state.category)) state.category = "all";
+  const options = keys
+    .map((k) => {
+      const label = k === "all" ? "Все темы" : CATEGORIES[k];
+      return `<option value="${k}"${k === state.category ? " selected" : ""}>${label}</option>`;
+    })
+    .join("");
+  $("#filterbar").innerHTML = `
+    <span class="filterbar__label">Тема</span>
+    <div class="catselect">
+      <select id="catFilter" aria-label="Фильтр по теме">${options}</select>
+    </div>`;
+  $("#catFilter").addEventListener("change", (e) => {
+    state.category = e.target.value;
+    render();
+  });
 }
 
 function cardHTML(item, idx) {
@@ -247,9 +282,9 @@ function cardHTML(item, idx) {
 }
 
 function render() {
-  let items = sectionItems(state.section);
-  if (state.country !== "all") {
-    items = items.filter((i) => countryOf(i) === state.country);
+  let items = baseItems();
+  if (state.category !== "all") {
+    items = items.filter((i) => catKey(i.category) === state.category);
   }
 
   $("#empty").hidden = items.length > 0;

@@ -220,6 +220,59 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
   color: var(--ink-on-green);
 }
 
+/* Topic filter (secondary — dropdown) */
+.filterbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  margin: 6px 0 0;
+}
+.filterbar__label {
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--ink-3);
+}
+.catselect { position: relative; display: inline-flex; align-items: center; }
+.catselect select {
+  appearance: none;
+  -webkit-appearance: none;
+  font: inherit;
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  letter-spacing: .03em;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  padding: 9px 36px 9px 16px;
+  cursor: pointer;
+  transition: border-color .18s ease, box-shadow .18s ease;
+}
+.catselect select:hover { border-color: var(--card-border-2); }
+.catselect select:focus-visible {
+  outline: none;
+  border-color: var(--green-deep);
+  box-shadow: var(--glow);
+}
+.catselect::after {
+  content: "";
+  position: absolute;
+  right: 15px;
+  top: 45%;
+  width: 7px;
+  height: 7px;
+  border-right: 2px solid var(--ink-2);
+  border-bottom: 2px solid var(--ink-2);
+  transform: translateY(-50%) rotate(45deg);
+  pointer-events: none;
+}
+
 /* Country filter (primary navigation) */
 .countries {
   position: sticky;
