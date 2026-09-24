@@ -1,6 +1,5 @@
 const SECTIONS = {
   news: { label: "Новости", icon: "📰", hint: "Оперативные факты" },
-  stats: { label: "Статистика", icon: "📊", hint: "Результаты и цифры" },
   analytics: { label: "Аналитика", icon: "🧠", hint: "Авторские разборы" },
 };
 
@@ -17,7 +16,64 @@ const CATEGORIES = {
   other: "Прочее",
 };
 
-const state = { items: [], section: "news", filter: "all" };
+const COUNTRIES = {
+  all: "Все страны",
+  england: "Англия",
+  france: "Франция",
+  spain: "Испания",
+  italy: "Италия",
+  germany: "Германия",
+  portugal: "Португалия",
+  turkey: "Турция",
+  netherlands: "Нидерланды",
+  eurocups: "Еврокубки",
+  other: "Прочее",
+};
+
+const COUNTRY_ORDER = [
+  "england", "france", "spain", "italy", "germany",
+  "portugal", "turkey", "netherlands", "eurocups", "other",
+];
+
+// Fallback: derive country from the source domain when item.country is absent
+// (archive items predate the parser's `country` field). Domains whose TLD already
+// encodes the country (.it/.es/.de/.pt/.fr/.nl/.tr/.co.uk) are handled by TLD_COUNTRY;
+// this map only covers country-specific .com/.net outlets and ambiguous cases.
+const DOMAIN_COUNTRY = {
+  "goal.com": "england", "skysports.com": "england", "football365.com": "england",
+  "footballtransfers.com": "england", "theguardian.com": "england", "onefootball.com": "england",
+  "talksport.com": "england", "90min.com": "england", "givemesport.com": "england",
+  "caughtoffside.com": "england", "teamtalk.com": "england", "football.london": "england",
+  "livescore.com": "england",
+  "footmercato.net": "france", "getfootballnewsfrance.com": "france", "rmcsport.bfmtv.com": "france",
+  "marca.com": "spain", "as.com": "spain", "mundodeportivo.com": "spain", "sport.es": "spain",
+  "relevo.com": "spain", "fichajes.net": "spain", "getfootballnewsspain.com": "spain",
+  "eldesmarque.com": "spain", "libertaddigital.com": "spain", "lagrada.org": "spain", "elpais.com": "spain",
+  "calciomercato.com": "italy", "tuttosport.com": "italy", "football-italia.net": "italy",
+  "tuttomercatoweb.com": "italy", "gianlucadimarzio.com": "italy", "getfootballnewsitaly.com": "italy",
+  "kicker.de": "germany", "sport1.de": "germany", "getfootballnewsgermany.com": "germany",
+  "fcbinside.com": "germany", "bulinews.com": "germany", "bundesliga.com": "germany",
+  "sporx.com": "turkey",
+  "uefa.com": "eurocups",
+};
+
+const TLD_COUNTRY = {
+  ".co.uk": "england", ".uk": "england", ".fr": "france", ".es": "spain",
+  ".it": "italy", ".de": "germany", ".pt": "portugal", ".tr": "turkey", ".nl": "netherlands",
+};
+
+function countryOf(item) {
+  const c = (item.country || "").toLowerCase();
+  if (COUNTRIES[c] && c !== "all") return c;
+  const dom = (item.source_domain || "").toLowerCase();
+  if (DOMAIN_COUNTRY[dom]) return DOMAIN_COUNTRY[dom];
+  for (const tld in TLD_COUNTRY) {
+    if (dom.endsWith(tld)) return TLD_COUNTRY[tld];
+  }
+  return "other";
+}
+
+const state = { items: [], section: "news", country: "all" };
 
 const $ = (sel) => document.querySelector(sel);
 
@@ -51,7 +107,7 @@ async function load() {
     renderMeta(data.generated_at);
     renderStats();
     renderSections();
-    renderFilters();
+    renderCountries();
     render();
   } catch (e) {
     $("#feed").innerHTML = `<p class="empty">Не удалось загрузить дайджест.</p>`;
@@ -92,33 +148,33 @@ function renderSections() {
     .forEach((btn) =>
       btn.addEventListener("click", () => {
         state.section = btn.dataset.section;
-        state.filter = "all";
+        state.country = "all";
         $("#sections")
           .querySelectorAll(".seg")
           .forEach((b) => b.setAttribute("aria-pressed", b.dataset.section === state.section));
-        renderFilters();
+        renderCountries();
         render();
       })
     );
 }
 
-function renderFilters() {
-  const present = new Set(sectionItems(state.section).map((i) => catKey(i.category)));
-  const keys = ["all", ...Object.keys(CATEGORIES).filter((k) => k !== "all" && present.has(k))];
-  $("#filters").innerHTML = keys
+function renderCountries() {
+  const present = new Set(sectionItems(state.section).map(countryOf));
+  const keys = ["all", ...COUNTRY_ORDER.filter((k) => present.has(k))];
+  $("#countries").innerHTML = keys
     .map(
       (k) =>
-        `<button class="chip" data-cat="${k}" aria-pressed="${k === state.filter}">${CATEGORIES[k]}</button>`
+        `<button class="chip" data-country="${k}" aria-pressed="${k === state.country}">${COUNTRIES[k]}</button>`
     )
     .join("");
-  $("#filters")
+  $("#countries")
     .querySelectorAll(".chip")
     .forEach((btn) =>
       btn.addEventListener("click", () => {
-        state.filter = btn.dataset.cat;
-        $("#filters")
+        state.country = btn.dataset.country;
+        $("#countries")
           .querySelectorAll(".chip")
-          .forEach((b) => b.setAttribute("aria-pressed", b.dataset.cat === state.filter));
+          .forEach((b) => b.setAttribute("aria-pressed", b.dataset.country === state.country));
         render();
       })
     );
@@ -128,9 +184,11 @@ function cardHTML(item, idx) {
   const cat = catKey(item.category);
   const label = CATEGORIES[cat];
   const when = fmtDateTime(item.published_at) || fmtDate(item.date);
-  const bullets = (item.bullets || []).length
-    ? `<ul class="row__bullets">${item.bullets.map((b) => `<li>${escapeHTML(b)}</li>`).join("")}</ul>`
-    : "";
+  // Bullets only in Аналитика; Новости is a flat headline+subhead feed.
+  const bullets =
+    sectionKey(item.section) === "analytics" && (item.bullets || []).length
+      ? `<ul class="row__bullets">${item.bullets.map((b) => `<li>${escapeHTML(b)}</li>`).join("")}</ul>`
+      : "";
   const summary = item.summary
     ? `<p class="row__summary">${escapeHTML(item.summary)}</p>`
     : "";
@@ -168,11 +226,10 @@ function cardHTML(item, idx) {
 }
 
 function render() {
-  const inSection = sectionItems(state.section);
-  const items =
-    state.filter === "all"
-      ? inSection
-      : inSection.filter((i) => catKey(i.category) === state.filter);
+  let items = sectionItems(state.section);
+  if (state.country !== "all") {
+    items = items.filter((i) => countryOf(i) === state.country);
+  }
 
   $("#empty").hidden = items.length > 0;
 

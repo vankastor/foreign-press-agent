@@ -190,8 +190,8 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
   color: var(--bg);
 }
 
-/* Filters */
-.filters {
+/* Country filter (primary navigation) */
+.countries {
   position: sticky;
   top: 57px;
   z-index: 40;
@@ -393,7 +393,7 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
   .stat__num { font-size: 22px; }
 
   /* Swipeable, edge-to-edge control rows instead of tall wrapped blocks */
-  .sections, .filters {
+  .sections, .countries {
     flex-wrap: nowrap;
     justify-content: flex-start;
     overflow-x: auto;
@@ -405,9 +405,9 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
     padding-right: 16px;
   }
   .sections::-webkit-scrollbar,
-  .filters::-webkit-scrollbar { display: none; }
+  .countries::-webkit-scrollbar { display: none; }
   .seg, .chip { flex: 0 0 auto; }
-  .filters { top: 53px; margin-top: 6px; margin-bottom: 18px; }
+  .countries { top: 53px; margin-top: 6px; margin-bottom: 18px; }
 
   /* Stack each list row; keep meta as a compact wrapping header line */
   .list { border-radius: 16px; }
