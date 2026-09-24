@@ -36,6 +36,20 @@ const COUNTRY_ORDER = [
   "portugal", "turkey", "netherlands", "eurocups", "other",
 ];
 
+const COUNTRY_FLAG = {
+  all: "🌍",
+  england: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  france: "🇫🇷",
+  spain: "🇪🇸",
+  italy: "🇮🇹",
+  germany: "🇩🇪",
+  portugal: "🇵🇹",
+  turkey: "🇹🇷",
+  netherlands: "🇳🇱",
+  eurocups: "🏆",
+  other: "🌐",
+};
+
 // Fallback: derive country from the source domain when item.country is absent
 // (archive items predate the parser's `country` field). Domains whose TLD already
 // encodes the country (.it/.es/.de/.pt/.fr/.nl/.tr/.co.uk) are handled by TLD_COUNTRY;
@@ -171,7 +185,7 @@ function renderCountries() {
   $("#countries").innerHTML = keys
     .map(
       (k) =>
-        `<button class="chip" data-country="${k}" aria-pressed="${k === state.country}">${COUNTRIES[k]}</button>`
+        `<button class="chip" data-country="${k}" aria-pressed="${k === state.country}"><span class="chip__flag">${COUNTRY_FLAG[k] || ""}</span>${COUNTRIES[k]}</button>`
     )
     .join("");
   $("#countries")

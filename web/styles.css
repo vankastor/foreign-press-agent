@@ -96,21 +96,21 @@ body {
 main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; padding: 0 24px; }
 
 /* Hero */
-.hero { padding: clamp(56px, 10vw, 120px) 0 40px; text-align: center; }
+.hero { padding: clamp(28px, 5vw, 56px) 0 22px; text-align: center; }
 .hero__eyebrow {
   text-transform: uppercase;
   letter-spacing: .14em;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 600;
   color: var(--accent-ink);
-  margin-bottom: 18px;
+  margin-bottom: 10px;
 }
 .hero__title {
-  font-size: clamp(38px, 7vw, 76px);
+  font-size: clamp(30px, 5vw, 52px);
   line-height: 1.04;
   font-weight: 700;
   letter-spacing: -.03em;
-  margin-bottom: 22px;
+  margin-bottom: 12px;
 }
 .hero__title em {
   font-style: normal;
@@ -120,29 +120,29 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
   -webkit-text-fill-color: transparent;
 }
 .hero__lead {
-  max-width: 620px;
+  max-width: 600px;
   margin: 0 auto;
-  font-size: clamp(17px, 2.4vw, 21px);
+  font-size: clamp(15px, 1.9vw, 18px);
   color: var(--ink-2);
   letter-spacing: -.01em;
 }
 .hero__stats {
   display: flex;
-  gap: 14px;
+  gap: 12px;
   justify-content: center;
   flex-wrap: wrap;
-  margin-top: 34px;
+  margin-top: 20px;
 }
 .stat {
   background: var(--card);
   border: 1px solid var(--card-border);
-  border-radius: 16px;
-  padding: 14px 22px;
+  border-radius: 14px;
+  padding: 10px 18px;
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  min-width: 110px;
+  min-width: 96px;
 }
-.stat__num { font-size: 26px; font-weight: 700; letter-spacing: -.02em; }
+.stat__num { font-size: 22px; font-weight: 700; letter-spacing: -.02em; }
 .stat__label { font-size: 12px; color: var(--ink-3); margin-top: 2px; }
 
 /* Section segmented control */
@@ -216,6 +216,7 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
   cursor: pointer;
   transition: transform .18s ease, background .18s ease, color .18s ease, border-color .18s;
 }
+.chip__flag { margin-right: 6px; font-size: 15px; line-height: 1; }
 .chip:hover { transform: translateY(-1px); }
 .chip[aria-pressed="true"] {
   background: var(--ink);
