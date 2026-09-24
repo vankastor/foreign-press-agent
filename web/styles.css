@@ -1,4 +1,21 @@
+/* Brandbook display face — Liga Bold (proprietary «Лига Ставок»), self-hosted */
+@font-face {
+  font-family: "Liga Bold";
+  src: url("fonts/Liga.otf") format("opentype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Liga Bold";
+  src: url("fonts/LigaRetalic.otf") format("opentype");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
 :root {
+  --font-display: "Liga Bold", "Golos Text", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
   --bg: #FFFFFF;
   --graphite: #17191A;
   --panel: #F5F6F5;
@@ -80,9 +97,10 @@ body {
   flex: 0 0 auto;
 }
 .nav__title {
+  font-family: var(--font-display);
   font-weight: 900;
   letter-spacing: .02em;
-  font-size: 17px;
+  font-size: 18px;
   text-transform: uppercase;
 }
 .nav__sub {
@@ -104,6 +122,7 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
 .hero { padding: clamp(28px, 5vw, 56px) 0 22px; }
 .hero__eyebrow {
   display: inline-block;
+  font-family: var(--font-display);
   text-transform: uppercase;
   letter-spacing: .12em;
   font-size: 11px;
@@ -115,10 +134,11 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
   margin-bottom: 16px;
 }
 .hero__title {
-  font-size: clamp(34px, 6vw, 66px);
-  line-height: .98;
+  font-family: var(--font-display);
+  font-size: clamp(36px, 6.4vw, 72px);
+  line-height: .96;
   font-weight: 900;
-  letter-spacing: -.02em;
+  letter-spacing: -.01em;
   text-transform: uppercase;
   margin-bottom: 12px;
 }
@@ -145,7 +165,7 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
   padding: 10px 18px;
   min-width: 96px;
 }
-.stat__num { font-size: 24px; font-weight: 900; letter-spacing: -.02em; color: var(--green-deep); }
+.stat__num { font-family: var(--font-display); font-size: 26px; font-weight: 900; letter-spacing: 0; color: var(--green-deep); }
 .stat__label {
   font-size: 11px;
   color: var(--ink-3);
@@ -169,6 +189,7 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
   background: var(--panel);
   color: var(--ink-2);
   font: inherit;
+  font-family: var(--font-display);
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
@@ -235,6 +256,7 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
 /* Feed */
 .feed { display: flex; flex-direction: column; gap: 40px; padding-bottom: 40px; }
 .daygroup__label {
+  font-family: var(--font-display);
   font-size: 12px;
   font-weight: 800;
   color: var(--ink-3);
@@ -294,6 +316,7 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
 .ru-badge__flag { font-size: 12px; line-height: 1; }
 
 .tag {
+  font-family: var(--font-display);
   font-size: 11px;
   font-weight: 800;
   letter-spacing: .05em;
