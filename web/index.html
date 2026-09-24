@@ -52,6 +52,12 @@
     <p class="footer__dim">Источники — международная спортивная пресса. Обновляется каждые 3 часа.</p>
   </footer>
 
+  <!-- Mobile-only reels launcher + fullscreen overlay (built in app.js) -->
+  <button class="reelsFab" id="reelsFab" type="button" aria-label="Открыть ленту рилсов">
+    <span class="reelsFab__ic">⚡</span> Рилсы
+  </button>
+  <div class="reels" id="reels" role="dialog" aria-modal="true" aria-label="Лента рилсов" aria-hidden="true" hidden></div>
+
   <script src="app.js"></script>
 </body>
 </html>

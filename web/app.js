@@ -311,4 +311,202 @@ function escapeHTML(s) {
   );
 }
 
+/* ============================================================
+   Mobile-only «Рилсы» — fullscreen vertical swipe feed.
+   Up/down = next/prev item (native scroll-snap); left/right =
+   switch section (Новости/Аналитика/Наши); country dropdown up top.
+   Cards carry more text than the desktop feed (summary + bullets).
+   ============================================================ */
+const REEL_ORDER = ["news", "analytics", "russians"];
+const reel = { section: "news", country: "all" };
+
+function reelBase() {
+  let items = sectionItems(reel.section);
+  if (reel.country !== "all") items = items.filter((i) => countryOf(i) === reel.country);
+  return items;
+}
+
+function reelCardHTML(item) {
+  const cat = catKey(item.category);
+  const when = fmtDateTime(item.published_at) || fmtDate(item.date);
+  const country = countryOf(item);
+  const hasUrl = !!item.source_url;
+  const summary = item.summary ? `<p class="reel__summary">${escapeHTML(item.summary)}</p>` : "";
+  const bullets = (item.bullets || []).length
+    ? `<ul class="reel__bullets">${item.bullets.map((b) => `<li>${escapeHTML(b)}</li>`).join("")}</ul>`
+    : "";
+  const related = (item.related || []).length
+    ? `<div class="reel__related"><span class="reel__related-label">Ещё по теме:</span> ${item.related
+        .map((r) => `<a href="${encodeURI(r.url)}" target="_blank" rel="noopener">${escapeHTML(r.domain || "источник")}</a>`)
+        .join(" · ")}</div>`
+    : "";
+  const ruBadge = item.ru_covered
+    ? `<span class="ru-badge"><span class="ru-badge__flag">🇷🇺</span>Уже в РФ${
+        item.ru_source ? " · " + escapeHTML(item.ru_source) : ""
+      }</span>`
+    : "";
+  const title = hasUrl
+    ? `<a href="${encodeURI(item.source_url)}" target="_blank" rel="noopener">${escapeHTML(item.title)}</a>`
+    : escapeHTML(item.title);
+  const source = hasUrl
+    ? `<a class="reel__source" href="${encodeURI(item.source_url)}" target="_blank" rel="noopener"><span class="dot"></span>${escapeHTML(
+        item.source_domain || "источник"
+      )}<span class="reel__read">Читать оригинал →</span></a>`
+    : `<span class="reel__source"><span class="dot"></span>${escapeHTML(item.source_domain || "источник")}</span>`;
+  return `
+    <article class="reel">
+      <div class="reel__inner">
+        <div class="reel__top">
+          <span class="tag tag--${cat}">${CATEGORIES[cat]}</span>
+          <span class="reel__country">${COUNTRY_FLAG[country] || ""} ${COUNTRIES[country] || ""}</span>
+          <time class="reel__time">${when}</time>
+          ${ruBadge}
+        </div>
+        <div class="reel__mid">
+          <h2 class="reel__title">${title}</h2>
+          ${summary}
+          ${bullets}
+        </div>
+        <div class="reel__bottom">
+          ${source}
+          ${related}
+        </div>
+      </div>
+    </article>`;
+}
+
+function reelRender() {
+  const items = reelBase();
+  const track = $("#reelsTrack");
+  if (!track) return;
+  track.innerHTML = items.length
+    ? items.map(reelCardHTML).join("") +
+      `<article class="reel reel--end"><div class="reel__inner reel__endbox">
+        <div class="reel__endmark">⊓</div>
+        <p class="reel__endttl">Вы всё пролистали</p>
+        <p class="reel__endsub">Свайп влево/вправо — сменить раздел. Лента обновляется каждые 3 часа.</p>
+      </div></article>`
+    : `<article class="reel"><div class="reel__inner reel__endbox">
+        <p class="reel__endttl">Пусто по этому фильтру</p>
+        <p class="reel__endsub">Смените страну или раздел свайпом вправо/влево.</p>
+      </div></article>`;
+  track.scrollTop = 0;
+  updateReelProgress();
+}
+
+function reelRenderTabs() {
+  const box = $("#reelTabs");
+  box.innerHTML = REEL_ORDER.map(
+    (s) =>
+      `<button class="reeltab" data-section="${s}" aria-pressed="${s === reel.section}"><span>${SECTIONS[s].icon}</span> ${SECTIONS[s].label}</button>`
+  ).join("");
+  box.querySelectorAll(".reeltab").forEach((b) =>
+    b.addEventListener("click", () => setReelSection(b.dataset.section))
+  );
+}
+
+function reelRenderCountry() {
+  const present = new Set(sectionItems(reel.section).map(countryOf));
+  const keys = ["all", ...COUNTRY_ORDER.filter((k) => present.has(k))];
+  if (!keys.includes(reel.country)) reel.country = "all";
+  $("#reelCountry").innerHTML = keys
+    .map(
+      (k) =>
+        `<option value="${k}"${k === reel.country ? " selected" : ""}>${(COUNTRY_FLAG[k] || "") + " " + COUNTRIES[k]}</option>`
+    )
+    .join("");
+}
+
+function setReelSection(s) {
+  if (!REEL_ORDER.includes(s) || s === reel.section) return;
+  reel.section = s;
+  reel.country = "all";
+  reelRenderTabs();
+  reelRenderCountry();
+  reelRender();
+}
+
+function cycleReelSection(dir) {
+  const i = REEL_ORDER.indexOf(reel.section);
+  const ni = Math.min(REEL_ORDER.length - 1, Math.max(0, i + dir));
+  if (ni !== i) setReelSection(REEL_ORDER[ni]);
+}
+
+function updateReelProgress() {
+  const track = $("#reelsTrack");
+  const el = $("#reelsProgress");
+  if (!track || !el) return;
+  const h = track.clientHeight || window.innerHeight;
+  const n = track.querySelectorAll(".reel").length;
+  const i = Math.min(n - 1, Math.max(0, Math.round(track.scrollTop / h)));
+  el.textContent = n ? `${i + 1} / ${n}` : "";
+}
+
+function reelsOpen() {
+  reel.section = REEL_ORDER.includes(state.section) ? state.section : "news";
+  reel.country = "all";
+  const root = $("#reels");
+  root.innerHTML = `
+    <div class="reels__bar">
+      <div class="reels__brand">
+        <svg class="nav__goal" viewBox="0 0 40 24" aria-hidden="true"><path d="M4 22 V7 H36 V22" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="square" /></svg>
+        <span>Рилсы</span>
+      </div>
+      <div class="catselect reels__country"><select id="reelCountry" aria-label="Фильтр по странам"></select></div>
+      <button class="reels__close" id="reelsClose" type="button" aria-label="Закрыть">✕</button>
+    </div>
+    <div class="reels__tabs" id="reelTabs"></div>
+    <div class="reels__track" id="reelsTrack"></div>
+    <div class="reels__hint">↑ листайте вверх · ← → меняйте раздел</div>
+    <div class="reels__progress" id="reelsProgress"></div>`;
+  reelRenderTabs();
+  reelRenderCountry();
+  reelRender();
+  $("#reelCountry").addEventListener("change", (e) => {
+    reel.country = e.target.value;
+    reelRender();
+  });
+  $("#reelsClose").addEventListener("click", reelsClose);
+
+  const track = $("#reelsTrack");
+  let raf = 0;
+  track.addEventListener(
+    "scroll",
+    () => {
+      if (raf) return;
+      raf = requestAnimationFrame(() => {
+        raf = 0;
+        updateReelProgress();
+      });
+    },
+    { passive: true }
+  );
+  let tsx = 0, tsy = 0;
+  track.addEventListener("touchstart", (e) => { tsx = e.touches[0].clientX; tsy = e.touches[0].clientY; }, { passive: true });
+  track.addEventListener("touchend", (e) => {
+    const dx = e.changedTouches[0].clientX - tsx;
+    const dy = e.changedTouches[0].clientY - tsy;
+    if (Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy) * 1.4) cycleReelSection(dx < 0 ? 1 : -1);
+  }, { passive: true });
+
+  root.hidden = false;
+  root.setAttribute("aria-hidden", "false");
+  root.classList.add("is-open");
+  document.body.classList.add("reels-open");
+}
+
+function reelsClose() {
+  const root = $("#reels");
+  root.classList.remove("is-open");
+  root.setAttribute("aria-hidden", "true");
+  root.hidden = true;
+  document.body.classList.remove("reels-open");
+}
+
+function initReels() {
+  const fab = $("#reelsFab");
+  if (fab) fab.addEventListener("click", reelsOpen);
+}
+
 load();
+initReels();
