@@ -1,6 +1,7 @@
 const SECTIONS = {
   news: { label: "Новости", icon: "📰", hint: "Оперативные факты" },
   analytics: { label: "Аналитика", icon: "🧠", hint: "Авторские разборы" },
+  russians: { label: "Наши", icon: "🇷🇺", hint: "Россияне за рубежом" },
 };
 
 const CATEGORIES = {
@@ -119,6 +120,12 @@ function renderMeta(generatedAt) {
 }
 
 function sectionItems(section) {
+  // "russians" is a cross-cutting lens: every «наши за рубежом» item, regardless
+  // of whether it lives in news or analytics. Its cards keep their own section's
+  // rendering (bullets stay analytics-only via item.section in cardHTML).
+  if (section === "russians") {
+    return state.items.filter((i) => catKey(i.category) === "russians");
+  }
   return state.items.filter((i) => sectionKey(i.section) === section);
 }
 
