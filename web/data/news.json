@@ -1,6 +1,452 @@
 {
-  "generated_at": "2026-09-25T00:10:30.912636+01:00",
+  "generated_at": "2026-09-25T03:13:51.909058+01:00",
   "items": [
+    {
+      "id": "2026-09-25-гакпо-на-90-2-сорвал-дебютную-победу-клоппа",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Гакпо на 90+2 сорвал дебютную победу Клоппа",
+      "summary": "Нидерланды вырвали ничью 1:1 у Германии в 1-м туре Лиги наций: Нмеча вывел гостей вперёд на 32-й, Гакпо с лёта сравнял на 90+2 — и Клопп, и Хави стартовали без победы.",
+      "bullets": [],
+      "category": "match",
+      "country": "netherlands",
+      "published_at": "2026-09-24T22:30:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/13591589/netherlands-x-x-germany-report",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "sporx.com",
+          "url": "https://www.sporx.com/klopp-ile-xavi-nin-ilk-macinda-kazanan-cikmadi-SXHBQ1177145SXQ"
+        },
+        {
+          "domain": "caughtoffside.com",
+          "url": "https://www.caughtoffside.com/2026/09/24/cody-gakpo-netherlands-germany-klopp-goal/"
+        },
+        {
+          "domain": "footmercato.net",
+          "url": "https://www.footmercato.net/a3944120835262541671-ligue-des-nations-les-pays-bas-frustrent-lallemagne-sur-le-gong-premiere-reussie-pour-jorge-jesus-avec-le-portugal-erling-haaland-porte-la-norvege"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-клопп-хаверц-и-мусиала-скорее-всего-вне-игры",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Клопп: Хаверц и Мусиала, скорее всего, вне игры",
+      "summary": "Мусиала выпал из состава ещё до стартового свистка, Хаверц ушёл с поля на 30-й минуте — оба ждут результатов МРТ, и Клопп признал, что теряет их на паузу.",
+      "bullets": [],
+      "category": "injury",
+      "country": "germany",
+      "published_at": "2026-09-24T18:35:00-04:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50023499/kai-havertz-jamal-musiala-probably-germany-mri",
+      "ru_covered": true,
+      "ru_source": "sovsport.ru",
+      "related": [
+        {
+          "domain": "onefootball.com",
+          "url": "https://onefootball.com/en/news/klopp-provides-injury-updates-on-havertz-and-musiala-after-netherlands-draw-43516168"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-хави-мы-были-сильнее-германии",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Хави: мы были сильнее Германии",
+      "summary": "Дебютант нидерландской скамейки похвалил второй тайм и вышедших на замену, а также сообщил, что Броббей травмирован и пропустит остальные матчи Лиги наций.",
+      "bullets": [],
+      "category": "statements",
+      "country": "netherlands",
+      "published_at": "2026-09-24T18:53:00-04:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50023617/netherlands-better-klopp-germany-draw",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-болельщики-нидерландов-разнесли-гравенберха-после-дебюта-хав",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Болельщики Нидерландов разнесли Гравенберха после дебюта Хави",
+      "summary": "Полузащитник «Ливерпуля» отыграл все 90 минут в паре с Тимбером и отдал 31 точную передачу из 35, но не задал темп — фанаты назвали его игру «ужасающей».",
+      "bullets": [],
+      "category": "other",
+      "country": "netherlands",
+      "published_at": "2026-09-24T21:50:00+01:00",
+      "source_domain": "givemesport.com",
+      "source_url": "https://www.givemesport.com/dutch-fans-slam-ryan-gravenberch-liverpool-germany-jurgen-klopp/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-феликс-спас-португалию-роналду-промахнулся-семь-раз",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Феликс спас Португалию, Роналду промахнулся семь раз",
+      "summary": "Гол Жоау Феликса на 22-й минуте принёс победу 1:0 в дебютном матче Жоржи Жезуша; Роналду в рекордном 234-м матче нанёс 7 ударов при xG 1,32, его гол отменили из-за офсайда.",
+      "bullets": [],
+      "category": "match",
+      "country": "portugal",
+      "published_at": "2026-09-24T22:17:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/13591454/portugal-1-0-wales-joao-felix-spares-cristiano-ronaldos-blushes-in-nations-league-win",
+      "ru_covered": true,
+      "ru_source": "sovsport.ru",
+      "related": [
+        {
+          "domain": "fanatik.com.tr",
+          "url": "https://www.fanatik.com.tr/portekiz/portekizde-jorge-jesus-galibiyetle-basladi-2638885"
+        },
+        {
+          "domain": "tuttosport.com",
+          "url": "https://www.tuttosport.com/news/calcio/uefa-nations-league/2026/09/24-151444684/beffa_germania_vince_il_portogallo_solo_panchina_per_conceicao_e_koop_zhegrova_buoni_70_col_kosovo"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-жезуш-что-игроки-делают-в-клубах-меня-мало-интересует",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Жезуш: что игроки делают в клубах, меня мало интересует",
+      "summary": "На первой послематчевой пресс-конференции новый тренер Португалии объяснил принцип отбора: он оценивает футболистов по работе в сборной, а не по клубной форме.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-09-24T22:49:35+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/video/o-que-os-jogadores-fazem-nos-clubes-nao-me-interessa-muito-2026092422493572036",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-рубен-невеш-о-роналду-он-был-великолепен-голы-придут",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Рубен Невеш о Роналду: он был великолепен, голы придут",
+      "summary": "Хавбек сборной Португалии защитил Криштиану после безголевого вечера и предупредил, что в гостях у Норвегии лёгкой игры не будет.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-09-24T23:46:00+01:00",
+      "source_domain": "ojogo.pt",
+      "source_url": "https://www.ojogo.pt/internacional/artigo/ruben-neves-ronaldo-foi-excelente-e-os-golos-vao-aparecer/18130309",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-палинья-о-свисте-на-алваладе-меня-это-не-задело",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Палинья о свисте на «Алваладе»: меня это не задело",
+      "summary": "Перешедшего из «Спортинга» в «Бенфику» опорника освистали при выходе на замену в матче с Уэльсом — он ответил, что совесть у него чиста.",
+      "bullets": [],
+      "category": "other",
+      "country": "portugal",
+      "published_at": "2026-09-24T23:10:00+01:00",
+      "source_domain": "ojogo.pt",
+      "source_url": "https://www.ojogo.pt/internacional/artigo/palhinha-e-os-assobios-mais-do-mesmo-tenho-a-consciencia-tranquila/18130298",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-холанд-снова-затащил-норвегию-3-2-с-данией",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Холанд снова затащил Норвегию: 3:2 с Данией",
+      "summary": "Бобб забил на 14-й, Холанд — на 18-й и 74-й, Дамсгор и Хойлунд отвечали; норвежец теперь забивает в 15 из последних 16 официальных матчей за сборную — 29 голов в этой серии.",
+      "bullets": [],
+      "category": "records",
+      "country": "other",
+      "published_at": "2026-09-25T00:02:14+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/erling-haaland-parladi-norvec-uc-golle-kazandi-SXHBQ1177147SXQ",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/soccer/story/_/id/50022925/haaland-world-cup-form-continues-norway-win-denmark"
+        },
+        {
+          "domain": "fanatik.com.tr",
+          "url": "https://www.fanatik.com.tr/futbol/norveci-yine-haaland-tasidi-2638876"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-дебютный-гол-и-красная-за-празднование-с-флажком",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Дебютный гол и красная за празднование с флажком",
+      "summary": "20-летний Абу Фархи сравнял счёт в Австрии, отпраздновал, изобразив выстрел угловым флажком, и получил вторую жёлтую — Израиль в меньшинстве проиграл 1:3.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "other",
+      "published_at": "2026-09-24T23:05:00+02:00",
+      "source_domain": "sportmediaset.mediaset.it",
+      "source_url": "https://www.sportmediaset.mediaset.it/calcio/israele-segna-simula-un-colpo-di-biliardo-con-la-bandierina-l-arbitro-lo-butta-fuori_116952638-202602k.shtml",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/soccer/story/_/id/50023584/israel-red-card-sayed-abu-farchi-goal-celebration-austria"
+        },
+        {
+          "domain": "ojogo.pt",
+          "url": "https://www.ojogo.pt/internacional/artigo/video-avancado-de-israel-festeja-golo-a-simular-disparo-e-e-expulso/18130314"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-мурики-принёс-косово-победу-и-показал-политическую-футболку",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Мурики принёс Косово победу и показал политическую футболку",
+      "summary": "Капитан Косово забил Ирландии на 83-й минуте и поднял белую футболку с лозунгами, а фанаты до матча вывесили баннер в поддержку ОАК — УЕФА может отреагировать.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "other",
+      "published_at": "2026-09-24T21:52:00+01:00",
+      "source_domain": "thejournal.ie",
+      "source_url": "https://www.thejournal.ie/kosovo-ireland-report-2-7172931-Sep2026/",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "skysports.com",
+          "url": "https://www.skysports.com/football/news/13591504/kosovo-1-0-republic-of-ireland-heimir-hallgrimssons-boys-in-green-beaten-in-uefa-nations-league-opener"
+        },
+        {
+          "domain": "sporx.com",
+          "url": "https://www.sporx.com/vedat-muriqi-atti-kosova-galibiyete-uzandi-SXHBQ1177148SXQ"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-греция-отыгралась-в-белграде-и-обыграла-сербию",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Греция отыгралась в Белграде и обыграла Сербию",
+      "summary": "Живкович вывел хозяев вперёд на 4-й минуте, но Цолис сравнял на 74-й, а Дувикас в концовке принёс гостям победу 2:1.",
+      "bullets": [],
+      "category": "match",
+      "country": "other",
+      "published_at": "2026-09-24T23:48:00+03:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/sirbistan/yunanistandan-sirbistanda-geri-donus-2638875",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "corrieredellosport.it",
+          "url": "https://www.corrieredellosport.it/calcio"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-турция-примет-францию-в-дебютном-матче-зидана",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Турция примет Францию в дебютном матче Зидана",
+      "summary": "Первая игра турок в элитном дивизионе Лиги наций: Зидан выпускает Мбаппе, у хозяев нет Кёкчю и Чалханоглу, капитанская повязка достаётся Демиралу.",
+      "bullets": [],
+      "category": "match",
+      "country": "turkey",
+      "published_at": "2026-09-25T01:03:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/turkiye-fransa-muhtemel-11-ler-SXHBQ1177150SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-монтелла-были-предложения-но-работа-в-турции-не-закончена",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Монтелла: были предложения, но работа в Турции не закончена",
+      "summary": "Тренер сборной Турции подтвердил интерес со стороны клубов и объяснил, почему решил остаться перед стартом в Лиге наций.",
+      "bullets": [],
+      "category": "statements",
+      "country": "turkey",
+      "published_at": "2026-09-24T23:03:00+02:00",
+      "source_domain": "tuttosport.com",
+      "source_url": "https://www.tuttosport.com/video/calcio/uefa-nations-league/2026/09/24-151445066/montella_ricevute_proposte_ma_voglio_continuare_con_la_turchia",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-эвертон-не-продаст-брантуэйта-ливерпуль-тянет-с-алисоном",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "«Эвертон» не продаст Брантуэйта, «Ливерпуль» тянет с Алисоном",
+      "summary": "Защитник с контрактом до 2030-го не выставлен на продажу, зато переговоры по новому соглашению с Алисоном заморожены — вратарь может уйти свободным агентом.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "england",
+      "published_at": "2026-09-24T22:52:00+01:00",
+      "source_domain": "teamtalk.com",
+      "source_url": "https://www.teamtalk.com/liverpool/latest-liverpool-transfer-news-jarrad-branthwaite-tyler-morton",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "football365.com",
+          "url": "https://www.football365.com/news/everton-liverpool-jarrad-branthwaite-sale-decision-reached"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-25-ливерпуль-решил-не-продлевать-контракт-с-ван-дейком",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "«Ливерпуль» решил не продлевать контракт с ван Дейком",
+      "summary": "По данным Fichajes, клуб отпустит капитана свободным агентом летом 2027-го и уже ищет преемника, а интерес к нему сохраняют Саудовская Аравия, MLS и Турция.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "england",
+      "published_at": "2026-09-25T02:00:00+02:00",
+      "source_domain": "fichajes.net",
+      "source_url": "https://www.fichajes.net/noticias/virgil-dijk-saldra-gratis-liverpool-20260925.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-челси-ищет-плеймейкера-по-запросу-хаби-алонсо",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "«Челси» ищет плеймейкера по запросу Хаби Алонсо",
+      "summary": "В приоритете Алекс Скотт из «Борнмута» и Адам Уортон из «Кристал Пэлас»; от Ламина Камары из «Монако» лондонцы отступили — им заинтересовался «Ливерпуль».",
+      "bullets": [],
+      "category": "rumors",
+      "country": "england",
+      "published_at": "2026-09-25T01:00:00+02:00",
+      "source_domain": "fichajes.net",
+      "source_url": "https://www.fichajes.net/noticias/principal-exigencia-xabi-alonso-20260925.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-роберто-карлос-назвал-мбаппе-своим-золотым-мячом",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Роберто Карлос назвал Мбаппе своим «Золотым мячом»",
+      "summary": "Легенда «Реала» в интервью AS выбрал француза, который без трофеев сезона стал лучшим бомбардиром Ла Лиги, Лиги чемпионов и ЧМ; голосование закрывается 28 сентября.",
+      "bullets": [],
+      "category": "statements",
+      "country": "spain",
+      "published_at": "2026-09-25T00:00:00+02:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a3317899653886275729-ballon-dor-roberto-carlos-milite-pour-kylian-mbappe",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-солбаккен-объяснил-роль-аурснеса-опытом-в-бенфике",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "Солбаккен объяснил роль Аурснеса опытом в «Бенфике»",
+      "summary": "Норвежец играл левым защитником против Дании, потому что Мёллер Вольфе теряет уверенность в «Гамбурге»; перед Португалией схема, вероятно, сохранится.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-09-24T22:58:34+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/solbakken-usa-o-benfica-para-explicar-nova-posicao-de-aursnes-na-noruega-2026092422560185434",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-ювентус-проведёт-товарищеский-матч-с-кремонезе",
+      "date": "2026-09-25",
+      "section": "news",
+      "title": "«Ювентус» проведёт товарищеский матч с «Кремонезе»",
+      "summary": "Спарринг назначен на 2 октября на базе «Континасса» — туринцы добирают игровой тонус в паузу на сборные.",
+      "bullets": [],
+      "category": "other",
+      "country": "italy",
+      "published_at": "2026-09-24T22:36:00+02:00",
+      "source_domain": "sportmediaset.mediaset.it",
+      "source_url": "https://www.sportmediaset.mediaset.it/calcio/juve-il-2-ottobre-test-con-la-cremonese-alla-continassa_116953311-202602k.shtml",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-хроника-o-jogo-в-эре-жезуша-чудотворец-только-феликс",
+      "date": "2026-09-25",
+      "section": "analytics",
+      "title": "Хроника O Jogo: в эре Жезуша чудотворец только Феликс",
+      "summary": "Авторская хроника матча с Уэльсом: победа есть, а игры и «артистической нотки» у Португалии нет.",
+      "bullets": [
+        "Дебют Жезуша автор описывает как повод лишь для «умеренных улыбок»: победа без композиции и гармонии.",
+        "Второй тайм назван переходом «от развлекательного к плачевному» — команда выглядела сонной и уязвимой к ошибкам.",
+        "Уэльс охарактеризован как соперник «покорный, легко обыгрываемый и лишённый атакующей отделки», то есть тест был слабым.",
+        "Ожидания от нового тренера и Роналду, по мнению автора, «оставлены на другие случаи»."
+      ],
+      "category": "match",
+      "country": "portugal",
+      "published_at": "2026-09-24T23:31:00+01:00",
+      "source_domain": "ojogo.pt",
+      "source_url": "https://www.ojogo.pt/internacional/artigo/a-cronica-do-portugal-pais-de-gales-santo-milagreiro-na-era-jesus-so-felix/18130307",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-оценки-португалии-феликс-и-нуну-мендеш-против-монотонности",
+      "date": "2026-09-25",
+      "section": "analytics",
+      "title": "Оценки Португалии: Феликс и Нуну Мендеш против монотонности",
+      "summary": "Разбор O Jogo по игрокам после дебюта Жезуша: почти вся команда слилась в серый фон.",
+      "bullets": [
+        "Только Жоау Феликс и Нуну Мендеш, по версии издания, выбились из общей монотонности матча.",
+        "Вратарь Диогу Кошта получил 5 из 10 — одна из самых низких оценок вечера.",
+        "Материал вышел как эксклюзивный поимённый разбор дебютной игры Жоржи Жезуша во главе сборной."
+      ],
+      "category": "match",
+      "country": "portugal",
+      "published_at": "2026-09-24T23:27:00+01:00",
+      "source_domain": "ojogo.pt",
+      "source_url": "https://www.ojogo.pt/internacional/artigo/portugal-um-a-um-joao-felix-e-nuno-mendes-escaparam-a-monotonia/18130304",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-09-25-зачем-ливерпулю-возвращать-тайлера-мортона-из-лиона",
+      "date": "2026-09-25",
+      "section": "analytics",
+      "title": "Зачем «Ливерпулю» возвращать Тайлера Мортона из «Лиона»",
+      "summary": "Авторская колонка: почему при Ираоле идея вернуть проданного опорника выглядит логичной.",
+      "bullets": [
+        "«Ливерпуль» продал Мортона в «Лион» за £15 млн летом 2025-го и сохранил 20% от будущей перепродажи — козырь в возможном аукционе.",
+        "За 23-летним опорником следят семь клубов АПЛ, включая «Ньюкасл», «Сандерленд», «Эвертон», «Кристал Пэлас», «Брайтон» и «Ноттингем Форест».",
+        "Ключевой аргумент автора: Слот почти не давал шансов молодым, а Ираола уже заработал репутацию тренера, который им доверяет.",
+        "Мортон, по версии колонки, закрывает давнюю проблему клуба на позиции «шестёрки» — за счёт игры на опережение и передач, разрезающих линии."
+      ],
+      "category": "transfers",
+      "country": "england",
+      "published_at": "2026-09-24T21:44:00+01:00",
+      "source_domain": "caughtoffside.com",
+      "source_url": "https://www.caughtoffside.com/2026/09/24/liverpool-tyler-morton-return-lyon/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-09-25-дебют-клоппа-испортили-на-90-2",
       "date": "2026-09-25",
