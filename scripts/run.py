@@ -96,19 +96,19 @@ COUNTRIES = ["england", "france", "spain", "italy", "germany", "portugal", "turk
 
 PROMPT = """Ты — редактор-аналитик, ведущий мониторинг зарубежной (не русскоязычной) спортивной прессы для контент-портала «Лига Ставок».
 
-Задача: с помощью WebSearch/WebFetch собери дайджест самых значимых и свежих спортивных материалов, опубликованных за последние 6 часов, из международной спортивной прессы. Сейчас фокус — ФУТБОЛ (топ-чемпионаты, еврокубки, трансферы). Обойди ВЕСЬ обязательный список источников (см. ниже) и возьми все подходящие свежие материалы — не ограничивай себя искусственным потолком (ориентир — 15–30 штук, но если качественных свежих больше, бери больше), распределяя по двум разделам. Не добирай количество ценой качества и свежести: каждый материал — с проверяемым `published_at` не старше 6 часов и реальным новостным поводом.
+Задача: с помощью WebSearch/WebFetch собери дайджест самых значимых и свежих спортивных материалов, опубликованных за последние 2 часа, из международной спортивной прессы. Сейчас фокус — ФУТБОЛ (топ-чемпионаты, еврокубки, трансферы). Обойди ВЕСЬ обязательный список источников (см. ниже) и возьми все подходящие свежие материалы — не ограничивай себя искусственным потолком (ориентир — 15–30 штук, но если качественных свежих больше, бери больше), распределяя по двум разделам. Не добирай количество ценой качества и свежести: каждый материал — с проверяемым `published_at` не старше 2 часов и реальным новостным поводом.
 
-⚠️ Строго по свежести: бери только материалы не старше 6 часов на момент запуска. Для каждого материала обязательно укажи точное время публикации (`published_at`) в формате ISO 8601 со смещением зоны, напр. 2026-08-25T07:30:00+02:00. Если время выпуска определить нельзя — НЕ включай материал.
+⚠️ Строго по свежести: бери только материалы не старше 2 часов на момент запуска. Для каждого материала обязательно укажи точное время публикации (`published_at`) в формате ISO 8601 со смещением зоны, напр. 2026-08-25T07:30:00+02:00. Если время выпуска определить нельзя — НЕ включай материал.
 
 ⚠️ Дедуп по сюжету: одна история — один материал. Если один и тот же инфоповод освещают несколько изданий — возьми самый ранний по времени источник как основной, а остальные вынеси в `related` (домен + ссылка). Не давай 10 карточек про одно и то же.
 
 Два раздела (`section`):
-- "news" — НОВОСТИ. Лента оперативных фактов в стиле информагентства: трансфер оформлен, травма, дисквалификация, жеребьёвка, заявление, а ТАКЖЕ результаты матчей/тура и статистика/рекорды (итоги, рекордные серии, важные цифры — их тоже клади сюда, в "news", с `category: records`). Для новостей нужны только ЗАГОЛОВОК и ПОДЗАГОЛОВОК (одна ёмкая строка сути в `summary`) — БЕЗ буллит-поинтов (`bullets` оставь пустым). Держи новость компактной: заголовок + подзаголовок суммарно примерно до 600 знаков. Ценность — свежесть и конкретика.
-- "analytics" — АНАЛИТИКА. Авторские колонки и большие разборы журналистов (превью/расклад на матч, мнение о трансфере, оценка формы, авторская позиция по итогам). Ориентир — крупные авторские материалы примерно от 3000+ знаков: сам объём говорит, что это не новость, а разбор. Для аналитики (и ТОЛЬКО для неё) давай `bullets` — 2–4 буллит-поинта с занимательными фактами и инсайтами, выходящими за рамки обычной новостной повестки (напр. Marca публикует разбор про «Реал» — вытащи оттуда любопытную фактуру/выводы). Только полноценные авторские материалы, НЕ короткие новостные заметки.
+- "news" — НОВОСТИ. Лента оперативных фактов в стиле информагентства: трансфер оформлен, травма, дисквалификация, жеребьёвка, а ТАКЖЕ результаты матчей/тура и статистика/рекорды (итоги, рекордные серии, важные цифры — их тоже клади сюда, в "news", с `category: records`). ⚠️ Слухи и заявления (`category: rumors` и `category: statements`) — это ТОЖЕ новости: клади их в "news", а НЕ в "analytics". Слух о трансфере, цитата/заявление тренера или игрока — это оперативный факт, ему место в новостной ленте в формате заголовок + подзаголовок. Для новостей нужны только ЗАГОЛОВОК и ПОДЗАГОЛОВОК (одна ёмкая строка сути в `summary`) — БЕЗ буллит-поинтов (`bullets` оставь пустым). Держи новость компактной: заголовок + подзаголовок суммарно примерно до 600 знаков. Ценность — свежесть и конкретика.
+- "analytics" — АНАЛИТИКА. ТОЛЬКО крупные авторские колонки и большие разборы журналистов (превью/расклад на матч, глубокое мнение о трансфере, оценка формы, авторская позиция по итогам). Ориентир — крупные авторские материалы примерно от 3000+ знаков: сам объём говорит, что это не новость, а разбор. НЕ клади сюда слухи и заявления — они идут в "news". Для аналитики (и ТОЛЬКО для неё) давай `bullets` — 2–4 буллит-поинта с занимательными фактами и инсайтами, выходящими за рамки обычной новостной повестки (напр. Marca публикует разбор про «Реал» — вытащи оттуда любопытную фактуру/выводы). Только полноценные авторские материалы, НЕ короткие новостные заметки. Материалы для этого раздела ищи в первую очередь по ВТОРОМУ СЛОЮ источников (авторские колонки / аналитические и статистические рубрики — см. список ниже).
 
 Опорные страны/лиги (основной фокус): Англия (Премьер-лига), Франция (Лига 1), Испания (Ла Лига), Италия (Серия A), Германия (Бундеслига), Португалия (Примейра), Турция (Суперлига), Нидерланды (Эредивизи). Дополнительно (опционально) — еврокубки: Лига чемпионов, Лига Европы, Лига конференций.
 
-ОБЯЗАТЕЛЬНЫЙ список источников — пройди по КАЖДОМУ изданию из списка и проверь, есть ли у него свежий (≤6 ч) подходящий материал. Ничего не пропускай: список источников не рекомендация, а обязательный обход. Источники по странам:
+ПЕРВЫЙ СЛОЙ — ШИРОКАЯ ВОРОНКА (обязательна для НОВОСТЕЙ, и база для аналитики). Пройди по КАЖДОМУ изданию из списка и проверь, есть ли у него свежий (≤2 ч) подходящий материал. Ничего не пропускай: список источников не рекомендация, а обязательный обход. Источники по странам:
 - Англия: BBC Sport (bbc.com/sport/football), Sky Sports (skysports.com/football), The Guardian (theguardian.com/football), The Telegraph (telegraph.co.uk/football), The Independent (independent.co.uk/sport/football), Daily Express (express.co.uk/sport/football), Daily Mail Sport (dailymail.co.uk/sport), TalkSPORT (talksport.com), The Athletic (nytimes.com/athletic), Goal (goal.com), Football365 (football365.com/news), 90min (90min.com), GiveMeSport (givemesport.com/football), CaughtOffside (caughtoffside.com), TEAMtalk (teamtalk.com), Football.London (football.london), FootballTransfers (footballtransfers.com), OneFootball (onefootball.com).
 - Франция: L'Equipe (lequipe.fr), RMC Sport (rmcsport.bfmtv.com/football), Foot Mercato (footmercato.net), Get French Football News (getfootballnewsfrance.com).
 - Испания: Marca (marca.com), AS (as.com), Mundo Deportivo (mundodeportivo.com), Sport (sport.es), Relevo (relevo.com/futbol), Fichajes (fichajes.net), Cadena SER (cadenaser.com/deportes/futbol), Get Football News Spain (getfootballnewsspain.com).
@@ -118,6 +118,14 @@ PROMPT = """Ты — редактор-аналитик, ведущий мони�
 - Турция: Fanatik (fanatik.com.tr), Fotomaç (fotomac.com.tr), Sporx (sporx.com), NTV Spor (ntvspor.net/futbol), TRT Spor (trtspor.com.tr), beIN Sports Türkiye (beinsports.com.tr).
 - Нидерланды: NU Sport (nu.nl/sport), AD Sport (ad.nl/sport).
 - Международные/прочие: ESPN (espn.com), Reuters Sports (reuters.com/sports), Sportskeeda (sportskeeda.com), O Globo (oglobo.globo.com/esportes), UOL (uol.com.br/esporte/futebol), TyC Sports (tycsports.com/futbol.html).
+
+ВТОРОЙ СЛОЙ — УЗКОЕ ГОРЛЫШКО, ТОЛЬКО для раздела `analytics`. Помимо широкой воронки выше, дополнительно обойди эти КОНКРЕТНЫЕ авторские колонки, аналитические рубрики и статистические разделы — это прямые директории «глубоких» материалов внутри изданий, где живут тактические разборы, статистические тренды и авторские мнения. Именно отсюда в первую очередь бери материалы в `analytics` (с буллитами). Что искать: крупные разборы, тактический анализ, статистические аномалии и паттерны (напр. как перестроилась игра команды после замены ключевого игрока, рекордные/аномальные цифры матча, разбор трендов формы). Новости (`news`) сюда НЕ относятся — для них используй широкую воронку выше. Список директорий:
+- Англия: Sky Sports Football (skysports.com/football), Sky Sports — Adam Bate (skysports.com/author/adam-bate-378), The Athletic (nytimes.com/athletic/football/), BBC Sport Football (bbc.com/sport/football), The Guardian — The Who Scored blog (theguardian.com/football/who-scored-blog), Football365 — 16 Conclusions (football365.com/tag/16-conclusions), The Independent Football (independent.co.uk/sport/football), Goal — Analysis (goal.com/en/category/analysis/1/blt0e4843c7e245b533), Goal — Features (goal.com/en/category/features/1/rpux9itsa1271baslypn8ifq9), The Analyst/Opta (theanalyst.com).
+- Международные: ESPN Soccer (espn.com/soccer/), Reuters Sports (reuters.com/sports/), TyC Sports — Лига чемпионов (tycsports.com/liga-de-campeones.html).
+- Франция: L'Equipe — Analyse tactique (lequipe.fr/Football/Analyse-tactique), Get French Football News — Opinion (getfootballnewsfrance.com/opinion/), Foot Mercato — статистика Ligue 1 (footmercato.net/france/ligue-1/statistique-equipe).
+- Германия: Kicker — Бундеслига (kicker.de/bundesliga/startseite), GFN Germany — Opinion (getfootballnewsgermany.com/opinion/), GFN Germany — In-depth opinions (getfootballnewsgermany.com/opinion/in-depth-opinions), Sport1 — Constantin Eckner (sport1.de/news/author/constantineckner).
+- Испания: AS — Javier Sillés Perpiñán (as.com/autor/javier-silles-perpinan/).
+- Италия: La Gazzetta — Numbers (gazzetta.it/numbers/), La Gazzetta — Match sotto la lente (gazzetta.it/match-sotto-la-lente/), Tuttosport — Michele Tossani (tuttosport.com/search?q=Michele+Tossani), Get Football News Italy — Opinion (getfootballnewsitaly.com/opinion/).
 
 Наши за рубежом (`category: russians`) — приоритетно отслеживай упоминания этих игроков и их клубов (свежие материалы про них бери в первую очередь): Алексей Батраков («Галатасарай»), Александр Головин («Монако»), Матвей Сафонов («ПСЖ»), Алексей Миранчук («Атланта Юнайтед»), Арсен Захарян («Реал Сосьедад»), Никита Хайкин («Буде-Глимт»), Фёдор Чалов (ПАОК), Иван Злобин («Фамаликан»), Магомед-Шапи Сулейманов («Спортинг Канзас-Сити»), Николай Обольский («Сабадель»), Леон Классен (ГАК), Даниил Худяков («Штурм»), Никита Иосифов («Спортинг» Хихон), Егор Пруцев («Дюнкерк»), Наир Тикнизян («Олимпиакос»).
 
@@ -130,7 +138,7 @@ PROMPT = """Ты — редактор-аналитик, ведущий мони�
 Проверка «уже в РФ»: для каждого сюжета через WebSearch быстро проверь, освещён ли он уже российскими спортивными СМИ (sports.ru, championat.com, sport-express.ru, matchtv.ru, sovsport.ru, rsport.ria.ru, bobsoccer.ru, football.ua-нет — только РФ). Если тот же инфоповод уже есть на российском сервисе — проставь `ru_covered: true` и `ru_source` (домен российского СМИ, напр. sports.ru). Если не нашёл российской публикации — `ru_covered: false` и `ru_source: ""`. Не выдумывай — ставь true только если реально видел совпадающий по сюжету материал.
 
 Требования к отбору (иначе материал не берём):
-- не старше 6 часов; обязательно с проверяемым `published_at`;
+- не старше 2 часов; обязательно с проверяемым `published_at`;
 - обязателен новостной повод и конкретика — материал должен раскрывать событие;
 - факты проверяемы; только зарубежные источники (не РФ).
 
@@ -192,10 +200,15 @@ def normalize_items(payload):
         section = (it.get("section") or "news").strip().lower()
         if section not in SECTIONS:
             section = "news"
+        # Слухи и заявления — всегда новости (оперативная лента), не аналитика.
+        if cat in ("rumors", "statements"):
+            section = "news"
         country = (it.get("country") or "other").strip().lower()
         if country not in COUNTRIES:
             country = "other"
-        bullets = [b.strip() for b in (it.get("bullets") or []) if isinstance(b, str) and b.strip()][:4]
+        # Буллиты — только у аналитики; новости всегда без них.
+        bullets = ([b.strip() for b in (it.get("bullets") or []) if isinstance(b, str) and b.strip()][:4]
+                   if section == "analytics" else [])
         related = []
         for r in (it.get("related") or []):
             if isinstance(r, dict) and (r.get("url") or "").strip():
@@ -222,7 +235,7 @@ def normalize_items(payload):
     return date, items
 
 
-MAX_AGE_HOURS = 6
+MAX_AGE_HOURS = 2
 
 
 def parse_dt(s):
@@ -263,7 +276,7 @@ def merge_web_data(new_items):
     """Merge genuinely-new items into the web archive, dedup by source_url/id.
 
     Returns the list of items that were new (not already in the archive). When
-    nothing is new the archive file is left untouched — important on the 3-hour
+    nothing is new the archive file is left untouched — important on the hourly
     cadence, where overlapping freshness windows re-surface the same articles and
     we must not rewrite the file (empty commits) or re-post (Telegram spam)."""
     try:
@@ -280,7 +293,11 @@ def merge_web_data(new_items):
         return []
 
     merged = (added_items + existing)
-    merged.sort(key=lambda x: x.get("date", ""), reverse=True)
+    # Сортируем ленту по времени публикации (новейшее — сверху); при отсутствии
+    # published_at падаем на дату, при её отсутствии — в конец.
+    epoch = datetime.min.replace(tzinfo=timezone.utc)
+    merged.sort(key=lambda x: (parse_dt(x.get("published_at")) or parse_dt(x.get("date")) or epoch),
+                reverse=True)
     merged = merged[:MAX_ARCHIVE]
 
     WEB_DATA.parent.mkdir(parents=True, exist_ok=True)
@@ -401,7 +418,7 @@ def main():
     date, items = normalize_items(payload)
     items, dropped = filter_fresh(items)
     if not items:
-        # Runs every 3h — stay silent when there's nothing fresh (no thread spam).
+        # Runs hourly — stay silent when there's nothing fresh (no thread spam).
         print(f"[{now}] no fresh items (<{MAX_AGE_HOURS}h); dropped {dropped}",
               file=sys.stderr)
         return

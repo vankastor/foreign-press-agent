@@ -114,11 +114,19 @@ function sectionKey(s) {
   return SECTIONS[s] ? s : "news";
 }
 
+// Сортировочный ключ: время публикации (мс), fallback — дата, иначе 0.
+function itemTime(i) {
+  const t = Date.parse(i.published_at || "");
+  if (!Number.isNaN(t)) return t;
+  const d = Date.parse(i.date || "");
+  return Number.isNaN(d) ? 0 : d;
+}
+
 async function load() {
   try {
     const res = await fetch("data/news.json", { cache: "no-store" });
     const data = await res.json();
-    state.items = (data.items || []).slice().sort((a, b) => (a.date < b.date ? 1 : -1));
+    state.items = (data.items || []).slice().sort((a, b) => itemTime(b) - itemTime(a));
     renderMeta(data.generated_at);
     renderStats();
     renderSections();
