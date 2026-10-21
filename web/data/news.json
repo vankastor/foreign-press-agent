@@ -1,6 +1,285 @@
 {
-  "generated_at": "2026-10-21T17:13:46.973403+01:00",
+  "generated_at": "2026-10-21T18:09:27.516320+01:00",
   "items": [
+    {
+      "id": "2026-10-21-нико-пас-наказал-юнайтед-на-второй-минуте",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Нико Пас наказал «Юнайтед» на второй минуте",
+      "summary": "«Комо» открыл счёт в домашнем матче Лиги чемпионов с «Манчестер Юнайтед» — для Паса это первый гол в турнире.",
+      "bullets": [],
+      "category": "match",
+      "country": "italy",
+      "published_at": "2026-10-21T17:58:00+01:00",
+      "source_domain": "football-italia.net",
+      "source_url": "https://football-italia.net/video-paz-scores-first-champions-league-goal/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "corrieredellosport.it",
+          "url": "https://www.corrieredellosport.it/live/partita/como-manchester-utd-2685416"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-акгюн-побил-рекорд-галатасарая-в-лиге-чемпионов",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Акгюн побил рекорд «Галатасарая» в Лиге чемпионов",
+      "summary": "Юнус Акгюн забил «Лиллю» на 65-й секунде — это самый быстрый гол стамбульцев в истории ЛЧ, прежний рекорд принадлежал Осимхену.",
+      "bullets": [],
+      "category": "records",
+      "country": "eurocups",
+      "published_at": "2026-10-21T19:57:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/yunus-akgun-den-65-saniyede-rekor-SXHBQ1180120SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-сампдория-в-шаге-от-назначения-д-анджело",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "«Сампдория» в шаге от назначения Д'Анджело",
+      "summary": "После увольнения Коррадо генуэзцы договариваются с бывшим тренером «Специи» и «Пизы»; дебют — 24 октября с «Южным Тиролем».",
+      "bullets": [],
+      "category": "transfers",
+      "country": "italy",
+      "published_at": "2026-10-21T18:57:00+02:00",
+      "source_domain": "calciomercato.com",
+      "source_url": "https://www.calciomercato.com/liste/panchina-sampdoria-in-arrivo-luca-d-angelo-accordo-a-un-passo/blt4f614ea44018216e",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "gianlucadimarzio.com",
+          "url": "https://www.gianlucadimarzio.com/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-сандерленд-готовит-новый-заход-за-катамо",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "«Сандерленд» готовит новый заход за Катамо",
+      "summary": "После отказа от €40 млн англичане вернутся в январе, но «Спортинг» ждёт сумму около отступных в €60 млн.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "portugal",
+      "published_at": "2026-10-21T17:56:00+01:00",
+      "source_domain": "ojogo.pt",
+      "source_url": "https://www.ojogo.pt/futebol/artigo/sporting-sunderland-prepara-nova-investida-por-geny-catamo/18139556",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "teamtalk.com",
+          "url": "https://www.teamtalk.com/news"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-кто-такой-шави-эспарт-новый-лам-барселоны",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Кто такой Шави Эспарт — «новый Лам» «Барселоны»",
+      "summary": "Воспитанник Ла Масии 2007 года рождения забил первый еврогол в Париже, а Флик сравнивает его с Филиппом Ламом.",
+      "bullets": [],
+      "category": "other",
+      "country": "spain",
+      "published_at": "2026-10-21T18:46:00+02:00",
+      "source_domain": "calciomercato.com",
+      "source_url": "https://www.calciomercato.com/liste/chi-e-xavi-espart-il-nuovo-talento-del-barcellona-paragonato-a-lahm/blt707314fe5c7f5c53",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-удаление-струйка-расколол-английский-футбол",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Удаление Струйка расколол английский футбол",
+      "summary": "Комиссия отменила красную карточку защитника «Брайтона», хотя панель ключевых эпизодов 3:2 поддержала вмешательство VAR.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "england",
+      "published_at": "2026-10-21T17:41:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/13601970/pascal-struijk-red-card-two-panels-disagree-over-controversial-brighton-var-decision-against-sunderland",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-озил-обвинил-фифа-в-двойных-стандартах-из-за-россии",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Озил обвинил ФИФА в двойных стандартах из-за России",
+      "summary": "На товарищеском матче ветеранов «Башакшехира» и «Зенита» Озил и Гюмюшдаг потребовали от ФИФА одинаково относиться к России и Израилю.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "turkey",
+      "published_at": "2026-10-21T19:39:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/goksel-gumusdag-ve-mesut-ozil-den-fifa-ya-cifte-standart-tepkisi-SXHBQ1180119SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-реал-смотрит-лукебу-живьём-на-бернабеу",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "«Реал» смотрит Лукебу живьём на «Бернабеу»",
+      "summary": "Защитник «Лейпцига» приехал в Мадрид на матч Лиги чемпионов, а мадридцы рассматривают его как январскую цель.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "spain",
+      "published_at": "2026-10-21T18:25:00+02:00",
+      "source_domain": "fichajes.net",
+      "source_url": "https://www.fichajes.net/noticias/bernabeu-examina-lukeba-20261021.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-роуз-обожаю-модрича-но-милан-не-главный-матч",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Роуз: обожаю Модрича, но «Милан» — не главный матч",
+      "summary": "Тренер «Борнмута» заявил, что у клуба были игры крупнее встречи с «Миланом», и похвалил Аморима.",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-21T17:22:00+01:00",
+      "source_domain": "football-italia.net",
+      "source_url": "https://football-italia.net/rose-bournemouth-bigger-games-than-milan/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "calciomercato.com",
+          "url": "https://www.calciomercato.com/liste/bournemouth-rose-amorim-allenatore-top-adoro-modric-ma-a-volte-e-piu-difficile-giocare-con-le-piccole/blt30355af93d49a9ae"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-защитник-барсы-пообещал-победу-в-класико",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Защитник «Барсы» пообещал победу в класико",
+      "summary": "Жерард Мартин после 2:4 от ПСЖ заявил: «Мы держим голову высоко, и класико в выходные мы выиграем».",
+      "bullets": [],
+      "category": "statements",
+      "country": "spain",
+      "published_at": "2026-10-21T18:20:00+02:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a2290738003776952323-fc-barcelone-gerard-martin-lance-le-clasico",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-фабрегас-комо-побежал-не-научившись-ходить",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Фабрегас: «Комо» побежал, не научившись ходить",
+      "summary": "Тренер признал кадровые ограничения перед домашней игрой Лиги чемпионов с «Манчестер Юнайтед»; Каррик назвал «Комо» очень хорошей командой.",
+      "bullets": [],
+      "category": "statements",
+      "country": "italy",
+      "published_at": "2026-10-21T17:20:00+01:00",
+      "source_domain": "football-italia.net",
+      "source_url": "https://football-italia.net/fabregas-como-running-before-we-could-walk/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "football-italia.net",
+          "url": "https://football-italia.net/carrick-como-are-a-really-good-team/"
+        },
+        {
+          "domain": "football-italia.net",
+          "url": "https://football-italia.net/suwarso-como-hosting-manchester-united-unreal/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-почему-арсенал-разучился-забивать-со-стандартов",
+      "date": "2026-10-21",
+      "section": "analytics",
+      "title": "Почему «Арсенал» разучился забивать со стандартов",
+      "summary": "Большой разбор Sky Sports с данными Opta: команда Артеты, год назад жившая стандартами, за семь туров не забила с них ни разу.",
+      "bullets": [
+        "«Арсенал» — одна из четырёх команд АПЛ (с «Ливерпулем», «МЮ» и «Форестом»), не забивших со стандартов с игры за семь туров сезона.",
+        "Падение объёма: 4,7 угловых за матч — минимум за девять сезонов, на 17% меньше прошлогодних 5,7 и примерно на 30% меньше, чем двумя годами ранее.",
+        "По данным Opta, при 2,50 ожидаемых голов со стандартов фактический результат — ноль: один из крупнейших недоборов в лиге.",
+        "xG со стандартов упало с 0,56 до 0,36 за игру — то есть мяч не только реже подают, но и подают в худшие зоны."
+      ],
+      "category": "records",
+      "country": "england",
+      "published_at": "2026-10-21T17:15:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/13601338/arsenal-were-set-piece-kings-last-season-so-why-have-they-stopped-scoring-from-set-pieces-between-the-lines-explains",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-окан-бурук-разобрал-лилль-перед-матчем",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Окан Бурук разобрал «Лилль» перед матчем",
+      "summary": "Тренер «Галатасарая» назвал главным оружием французов игру на переходах и объяснил, как стамбульцы будут её гасить.",
+      "bullets": [],
+      "category": "statements",
+      "country": "eurocups",
+      "published_at": "2026-10-21T19:13:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/okan-buruk-tan-lille-analizi-en-buyuk-hedefleri-gecis-oyunu-SXHBQ1180117SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-райя-признался-хочет-поиграть-в-ла-лиге",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Райя признался: хочет поиграть в Ла Лиге",
+      "summary": "У вратаря «Арсенала» остаётся два года контракта, переговоры о продлении не начаты, а сам он мечтает о чемпионате Испании.",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-21T17:01:00+01:00",
+      "source_domain": "footballtransfers.com",
+      "source_url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/arsenal-transfer-news-david-raya-admits-dream-destination-i-would-love-play-there",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-аталанта-перед-аяксом-страха-в-бергамо-нет",
+      "date": "2026-10-21",
+      "section": "analytics",
+      "title": "«Аталанта» перед «Аяксом»: страха в Бергамо нет",
+      "summary": "Нидерландский разбор итальянского соперника с итальянским журналистом: как клуб живёт после Гасперини и почему он опасен Сарри.",
+      "bullets": [
+        "Гасперини за 2016–2025 годы впервые вывел «Аталанту» в Лигу чемпионов и взял Лигу Европы-2024, разгромив «Леверкузен» 3:0.",
+        "Иван Юрич продержался считаные месяцы: его уволили после конфликта с Адемолой Лукманом в матче ЛЧ с «Марселем».",
+        "Даже без ряда лидеров команда забила девять мячей в трёх последних матчах при массе нереализованных шансов.",
+        "Шкамакка, пришедший в 2023-м на замену Хёйлунду, набрал форму: забивал за Италию и в еврокубке с «Пафосом»."
+      ],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-10-21T17:00:00+01:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/ajax-still-a-big-name-in-italy-but-there-is-no-fear-here/blt95933fde8650fd06",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-10-21-псж-и-милан-перебивают-ливерпуль-в-гонке-за-морой",
       "date": "2026-10-21",
@@ -23,6 +302,27 @@
       ]
     },
     {
+      "id": "2026-10-21-кварацхелии-требуется-операция-волна-поддержки-в-псж",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Кварацхелии требуется операция: волна поддержки в ПСЖ",
+      "summary": "Французские СМИ фиксируют эмоциональную реакцию на разрыв «крестов» у грузинца, полученный в матче с «Барселоной»; операция — в ближайшие дни.",
+      "bullets": [],
+      "category": "injury",
+      "country": "france",
+      "published_at": "2026-10-21T17:59:00+02:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a2391927233652097992-jt-foot-mercato-limmense-emotion-autour-de-khvicha-kvaratskhelia",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "skysports.com",
+          "url": "https://www.skysports.com/football/news/13601843/khvicha-kvaratskhelia-psg-forward-set-for-surgery-after-rupturing-acl-in-champions-league-win-over-barcelona"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-порту-впервые-за-22-года-без-голов-дома-в-лч",
       "date": "2026-10-21",
       "section": "news",
@@ -34,6 +334,22 @@
       "published_at": "2026-10-21T16:57:00+01:00",
       "source_domain": "abola.pt",
       "source_url": "https://www.abola.pt/noticias/fc-porto-polvora-seca-como-nao-se-via-ha-22-anos-2026102115570222447",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-кроос-назвал-пятёрку-лучших-полузащитников-истории",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Кроос назвал пятёрку лучших полузащитников истории",
+      "summary": "В подкасте немец поставил первым Модрича, далее — Иньеста, Хави, Джеррард и Баллак.",
+      "bullets": [],
+      "category": "statements",
+      "country": "other",
+      "published_at": "2026-10-21T16:54:00+01:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/among-them-a-barcelona-duo-kroos-ranks-the-five-best-midfielders-in-history/blt6c1cd1890d9b4686",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -103,6 +419,27 @@
       "published_at": "2026-10-21T16:46:00+01:00",
       "source_domain": "abola.pt",
       "source_url": "https://www.abola.pt/noticias/van-der-gaag-se-vamos-jogar-sem-personalidade-vai-ser-dificil-2026102115462888314",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-класико-в-цифрах-барса-давит-реал-вниманием",
+      "date": "2026-10-21",
+      "section": "analytics",
+      "title": "Класико в цифрах: «Барса» давит «Реал» вниманием",
+      "summary": "Разбор интереса и формы перед первым класико сезона: по запросам и по таблице каталонцы выглядят убедительнее мадридцев.",
+      "bullets": [
+        "В сентябре «Барселону» искали 10,6 млн раз против 7,32 млн у «Реала» — заметный перевес в глобальном внимании.",
+        "Рафинья возглавил мировой рейтинг игроков с 4,24 млн визитов — почти втрое больше августовских 1,42 млн.",
+        "Ла Лига обошла Премьер-лигу по трафику: 39,74 млн визитов против 37,66 млн — редкая смена лидера.",
+        "Перед класико «Барса» идёт без осечек: 27 очков в девяти матчах, «Реал» — третий с 21 очком и серией поздних голов."
+      ],
+      "category": "records",
+      "country": "spain",
+      "published_at": "2026-10-21T16:45:00+01:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/before-the-clasico-barcelona-and-raphinha-crush-real-madrid-and-mbappe-in-the-language-of-numbers/blt19606db48905ff9b",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -252,6 +589,27 @@
       "related": []
     },
     {
+      "id": "2026-10-21-псж-лион-перенесут-на-вечер-золотого-мяча",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "ПСЖ — «Лион» перенесут на вечер «Золотого мяча»",
+      "summary": "Префектура полиции Парижа просит сдвинуть матч Лиги 1 на понедельник из-за протестов и игры NFL — он совпадёт с церемонией в Лондоне.",
+      "bullets": [],
+      "category": "other",
+      "country": "france",
+      "published_at": "2026-10-21T16:36:00+01:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/a-possible-security-decision-will-paris-saint-germain-s-stars-miss-the-ballon-d-or-ceremony/blt29bc363fe2950811",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "footmercato.net",
+          "url": "https://www.footmercato.net/a1716870376683410089-la-nouvelle-date-du-match-psg-ol-se-precise"
+        }
+      ]
+    },
+    {
       "id": "2026-10-21-батраков-впервые-вышел-в-старте-галатасарая-в-лч",
       "date": "2026-10-21",
       "section": "news",
@@ -308,6 +666,22 @@
           "url": "https://www.sportmediaset.mediaset.it/video/calcio/kolo-muani-bremer-abbiamo-parlato-nello-spogliatoio-discussione-costruttiva_117969056-202602k.shtml"
         }
       ]
+    },
+    {
+      "id": "2026-10-21-монтелла-отказался-от-долга-адана-демирспора",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Монтелла отказался от долга «Адана Демирспора»",
+      "summary": "Клуб публично поблагодарил итальянца, который простил причитавшиеся ему выплаты.",
+      "bullets": [],
+      "category": "other",
+      "country": "turkey",
+      "published_at": "2026-10-21T18:15:00+03:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/futbol/montella-alacagindan-vazgecti-adana-demirspor-tesekkur-etti-2641865",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
     },
     {
       "id": "2026-10-21-лотито-лацио-не-продам-даже-если-позвонит-эмир",
