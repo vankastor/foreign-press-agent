@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-10-21T20:08:33.831635+01:00",
+  "generated_at": "2026-10-21T21:28:54.217740+01:00",
   "items": [
+    {
+      "id": "2026-10-21-спортинг-не-удержал-победу-над-ласк-1-1",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "«Спортинг» не удержал победу над ЛАСК — 1:1",
+      "summary": "Лиссабонцы вели после гола Трринкана, но австрийцы сравняли в концовке и лишили португальцев трёх очков дома.",
+      "bullets": [],
+      "category": "match",
+      "country": "portugal",
+      "published_at": "2026-10-21T20:50:00+01:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/sporting-lask-champions-league-report/blt1e6f4b8c92d3a705",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-фабрегас-перехитрил-каррика-как-комо-разобрал-мю",
+      "date": "2026-10-21",
+      "section": "analytics",
+      "title": "Фабрегас перехитрил Каррика: как «Комо» разобрал «МЮ»",
+      "summary": "Тактический разбор: перестроение «Комо» в 3-2-5 с мячом и «карман Нико Паса» между линиями «Юнайтед» принесли дебютанту Лиги чемпионов разгром при xG 1,97 против 0,62.",
+      "bullets": [
+        "Номинальная 4-2-3-1 Фабрегаса с мячом превращалась в 3-2-5: Куто и Валье поднимались высоко, Перроне опускался к центральным защитникам и создавал численное преимущество 3v2.",
+        "Нико Пас смещался в правый полуфланг, вытягивал Андрея Сантоса из позиции и вскрывал центральный коридор для форвардов «Комо».",
+        "Тилеманс и Сантос регулярно оказывались впереди мяча — в центре возникала «пустая зона», а Бруну Фернандеш был вынужден отходить в свою половину и терял креативную функцию.",
+        "Владение 54:46 в пользу хозяев; из пяти контратак «Комо» три завершились голами, тогда как 13 ударов «МЮ» были в основном спекулятивными."
+      ],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-10-21T19:05:44+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en-us/news/como-man-utd-tactical-analysis-champions-league/blt2fb89686798bc49d",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "theanalyst.com",
+          "url": "https://theanalyst.com/2026/10/como-manchester-united-champions-league-analysis"
+        },
+        {
+          "domain": "goal.com",
+          "url": "https://www.goal.com/en-us/news/como-man-utd-player-ratings-champions-league/blt9c1a7e2b4d8f3e10"
+        }
+      ]
+    },
     {
       "id": "2026-10-21-комо-растерзал-мю-разбор-провала-каррика",
       "date": "2026-10-21",
@@ -40,6 +86,149 @@
       ]
     },
     {
+      "id": "2026-10-21-астон-вилла-обыграла-викинг-2-0",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "«Астон Вилла» обыграла «Викинг» 2:0",
+      "summary": "Английский клуб уверенно прошёл норвежцев дома и сохранил идеальный старт в еврокубке.",
+      "bullets": [],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-10-21T19:58:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/aston-villa-vs-viking/report/558419",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-британская-пресса-требует-увольнения-каррика",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Британская пресса требует увольнения Каррика",
+      "summary": "После 1:4 от дебютанта ЛЧ колумнисты назвали ситуацию «точкой невозврата» и указали на четыре поражения «МЮ» в пяти последних матчах.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "england",
+      "published_at": "2026-10-21T19:55:00+01:00",
+      "source_domain": "football365.com",
+      "source_url": "https://www.football365.com/news/man-utd-press-reaction-carrick-sack-como",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-бернарду-силва-забил-первый-гол-за-реал",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Бернарду Силва забил первый гол за «Реал»",
+      "summary": "Португалец открыл счёт в матче с «Лейпцигом» — это его дебютный мяч в составе мадридцев после летнего перехода.",
+      "bullets": [],
+      "category": "records",
+      "country": "spain",
+      "published_at": "2026-10-21T20:52:00+02:00",
+      "source_domain": "okdiario.com",
+      "source_url": "https://okdiario.com/deportes/real-madrid-bernardo-silva-primer-gol-leipzig-13985440",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-лилль-упустил-победу-при-счёте-2-0",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "«Лилль» упустил победу при счёте 2:0",
+      "summary": "Французская пресса назвала второй тайм «коллапсом»: команда Жениезио пропустила четыре мяча за 40 минут и осталась без очков.",
+      "bullets": [],
+      "category": "match",
+      "country": "france",
+      "published_at": "2026-10-21T20:49:00+02:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a1254789655-lille-effondrement-galatasaray-reaction",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-бруну-фернандеш-публично-раскритиковал-тактику-юнайтед",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Бруну Фернандеш публично раскритиковал тактику «Юнайтед»",
+      "summary": "Капитан заявил, что команда «не понимала, что делать с мячом» и что структура игры рассыпалась после второго гола «Комо».",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-21T19:48:00+01:00",
+      "source_domain": "football365.com",
+      "source_url": "https://www.football365.com/news/bruno-fernandes-criticises-man-utd-tactics-como",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "aol.co.uk",
+          "url": "https://www.aol.co.uk/sport/bruno-fernandes-man-utd-tactics-como-194800312.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-батраков-забил-лиллю-и-спас-галатасарай-перед-перерывом",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Батраков забил «Лиллю» и спас «Галатасарай» перед перерывом",
+      "summary": "На 44-й минуте россиянин замкнул головой передачу Шаллаи и сравнял счёт 2:2 — это его второй гол в двух матчах Лиги чемпионов подряд.",
+      "bullets": [],
+      "category": "russians",
+      "country": "eurocups",
+      "published_at": "2026-10-21T20:47:00+02:00",
+      "source_domain": "voetbalzone.nl",
+      "source_url": "https://www.voetbalzone.nl/nieuws/galatasaray-verslaat-lille-in-spectaculair-duel-en-wint-voor-het-eerst-in-champions-league/blt7ffb9e335b53eb7f",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "fanatik.com.tr",
+          "url": "https://www.fanatik.com.tr/galatasaray/live-lille-galatasaray-maci-canli-anlatim-lille-gs-maci-kadrosu-skoru-ve-istatistikleri-2641765"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-галатасарай-победил-лилль-4-2-в-лиге-чемпионов",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "«Галатасарай» победил «Лилль» 4:2 в Лиге чемпионов",
+      "summary": "Турки впервые в истории обыграли французский клуб в еврокубках: дубль Осимхена, голы Батракова и Акгюна перевернули матч после 0:2.",
+      "bullets": [],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-10-21T20:44:00+02:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/futbol/galatasaray-lille-mac-sonucu-sampiyonlar-ligi-4-2",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": [
+        {
+          "domain": "footmercato.net",
+          "url": "https://www.footmercato.net/a1254789654-ligue-des-champions-lille-sombre-face-a-galatasaray"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-компани-объяснил-почему-луис-диас-начал-матч-с-арсеналом",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Компани объяснил, почему Луис Диас начал матч с «Арсеналом»",
+      "summary": "Тренер «Байерна» сказал, что колумбиец нужен был для давления на фланге Калафьори, и назвал его «готовым к большим матчам».",
+      "bullets": [],
+      "category": "statements",
+      "country": "germany",
+      "published_at": "2026-10-21T20:42:00+02:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/kompany-luis-diaz-bayern-arsenal-champions-league/blt4a19c6d7e3b2f508",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
       "id": "2026-10-21-19-летний-диауне-переписал-рекорд-лилля",
       "date": "2026-10-21",
       "section": "news",
@@ -57,6 +246,59 @@
         {
           "domain": "africafootunited.com",
           "url": "https://africafootunited.com/losc-soriba-diaoune-devient-le-plus-jeune-buteur-du-club-en-ligue-des-champions/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-кристал-пэлас-готовит-предложение-по-сарру",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "«Кристал Пэлас» готовит предложение по Сарру",
+      "summary": "Клуб хочет закрепить игрока долгосрочным контрактом на фоне интереса из Германии и Италии.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "england",
+      "published_at": "2026-10-21T19:38:00+01:00",
+      "source_domain": "football365.com",
+      "source_url": "https://www.football365.com/news/crystal-palace-sarr-new-contract-offer",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-нойер-провёл-163-й-матч-в-лиге-чемпионов",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Нойер провёл 163-й матч в Лиге чемпионов",
+      "summary": "Вратарь «Байерна» вышел против «Арсенала» и обошёл по этому показателю Икера Касильяса среди голкиперов турнира.",
+      "bullets": [],
+      "category": "records",
+      "country": "germany",
+      "published_at": "2026-10-21T20:35:00+02:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/neuer-163-champions-league-appearances-record/blt7d3e9a1f5c84b206",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-21-каррик-извинился-перед-болельщиками-мю-после-1-4",
+      "date": "2026-10-21",
+      "section": "news",
+      "title": "Каррик извинился перед болельщиками «МЮ» после 1:4",
+      "summary": "«Это неприемлемо, я беру ответственность на себя» — тренер признал, что его план на матч не работал с первых минут, и назвал поражение худшим в своей карьере.",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-21T19:34:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/11667/13421877/michael-carrick-apologises-manchester-united-fans-como-defeat",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": [
+        {
+          "domain": "football365.com",
+          "url": "https://www.football365.com/news/carrick-apology-man-utd-como-humiliation"
         }
       ]
     },
