@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """foreign_press_agent — periodic foreign-press monitor.
 
 Runs headless Claude (reuses the Claude Code subscription, no extra API key),
