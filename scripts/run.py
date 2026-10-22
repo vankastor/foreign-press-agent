@@ -409,10 +409,8 @@ def main():
 
     payload = extract_json(out)
     if not payload or not payload.get("items"):
-        # Fallback: preserve original behavior — post whatever Claude returned.
-        header = f"🏟 Foreign Sports Digest — {now}\n\n"
-        tg_send(bot_token, chat_id, thread_id, header + out)
-        print(f"[{now}] posted raw digest ({len(out)} chars); JSON parse failed",
+        # Can't update the web UI without parsed items — log and bail (no thread post).
+        print(f"[{now}] JSON parse failed ({len(out)} chars); nothing published",
               file=sys.stderr)
         return
 
@@ -435,11 +433,9 @@ def main():
     if not ok:
         print(f"[{now}] git publish failed: {err}", file=sys.stderr)
 
-    tg_send(bot_token, chat_id, thread_id,
-            render_telegram(date, added_items, payload.get("next_steps", [])))
-    print(f"[{now}] posted {len(added_items)} new items to thread {thread_id} "
-          f"(dropped {dropped} stale); web +{len(added_items)} "
-          f"(push={'ok' if ok else 'fail'})",
+    # Новости больше НЕ уходят в Telegram-тред — только обновляем веб-UI.
+    print(f"[{now}] web +{len(added_items)} new items (dropped {dropped} stale); "
+          f"push={'ok' if ok else 'fail'} (thread posting disabled — web UI only)",
           flush=True)
 
 
