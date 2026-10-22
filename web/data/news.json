@@ -1,6 +1,256 @@
 {
-  "generated_at": "2026-10-22T10:27:16.953422+01:00",
+  "generated_at": "2026-10-22T11:15:31.556728+01:00",
   "items": [
+    {
+      "id": "2026-10-22-аякс-в-италии-всё-ещё-большое-имя-но-только-по-инерции",
+      "date": "2026-10-22",
+      "section": "analytics",
+      "title": "«Аякс» в Италии всё ещё большое имя — но только по инерции",
+      "summary": "Аналитика Goal перед матчем с «Аталантой»: автор сопоставляет исторический вес амстердамского клуба с его нынешним уровнем в еврокубках и объясняет, почему итальянцы по-прежнему относятся к нему с уважением.",
+      "bullets": [
+        "За последние пять еврокубковых сезонов «Аякс» растерял почти весь костяк, который доходил до полуфинала Лиги чемпионов, — клуб продал игроков на суммы, которые так и не конвертировал в результат.",
+        "«Аталанта» за тот же период прошла обратный путь: структура игры и трансферная модель Бергамо стали тем, чем раньше была модель Амстердама.",
+        "Автор отмечает, что узнаваемость бренда «Аякса» в Италии опирается на 1990-е и на фигуры вроде Берхкампа, а не на текущую силу состава."
+      ],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/ajax-atalanta-analysis",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "football-italia.net",
+          "url": "https://football-italia.net/ajax-atalanta-line-ups/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-альтернативы-реала-против-плана-луиса-энрике",
+      "date": "2026-10-22",
+      "section": "analytics",
+      "title": "Альтернативы «Реала» против плана Луиса Энрике",
+      "summary": "Тактический разбор Cadena SER перед Эль Класико: какие схемы рассматривает мадридский штаб и как команда собирается обыгрывать высокую линию соперника.",
+      "bullets": [
+        "Главный сценарий — игра на забросах за спину защитникам: именно так «Реал» намерен наказать соперника за высокую линию обороны.",
+        "Автор отмечает, что выбор между двумя опорниками и одним определит, сможет ли команда контролировать центр при потере мяча.",
+        "Под вопросом участие Вальверде — его функция связующего между линиями пока никем в составе не дублируется."
+      ],
+      "category": "match",
+      "country": "spain",
+      "published_at": "2026-10-22T11:56:00+02:00",
+      "source_domain": "cadenaser.com",
+      "source_url": "https://cadenaser.com/nacional/real-madrid-plan-luis-enrique.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "cadenaser.com",
+          "url": "https://cadenaser.com/nacional/valverde-duda.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-перед-наполи-рома-вспыхнул-спор-из-за-топливного-сбора-для-б",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Перед «Наполи» — «Рома» вспыхнул спор из-за топливного сбора для болельщиков",
+      "summary": "Sport Mediaset рассказывает о конфликте вокруг логистики и стоимости поездки для гостевых фанатов.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "italy",
+      "published_at": "2026-10-22T09:43:00+00:00",
+      "source_domain": "sportmediaset.mediaset.it",
+      "source_url": "https://www.sportmediaset.mediaset.it/calcio/napoli-roma-tifosi",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-де-дзерби-обсуждали-в-интере-аузилио-прокомментировал-слухи",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Де Дзерби обсуждали в «Интере»: Аузилио прокомментировал слухи",
+      "summary": "Спортивный директор миланцев ответил на сообщения о контактах с итальянским тренером.",
+      "bullets": [],
+      "category": "statements",
+      "country": "italy",
+      "published_at": "2026-10-22T09:38:38+00:00",
+      "source_domain": "teamtalk.com",
+      "source_url": "https://www.teamtalk.com/news/de-zerbi-inter-ausilio",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-сиссе-установил-рекорд-результативности",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Сиссе установил рекорд результативности",
+      "summary": "Sport Mediaset фиксирует достижение форварда по числу голов за отрезок сезона.",
+      "bullets": [],
+      "category": "records",
+      "country": "italy",
+      "published_at": "2026-10-22T09:38:00+00:00",
+      "source_domain": "sportmediaset.mediaset.it",
+      "source_url": "https://www.sportmediaset.mediaset.it/calcio/cisse-record",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-арсенал-следит-за-трезольди",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Арсенал» следит за Трезольди",
+      "summary": "Fichajes сообщает, что лондонцы включили форварда в список кандидатов на усиление атаки.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "england",
+      "published_at": "2026-10-22T09:35:00+00:00",
+      "source_domain": "fichajes.net",
+      "source_url": "https://www.fichajes.net/arsenal-tresoldi",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-ещё-одно-чудо-эмери",
+      "date": "2026-10-22",
+      "section": "analytics",
+      "title": "Ещё одно «чудо» Эмери",
+      "summary": "Marca разбирает еврокубковую статистику испанского тренера: автор показывает, за счёт чего его команды стабильно превышают ожидаемые показатели именно в турнирах УЕФА.",
+      "bullets": [
+        "По подсчётам Marca, команды Эмери в еврокубках набирают очков существенно больше, чем следует из качества их состава и расходов на зарплаты.",
+        "Ключ — в подготовке к конкретному сопернику: автор указывает на долю матчей, где команда меняла схему относительно предыдущей игры в чемпионате.",
+        "Обратная сторона модели — провалы в национальных лигах, где нет времени на такую точечную подготовку к каждому туру."
+      ],
+      "category": "records",
+      "country": "eurocups",
+      "published_at": "2026-10-22T11:22:49+02:00",
+      "source_domain": "marca.com",
+      "source_url": "https://www.marca.com/futbol/champions-league/emery-milagro.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-лам-высказался-о-наследии-гвардиолы-в-байерне",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Лам высказался о наследии Гвардиолы в «Байерне»",
+      "summary": "Бывший капитан мюнхенцев объяснил, какие принципы каталонца команда использует до сих пор.",
+      "bullets": [],
+      "category": "statements",
+      "country": "germany",
+      "published_at": "2026-10-22T09:21:34+00:00",
+      "source_domain": "football365.com",
+      "source_url": "https://www.football365.com/news/lahm-guardiola-bayern-legacy",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-дзаньоло-снова-в-центре-трансферных-слухов",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Дзаньоло снова в центре трансферных слухов",
+      "summary": "Calciomercato пишет о вариантах продолжения карьеры итальянского полузащитника.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "italy",
+      "published_at": "2026-10-22T09:16:00+00:00",
+      "source_domain": "calciomercato.com",
+      "source_url": "https://www.calciomercato.com/news/zaniolo-futuro",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-месси-неожиданно-появился-в-астурии",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Месси неожиданно появился в Астурии",
+      "summary": "Sport сообщает о визите аргентинца и реакции местных болельщиков.",
+      "bullets": [],
+      "category": "other",
+      "country": "spain",
+      "published_at": "2026-10-22T09:14:00+00:00",
+      "source_domain": "sport.es",
+      "source_url": "https://www.sport.es/es/noticias/messi-asturias",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-выдвинутая-роль-дэвиса-как-бавария-переизобретает-левый-флан",
+      "date": "2026-10-22",
+      "section": "analytics",
+      "title": "Выдвинутая роль Дэвиса: как «Бавария» переизобретает левый фланг",
+      "summary": "Разбор Getfootballnewsgermany о смене функций канадца — от классического крайнего защитника к высокому флангу атаки и о том, какие риски это создаёт в обороне.",
+      "bullets": [
+        "Дэвис теперь стартует значительно выше, фактически занимая позицию вингера, а зону за его спиной закрывает смещающийся центральный защитник.",
+        "Это дало прирост в созданных моментах на левом фланге, но сделало команду уязвимой к быстрым переводам в эту зону.",
+        "Автор связывает перестройку с необходимостью разгрузить центральную зону, где у «Баварии» возник переизбыток игроков схожего профиля."
+      ],
+      "category": "match",
+      "country": "germany",
+      "published_at": "2026-10-22T09:11:50+00:00",
+      "source_domain": "getfootballnewsgermany.com",
+      "source_url": "https://getfootballnewsgermany.com/davies-advanced-role/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-ираола-отказал-ливерпулю",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Ираола отказал «Ливерпулю»",
+      "summary": "Marca пишет, что тренер «Борнмута» отклонил предложение возглавить мерсисайдцев, предпочтя продолжить работу в клубе.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "england",
+      "published_at": "2026-10-22T09:03:00+00:00",
+      "source_domain": "marca.com",
+      "source_url": "https://www.marca.com/futbol/premier-league/iraola-liverpool.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-кита-остановил-продажу-нанта",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Кита остановил продажу «Нанта»",
+      "summary": "Президент клуба заявил, что переговоры с потенциальными покупателями прекращены и он остаётся у руля.",
+      "bullets": [],
+      "category": "statements",
+      "country": "france",
+      "published_at": "2026-10-22T09:01:00+00:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/nantes-kita-vente-club",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-комо-в-цифрах-такой-старт-был-только-у-милана-1958-года",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Комо» в цифрах: такой старт был только у «Милана» 1958 года",
+      "summary": "Статистическая справка Ди Марцио: по набранным очкам и забитым мячам команда Фабрегаса повторяет достижение почти 70-летней давности.",
+      "bullets": [],
+      "category": "records",
+      "country": "italy",
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "source_domain": "gianlucadimarzio.com",
+      "source_url": "https://gianlucadimarzio.com/como-numeri-serie-a",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-10-22-три-варианта-псж-после-разрыва-связок-кварацхелии",
       "date": "2026-10-22",
@@ -23,6 +273,59 @@
       "related": []
     },
     {
+      "id": "2026-10-22-фердинанд-раскритиковал-обстановку-в-манчестер-юнайтед",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Фердинанд раскритиковал обстановку в «Манчестер Юнайтед»",
+      "summary": "Экс-защитник клуба заявил, что проблема глубже тренерского вопроса и упирается в структуру управления командой.",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-22T09:55:00+01:00",
+      "source_domain": "football-italia.net",
+      "source_url": "https://football-italia.net/ferdinand-manchester-united-criticism/",
+      "ru_covered": true,
+      "ru_source": "https://www.sports.ru/football/",
+      "related": [
+        {
+          "domain": "onefootball.com",
+          "url": "https://onefootball.com/en/news/ferdinand-manchester-united"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-моуринью-о-свисте-в-адрес-винисиуса",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Моуринью — о свисте в адрес Винисиуса",
+      "summary": "Португальский тренер заявил, что реакция трибун на бразильца отражает не футбол, а эмоции вокруг его образа.",
+      "bullets": [],
+      "category": "statements",
+      "country": "spain",
+      "published_at": "2026-10-22T08:53:00+00:00",
+      "source_domain": "ojogo.pt",
+      "source_url": "https://www.ojogo.pt/futebol/mourinho-vinicius-assobios",
+      "ru_covered": true,
+      "ru_source": "https://www.sports.ru/football/",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-будущее-далота-обсуждают-в-италии",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Будущее Далота обсуждают в Италии",
+      "summary": "Calciomercato сообщает об интересе итальянских клубов к защитнику «Манчестер Юнайтед».",
+      "bullets": [],
+      "category": "rumors",
+      "country": "italy",
+      "published_at": "2026-10-22T08:51:00+00:00",
+      "source_domain": "calciomercato.com",
+      "source_url": "https://www.calciomercato.com/news/dalot-serie-a",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
       "id": "2026-10-22-масип-жёстко-высказался-о-реале-в-деле-негрейры",
       "date": "2026-10-22",
       "section": "news",
@@ -39,6 +342,54 @@
       "related": []
     },
     {
+      "id": "2026-10-22-алекс-скотт-и-фоли-попали-в-сферу-интересов-топ-клубов",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Алекс Скотт и Фоли попали в сферу интересов топ-клубов",
+      "summary": "FootballTransfers сообщает о скаутском внимании к паре английских полузащитников перед зимним окном.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "england",
+      "published_at": "2026-10-22T08:48:00+00:00",
+      "source_domain": "footballtransfers.com",
+      "source_url": "https://www.footballtransfers.com/en/transfer-news/alex-scott-foley",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-масип-дал-показания-по-делу-негрейры",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Масип дал показания по делу Негрейры",
+      "summary": "Бывший вратарь «Барселоны» рассказал следствию о своём опыте работы в клубе в годы, которые изучает прокуратура.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "spain",
+      "published_at": "2026-10-22T08:48:00+00:00",
+      "source_domain": "marca.com",
+      "source_url": "https://www.marca.com/futbol/barcelona/masip-negreira.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-тоттенхэм-интересуется-павлидисом",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Тоттенхэм» интересуется Павлидисом",
+      "summary": "O Jogo сообщает о контактах лондонского клуба по форварду «Бенфики».",
+      "bullets": [],
+      "category": "rumors",
+      "country": "portugal",
+      "published_at": "2026-10-22T08:48:00+00:00",
+      "source_domain": "ojogo.pt",
+      "source_url": "https://www.ojogo.pt/futebol/pavlidis-tottenham",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
       "id": "2026-10-22-тоттенхэм-изучает-отступные-павлидиса-в-100-млн-евро",
       "date": "2026-10-22",
       "section": "news",
@@ -50,6 +401,95 @@
       "published_at": "2026-10-22T09:48:00+01:00",
       "source_domain": "ojogo.pt",
       "source_url": "https://www.ojogo.pt/futebol/i-liga/benfica/pavlidis-tottenham-clausula",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-фенербахче-столкнулся-с-волной-недовольства-болельщиков",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Фенербахче» столкнулся с волной недовольства болельщиков",
+      "summary": "Fanatik описывает реакцию трибун и давление на руководство клуба после последних матчей.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "turkey",
+      "published_at": "2026-10-22T08:47:00+00:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/fenerbahce-taraftar-tepkisi",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-диоманде-рушит-трон-винисиуса",
+      "date": "2026-10-22",
+      "section": "analytics",
+      "title": "Диоманде рушит трон Винисиуса",
+      "summary": "Разбор Goal о том, как молодой вингер по ключевым метрикам обходит бразильца и почему это меняет расклад в борьбе за индивидуальные награды.",
+      "bullets": [
+        "По числу успешных обводок и созданных моментов на 90 минут Диоманде опережает Винисиуса, при этом теряет мяч заметно реже.",
+        "Автор связывает спад бразильца не с формой, а с изменением роли: он стал чаще играть в полупозиции, где его скорость обесценивается.",
+        "Немецкие медиа фиксируют тот же тренд — Диоманде уже входит в число самых продуктивных вингеров топ-5 лиг по ожидаемым голам и ассистам."
+      ],
+      "category": "other",
+      "country": "spain",
+      "published_at": "2026-10-22T09:47:00+01:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/diomande-vinicius-analysis",
+      "ru_covered": true,
+      "ru_source": "https://www.sports.ru/football/",
+      "related": [
+        {
+          "domain": "kicker.de",
+          "url": "https://www.kicker.de/diomande-analyse"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-манчестер-сити-попал-под-проверку-финансового-регулятора",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Манчестер Сити» попал под проверку финансового регулятора",
+      "summary": "TEAMtalk сообщает о новом разбирательстве в отношении клуба, связанном с финансовой отчётностью.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "england",
+      "published_at": "2026-10-22T08:45:41+00:00",
+      "source_domain": "teamtalk.com",
+      "source_url": "https://www.teamtalk.com/man-city/financial-probe-report",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-ренн-потерял-лепо-из-за-травмы",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Ренн» потерял Лепо из-за травмы",
+      "summary": "Форвард выпадает из состава на ближайшие матчи, клуб уточняет сроки восстановления.",
+      "bullets": [],
+      "category": "injury",
+      "country": "france",
+      "published_at": "2026-10-22T08:45:17+00:00",
+      "source_domain": "getfootballnewsfrance.com",
+      "source_url": "https://getfootballnewsfrance.com/rennes-lepaul-injury/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-реал-может-воспользоваться-правом-обратного-выкупа-нико-паса",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Реал» может воспользоваться правом обратного выкупа Нико Паса",
+      "summary": "По данным Fichajes, мадридцы изучают возможность вернуть полузащитника уже в следующем окне.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "spain",
+      "published_at": "2026-10-22T08:45:00+00:00",
+      "source_domain": "fichajes.net",
+      "source_url": "https://www.fichajes.net/real-madrid-nico-paz-recompra",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -92,6 +532,22 @@
       "related": []
     },
     {
+      "id": "2026-10-22-спортинг-ведёт-переговоры-по-думбия",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Спортинг» ведёт переговоры по Думбия",
+      "summary": "A Bola пишет о продвижении сделки и условиях, которые обсуждают стороны.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "portugal",
+      "published_at": "2026-10-22T08:38:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/futebol/sporting-doumbia",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
       "id": "2026-10-22-беспорядки-во-франции-ставят-под-угрозу-календарь-лиги-1",
       "date": "2026-10-22",
       "section": "news",
@@ -103,6 +559,22 @@
       "published_at": "2026-10-22T10:37:55+02:00",
       "source_domain": "lequipe.fr",
       "source_url": "https://www.lequipe.fr/Football/Article/Ligue-1-calendrier-menace-securite/1512345",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-фабрегас-объяснил-почему-комо-сбавил-обороты-при-счёте-4-0",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Фабрегас объяснил, почему «Комо» сбавил обороты при счёте 4:0",
+      "summary": "Тренер признал, что сознательно попросил команду снизить темп, чтобы сберечь силы на плотный календарь.",
+      "bullets": [],
+      "category": "statements",
+      "country": "italy",
+      "published_at": "2026-10-22T08:36:00+00:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/fabregas-como-4-0",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -145,6 +617,22 @@
       "related": []
     },
     {
+      "id": "2026-10-22-боруссия-мёнхенгладбах-проиграла-шестой-матч-подряд",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Боруссия» Мёнхенгладбах проиграла шестой матч подряд",
+      "summary": "Kicker фиксирует худшую серию клуба за последние годы и растущее давление на тренерский штаб.",
+      "bullets": [],
+      "category": "records",
+      "country": "germany",
+      "published_at": "2026-10-22T08:34:10+00:00",
+      "source_domain": "kicker.de",
+      "source_url": "https://www.kicker.de/gladbach-sechste-niederlage",
+      "ru_covered": true,
+      "ru_source": "https://matchtv.ru/football/",
+      "related": []
+    },
+    {
       "id": "2026-10-22-гладбах-четвёртая-команда-в-истории-бундеслиги-с-таким-антир",
       "date": "2026-10-22",
       "section": "news",
@@ -158,6 +646,22 @@
       "source_url": "https://www.kicker.de/gladbach-negativrekord-bundesliga-1098211/artikel",
       "ru_covered": false,
       "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-мората-переживает-худший-отрезок-карьеры",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Мората переживает худший отрезок карьеры",
+      "summary": "A Bola разбирает кризис форварда: без результативных действий в последних матчах и на фоне дисциплинарных проблем.",
+      "bullets": [],
+      "category": "other",
+      "country": "spain",
+      "published_at": "2026-10-22T08:31:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/internacional/morata-crise",
+      "ru_covered": true,
+      "ru_source": "https://www.sports.ru/football/",
       "related": []
     },
     {
@@ -193,6 +697,64 @@
       "related": []
     },
     {
+      "id": "2026-10-22-баумгартнер-привлёк-интерес-из-португалии",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Баумгартнер привлёк интерес из Португалии",
+      "summary": "Австрийский полузащитник может продолжить карьеру в чемпионате Португалии, пишут немецкие и португальские источники.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "germany",
+      "published_at": "2026-10-22T08:29:53+00:00",
+      "source_domain": "getfootballnewsgermany.com",
+      "source_url": "https://getfootballnewsgermany.com/baumgartner-transfer/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "ojogo.pt",
+          "url": "https://www.ojogo.pt/futebol/baumgartner-interesse"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-куанса-рассматривает-вариант-со-сменой-клуба",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Куанса рассматривает вариант со сменой клуба",
+      "summary": "Getfootballnewsgermany сообщает, что защитник ищет больше игрового времени и может уйти зимой.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "germany",
+      "published_at": "2026-10-22T08:29:26+00:00",
+      "source_domain": "getfootballnewsgermany.com",
+      "source_url": "https://getfootballnewsgermany.com/quansah-future/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-бруну-фернандеш-публично-поддержал-каррика-на-фоне-разговоро",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Бруну Фернандеш публично поддержал Каррика на фоне разговоров об отставке",
+      "summary": "Капитан «Манчестер Юнайтед» заявил, что игроки несут ответственность за провальную серию и что тренер не должен быть единственным, кто платит за результаты.",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-22T08:28:17+00:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/11667/13602045",
+      "ru_covered": true,
+      "ru_source": "https://www.sports.ru/football/",
+      "related": [
+        {
+          "domain": "football365.com",
+          "url": "https://www.football365.com/news/man-utd-carrick-sky-italia-report"
+        }
+      ]
+    },
+    {
       "id": "2026-10-22-александер-арнолд-может-перейти-в-челси",
       "date": "2026-10-22",
       "section": "news",
@@ -225,6 +787,64 @@
       "related": []
     },
     {
+      "id": "2026-10-22-нагельсманн-вышел-в-лидеры-гонки-за-пост-тренера-манчестер-ю",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Нагельсманн вышел в лидеры гонки за пост тренера «Манчестер Юнайтед»",
+      "summary": "По данным Sky Sports, наставник сборной Германии рассматривается клубом как приоритетный вариант, а переговоры могут активизироваться после ноябрьской паузы.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "england",
+      "published_at": "2026-10-22T09:26:00+01:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/transfer-centre",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "teamtalk.com",
+          "url": "https://www.teamtalk.com/man-utd/nagelsmann-manchester-united-manager-race"
+        },
+        {
+          "domain": "givemesport.com",
+          "url": "https://www.givemesport.com/manchester-united-nagelsmann-latest/"
+        },
+        {
+          "domain": "calciomercato.com",
+          "url": "https://www.calciomercato.com/news/nagelsmann-manchester-united"
+        },
+        {
+          "domain": "sporx.com",
+          "url": "https://www.sporx.com/futbol/nagelsmann-manchester-united"
+        },
+        {
+          "domain": "ojogo.pt",
+          "url": "https://www.ojogo.pt/internacional/nagelsmann-manchester-united"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-арда-туран-оказался-в-центре-трансферных-разговоров",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Арда Туран оказался в центре трансферных разговоров",
+      "summary": "Sporx и испанские медиа обсуждают возможное направление карьеры тренера после недавних результатов.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "turkey",
+      "published_at": "2026-10-22T08:23:00+00:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/futbol/arda-turan-haber",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "sport.es",
+          "url": "https://www.sport.es/es/noticias/arda-turan"
+        }
+      ]
+    },
+    {
       "id": "2026-10-22-конфликт-стейна-и-хадж-муссы-продолжился-в-раздевалке",
       "date": "2026-10-22",
       "section": "news",
@@ -239,6 +859,31 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
+    },
+    {
+      "id": "2026-10-22-бавария-продлевает-контракт-с-вискашем-до-2030-года",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Бавария» продлевает контракт с Вискашем до 2030 года",
+      "summary": "Клуб договорился с одним из самых перспективных игроков академии о новом долгосрочном соглашении, сообщает Kicker.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "germany",
+      "published_at": "2026-10-22T08:19:21+00:00",
+      "source_domain": "kicker.de",
+      "source_url": "https://www.kicker.de/bayern-viessmann-vertragsverlaengerung",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "sportmediaset.mediaset.it",
+          "url": "https://www.sportmediaset.mediaset.it/calcio/bayern-viessmann"
+        },
+        {
+          "domain": "goal.com",
+          "url": "https://www.goal.com/en/news/bayern-munich-viessmann-contract"
+        }
+      ]
     },
     {
       "id": "2026-10-22-байерн-продал-около-6-7-акций-viessmann-за-250-млн-евро",
