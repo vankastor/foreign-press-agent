@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-10-22T01:17:14.758368+01:00",
+  "generated_at": "2026-10-22T02:06:34.214670+01:00",
   "items": [
+    {
+      "id": "2026-10-22-реал-следит-за-манзамби-из-астон-виллы",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Реал» следит за Манзамби из «Астон Виллы»",
+      "summary": "21-летний швейцарский полузащитник с 3 голами и 2 передачами в 6 турах АПЛ рассматривается как зимний вариант на фоне ожидаемых уходов Брахима и Родриго; оценка — 65 млн евро, в деле и «Барселона».",
+      "bullets": [],
+      "category": "rumors",
+      "country": "spain",
+      "published_at": "2026-10-22T02:00:00+02:00",
+      "source_domain": "fichajes.net",
+      "source_url": "https://www.fichajes.net/noticias/real-madrid-sigue-pista-johan-manzambi-20261022.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-10-22-вальверде-и-гюлер-ключ-реала-к-эль-класико",
       "date": "2026-10-22",
@@ -45,6 +61,64 @@
         {
           "domain": "goal.com",
           "url": "https://www.goal.com/en/lists/vinicius-s-gift-and-his-golden-replacement-has-real-madrid-become-a-new-team-before-the-clasico/bltbc621de2fb4fe5cc"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-бунт-в-юнайтед-фернандеш-публично-обвинил-тренерский-штаб",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Бунт в «Юнайтед»: Фернандеш публично обвинил тренерский штаб",
+      "summary": "После разгрома 1:4 от «Комо» в Лиге чемпионов капитан заявил, что не прессинговать персонально решил штаб, а Каррик ответил: «Какую тактику ни играй, если не бежишь — не выиграешь».",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-22T00:18:00+01:00",
+      "source_domain": "caughtoffside.com",
+      "source_url": "https://www.caughtoffside.com/2026/10/22/mutiny-breaking-into-the-open-at-man-u/",
+      "ru_covered": true,
+      "ru_source": "euro-football.ru",
+      "related": [
+        {
+          "domain": "caughtoffside.com",
+          "url": "https://www.caughtoffside.com/2026/10/22/carrick-blames-low-effort/"
+        },
+        {
+          "domain": "ojogo.pt",
+          "url": "https://www.ojogo.pt/internacional/artigo/michael-carrick-responde-a-critica-de-bruno-fernandes-seja-qual-for-a-tatica-em-que-jogues-se-nao-corres/18139678"
+        },
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/soccer/story/_/id/50241017/michael-carrick-hits-back-bruno-fernandes-criticism-man-united-loss-como"
+        },
+        {
+          "domain": "skysports.com",
+          "url": "https://www.skysports.com/football/news/13602045/manchester-united-bruno-fernandes-criticises-coaches-as-michael-carrick-questions-players-after-champions-league-loss-to-como"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-артета-о-травме-саки-выглядит-совсем-нехорошо",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Артета о травме Саки: «Выглядит совсем нехорошо»",
+      "summary": "Вингер «Арсенала» ушёл с поля на 10-й минуте матча с «Баварией» (2:2) из-за резкой боли в икроножной мышце; тренер признал опасения и ждёт обследования.",
+      "bullets": [],
+      "category": "injury",
+      "country": "england",
+      "published_at": "2026-10-22T00:07:00+01:00",
+      "source_domain": "caughtoffside.com",
+      "source_url": "https://www.caughtoffside.com/2026/10/22/look-good-arteta-worrying-update/",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "skysports.com",
+          "url": "https://www.skysports.com/football/video/13602096/arsenal-mikel-arteta-says-bukayo-sakas-injury-doesnt-look-good-at-all"
+        },
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/soccer/story/_/id/50240494/saka-limps-10th-minute-arsenal-match-bayern"
         }
       ]
     },
