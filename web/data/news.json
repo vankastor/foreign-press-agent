@@ -1,6 +1,527 @@
 {
-  "generated_at": "2026-10-22T06:13:35.530030+01:00",
+  "generated_at": "2026-10-22T07:22:30.609040+01:00",
   "items": [
+    {
+      "id": "2026-10-22-моуринью-пожаловался-на-календарь-перед-класико",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Моуринью пожаловался на календарь перед Класико",
+      "summary": "«Мы уже потеряли 24 часа отдыха по сравнению с «Барселоной»» — тренер «Реала» открыл конфликт с организаторами за три дня до матча на «Камп Ноу».",
+      "bullets": [],
+      "category": "statements",
+      "country": "spain",
+      "published_at": "2026-10-22T07:59:13+02:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a1617483053308952236-real-madrid-jose-mourinho-rage-deja-pour-le-clasico",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-де-лаурентис-хочет-2-млрд-за-наполи-сразу",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Де Лаурентис хочет €2 млрд за «Наполи» сразу",
+      "summary": "Переговоры с Маттом Риццеттой возобновились после полугодовой паузы: владелец требует всю сумму одним платежом без рассрочки, в пакет может войти новый стадион.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "italy",
+      "published_at": "2026-10-22T07:55:00+02:00",
+      "source_domain": "calciomercato.com",
+      "source_url": "https://www.calciomercato.com/liste/de-laurentiis-vuole-2-miliardi-per-vendere-il-napoli-contatti-ripresi-con-rizzetta/blt392f4f85c53df35b",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": [
+        {
+          "domain": "goal.com",
+          "url": "https://www.goal.com/en/lists/de-laurentiis-wants-eur2-billion-to-sell-napoli-talks-resume-with-rizzetta/blt392f4f85c53df35b"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-немецкая-пресса-поставила-сайбари-четвёрки",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Немецкая пресса поставила Сайбари «четвёрки»",
+      "summary": "FOCUS и T-online дали экс-игроку ПСВ оценку 4 за матч с «Арсеналом», Süddeutsche вообще отказалась оценивать: «ему нужно больше времени на адаптацию».",
+      "bullets": [],
+      "category": "other",
+      "country": "germany",
+      "published_at": "2026-10-22T05:50:59+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/german-newspapers-unanimously-reach-a-very-painful-conclusion-about-ismael-saibari-at-bayern/blt7ed6d5721c986b67",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-суд-признал-законным-особняк-хаби-алонсо",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Суд признал законным особняк Хаби Алонсо",
+      "summary": "Высший суд Страны Басков отменил решение о незаконности дома тренера на Монте-Игельдо — спор длился два года, дом стоял пустым.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "other",
+      "published_at": "2026-10-22T07:48:10+02:00",
+      "source_domain": "mundodeportivo.com",
+      "source_url": "https://www.mundodeportivo.com/vaya-mundo/20261022/1004241726/oficial-tribunal-superior-justicia-pais-vasco-anula-sentencia-declaro-ilegal-chalet-xabi-alonso-nagore-aranburu-dct.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-победа-в-лилле-принесла-галатасараю-2-1-млн",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Победа в Лилле принесла «Галатасараю» €2,1 млн",
+      "summary": "УЕФА платит 2,1 млн евро за победу в общем этапе; вместе с взносом за участие (18,62 млн) доход клуба от ЛЧ достиг 20,72 млн евро.",
+      "bullets": [],
+      "category": "other",
+      "country": "eurocups",
+      "published_at": "2026-10-22T08:41:50+03:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/galatasaray/galeri-galatasarayin-lille-zaferi-kasaya-para-yagdirdi-sampiyonlar-liginden-yine-dev-gelir-2641910",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-турецкая-пресса-о-4-2-в-лилле-батраков-и-судья",
+      "date": "2026-10-22",
+      "section": "analytics",
+      "title": "Турецкая пресса о 4:2 в Лилле: Батраков и судья",
+      "summary": "Fotomaç собрал колонки обозревателей о победе «Галатасарая»: роль Батракова, разбор судейства Обреновича и замен Окана Бурука.",
+      "bullets": [
+        "Серкан Коркмаз о Батракове: «Этот юноша стал экзистенциальным криком российского футбола, живущего в тени эмбарго».",
+        "Экс-арбитр Мустафа Чулджу разобрал эпизоды: пенальти на 27-й минуте был ошибкой судьи, корректно отменённой VAR, а гол «Лилля» на 7-й — чистым.",
+        "Левент Тюземен хвалит замены Бурука: уход Сары на Лемина разгрузил Санчеса и Абдюлькерима, а связка Якобс — Эрен Эльмалы добавила скорости слева перед дерби.",
+        "Угур Мелеке напоминает: из-за войны 21-летний Батраков до этого сезона не играл еврокубков вообще, а теперь забил в двух матчах ЛЧ подряд."
+      ],
+      "category": "russians",
+      "country": "eurocups",
+      "published_at": "2026-10-22T08:40:25+03:00",
+      "source_domain": "fotomac.com.tr",
+      "source_url": "https://www.fotomac.com.tr/galatasaray/2026/10/22/spor-yazarlari-lille-galatasaray-macini-yorumladi",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "sporx.com",
+          "url": "https://www.sporx.com/futbol/ekstra/yazarlardan-galatasaray-yorumlari-SXGLQ81008SXQ"
+        },
+        {
+          "domain": "fanatik.com.tr",
+          "url": "https://www.fanatik.com.tr/galatasaray/galeri-galatasarayin-lille-zaferinin-ardindan-usta-isimlerden-carpici-sozler-sezon-simdi-basliyor-2641908"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-у-реала-остаётся-опция-выкупа-паса-за-80-млн",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "У «Реала» остаётся опция выкупа Паса за €80 млн",
+      "summary": "Marca напоминает: после бенефиса против «МЮ» мадридцы сохраняют односторонний пункт обратного выкупа полузащитника «Комо» за 80 млн евро.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "eurocups",
+      "published_at": "2026-10-22T07:37:33+02:00",
+      "source_domain": "marca.com",
+      "source_url": "https://www.marca.com/futbol/champions-league/2026/10/22/nico-paz-messi-corona-champions-80-millones-real-madrid.html",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "sport.es",
+          "url": "https://www.sport.es/es/noticias/futbol-internacional/madrid-arrepentir-nico-paz-135603223"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-от-бери-до-милана-15-лет-пути-борнмута",
+      "date": "2026-10-22",
+      "section": "analytics",
+      "title": "От «Бери» до «Милана»: 15 лет пути «Борнмута»",
+      "summary": "BBC разбирает, как клуб, 15 лет назад проигравший дома «Бери» в третьем дивизионе, принимает семикратного победителя Кубка Европы.",
+      "bullets": [
+        "Ровно 15 лет назад, день в день, «Борнмут» проиграл дома «Бери» 1:2, идя 21-м в третьем по силе дивизионе Англии с 12 очками в 14 матчах.",
+        "Победа 3:0 над «Штурмом» в Лиге Европы собрала 12 070 зрителей — лучшая домашняя посещаемость клуба в XXI веке, стадион сейчас расширяют.",
+        "Тони Пулис, игрок и тренер клуба в 1992–94: «За последнее десятилетие мой родной клуб попал в страну мечты», — и хвалит базу, построенную при Билле Фоли.",
+        "«Милан» идёт 4-м в Серии А (15 очков в 7 матчах), отставая от «Интера» на четыре очка; 41-летний Модрич может выйти против «Борнмута», которому забивал за «Реал» в 2013-м."
+      ],
+      "category": "other",
+      "country": "eurocups",
+      "published_at": "2026-10-22T06:37:17+01:00",
+      "source_domain": "bbc.co.uk",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c6x2v8x7ry17o",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "dailymail.co.uk",
+          "url": "https://www.dailymail.co.uk/sport/football/article-16226911/bournemouth-ac-milan-europa-league-meeting.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-моviola-интеру-не-дали-пенальти-вопросы-к-бастони",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Моviola: «Интеру» не дали пенальти, вопросы к Бастони",
+      "summary": "Corriere dello Sport поставил арбитру Харму Осмерсу 4,5 за матч с «Шахтёром»: не назначен пенальти за толчок на Бастони, первая жёлтая итальянцу названа чрезмерной.",
+      "bullets": [],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-10-22T07:37:00+02:00",
+      "source_domain": "corrieredellosport.it",
+      "source_url": "https://www.corrieredellosport.it/news/calcio/moviola/2026/10/22-152055224/osmers_un_disastro_manca_un_rigore_per_linter_e_sul_rosso_a_bastoni_c_un_problema",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-100-голов-ромы-при-гасперини-цифры-перестройки",
+      "date": "2026-10-22",
+      "section": "analytics",
+      "title": "100 голов «Ромы» при Гасперини: цифры перестройки",
+      "summary": "Corriere dello Sport считает, как за 59 официальных матчей тренер превратил беззубую атаку «Ромы» в одну из самых результативных.",
+      "bullets": [
+        "«Рома» преодолела отметку 100 голов за 59 официальных матчей при Гасперини — отсчёт с победы над «Болоньей» 23 августа 2025 года.",
+        "24 гола в последних 10 матчах Серии А и Лиги чемпионов; Мален набрал 24 гола в 29 играх сезона.",
+        "Контраст с прежним режимом: Фергюсон и Довбик забивали по 3 за целый сезон, Мален и Кастро — 7 вдвоём всего за 7 туров Серии А.",
+        "Символический 100-й гол забил Пизилли в первом матче с капитанской повязкой — под Curva Sud и на глазах Тотти."
+      ],
+      "category": "records",
+      "country": "italy",
+      "published_at": "2026-10-22T07:37:00+02:00",
+      "source_domain": "corrieredellosport.it",
+      "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/10/22-152055229/gasperini_incontentabile_cosa_chiede_alla_squadra_e_la_roma_ascolta",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-бешикташ-выиграл-7-из-8-еврокубковых-матчей",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Бешикташ» выиграл 7 из 8 еврокубковых матчей",
+      "summary": "С учётом квалификации команда Итальяно взяла все четыре домашние игры на «Долмабахче»; вечером — «Кристал Пэлас» без травмированного капитана Кёкчю.",
+      "bullets": [],
+      "category": "records",
+      "country": "eurocups",
+      "published_at": "2026-10-22T08:36:30+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/besiktas-in-avrupa-daki-kalesi-dolmabahce-SXHBQ1180168SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "beinsports.com.tr",
+          "url": "https://beinsports.com.tr/haber/besiktas-crystal-palace"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-мю-боится-потерять-шешко-до-2027-го",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«МЮ» боится потерять Шешко до 2027-го",
+      "summary": "После рецидива в Кубке лиги оптимисты в клубе говорят лишь о возвращении «до февраля»; главная цель на январь — Дион Белько из «Динамо» Загреб дороже €30 млн.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "england",
+      "published_at": "2026-10-22T05:35:00+00:00",
+      "source_domain": "footballtransfers.com",
+      "source_url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/man-utd-transfer-news-benjamin-sesko-injury-latest-dion-beljo-january",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-канте-в-35-пробежал-24-44-км-за-два-матча",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Канте в 35 пробежал 24,44 км за два матча",
+      "summary": "12,30 км со «Славией» и 12,14 км с «Аланьяспором»: против чехов француз сделал 6 перехватов, 9 подборов и выиграл все три воздушные дуэли.",
+      "bullets": [],
+      "category": "records",
+      "country": "turkey",
+      "published_at": "2026-10-22T08:24:26+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/fenerbahce-de-bitmeyen-enerji-kante-SXHBQ1180167SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-бремер-сохранил-повязку-юве-после-штрафа",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Бремер сохранил повязку «Юве» после штрафа",
+      "summary": "Несмотря на штраф за критику партнёров после поражения от «Лацио», Спаллетти оставил бразильцу капитанство и выпустит его против «Ренна».",
+      "bullets": [],
+      "category": "statements",
+      "country": "italy",
+      "published_at": "2026-10-22T07:24:00+02:00",
+      "source_domain": "tuttosport.com",
+      "source_url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152054439/bremer_segnale_da_spalletti_la_scelta_sulla_fascia_da_capitano_juve_dopo_la_multa",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-реал-подходит-к-класико-на-лучшей-серии-сезона",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Реал» подходит к Класико на лучшей серии сезона",
+      "summary": "Четыре победы подряд и 10 побед в 12 матчах Ла Лиги и ЛЧ (83%) — больше, чем у ПСЖ, «Баварии» и «Челси»; у «Барсы» — 11 из 12.",
+      "bullets": [],
+      "category": "records",
+      "country": "spain",
+      "published_at": "2026-10-22T07:22:40+02:00",
+      "source_domain": "marca.com",
+      "source_url": "https://www.marca.com/futbol/real-madrid/2026/10/22/madrid-llega-lanzado-clasico.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "cadenaser.com",
+          "url": "https://cadenaser.com/nacional/2026/10/22/fc-barcelona-real-madrid-en-laliga-ea-sports-alineaciones-horario-y-donde-ver-el-clasico-en-directo-cadena-ser/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-фернандеш-усомнился-в-тактике-каррика-после-1-4",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Фернандеш усомнился в тактике Каррика после 1:4",
+      "summary": "Капитан «МЮ» после разгрома от «Комо» заявил, что отказ от персонального прессинга — решение тренерского штаба; Каррик ответил, что без работы в обороне не выигрывают при любой схеме.",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-22T06:19:11+01:00",
+      "source_domain": "independent.co.uk",
+      "source_url": "https://www.independent.co.uk/sport/football/bruno-fernandes-michael-carrick-tactics-man-united-como-b3071012.html",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "goal.com",
+          "url": "https://www.goal.com/en/news/manager-criticised-after-united-debacle-bruno-fernandes-questions-michael-carrick-s-tactics/blt75934e7317e7e8eb"
+        },
+        {
+          "domain": "express.co.uk",
+          "url": "https://www.express.co.uk/sport/football/2259348/Manchester-United-Bruno-Fernandes-Michael-Carrick-Como"
+        },
+        {
+          "domain": "sport.es",
+          "url": "https://www.sport.es/es/noticias/champions/bruno-fernandes-senala-culpables-descalabro-135603739"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-палмейрас-вышел-в-финал-либертадорес-по-пенальти",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Палмейрас» вышел в финал Либертадорес по пенальти",
+      "summary": "После 0:1 дома бразильцы победили 5:3 в серии; решающий удар нанёс Марлон Фрейтас, вратарь Карлос Мигел отразил попытку Нонато.",
+      "bullets": [],
+      "category": "match",
+      "country": "other",
+      "published_at": "2026-10-22T05:15:12+00:00",
+      "source_domain": "uol.com.br",
+      "source_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/10/22/palmeiras-fluminense-marlon-freitas.ghtm",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "mundodeportivo.com",
+          "url": "https://www.mundodeportivo.com/futbol/copa-libertadores/20261022/1004241720/palmeiras-elimina-fluminense-penaltis-repite-final-copa-libertadores.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-травма-саки-обнажила-летнюю-ошибку-арсенала",
+      "date": "2026-10-22",
+      "section": "analytics",
+      "title": "Травма Саки обнажила летнюю ошибку «Арсенала»",
+      "summary": "Авторская колонка GiveMeSport: как клуб, собиравшийся усилить фланги, вышел из окна слабее — и чем это грозит в январе.",
+      "bullets": [
+        "«Арсенал» летом отпустил Мартинелли, отдал Ньянери в аренду в «Боруссию» Дортмунд и заменил Троссарда на Дзолиса — фланги стали слабее, а не сильнее.",
+        "Выход Мадуэке вместо Саки дал слабые цифры по дриблингу и сохранению мяча.",
+        "Автор допускает, что против «Эвертона» на фланге придётся начинать 16-летнему Максу Доумену.",
+        "Если травма Саки серьёзная, январское решение проблемы обойдётся клубу заметно дороже рыночной цены."
+      ],
+      "category": "injury",
+      "country": "england",
+      "published_at": "2026-10-22T06:15:00+01:00",
+      "source_domain": "givemesport.com",
+      "source_url": "https://www.givemesport.com/major-mikel-arteta-mistake-clear-bayern-munich-noni-madueke-nwaneri/",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-нико-пас-дубль-ассист-и-рекорд-против-мю",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Нико Пас: дубль, ассист и рекорд против «МЮ»",
+      "summary": "В 22 года и 43 дня аргентинец стал вторым самым молодым южноамериканцем, забившим «Юнайтед» в ЛЧ, а «Комо» забил по четыре в обоих домашних еврокубковых матчах дебютного сезона.",
+      "bullets": [],
+      "category": "records",
+      "country": "eurocups",
+      "published_at": "2026-10-22T05:10:12+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/nico-paz-praises-team-mates-como-champions-league-manchester-united/blt3bfb0b3dbd9a7aea",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "goal.com",
+          "url": "https://www.goal.com/en/news/cesc-fabregas-urges-calm-como-outclass-manchester-united-champions-league/bltc1bfe70633fe818a"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-фамаликан-выбирает-кустодиу-вместо-карвальяла",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Фамаликан» выбирает Кустодиу вместо Карвальяла",
+      "summary": "43-летний тренер без клуба с прошлого сезона — главный кандидат в клуб Ивана Злобина; пока командой руководит Рикарду Силва.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "portugal",
+      "published_at": "2026-10-22T06:10:00+01:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/famalicao/detalhe/custodio-na-frente-para-assumir-comando-tecnico-do-famalicao",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-демикелис-после-1-4-от-реала-другое-лицо",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Демикелис после 1:4 от «Реала»: «Другое лицо»",
+      "summary": "Тренер «Лейпцига» отказался сравнивать поражение в Мадриде с 1:6 от «Байерна»: команда 29-я в таблице с тремя очками, 4 ноября — «Ман Сити».",
+      "bullets": [],
+      "category": "statements",
+      "country": "germany",
+      "published_at": "2026-10-22T07:09:28+02:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/fussball/champions-league/2026/10/demichelis-sicher-werden-richtigen-weg-finden",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-винисиус-уже-не-винисиус-цифры-спада",
+      "date": "2026-10-22",
+      "section": "analytics",
+      "title": "Винисиус — уже не Винисиус: цифры спада",
+      "summary": "Марко Руис из AS разбирает, почему «Бернабеу» начал свистеть бразильцу и как исчезла его главная функция — дриблинг.",
+      "bullets": [
+        "Против «Лейпцига» Винисиус не пошёл ни в один дриблинг, а замена на 70-й минуте при уже решённом матче названа странной — идеальным окном было вернуть симпатии трибун.",
+        "Полный матч бразилец не играл с 4 сентября (с «Бетисом»): с тех пор шесть замен, одна игра на скамейке и дисквалификация.",
+        "В матче с «Ромой» он впервые за 310 стартов в «Реале» не нанёс ни одного удара и ни одного удара в створ.",
+        "Мбаппе о партнёре: «Хорошо, что он расстроен — значит, хочет отдавать команде больше. Но он должен гордиться тем, кто он есть»."
+      ],
+      "category": "match",
+      "country": "spain",
+      "published_at": "2026-10-22T07:08:29+02:00",
+      "source_domain": "as.com",
+      "source_url": "https://as.com/futbol/champions/vinicius-no-es-vinicius-f202610-n/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "sport.es",
+          "url": "https://www.sport.es/es/noticias/real-madrid/vio-real-madrid-leipzig-vini-135605608"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-мужчины-против-детей-ветераны-разносят-мю",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Мужчины против детей»: ветераны разносят «МЮ»",
+      "summary": "Бербатов, Каррагер, Невилл и Пети публично разобрали игру и поведение «Юнайтед» после 1:4 в Комо — отдельно досталось Фернандешу за критику тренера.",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-22T05:05:53+00:00",
+      "source_domain": "onefootball.com",
+      "source_url": "https://onefootball.com/en/news/men-against-kids-former-man-united-striker-dimitar-berbatov-savages-players-after-4-1-humiliation-by-como-43651548",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "sportskeeda.com",
+          "url": "https://www.sportskeeda.com/football/news-jamie-carragher-says-bruno-fernandes-killing-manchester-united-acting-like-disgrace-comment-como-loss"
+        },
+        {
+          "domain": "football365.com",
+          "url": "https://www.football365.com/news/man-utd-carragher-bruno-fernandes-killing-man-utd-cant-press-because-of-him"
+        },
+        {
+          "domain": "teamtalk.com",
+          "url": "https://www.teamtalk.com/news/man-utd-news-leny-yoro-thrive-liverpool-bruno-fernandes-blame-struggles"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-арсенал-вышел-на-агентов-джана-узуна-за-60-млн",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Арсенал» вышел на агентов Джана Узуна за €60 млн",
+      "summary": "Лондонцы связались с окружением 20-летнего игрока «Айнтрахта», летом отказавшего «Галатасараю»; в том же обзоре — интерес «МЮ» к Уэсли из «Ромы».",
+      "bullets": [],
+      "category": "rumors",
+      "country": "england",
+      "published_at": "2026-10-22T06:02:00+01:00",
+      "source_domain": "footballtransfers.com",
+      "source_url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/transfer-rumours-22-october-arsenal-chelsea-man-utd-can-uzun-nicolo-tresoldi-wesley",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-аякс-выйдет-на-аталанту-без-шести-игроков",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Аякс» выйдет на «Аталанту» без шести игроков",
+      "summary": "Бергхёйс и Блинд вернулись к тренировкам, но не готовы; травмированы Гаайи, Адингра, Каю Энрике и Эдвардсен — в атаке ожидаются Глоух и Арокодаре.",
+      "bullets": [],
+      "category": "injury",
+      "country": "netherlands",
+      "published_at": "2026-10-22T07:01:00+02:00",
+      "source_domain": "tuttosport.com",
+      "source_url": "https://www.tuttosport.com/news/calcio/serie-a/atalanta/2026/10/22-152055223/ajax-atalanta_probabili_formazioni_e_diretta_dove_si_vede_in_tv_e_streaming",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "goal.com",
+          "url": "https://www.goal.com/en/news/predicted-ajax-line-up-two-new-names-in-attack-against-atalanta/blt326a4efcd3d683f1"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-габриэл-жезус-может-дебютировать-в-класико",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Габриэл Жезус может дебютировать в Класико",
+      "summary": "У новичка «Барсы» хорошая статистика против «Реала»: четыре матча за «Ман Сити», три победы, три гола и ассист — выход ожидается с замены.",
+      "bullets": [],
+      "category": "records",
+      "country": "spain",
+      "published_at": "2026-10-22T07:00:00+02:00",
+      "source_domain": "mundodeportivo.com",
+      "source_url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004241601/gabriel-jesus-pesadilla-blanca-clasico.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-10-22-месси-прилетает-в-овьедо-за-премией-принцессы-астурийской",
       "date": "2026-10-22",
@@ -16,6 +537,27 @@
       "ru_covered": true,
       "ru_source": "sports.ru",
       "related": []
+    },
+    {
+      "id": "2026-10-22-бетис-взял-9-из-9-в-лч-себальос-о-истории",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "«Бетис» взял 9 из 9 в ЛЧ: Себальос о истории",
+      "summary": "После победы над «Фейеноордом» хавбек заявил: «Думаю, мы делаем историю»; Фран Гарсия раскрыл задачу раздевалки — попасть в топ-24.",
+      "bullets": [],
+      "category": "statements",
+      "country": "eurocups",
+      "published_at": "2026-10-22T06:59:04+02:00",
+      "source_domain": "sport.es",
+      "source_url": "https://www.sport.es/es/noticias/betis/dani-ceballos-tajante-momento-forma-135609276",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "sport.es",
+          "url": "https://www.sport.es/es/noticias/betis/fran-garcia-9-9-betis-135610167"
+        }
+      ]
     },
     {
       "id": "2026-10-22-захаряна-называют-вариантом-под-нападающим-в-лиллестрёме",
@@ -58,6 +600,22 @@
       "date": "2026-10-22",
       "section": "news",
       "title": "Райс назвал Кейна явным фаворитом «Золотого мяча»",
+      "summary": "После 2:2 в Мюнхене хавбек «Арсенала» сказал, что цифры Кейна говорят сами за себя: 10 голов в 11 матчах сезона, церемония — в понедельник в Лондоне.",
+      "bullets": [],
+      "category": "statements",
+      "country": "germany",
+      "published_at": "2026-10-22T04:50:16+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/declan-rice-harry-kane-clear-winner-ballon-dor-bayern-munich-arsenal/bltb2c1a902318af103",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-райс-назвал-кейна-явным-фаворитом-золотого-мяча",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Райс назвал Кейна явным фаворитом «Золотого мяча»",
       "summary": "После ничьей 2:2 в Мюнхене хавбек «Арсенала» заявил, что цифры Кейна говорят сами за себя, а год у форварда «Баварии» вышел выдающимся; награду вручают в понедельник в Лондоне.",
       "bullets": [],
       "category": "statements",
@@ -75,6 +633,22 @@
       ]
     },
     {
+      "id": "2026-10-22-эспарт-забил-псж-ровно-через-год-после-гола-псж",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Эспарт забил ПСЖ ровно через год после гола ПСЖ",
+      "summary": "19-летний защитник «Барсы» отметился на «Парк де Пренс» день в день с голом парижанам в Юношеской лиге УЕФА год назад.",
+      "bullets": [],
+      "category": "records",
+      "country": "spain",
+      "published_at": "2026-10-22T06:45:00+02:00",
+      "source_domain": "mundodeportivo.com",
+      "source_url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004241520/espart-ano-gol-psg-youth-champions.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
       "id": "2026-10-22-вратарь-жил-висенте-лукао-впервые-сыграет-против-порту",
       "date": "2026-10-22",
       "section": "news",
@@ -86,6 +660,22 @@
       "published_at": "2026-10-22T05:45:00+01:00",
       "source_domain": "record.pt",
       "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/gil-vicente/detalhe/lucao-no-teste-do-poleiro-do-gil-vicente",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-миятович-о-винисиусе-нужно-дать-ему-время",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Миятович о Винисиусе: «Нужно дать ему время»",
+      "summary": "Экс-спортдиректор «Реала» призвал не давить на бразильца после замены на Диоманде и заметил: у клуба, возможно, появился игрок, способный решать матчи.",
+      "bullets": [],
+      "category": "statements",
+      "country": "spain",
+      "published_at": "2026-10-22T06:36:43+02:00",
+      "source_domain": "marca.com",
+      "source_url": "https://www.marca.com/futbol/real-madrid/2026/10/22/mijatovic-le-muestra-camino-cabizbajo-vinicius-madrid-impacto-diomande.html",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -131,6 +721,68 @@
       "related": []
     },
     {
+      "id": "2026-10-22-араужо-забил-за-ливерпуль-опция-выкупа-55-млн",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Араужо забил за «Ливерпуль»: опция выкупа €55 млн",
+      "summary": "Арендованный у «Барсы» уругваец отметился вторым голом за клуб (против «Вильярреала») — англичане могут выкупить его в конце сезона.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "england",
+      "published_at": "2026-10-22T06:30:59+02:00",
+      "source_domain": "sport.es",
+      "source_url": "https://www.sport.es/es/noticias/premier-league/perdon-araujo-pense-fichaje-desesperado-135576271",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-22-барса-после-2-4-в-париже-лечить-обороной-с-мячом",
+      "date": "2026-10-22",
+      "section": "analytics",
+      "title": "«Барса» после 2:4 в Париже: лечить обороной с мячом",
+      "summary": "Тактический разбор Хави Торреса: все четыре пропущенных мяча и почему спор о «системе Флика» бессмысленен.",
+      "bullets": [
+        "Разбор всех четырёх голов: поперечная передача Ламина Ямаля привела к голу Дуэ, Гордон выключился на угловом, Жерар виноват в 2:3, а Фабиан бил в одиночестве на линии ворот.",
+        "Автор считает спор о «системе Флика» пустым: немец осознанно сделал команду вертикальной и атакующей, и это её суть.",
+        "В Париже Флик не раскрыл карты: лучшая линия обороны была травмирована, Родриго сознательно не вышел в старте из-за накопленных минут.",
+        "Рафинью выпустили только для набора игрового тонуса после травмы, а Родриго при выходе развели с Педри — лучшим союзником по контролю игры."
+      ],
+      "category": "match",
+      "country": "spain",
+      "published_at": "2026-10-22T06:30:59+02:00",
+      "source_domain": "sport.es",
+      "source_url": "https://www.sport.es/es/noticias/barca/barca-formulas-balon-solucionar-problemas-135588351",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "mundodeportivo.com",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004241639/conclusiones-positivo-primer-ko.html"
+        },
+        {
+          "domain": "sport.es",
+          "url": "https://www.sport.es/es/noticias/barca/balon-parado-tarea-pendiente-barca-135595823"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-22-артета-о-травме-саки-выглядит-совсем-нехорошо",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Артета о травме Саки: «Выглядит совсем нехорошо»",
+      "summary": "Вингер «Арсенала» ушёл с поля на 10-й минуте в Мюнхене после обычной передачи с резкой болью в бедре — обследование в Лондоне.",
+      "bullets": [],
+      "category": "injury",
+      "country": "england",
+      "published_at": "2026-10-22T04:30:31+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/mikel-arteta-admits-bukayo-saka-injury-arsenal-draw-bayern-munich/blt6ca1376f615bd896",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
       "id": "2026-10-22-артета-о-травме-саки-выглядит-совсем-нехорошо",
       "date": "2026-10-22",
       "section": "news",
@@ -154,6 +806,22 @@
           "url": "https://www.caughtoffside.com/2026/10/22/look-good-arteta-worrying-update/"
         }
       ]
+    },
+    {
+      "id": "2026-10-22-кинг-из-фулхэма-самый-прогрессирующий-в-апл",
+      "date": "2026-10-22",
+      "section": "news",
+      "title": "Кинг из «Фулхэма» — самый прогрессирующий в АПЛ",
+      "summary": "Рейтинг Gradient Sport поднял 19-летнего англичанина с 62 до 84,8 балла; Арбелоа: «У него есть всё, чтобы стать игроком топ-уровня».",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-22T06:27:38+02:00",
+      "source_domain": "marca.com",
+      "source_url": "https://www.marca.com/futbol/premier-league/2026/10/22/king-arbeloa-jugador-elegante-todos-clubes-he-vinculado.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
     },
     {
       "id": "2026-10-22-мак-энфилд-кошмар-испанских-клубов-на-энфилде",
