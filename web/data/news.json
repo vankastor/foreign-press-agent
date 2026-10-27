@@ -1,6 +1,75 @@
 {
-  "generated_at": "2026-10-27T00:09:50.497420+00:00",
+  "generated_at": "2026-10-27T01:09:09.181769+00:00",
   "items": [
+    {
+      "id": "2026-10-27-гути-исход-золотого-мяча-был-предрешён",
+      "date": "2026-10-27",
+      "section": "news",
+      "title": "Гути: исход «Золотого мяча» был предрешён",
+      "summary": "Бывший хавбек «Реала» в эфире El Chiringuito назвал неслучайным совпадением перенос церемонии в Лондон и победу лондонца Кейна: «Это было написано с самого начала».",
+      "bullets": [],
+      "category": "statements",
+      "country": "other",
+      "published_at": "2026-10-27T01:49:00+01:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a5065538269625805983-ballon-dor-la-theorie-complotiste-dun-ancien-du-real-madrid",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-27-france-football-раскритиковал-кампанию-псж",
+      "date": "2026-10-27",
+      "section": "news",
+      "title": "France Football раскритиковал кампанию ПСЖ",
+      "summary": "Главред издания Венсан Гарсиа заявил, что Париж провалил продвижение своих кандидатов: нужно было ставить на одного Дембеле, а не на трёх игроков сразу.",
+      "bullets": [],
+      "category": "statements",
+      "country": "france",
+      "published_at": "2026-10-27T01:43:00+01:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a5317410913306040778-ballon-dor-2026-france-football-tacle-le-psg",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-27-кубок-португалии-бенфика-сыграет-с-обладателем-трофея",
+      "date": "2026-10-27",
+      "section": "news",
+      "title": "Кубок Португалии: «Бенфика» сыграет с обладателем трофея",
+      "summary": "Жеребьёвка 4-го раунда свела «Бенфику» с «Торренсе»; тренер действующего обладателя Кубка Луиш Тральян назвал пару шансом показать своих игроков всему миру.",
+      "bullets": [],
+      "category": "match",
+      "country": "portugal",
+      "published_at": "2026-10-27T00:25:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/treinador-do-torreense-reage-ao-benfica-oportunidade-de-mostrar-os-jogadores-ao-mundo-2026102700253365804",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "record.pt",
+          "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/em-direto-siga-o-sorteio-das-4-e-5-eliminatorias-da-taca-de-portugal"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-насри-о-кейне-в-больших-матчах-у-него-сбой",
+      "date": "2026-10-27",
+      "section": "news",
+      "title": "Насри о Кейне: в больших матчах у него сбой",
+      "summary": "В эфире Canal+ Самир Насри признал решающей роль статистики, но заявил, что Кейн никогда не тащил команду к титулу, и на вопрос, восхищён ли он наградой, ответил «нет».",
+      "bullets": [],
+      "category": "statements",
+      "country": "germany",
+      "published_at": "2026-10-27T01:19:00+01:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a4577615513912315859-ballon-dor-lavis-fort-de-samir-nasri-sur-harry-kane",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-10-27-месси-должен-был-войти-в-топ-3-заявление-в-el-chiringuito",
       "date": "2026-10-27",
@@ -15,6 +84,22 @@
       "source_url": "https://www.footmercato.net/a4174013574252471641-messi-aurait-du-etre-top-3-la-declaration-lunaire-dun-journaliste-argentin",
       "ru_covered": false,
       "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-27-луис-энрике-после-2-0-с-лионом-похвалил-фонсеку",
+      "date": "2026-10-27",
+      "section": "news",
+      "title": "Луис Энрике после 2:0 с «Лионом» похвалил Фонсеку",
+      "summary": "ПСЖ забил оба мяча во втором тайме и возглавил Лигу 1; тренер отметил игроков ротации (Маюлу, Годтс, Нджанту, Дро, Беральдо) и сложности от плотного центра «Лиона».",
+      "bullets": [],
+      "category": "statements",
+      "country": "france",
+      "published_at": "2026-10-26T23:56:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/luis-enrique-paulo-fonseca-e-um-treinador-de-qualidade-cria-nos-sempre-problemas-2026102623564885312",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
       "related": []
     },
     {
@@ -58,6 +143,32 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
+    },
+    {
+      "id": "2026-10-27-долгий-путь-кейна-от-аренд-в-лиге-1-до-вершины",
+      "date": "2026-10-27",
+      "section": "analytics",
+      "title": "Долгий путь Кейна: от аренд в Лиге 1 до вершины",
+      "summary": "Крупный разбор ESPN о том, как форвард, которого в начале карьеры никто не считал звездой, в 33 года выиграл «Золотой мяч».",
+      "bullets": [
+        "В зачётный период Кейн набрал 73 гола в 65 матчах, взяв с «Баварией» Бундеслигу, Кубок и Суперкубок Германии и забив 6 мячей на ЧМ, где Англия стала третьей.",
+        "В 2017 году он был лишь 24-м в голосовании The Best, а его прежний максимум в «Золотом мяче» — 10-е место в 2024-м.",
+        "61 гол за «Баварию» во всех турнирах — на 19 больше, чем у любого другого игрока топ-5 лиг, и лучший результат за клуб со времён Роналду (61 за «Реал» в 2014/15).",
+        "Перед церемонией на официальном сайте награды по ошибке опубликовали профили победителей — Кейна, Мбаппе и Ямаля; страницы удалили, а старт задержали на 45 минут."
+      ],
+      "category": "records",
+      "country": "other",
+      "published_at": "2026-10-26T19:44:00-04:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50265615/harry-kanes-long-road-ballon-dor-glory-ends-crowning-moment",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "skysports.com",
+          "url": "https://www.skysports.com/football/news/13602662/harry-kane-wins-ballon-dor-bayern-munich-striker-completes-cinderella-story-from-efl-loans-to-worlds-best-player"
+        }
+      ]
     },
     {
       "id": "2026-10-27-кейн-не-забыл-тоттенхэм-это-была-моя-мечта",
@@ -108,6 +219,22 @@
           "url": "https://www.sport1.de/news/fussball/2026/10/ballon-dor-lamine-yamal-raeumt-talent-award-ab"
         }
       ]
+    },
+    {
+      "id": "2026-10-27-путельяс-взяла-третий-женский-золотой-мяч",
+      "date": "2026-10-27",
+      "section": "news",
+      "title": "Путельяс взяла третий женский «Золотой мяч»",
+      "summary": "Испанка получила награду уже как игрок «Лондон Сити Лайонессес», догнав Бонмати; «Барселона» забрала призы лучшему тренеру, вратарю, молодой футболистке и клубу.",
+      "bullets": [],
+      "category": "records",
+      "country": "other",
+      "published_at": "2026-10-26T23:35:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/lists/barcelona-assert-their-dominance-in-the-women-s-awards-putellas-crowned-with-the-2026-ballon-d-or/blt3ca91288921602a2",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
     },
     {
       "id": "2026-10-27-псж-второй-год-подряд-клуб-года-аль-хелаифи-отреагировал",
@@ -161,6 +288,38 @@
       ]
     },
     {
+      "id": "2026-10-27-европейская-пресса-о-кейне-король-харри",
+      "date": "2026-10-27",
+      "section": "news",
+      "title": "Европейская пресса о Кейне: «Король Харри»",
+      "summary": "Обзор реакций: L'Equipe чествует «короля Харри», Le Parisien пишет о долго недооценённом игроке, Gazzetta хвалит скромность, Marca называет финал самым нервным в истории.",
+      "bullets": [],
+      "category": "statements",
+      "country": "other",
+      "published_at": "2026-10-27T00:31:00+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/internationaler-fussball/2026/10/pressestimmen-zur-verleihung-des-ballon-d-or",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-27-серия-a-9-й-тур-кин-вне-игры-тюрам-под-вопросом",
+      "date": "2026-10-27",
+      "section": "news",
+      "title": "Серия A, 9-й тур: Кин вне игры, Тюрам под вопросом",
+      "summary": "Вышли вероятные составы: у «Ювентуса» впереди Вольтемаде и Коло Муани, у «Наполи» в центре Де Брюйне и Мактоминей, у «Интера» без Тюрама играют Бонни и Пио Эспозито.",
+      "bullets": [],
+      "category": "match",
+      "country": "italy",
+      "published_at": "2026-10-27T00:28:00+01:00",
+      "source_domain": "calciomercato.com",
+      "source_url": "https://www.calciomercato.com/liste/serie-a-probabili-formazioni-nona-giornata/blt56f7b0ae33dcfb18",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
       "id": "2026-10-27-дядя-ямаля-разнёс-кейна-он-просто-забивальщик",
       "date": "2026-10-27",
       "section": "news",
@@ -180,6 +339,22 @@
           "url": "https://www.footmercato.net/a6815929696476609578-ballon-dor-la-reaction-depitee-de-lamine-yamal"
         }
       ]
+    },
+    {
+      "id": "2026-10-27-кейн-обратился-к-госпитализированному-компани",
+      "date": "2026-10-27",
+      "section": "news",
+      "title": "Кейн обратился к госпитализированному Компани",
+      "summary": "Со сцены в Лондоне форвард передал послание тренеру «Баварии», находящемуся в больнице: «Надеюсь, этот успех даст тебе немного сил», — и назвал честью играть за клуб.",
+      "bullets": [],
+      "category": "statements",
+      "country": "germany",
+      "published_at": "2026-10-27T00:12:00+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/internationaler-fussball/2026/10/kane-ohne-den-fc-bayern-nicht-moeglich",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
     },
     {
       "id": "2026-10-27-манчестер-юнайтед-заплатит-за-хау-до-6-млн-компенсации",
