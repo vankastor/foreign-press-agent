@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-10-28T01:11:55.031765+00:00",
+  "generated_at": "2026-10-28T02:09:47.413398+00:00",
   "items": [
+    {
+      "id": "2026-10-28-барселона-назвала-три-приоритета-на-летнее-окно",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "«Барселона» назвала три приоритета на летнее окно",
+      "summary": "Деку по просьбе Флика ищет леворукого центрального защитника к Кубарси, атакующего правого защитника и центрфорварда — среди вариантов Шлоттербек, Ливраменту, Кейн и Холанд.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "spain",
+      "published_at": "2026-10-28T02:00:00+01:00",
+      "source_domain": "fichajes.net",
+      "source_url": "https://www.fichajes.net/noticias/asignaturas-pendientes-deco-2027-3-puestos-reforzar-20261028.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-10-28-ла-лига-раскрыла-слова-бернарду-силвы-судье-в-класико",
       "date": "2026-10-28",
@@ -38323,35 +38339,6 @@
       "ru_covered": true,
       "ru_source": "sports.ru",
       "related": []
-    },
-    {
-      "id": "2026-09-14-оценки-за-сассуоло-ювентус-споллетти-получил-четвёрку",
-      "date": "2026-09-14",
-      "section": "stats",
-      "title": "Оценки за «Сассуоло» — «Ювентус»: Споллетти получил четвёрку",
-      "summary": "Corriere dello Sport выставил оценки за 3:2 в Реджо-Эмилии, где «Юве» дважды отыгрывался и всё равно проиграл.",
-      "bullets": [
-        "Голы: Эспозито (65'), Жегрова (82'), Боуи (89'), Жегрова (90+1'), Аджич (90+4')",
-        "Аквилани — 8,0, Споллетти — 4,0: «Юве на полу после того, как дважды сравняла»",
-        "Матич — 7,5 как «центр тяжести» «Сассуоло», Жегрова — 7,5 за дубль со скамейки",
-        "Коло Муани — 4,0 («плоский, мягкий, безобидный»), Бремер — 5,0 за ошибку на втором голе"
-      ],
-      "category": "match",
-      "published_at": "2026-09-14T00:05:44+02:00",
-      "source_domain": "corrieredellosport.it",
-      "source_url": "https://www.corrieredellosport.it/foto/calcio/serie-a/2026/09/13-151227712/le_pagelle_di_sassuolo_-_juve_spalletti_e_kolo_un_carro_da_voto_4_matic_la_luce",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "espn.com",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401874750"
-        },
-        {
-          "domain": "calciomercato.com",
-          "url": "https://www.calciomercato.com/liste/spalletti-dopo-sassuolo-juventus-i-giocatori-hanno-preso-troppo-alla-lettera-quello-che-ho-chiesto-kolo-muani-deve-essere-piu-cattivo-zhegrova-e-incredibile/bltbca6c96113ccd1e2"
-        }
-      ]
     }
   ]
 }
