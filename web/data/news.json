@@ -1,6 +1,282 @@
 {
-  "generated_at": "2026-10-28T15:14:55.873818+00:00",
+  "generated_at": "2026-10-28T16:10:40.724149+00:00",
   "items": [
+    {
+      "id": "2026-10-28-компани-остаётся-в-больнице-вывих-плеча-и-судороги",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Компани остаётся в больнице: вывих плеча и судороги",
+      "summary": "Врачи исключили инфаркт и инсульт у тренера «Баварии», но продолжают обследование; на скамейке ещё несколько недель будет Аарон Дэнкс.",
+      "bullets": [],
+      "category": "injury",
+      "country": "germany",
+      "published_at": "2026-10-28T15:46:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/vincent-kompany-believed-dislocated-shoulder-collapsing-bayern-munich-training-doctors-rule-out-heart-attack-stroke/bltd8b5864b0e7807d7",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-фиорентина-готова-слушать-предложения-по-де-хеа",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "«Фиорентина» готова слушать предложения по Де Хеа",
+      "summary": "Клуб рассмотрит варианты продажи экс-вратаря «Манчестер Юнайтед» уже в ближайшее окно.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "italy",
+      "published_at": "2026-10-28T15:46:00+00:00",
+      "source_domain": "football-italia.net",
+      "source_url": "https://football-italia.net/fiorentina-set-to-consider-offers-de-gea/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "onefootball.com",
+          "url": "https://onefootball.com/en/news/fiorentina-set-to-consider-offers-for-ex-man-utd-goalkeeper-de-gea-43686645"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-марко-силва-назвал-возвращения-и-потери-бенфики",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Марко Силва назвал возвращения и потери «Бенфики»",
+      "summary": "Перед игрой с «Жил Висенте» тренер объявил о возвращении игрока в состав, перечислил травмированных и отдельно высказался о Дуране, сославшись на медицинский отчёт.",
+      "bullets": [],
+      "category": "injury",
+      "country": "portugal",
+      "published_at": "2026-10-28T15:45:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/marco-silva-revela-regresso-e-algumas-baixas-para-o-gil-vicente-2026102815392895066",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "abola.pt",
+          "url": "https://www.abola.pt/noticias/marco-silva-da-novidade-surpreendente-sobre-duran-ja-tive-acesso-ao-relatorio-2026102815192948068"
+        },
+        {
+          "domain": "ojogo.pt",
+          "url": "https://www.ojogo.pt/futebol/artigo/duran-os-lesionados-e-os-golos-com-fartura-o-que-disse-marco-silva-antes-do-benfica-gil-vicente/18141945"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-странные-бюллетени-золотого-мяча-2026-кого-не-заметили",
+      "date": "2026-10-28",
+      "section": "analytics",
+      "title": "Странные бюллетени «Золотого мяча»-2026: кого не заметили",
+      "summary": "Разбор аномалий в голосовании журналистов: кого обошли вниманием и кто попал в десятку неожиданно.",
+      "bullets": [
+        "«Золотой мяч»-2026 выиграл Харри Кейн, но чешский журналист поставил его лишь десятым (вторым у него шёл Мбаппе, третьим — Месси).",
+        "Журналисты из Беларуси и Хорватии вообще не включили Ламина Ямаля в свою десятку.",
+        "Белорусский бюллетень: первый — Месси, второй — Родри, третий — Кейн; хорватский вывел Родри выше Холанда и Месси.",
+        "Пау Кубарси оказался третьим у швейцарского журналиста и седьмым у хорватского, а косовский поставил третьим Кварацхелию."
+      ],
+      "category": "other",
+      "country": "other",
+      "published_at": "2026-10-28T15:42:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/yamal-kane-snubbed-and-a-cubarsi-surprise-strange-choices-by-journalists-for-the-2026-ballon-d-or/blt3288a3df3cc249e8",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-кёкчю-целится-на-матч-с-селтиком",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Кёкчю целится на матч с «Селтиком»",
+      "summary": "Медштаб «Бешикташа» отслеживает состояние Оркуна Кёкчю: с «Касымпашой» он вряд ли сыграет, цель — попасть в заявку на «Селтик»; в сезоне у него 5 голов и 4 ассиста в 14 матчах.",
+      "bullets": [],
+      "category": "injury",
+      "country": "turkey",
+      "published_at": "2026-10-28T18:35:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/orkun-kokcu-icin-hedef-celtic-maci-SXHBQ1180946SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-в-китае-жгут-футболки-мбаппе-на-видео",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "В Китае жгут футболки Мбаппе на видео",
+      "summary": "Китайские болельщики публикуют ролики с сожжением игровых футболок форварда «Реала» и комментариями «я никогда его не прощу».",
+      "bullets": [],
+      "category": "scandals",
+      "country": "spain",
+      "published_at": "2026-10-28T16:26:00+01:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a4161934690808969952-des-supporters-chinois-brulent-des-maillots-de-kylian-mbappe",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "goal.com",
+          "url": "https://www.goal.com/en/news/on-video-fans-burn-mbappe-s-shirt-in-china-i-will-never-forgive-him/blt6099919a1467ce18"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-аталанта-вернула-сулеману-и-скальвини-к-игре",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "«Аталанта» вернула Сулеману и Скальвини к игре",
+      "summary": "На выезд во Флоренцию поедут Сулемана, пропустивший два с половиной месяца, и восстановившийся Скальвини.",
+      "bullets": [],
+      "category": "injury",
+      "country": "italy",
+      "published_at": "2026-10-28T16:24:00+01:00",
+      "source_domain": "sportmediaset.mediaset.it",
+      "source_url": "https://www.sportmediaset.mediaset.it/calcio/atalanta-a-firenze-rientrano-sulemana-dopo-2-mesi-e-mezzo-e-scalvini_118252242-202602k.shtml",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-псж-подтверждает-интерес-к-ибрагиму-мазе",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "ПСЖ подтверждает интерес к Ибрагиму Мазе",
+      "summary": "Парижане усилили проработку трансфера полузащитника и рассматривают вариант с переходом уже в январе.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "france",
+      "published_at": "2026-10-28T16:21:00+01:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a8915619184017083958-mercato-linteret-du-psg-pour-ibrahim-maza-se-confirme",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-определились-результаты-игрового-дня-кубка-турции",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Определились результаты игрового дня Кубка Турции",
+      "summary": "Завершились матчи третьего раунда Ziraat Türkiye Kupası — известен список команд, прошедших дальше.",
+      "bullets": [],
+      "category": "records",
+      "country": "turkey",
+      "published_at": "2026-10-28T18:18:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/ziraat-turkiye-kupasi-nda-gunun-sonuclari-belli-oldu-SXHBQ1180944SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "fotomac.com.tr",
+          "url": "https://www.fotomac.com.tr/turkiye-kupasi/2026/10/28/antalyaspor-kars-36-sporu-maglup-ederek-ust-tura-yukseldi-ziraat-turkiye-kupasi"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-официально-дже-тавареш-продлил-контракт-с-санта-кларой",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Официально: Дже Тавареш продлил контракт с «Санта-Кларой»",
+      "summary": "Португальский клуб объявил о новом соглашении с футболистом.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "portugal",
+      "published_at": "2026-10-28T15:17:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/oficial-dje-tavares-renova-com-o-santa-clara-2026102815172089667",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-карвахаль-отреагировал-на-слова-арбелоа",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Карвахаль отреагировал на слова Арбелоа",
+      "summary": "Защитник «Реала» заявил, что объяснить свои высказывания должен сам Арбелоа, уходя от прямой полемики.",
+      "bullets": [],
+      "category": "statements",
+      "country": "spain",
+      "published_at": "2026-10-28T15:06:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/carvajal-arbeloa-explicara-melhor-o-porque-dessas-declaracoes-2026102814560300343",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "sporx.com",
+          "url": "https://www.sporx.com/carvajal-dan-arbeloa-ya-dikkat-ceken-yanit-SXHBQ1180947SXQ"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-гарначо-пропал-из-состава-и-может-уйти-в-январе",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Гарначо пропал из состава и может уйти в январе",
+      "summary": "Итальянские СМИ пишут, что аргентинец потерял место в «Астон Вилле» и рассматривает смену клуба уже зимой.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "england",
+      "published_at": "2026-10-28T16:04:00+01:00",
+      "source_domain": "calciomercato.com",
+      "source_url": "https://www.calciomercato.com/liste/garnacho-e-sparito-addio-all-aston-villa-gia-a-gennaio-la-serie-a-e-un-rimpianto-il-futuro-un-incognita/blta899f5628d247361",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-мбаппе-не-первый-как-китай-отменял-спорт-раньше",
+      "date": "2026-10-28",
+      "section": "analytics",
+      "title": "Мбаппе не первый: как Китай отменял спорт раньше",
+      "summary": "Историческая справка-разбор: чем заканчивались прошлые конфликты Китая с НБА, АПЛ, WTA и Озилом — и сколько это стоило.",
+      "bullets": [
+        "После слов Дэрила Мори о Гонконге (2019) НБА пропала из китайского эфира примерно на 18 месяцев — до марта 2022-го; потери оценивали в сотни миллионов долларов.",
+        "В декабре 2019-го после критики Озилом положения уйгуров китайское ТВ сняло из сетки матч «Арсенал» — «Манчестер Сити», а клуб публично дистанцировался от слов игрока.",
+        "В марте 2022-го китайские вещатели заблокировали тур АПЛ, в котором команды демонстрировали солидарность с Украиной.",
+        "WTA из-за дела Пэн Шуай в 2021-м сняла все турниры в Китае и Гонконге (9 турниров календаря-2019, включая итоговый) и вернулась только в апреле 2023-го."
+      ],
+      "category": "scandals",
+      "country": "spain",
+      "published_at": "2026-10-28T15:04:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/mbappe-is-not-the-first-oezil-the-premier-league-and-the-nba-on-china-s-list-of-enemies/blt07122221fa3cf403",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-каррик-и-фернандеш-провели-разговор-начистоту",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Каррик и Фернандеш провели разговор начистоту",
+      "summary": "Тренер «Манчестер Юнайтед» и капитан команды встретились лицом к лицу перед матчем с «Челси» на фоне слухов об отставке Каррика.",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-28T18:02:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/manchester-united-da-carrick-ve-fernandes-yuzlesti-SXHBQ1180943SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "goal.com",
+          "url": "https://www.goal.com/en/news/michael-carrick-bruno-fernandes-talks-ahead-of-chelsea-man-utd/blt6ac355dc2841c6e2"
+        },
+        {
+          "domain": "footmercato.net",
+          "url": "https://www.footmercato.net/a7850370725875228058-manchester-united-michael-carrick-et-bruno-fernandes-ont-mis-les-choses-au-clair"
+        },
+        {
+          "domain": "skysports.com",
+          "url": "https://www.skysports.com/football/news/13604738/bruno-fernandes-man-utd-head-coach-michael-carrick-and-club-captain-hold-clear-the-air-talks-ahead-of-chelsea-fixture"
+        }
+      ]
+    },
     {
       "id": "2026-10-28-челси-и-псж-схлестнулись-за-фермина-лопеса-за-100-млн",
       "date": "2026-10-28",
@@ -29,6 +305,22 @@
       "published_at": "2026-10-28T14:59:55+00:00",
       "source_domain": "getfootballnewsfrance.com",
       "source_url": "https://www.getfootballnewsfrance.com/2026/liam-rosenior-says-paris-fcs-objective-is-to-be-one-of-the-biggest-clubs-in-europe/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-ла-лига-рискует-крупно-потерять-на-китайском-рынке",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Ла Лига рискует крупно потерять на китайском рынке",
+      "summary": "Скандал вокруг слов Мбаппе о Мао Цзэдуне бьёт по коммерческим и телевизионным доходам испанской лиги в Китае.",
+      "bullets": [],
+      "category": "other",
+      "country": "spain",
+      "published_at": "2026-10-28T15:58:00+01:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a6717735762558677495-la-liga-risque-de-perdre-tres-gros-apres-la-polemique-de-kylian-mbappe-et-la-chine",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -117,6 +409,48 @@
       ]
     },
     {
+      "id": "2026-10-28-хроническая-болезнь-барсы-флика-которой-живёт-атлетико",
+      "date": "2026-10-28",
+      "section": "analytics",
+      "title": "Хроническая болезнь «Барсы» Флика, которой живёт «Атлетико»",
+      "summary": "Большой разбор повторяющегося тактического изъяна каталонцев перед очередной встречей с «Атлетико».",
+      "bullets": [
+        "«Барселона» Флика держит экстремально высокую линию, и соперники раз за разом забрасывают мяч за спину крайнему защитнику под рывок нападающего.",
+        "Фирменная проблема — концовки: на «Монжуике» в сезоне-2024/25 «Атлетико» вырвал победу на 96-й минуте, а в полуфинале Кубка-2025 каталонцы вели 4:2 и отдали 4:4.",
+        "В первом матче полуфинала Кубка Короля-2026 «Атлетико» выиграл 4:0, причём третий и четвёртый голы пришли по той же схеме «фланг — навес — забегание».",
+        "Автор противопоставляет Флика Гвардиоле и Луису Энрике: те страховались протоколами риска, а односторонний атакующий план Флика требует безошибочного исполнения."
+      ],
+      "category": "match",
+      "country": "spain",
+      "published_at": "2026-10-28T14:48:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/it-appeared-in-the-clasico-will-atletico-exploit-flick-s-chronic-weakness-to-beat-barcelona-again/bltd8180b042965383e",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-28-ливень-сорвал-матч-кубка-турции",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Ливень сорвал матч Кубка Турции",
+      "summary": "Одна из игр кубкового дня была остановлена и перенесена из-за сильного дождя и состояния поля.",
+      "bullets": [],
+      "category": "match",
+      "country": "turkey",
+      "published_at": "2026-10-28T17:46:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/turkiye-kupasi-macina-saganak-yagis-engeli-SXHBQ1180942SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "beinsports.com.tr",
+          "url": "https://beinsports.com.tr/haber/saganak-yagis-nedeniyle-mac-ertelendi"
+        }
+      ]
+    },
+    {
       "id": "2026-10-28-нико-пас-за-100-млн-арсенал-юнайтед-и-челси-в-очереди",
       "date": "2026-10-28",
       "section": "news",
@@ -134,6 +468,27 @@
         {
           "domain": "teamtalk.com",
           "url": "https://www.teamtalk.com/chelsea/nico-paz-update-january-como-blues-transfer-hopes"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-травма-арбитра-заставила-dfb-менять-бригаду-на-классикер",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Травма арбитра заставила DFB менять бригаду на Классикер",
+      "summary": "Немецкая федерация срочно перекраивает судейское назначение на матч «Боруссия» Дортмунд — «Бавария» из-за повреждения рефери.",
+      "bullets": [],
+      "category": "other",
+      "country": "germany",
+      "published_at": "2026-10-28T15:41:00+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/fussball/bundesliga/2026/10/nach-schiri-verletzung-dfb-muss-fuer-klassiker-umplanen",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "goal.com",
+          "url": "https://www.goal.com/en/news/borussia-dortmund-fans-look-back-in-horror-surprise-referee-change-ahead-of-big-match-against-bayern-munich/blt5f8ca33753dc6ff6"
         }
       ]
     },
@@ -207,6 +562,22 @@
           "url": "https://www.goal.com/en/news/usmnt-christian-pulisic-ac-milan-new-contract-2031/blt8a4f4dac5f31e852"
         }
       ]
+    },
+    {
+      "id": "2026-10-28-у-тренера-сборной-аргентины-скалони-умерла-мать",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "У тренера сборной Аргентины Скалони умерла мать",
+      "summary": "Лионеля Скалони постигла тяжёлая утрата — сообщение подтвердили итальянские СМИ.",
+      "bullets": [],
+      "category": "other",
+      "country": "other",
+      "published_at": "2026-10-28T15:24:00+01:00",
+      "source_domain": "sportmediaset.mediaset.it",
+      "source_url": "https://www.sportmediaset.mediaset.it/calcio/argentina-grave-lutto-per-il-ct-scaloni-e-morta-la-madre_118250376-202602k.shtml",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
     },
     {
       "id": "2026-10-28-испания-остановила-весь-кубок-короля-после-жд-катастрофы",
@@ -300,6 +671,64 @@
         {
           "domain": "teamtalk.com",
           "url": "https://www.teamtalk.com/arsenal/paris-brunner-update-gunners-interest-chelsea-rival-move-january-monaco"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-в-фенербахче-высказались-о-будущем-дирка-кюйта",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "В «Фенербахче» высказались о будущем Дирка Кюйта",
+      "summary": "После расставания клуба с Исмаилом Карталом тренировку провёл Кюйт, а его менеджер сделал заявление о сроках работы голландца.",
+      "bullets": [],
+      "category": "statements",
+      "country": "turkey",
+      "published_at": "2026-10-28T17:17:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/fenerbahce-de-kuyt-in-menajerinden-flas-aciklama-SXHBQ1180940SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "fotomac.com.tr",
+          "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/28/dirk-kuyt-icin-flas-aciklama-sezon-sonuna-kadar"
+        },
+        {
+          "domain": "beinsports.com.tr",
+          "url": "https://beinsports.com.tr/haber/resmi-aciklama-ismail-kartalla-yollar-ayrildi"
+        },
+        {
+          "domain": "fanatik.com.tr",
+          "url": "https://www.fanatik.com.tr/fenerbahce/fenerbahcede-ismail-kartalsiz-ilk-idman-komuta-dirk-kuytta-2642603"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-28-гонсалу-рамуш-раскрыл-детали-ухода-из-псж",
+      "date": "2026-10-28",
+      "section": "news",
+      "title": "Гонсалу Рамуш раскрыл детали ухода из ПСЖ",
+      "summary": "Форвард «Милана» признался, что хотел уйти ещё в январе, а Кампос обещал ему продажу летом, и поблагодарил Аморима за переход.",
+      "bullets": [],
+      "category": "statements",
+      "country": "italy",
+      "published_at": "2026-10-28T15:15:00+01:00",
+      "source_domain": "sportmediaset.mediaset.it",
+      "source_url": "https://www.sportmediaset.mediaset.it/calcio/milan/goncalo-ramos-sono-al-milan-grazie-ad-amorim-finalmente-gioco-nel-mio-ruolo-in-futuro-_118249011-202602k.shtml",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "calciomercato.com",
+          "url": "https://www.calciomercato.com/liste/milan-goncalo-ramos-volevo-lasciare-il-psg-a-gennaio-campos-mi-assicuro-la-cessione-in-estate/blt01171b22e2f85145"
+        },
+        {
+          "domain": "getfootballnewsfrance.com",
+          "url": "https://www.getfootballnewsfrance.com/2026/i-only-wanted-one-thing-to-leave-ac-milan-striker-goncalo-ramos-reflects-on-the-end-of-his-time-at-psg/"
+        },
+        {
+          "domain": "sporx.com",
+          "url": "https://www.sporx.com/goncalo-ramos-tan-psg-den-ayrilik-surecine-iliskin-itiraf-SXHBQ1180945SXQ"
         }
       ]
     },
@@ -37436,422 +37865,6 @@
       "source_url": "https://www.abola.pt/noticias/vincenzo-italiano-benfica-besiktas-2026092412493810022",
       "ru_covered": false,
       "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-почему-снимать-запрет-на-алкоголь-на-трибунах-плохая-идея",
-      "date": "2026-09-24",
-      "section": "analytics",
-      "title": "Почему снимать запрет на алкоголь на трибунах — плохая идея",
-      "summary": "Иан Уотсон спорит с политическим консенсусом и объясняет, чем обернётся отмена закона 1985 года.",
-      "bullets": [
-        "Уотсон напоминает: запрет вводился не из морализаторства, а после конкретных инцидентов конца 1970-х.",
-        "Автор приводит данные полиции о росте задержаний в матчах, где алкоголь доступен на трибунах в других лигах.",
-        "Ключевой аргумент — нагрузка ляжет на стюардов и клубы низших дивизионов, у которых нет ресурсов на контроль."
-      ],
-      "category": "other",
-      "country": "england",
-      "published_at": "2026-09-24T12:48:00+01:00",
-      "source_domain": "",
-      "source_url": "",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-kicker-клод-морис-и-бах-переросли-скамейку-аугсбурга",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Kicker: Клод-Морис и Бах переросли скамейку «Аугсбурга»",
-      "summary": "После домашнего старта на 7 очков и поражения 2:3 в Бремене клуб жалеет об упущенных баллах — у Мануэля Баума появился прямой повод перекроить стартовый состав.",
-      "bullets": [],
-      "category": "other",
-      "country": "germany",
-      "published_at": "2026-09-24T13:47:00+02:00",
-      "source_domain": "kicker.de",
-      "source_url": "https://www.kicker.de/claude-maurice-und-bah-sind-zu-gut-fuer-die-fca-bank-1255291/artikel",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-атлетик-отзывает-1019-пригласительных-экономия-1-3-млн-евро",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "«Атлетик» отзывает 1019 пригласительных — экономия 1,3 млн евро",
-      "summary": "Клуб из Бильбао официально подтвердил сокращение служебных проходов на «Сан-Мамес»: игроки первой команды лишаются 172 пропусков, ветераны — 120. Ожидаемый финансовый эффект — около 1,3 млн евро за сезон.",
-      "bullets": [],
-      "category": "other",
-      "country": "spain",
-      "published_at": "2026-09-24T13:46:00+02:00",
-      "source_domain": "marca.com",
-      "source_url": "https://www.marca.com/futbol/athletic/2026/09/24/athletic-confirma-retira-1-019-invitaciones-cortesia-estima-beneficio-1-3-millones-euros.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-давид-алаба-официально-стал-игроком-удинезе",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Давид Алаба официально стал игроком «Удинезе»",
-      "summary": "34-летний австриец подписал контракт с клубом из Фриули на правах свободного агента после ухода из «Реала»; дебют возможен уже после паузы на сборные.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "italy",
-      "published_at": "2026-09-24T13:46:00+02:00",
-      "source_domain": "",
-      "source_url": "",
-      "ru_covered": true,
-      "ru_source": "sovsport.ru",
-      "related": [
-        {
-          "domain": "football-italia.net",
-          "url": "https://www.football-italia.net/udinese-sign-david-alaba/"
-        },
-        {
-          "domain": "marca.com",
-          "url": "https://www.marca.com/futbol/udinese/2026/09/24/alaba-oficial.html"
-        },
-        {
-          "domain": "footmercato.net",
-          "url": "https://www.footmercato.net/a-alaba-signe-a-l-udinese"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-24-алаба-игрок-удинезе-официально-контракт-до-2027-го",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Алаба — игрок «Удинезе»: официально, контракт до 2027-го",
-      "summary": "34-летний австриец, свободный агент после ухода из «Реала», подписал соглашение до 30 июня 2027 года: «Я не приехал доигрывать — я слишком амбициозен для этого».",
-      "bullets": [],
-      "category": "transfers",
-      "country": "italy",
-      "published_at": "2026-09-24T13:46:00+02:00",
-      "source_domain": "gianlucadimarzio.com",
-      "source_url": "https://www.gianlucadimarzio.com/news-calcio/alaba-udinese-ufficiale-calciomercato-news-497590",
-      "ru_covered": true,
-      "ru_source": "matchtv.ru",
-      "related": [
-        {
-          "domain": "corrieredellosport.it",
-          "url": "https://www.corrieredellosport.it/news/calcio/serie-a/udinese/2026/09/24-151436381/alaba_all_udinese_il_colpo_ufficiale"
-        },
-        {
-          "domain": "calciomercato.com",
-          "url": "https://www.calciomercato.com/liste/udinese-e-ufficiale-il-colpo-david-alaba-ha-firmato-fino-al-30-giugno-2027-quando-sara-pronto-e-dove-giochera/bltd73ce2dbbea291ee"
-        },
-        {
-          "domain": "football-italia.net",
-          "url": "https://football-italia.net/official-udinese-sign-alaba-free-transfer/"
-        },
-        {
-          "domain": "besoccer.com",
-          "url": "https://www.besoccer.com/new/official-udinese-complete-signing-of-david-alaba-1431513"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-24-вилаш-боаш-обрушился-на-бурую-мантию-критиков-порту",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Вилаш-Боаш обрушился на «бурую мантию» критиков «Порту»",
-      "summary": "Президент клуба заявил, что победа в классико стала ответом «на высокомерие тех, кто неделями пытался принизить клуб», а по делу главы судейского комитета добавил: «Вотум доверия не заменяет объяснений».",
-      "bullets": [],
-      "category": "scandals",
-      "country": "portugal",
-      "published_at": "2026-09-24T12:38:00+01:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/villas-boas-ao-ataque-do-manto-marrom-ao-novo-clube-na-segunda-circular-2026092412212876567",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "record.pt",
-          "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/andre-villas-boas-volta-ao-classico-e-lanca-ataque-ao-manto-marrom"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-24-у-месси-возникли-проблемы-с-владением-эльденсе",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "У Месси возникли проблемы с владением «Эльденсе»",
-      "summary": "Испанская федерация запросила разъяснения по структуре собственности клуба из-за возможного конфликта интересов.",
-      "bullets": [],
-      "category": "other",
-      "country": "spain",
-      "published_at": "2026-09-24T13:33:00+02:00",
-      "source_domain": "",
-      "source_url": "",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-манчестер-юнайтед-выходил-на-контакт-с-конте",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "«Манчестер Юнайтед» выходил на контакт с Конте",
-      "summary": "Руководство клуба прощупывало почву на фоне неровного старта Каррика, но итальянец не готов прерывать текущий контракт.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-09-24T12:31:00+01:00",
-      "source_domain": "",
-      "source_url": "",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-карвахаль-погба-икарди-кто-ещё-остался-без-клуба",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Карвахаль, Погба, Икарди: кто ещё остался без клуба",
-      "summary": "После переходов Нето и Алабы в Италию Ди Марцио пересчитал оставшихся звёздных свободных агентов — в списке также Марез, Санчо, Стерлинг, Дармиан и Ачерби.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "other",
-      "published_at": "2026-09-24T13:30:00+02:00",
-      "source_domain": "gianlucadimarzio.com",
-      "source_url": "https://www.gianlucadimarzio.com/news-calcio/neto-alaba-italia-big-svincolati-24-settembre-2026-news-497605",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-мактоминей-вернулся-в-строй-после-абляции-сердца",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Мактоминей вернулся в строй после абляции сердца",
-      "summary": "Шотландец перенёс процедуру в августе и впервые за полтора месяца провёл полноценную тренировку с «Наполи».",
-      "bullets": [],
-      "category": "injury",
-      "country": "italy",
-      "published_at": "2026-09-24T12:22:00+01:00",
-      "source_domain": "",
-      "source_url": "",
-      "ru_covered": true,
-      "ru_source": "sport-express.ru",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-мактоминей-начал-восстановление-после-операции-на-сердце",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Мактоминей начал восстановление после операции на сердце",
-      "summary": "«Наполи» подтвердил: шотландец вернулся в клуб и в четверг приступил к индивидуальной работе в зале; цель — матч с «Фрозиноне» 10 октября.",
-      "bullets": [],
-      "category": "injury",
-      "country": "italy",
-      "published_at": "2026-09-24T13:22:00+02:00",
-      "source_domain": "football-italia.net",
-      "source_url": "https://football-italia.net/mctominay-begins-recovery-after-heart-op/",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-почему-пиво-на-трибунах-англии-лучше-не-возвращать",
-      "date": "2026-09-24",
-      "section": "analytics",
-      "title": "Почему пиво на трибунах Англии лучше не возвращать",
-      "summary": "Колумнист Football365 спорит с премьером Бёрнэмом: дело не в дискриминации болельщиков, а в том, что футбольная толпа устроена иначе.",
-      "bullets": [
-        "Запрет действует с Sporting Events Act 1985 года, принятого на пике хулиганства.",
-        "Закон вообще не запрещает пить — только делать это в прямой видимости поля.",
-        "Полиция напоминает: «Другие виды спорта просто не сталкиваются с таким насилием фанатов».",
-        "Главный страх автора — не хулиганы, а «показушники», которые начнут обливать трибуны пивом."
-      ],
-      "category": "other",
-      "country": "england",
-      "published_at": "2026-09-24T11:21:00+00:00",
-      "source_domain": "football365.com",
-      "source_url": "https://www.football365.com/news/prime-minister-andy-burnham-wrong-football-booze-alcohol-ban",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-обамеянг-перенёс-операцию-на-колене",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Обамеянг перенёс операцию на колене",
-      "summary": "Форвард пропустит около трёх месяцев — восстановление затянется как минимум до конца года.",
-      "bullets": [],
-      "category": "injury",
-      "country": "spain",
-      "published_at": "2026-09-24T13:19:00+02:00",
-      "source_domain": "",
-      "source_url": "",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-виллаш-боаш-атаковал-соперников-фразой-про-коричневую-мантию",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Виллаш-Боаш атаковал соперников фразой про «коричневую мантию»",
-      "summary": "Президент «Порту» обвинил конкурентов в давлении на арбитров и сравнил расходы клубов: 526 млн против 32 млн евро.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "portugal",
-      "published_at": "2026-09-24T12:18:00+01:00",
-      "source_domain": "",
-      "source_url": "",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "ojogo.pt",
-          "url": "https://www.ojogo.pt/futebol/fc-porto/villas-boas-declaracoes"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-24-деко-форсирует-переход-15-летнего-таланта-мю-в-барсу",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Деко форсирует переход 15-летнего таланта МЮ в «Барсу»",
-      "summary": "Спортдиректор усилил давление по JJ Габриэлу, забившему 20 голов в 22 матчах за U18. Игрок попросил аннулировать регистрацию в «МЮ»; конкуренты — «Реал», «Бавария» и ПСЖ. Ключевая дата — 6 октября, его 16-летие.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "england",
-      "published_at": "2026-09-24T13:11:00+02:00",
-      "source_domain": "fichajes.net",
-      "source_url": "https://www.fichajes.net/noticias/deco-presiona-acercar-jj-gabriel-barcelona-20260924.html",
-      "ru_covered": true,
-      "ru_source": "euro-football.ru",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-роберто-карлос-и-жулио-сезар-как-звёзды-теряют-состояния",
-      "date": "2026-09-24",
-      "section": "analytics",
-      "title": "Роберто Карлос и Жулио Сезар: как звёзды теряют состояния",
-      "summary": "На Portugal Football Summit двое чемпионов публично разобрали собственные финансовые крахи и объяснили, почему футболисты остаются беззащитны перед агентами и роднёй.",
-      "bullets": [
-        "Роберто Карлос потерял состояние буквально за ночь: «В четверг я лёг спать в полночь, а в пятницу получил кипу бумаг, о существовании которых даже не знал». Итог — минус 99% заработанного.",
-        "Причин две: бывший агент, распоряжавшийся его инвестициями, и «очень серьёзные» семейные проблемы.",
-        "Жулио Сезар рассказал, что его обманул агент в 2012 году, и он до сих пор должен банку: «Игрок доверяет и подписывает бумаги не читая».",
-        "Главная цифра панели: лишь 1% футболистов способен жить на деньги, заработанные за карьеру."
-      ],
-      "category": "other",
-      "country": "portugal",
-      "published_at": "2026-09-24T12:11:00+01:00",
-      "source_domain": "record.pt",
-      "source_url": "https://www.record.pt/futebol/portugal-football-summit/detalhe/roberto-carlos-conta-como-lhe-fugiu-quase-toda-a-fortuna-de-uma-quinta-para-uma-sexta-feira",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "ojogo.pt",
-          "url": "https://www.ojogo.pt/internacional/artigo/roberto-carlos-perdi-99-por-cento-do-que-ganhei/18130009"
-        },
-        {
-          "domain": "abola.pt",
-          "url": "https://www.abola.pt/noticias/ex-benfica-e-internacional-brasileiro-fui-enganado-e-ainda-devo-ao-banco-2026092413152333761"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-24-кубок-мира-уронили-на-выставке-в-малаге",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Кубок мира уронили на выставке в Малаге",
-      "summary": "Посетитель центра Помпиду присел сфотографироваться у трофея, споткнулся о подиум — и Кубок мира ФИФА рухнул на пол. Экспозицию экстренно закрыли, но повреждений не нашли.",
-      "bullets": [],
-      "category": "other",
-      "country": "spain",
-      "published_at": "2026-09-24T11:10:00+00:00",
-      "source_domain": "besoccer.com",
-      "source_url": "https://www.besoccer.com/new/world-cup-trophy-crashes-to-the-ground-in-malaga-exhibition-incident-1431497",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-переоценка-стоимости-составов-серии-а",
-      "date": "2026-09-24",
-      "section": "analytics",
-      "title": "Переоценка стоимости составов Серии А",
-      "summary": "Tuttosport подсчитала, как изменилась рыночная стоимость команд лиги после летнего окна и старта сезона.",
-      "bullets": [
-        "Суммарная стоимость составов Серии А выросла впервые за три года, но рост сконцентрирован в трёх клубах.",
-        "Наибольший прирост показал «Милан» Аморима — за счёт переоценки молодых игроков, а не покупок.",
-        "Авторы отмечают: разрыв между четвёркой лидеров и остальными достиг максимума за десятилетие."
-      ],
-      "category": "records",
-      "country": "italy",
-      "published_at": "2026-09-24T13:08:00+02:00",
-      "source_domain": "",
-      "source_url": "",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-кейн-и-нфл-как-заголовки-выдумали-сенсацию",
-      "date": "2026-09-24",
-      "section": "analytics",
-      "title": "Кейн и НФЛ: как заголовки выдумали сенсацию",
-      "summary": "Колонка Mediawatch разбирает, как осторожные слова Кейна об НФЛ превратились в новость об уходе из футбола.",
-      "bullets": [
-        "Реальная цитата Кейна: «Это то, на что я постараюсь посмотреть чуть более серьёзно. Всё зависит от того, как сложится моя карьера в ближайшие пять-шесть лет».",
-        "Он говорил об НФЛ как о варианте, совместимом с футболом — «если я в будущем окажусь в MLS или где-то вроде того», подстроившись «под календари сезонов», а не вместо футбола.",
-        "В 33 года приоритет Кейна — играть в футбол как можно дольше; идею НФЛ он сам назвал лежащей «где-то на задворках сознания».",
-        "Вывод колонки: британские медиа подали гипотетические размышления как окончательный план завершить карьеру. Контракт с «Баварией» истекает летом 2027-го, продление ожидается."
-      ],
-      "category": "statements",
-      "published_at": "2026-09-24T12:07:00+01:00",
-      "source_domain": "football365.com",
-      "source_url": "https://www.football365.com/news/harry-kane-confirms-surprise-quit-plan-nfl-mediawatch",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "kicker.de",
-          "url": "https://www.kicker.de/doppelrolle-in-mls-und-nfl-kane-denkt-ueber-die-zeit-nach-bayern-nach-1255561/artikel"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-24-бешикташу-предстоят-восемь-матчей-за-29-дней",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "«Бешикташу» предстоят восемь матчей за 29 дней",
-      "summary": "После паузы на сборные команда Итальяно войдёт в самый плотный отрезок сезона с матчами лиги, кубка и еврокубков.",
-      "bullets": [],
-      "category": "match",
-      "country": "turkey",
-      "published_at": "2026-09-24T14:01:00+03:00",
-      "source_domain": "",
-      "source_url": "",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-24-дембеле-о-золотом-мяче-одному-такое-не-вытянуть",
-      "date": "2026-09-24",
-      "section": "news",
-      "title": "Дембеле о «Золотом мяче»: одному такое не вытянуть",
-      "summary": "Форвард ПСЖ подчеркнул, что личный приз — заслуга партнёров, и отдельно выделил Барколя.",
-      "bullets": [
-        "«Одно без другого не существует. В одиночку всего не сделаешь… это индивидуальная награда, но команда помогла мне колоссально», — сказал Дембеле.",
-        "29-летний француз отдельно поблагодарил Брэдли Барколя за поток голевых передач.",
-        "Сезон-2024/25, принёсший ему приз: 35 голов и 16 результативных передач в 53 матчах.",
-        "В ПСЖ Дембеле перешёл летом 2023 года."
-      ],
-      "category": "statements",
-      "published_at": "2026-09-24T13:00:00+02:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a3488588078125984934-ballon-dor-ousmane-dembele-remerciera-toujours-son-equipe",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
       "related": []
     }
   ]
