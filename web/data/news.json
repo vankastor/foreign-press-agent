@@ -1,6 +1,317 @@
 {
-  "generated_at": "2026-10-29T06:12:46.387059+00:00",
+  "generated_at": "2026-10-29T07:18:39.534470+00:00",
   "items": [
+    {
+      "id": "2026-10-29-итальяно-определился-с-парой-центральных-защитников-бешикташ",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Итальяно определился с парой центральных защитников «Бешикташа»",
+      "summary": "Перед выездами в «Касымпашу» и к «Селтику» тренер оставляет связку Агбаду — Эмирхан Топчу; при Итальяно клуб провёл 18 матчей (13 побед, 1 ничья, 4 поражения), и все поражения — на выезде.",
+      "bullets": [],
+      "category": "other",
+      "country": "turkey",
+      "published_at": "2026-10-29T10:04:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/besiktas-ta-savunma-ikilisi-bulundu-SXHBQ1180994SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-санчо-отказал-хетафе-и-уходит-в-саудовскую-аравию",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Санчо отказал «Хетафе» и уходит в Саудовскую Аравию",
+      "summary": "По данным Marca, свободный агент требовал около 3 млн евро нетто до конца сезона — испанцы не потянули, а саудовский клуб условия закрывает; с июня 26-летний вингер без команды.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "spain",
+      "published_at": "2026-10-29T06:59:00+00:00",
+      "source_domain": "caughtoffside.com",
+      "source_url": "https://www.caughtoffside.com/2026/10/29/man-united-flop-turns-down-la-liga-move-saudi-transfer/",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "marca.com",
+          "url": "https://www.marca.com/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-девять-слов-алонсо-которые-должны-напугать-челси",
+      "date": "2026-10-29",
+      "section": "analytics",
+      "title": "Девять слов Алонсо, которые должны напугать «Челси»",
+      "summary": "Колонка Football365 о том, почему объяснение Хаби Алонсо, оставившего Эстевао на скамейке на «Энфилде», выглядит тревожным сигналом для будущего бразильца.",
+      "bullets": [
+        "Эстевао провёл всего 47 минут в шести матчах АПЛ в сезоне; оба его старта — только в Кубке лиги, с «Лутоном» и «Лидсом».",
+        "Алонсо объяснил отказ фразой «мы знали, что игра будет силовой» — автор Уилл Форд считает это пустым аргументом для АПЛ, где силовой почти каждый матч.",
+        "В иерархии Алонсо выше бразильца стоят Палмер, Жоау Педру и Морган Роджерс, хотя красная Палмера с «Тоттенхэмом» открывала Эстевао дорогу.",
+        "Бразилец, по сообщениям, набрал около 5 кг под требования АПЛ, а в прошлом сезоне забил «Ливерпулю» победный мяч в компенсированное время; его окружение всё больше обеспокоено и не исключает ухода в январе."
+      ],
+      "category": "other",
+      "country": "england",
+      "published_at": "2026-10-29T06:59:00+00:00",
+      "source_domain": "football365.com",
+      "source_url": "https://www.football365.com/news/opinion-alonso-respons-estevao-criticism-alarming-nine-word-explanation-chelsea-snub",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-тороглу-йылдырым-переиграл-карталя-в-шахматы",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Тороглу: Йылдырым переиграл Карталя в шахматы",
+      "summary": "Эрман Тороглу в Sözcü разобрал уход тренера «Фенербахче»: отставка после 1:1 с «Ромой» была односторонним решением, а речь Азиза Йылдырыма на Диван Куруле оставила Карталя без позиции ещё до дерби.",
+      "bullets": [],
+      "category": "statements",
+      "country": "turkey",
+      "published_at": "2026-10-29T09:56:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/futbol/ekstra/erman-toroglu-ndan-ismail-kartal-yorumu-SXGLQ81103SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-обвал-ювентуса-под-вопросом-уже-все",
+      "date": "2026-10-29",
+      "section": "analytics",
+      "title": "Обвал «Ювентуса»: под вопросом уже все",
+      "summary": "Колонка Витторио Ореджи в Corriere dello Sport о том, почему поражение в Генуе ставит под сомнение не только Спаллетти, но и состав, и сам проект клуба.",
+      "bullets": [
+        "«Ювентус» — восьмой: 11 очков отставания от лидера, 6 — от зоны Лиги чемпионов, и всего 11 забитых мячей в сезоне.",
+        "Ореджа разбирает спад Камбьязо, бесполезность Коло Муани (пора дать шанс Вольтемаде), небрежность Калюлю и дезориентацию Бремера; Сарра, арендованного у «Тоттенхэма» за 2 млн евро, критикуют за обработку мяча.",
+        "Перестановки в перерыве — Жегрова, Вольтемаде, Кабаль, Бога, Коопмейнерс плюс сдвиг Маккенни в центр — принесли не улучшение, а путаницу.",
+        "Автор сравнивает текущее состояние с худшими отрезками при Тьяго Мотте и Игоре Туторе и говорит о психологической хрупкости команды перед матчем с «Наполи»."
+      ],
+      "category": "match",
+      "country": "italy",
+      "published_at": "2026-10-29T07:55:00+01:00",
+      "source_domain": "corrieredellosport.it",
+      "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/10/29-152235526/sprofondo_juve_adesso_sono_tutti_in_discussione_",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "tuttosport.com",
+          "url": "https://tuttosport.com/news/calcio/serie-a/juventus/2026/10/29-152234580/pagelle_juve_cambiaso_risposta_definitiva_bremer_la_fascia_non_fa_un_capitano_spalletti_"
+        },
+        {
+          "domain": "sportmediaset.mediaset.it",
+          "url": "https://www.sportmediaset.mediaset.it/calcio/juventus/crisi-juventus-punte-spuntate-difesa-gruviera-e-fantasisti-senza-fantasia_118280216-202602k.shtml"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-бурук-провёл-отдельный-разговор-с-лероем-сане",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Бурук провёл отдельный разговор с Лероем Сане",
+      "summary": "По информации Sabah, тренер «Галатасарая» лично поддержал немца, у которого в сезоне нет ни голов, ни передач, и подтвердил, что тот остаётся важной частью планов команды.",
+      "bullets": [],
+      "category": "other",
+      "country": "turkey",
+      "published_at": "2026-10-29T09:50:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/okan-buruk-tan-leroy-sane-ile-ozel-gorusme-SXHBQ1180992SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-галатасарай-целится-в-вингера-кёльна-за-50-млн",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "«Галатасарай» целится в вингера «Кёльна» за 50 млн",
+      "summary": "Клуб планирует усилить левый фланг в зимний перерыв и выйти на агентов 20-летнего Саида Эль Малы: 8 матчей, 4 гола, 1 ассист в сезоне, контракт до 2031 года.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "turkey",
+      "published_at": "2026-10-29T09:42:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/futbol/ekstra/galatasaray-said-el-mala-yi-takipte-SXGLQ81102SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-синго-выходит-в-старте-вместо-дисквалифицированного-бардакчи",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Синго выходит в старте вместо дисквалифицированного Бардакчи",
+      "summary": "Абдюлькерим Бардакчи получил красную за стычку с Арчи Брауном в концовке дерби и ждёт решения PFDK; в центре обороны с Давинсоном Санчесом сыграет Синго, Битшиабу берегут.",
+      "bullets": [],
+      "category": "other",
+      "country": "turkey",
+      "published_at": "2026-10-29T09:38:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/galatasaray-da-wilfried-singo-karari-SXHBQ1180990SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-спаллетти-пока-не-под-угрозой-но-есть-два-имени",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Спаллетти пока не под угрозой, но есть два имени",
+      "summary": "После 0:2 в Генуе (третье поражение в девяти турах) Corriere dello Sport пишет: клуб защищает тренера, однако крупный проигрыш «Наполи» сделает позицию шаткой — в тени Соуза и Пиоли, возвращение Конте не обсуждается.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "italy",
+      "published_at": "2026-10-29T07:36:00+01:00",
+      "source_domain": "corrieredellosport.it",
+      "source_url": "https://www.corrieredellosport.it/news/calcio/calcio-mercato/juventus/2026/10/29-152235347/spalletti_non_rischia_ma_ci_sono_due_nomi_nellombra_e_su_conte_la_situazione_chiara",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-менес-и-латур-сцепились-из-за-кампании-мбаппе",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Менес и Латур сцепились из-за кампании Мбаппе",
+      "summary": "Бертран Латур заявил, что француз «слишком давит, чтобы за него голосовали» в гонке «Золотого мяча», Пьер Менес вступился за игрока — и получил в соцсетях ответ: «Отпусти это, Пьеро, оставь футбол».",
+      "bullets": [],
+      "category": "statements",
+      "country": "spain",
+      "published_at": "2026-10-29T07:33:00+01:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a644971334479517066-ca-chauffe-entre-pierre-menes-et-bertrand-latour-au-sujet-de-kylian-mbappe",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-челси-снова-идёт-за-алексом-скоттом-из-борнмута",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "«Челси» снова идёт за Алексом Скоттом из «Борнмута»",
+      "summary": "Флориан Плеттенберг сообщает: лондонцы сделали 23-летнего хавбека приоритетом на январь и в целом согласовали личные условия; «Борнмут» после отказа игрока от нового контракта рассмотрит предложения выше 80 млн фунтов.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "england",
+      "published_at": "2026-10-29T06:25:00+00:00",
+      "source_domain": "caughtoffside.com",
+      "source_url": "https://www.caughtoffside.com/2026/10/29/chelsea-turn-attention-pursuit-of-23-year-old-move/",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "teamtalk.com",
+          "url": "https://www.teamtalk.com/chelsea/plot-massive-bid-fermin-lopez-barcelona-84-million-frank-lampard-comparison"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-мовиола-довери-5-var-5-5-за-дженоа-ювентус",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Мовиола: Довери — 5, VAR — 5,5 за «Дженоа» — «Ювентус»",
+      "summary": "Эдмондо Пинна разобрал судейство: непонятый игроками непрямой штрафной, который арбитр объяснял Коопмейнерсу, неназначенная карточка Бремеру за фол на Витинье и спорный эпизод перед вторым голом Бальданци.",
+      "bullets": [],
+      "category": "match",
+      "country": "italy",
+      "published_at": "2026-10-29T07:25:00+01:00",
+      "source_domain": "corrieredellosport.it",
+      "source_url": "https://www.corrieredellosport.it/news/calcio/moviola/2026/10/29-152235351/doveri_non_ci_siamo_quante_scelte_sbagliate_e_quel_suggerimento_a_koopmeiners",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-симеоне-хочет-осимхена-атлетико-ищет-схему-оплаты",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Симеоне хочет Осимхена: «Атлетико» ищет схему оплаты",
+      "summary": "По данным Directv Sports, мадридцы рассматривают варианты с бонусами, обменом игроками и рассрочкой; контракт 27-летнего нигерийца с «Галатасараем» — до 2029 года и без фиксированных отступных.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "turkey",
+      "published_at": "2026-10-29T09:21:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/futbol/ekstra/diego-simeone-nin-hedefi-victor-osimhen-SXGLQ81100SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-игрок-который-может-спасти-работу-каррика",
+      "date": "2026-10-29",
+      "section": "analytics",
+      "title": "Игрок, который может спасти работу Каррика",
+      "summary": "Разбор GiveMeSport: возвращение Маттейса де Лигта — главный недооценённый ресурс «Манчестер Юнайтед» в борьбе тренера за место перед выездом к «Челси».",
+      "bullets": [
+        "«МЮ» идёт 16-м после восьми туров, в одном очке от зоны вылета, и не побеждает восемь матчей во всех турнирах; руководство провело кризисные встречи в понедельник и вторник, но INEOS решил не менять тренера сразу.",
+        "Де Лигт после примерно 11 месяцев вне игры из-за спины провёл при Каррике лишь 79 минут — все в матче с «Комо» (1:4), где Manchester Evening News поставил ему 5 из 10.",
+        "При Амориме нидерландец отыграл все минуты в 13 матчах АПЛ: 6 побед, 3 ничьи, 4 поражения — автор видит в нём недостающую устойчивость обороны.",
+        "Бруну Фернандеша после выпада в адрес тренера сажали на скамейку с «Борнмутом» (0:3), но после разговора с Карриком он возвращается в основу на «Стэмфорд Бридж»."
+      ],
+      "category": "other",
+      "country": "england",
+      "published_at": "2026-10-29T06:15:00+00:00",
+      "source_domain": "givemesport.com",
+      "source_url": "https://www.givemesport.com/man-utd-star-de-ligt-save-carrick-job-sack/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-алонсо-кубок-лиги-наименее-важный-турнир-челси",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Алонсо: Кубок лиги — наименее важный турнир «Челси»",
+      "summary": "После 1:1 и 5:6 по пенальти на «Энфилде» (решающий промах Фофаны) тренер заявил, что фокус — АПЛ, и потребовал быстро перестроить мышление перед выездом к «МЮ»; «Челси» идёт пятым.",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-29T06:09:00+00:00",
+      "source_domain": "caughtoffside.com",
+      "source_url": "https://www.caughtoffside.com/2026/10/29/alonso-makes-blunt-admission-chelsea-liverpool-carabao/",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "goal.com",
+          "url": "https://www.goal.com/en/news/xabi-alonso-carabao-cup-least-important-chelsea-penalty-liverpool/bltaf47933ca4f1a85c"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-бурук-без-победы-над-коньяспором-дерби-потеряет-смысл",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Бурук: без победы над «Коньяспором» дерби потеряет смысл",
+      "summary": "Тренер «Галатасарая» поблагодарил команду за победы над «Лиллем» и «Фенербахче», но предупредил: «Коньяспор» опасен дома, а хороший результат нужен как заряд перед матчем Лиги чемпионов.",
+      "bullets": [],
+      "category": "statements",
+      "country": "turkey",
+      "published_at": "2026-10-29T09:07:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/okan-buruk-derbinin-anlami-kalmaz-SXHBQ1180985SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-хески-бруну-фернандеш-не-капитан-а-вице-капитан",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Хески: Бруну Фернандеш — не капитан, а вице-капитан",
+      "summary": "Бывший форвард «Ливерпуля» в интервью BestBettingSites раскритиковал публичный выпад капитана «МЮ» против тактики Каррика после 1:4 в Комо: «слишком легко всё время винить тренера».",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-29T06:03:00+00:00",
+      "source_domain": "teamtalk.com",
+      "source_url": "https://www.teamtalk.com/manchester-united/ex-liverpool-emile-heskey-damning-verdict-bruno-fernandes-captains-man-utd",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-10-29-спортинг-гонит-залазара-к-матчу-в-риу-майоре",
       "date": "2026-10-29",
@@ -149,6 +460,27 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
+    },
+    {
+      "id": "2026-10-29-фенербахче-ищет-тренера-тедеско-и-сюрприз-из-швейцарии",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "«Фенербахче» ищет тренера: Тедеско и сюрприз из Швейцарии",
+      "summary": "После уход İsmail Kartal вице-президент Барыш Гёктюрк уговаривает Азиза Йылдырыма вернуть Доменико Тедеско, а часть руководства предлагает 44-летнего Маттиа Торти из «Лугано» — лидера чемпионата Швейцарии (10 побед, 1 ничья).",
+      "bullets": [],
+      "category": "rumors",
+      "country": "turkey",
+      "published_at": "2026-10-29T08:21:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/fenerbahce-de-domenico-tedesco-iddiasi-SXHBQ1180979SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "fotomac.com.tr",
+          "url": "https://www.fotomac.com.tr/fenerbahce/2026/10/29/fenerbahcede-aykut-kocaman-sesleri-yonetim-kararini-verdi"
+        }
+      ]
     },
     {
       "id": "2026-10-29-атакующая-революция-итальяно-в-бешикташе-цифры-девяти-туров",
@@ -37566,338 +37898,6 @@
           "url": "https://www.ojogo.pt/internacional/artigo/a-publicacao-de-ronaldo-depois-do-triunfo-frente-ao-pais-de-gales/18130339"
         }
       ]
-    },
-    {
-      "id": "2026-09-25-осимхен-вернётся-к-матчу-с-барселоной-13-октября",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "Осимхен вернётся к матчу с «Барселоной» 13 октября",
-      "summary": "Нигериец травмировался в игре с «Башакшехиром» и пропустил три матча; по данным газеты Türkiye, возвращение запланировано на матч Лиги чемпионов, рисковать им против «Касымпаши» Бурук не будет.",
-      "bullets": [],
-      "category": "injury",
-      "country": "turkey",
-      "published_at": "2026-09-25T09:42:00+03:00",
-      "source_domain": "fanatik.com.tr",
-      "source_url": "https://www.fanatik.com.tr/galatasaray/galeri-osimhen-ne-zaman-donecek-galatasaraya-haber-var-iste-net-tarih-2638893",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-ямаль-о-критике-люди-просят-то-чего-сами-потом-не-хотят",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "Ямаль о критике: «Люди просят то, чего сами потом не хотят»",
-      "summary": "Вингер «Барселоны» ответил тем, кто обвиняет его в самопиаре вокруг «Золотого мяча»: от футболистов требуют искренности, а когда он говорит прямо — возмущаются.",
-      "bullets": [],
-      "category": "statements",
-      "country": "spain",
-      "published_at": "2026-09-25T08:39:44+02:00",
-      "source_domain": "marca.com",
-      "source_url": "https://www.marca.com/futbol/seleccion/2026/09/25/lamine-yamal-criticas-reclamar-balon-oro-gente-pide-cosas-luego-quiere.html",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-как-гаттузо-вернул-дзакканьи-на-пик-формы",
-      "date": "2026-09-25",
-      "section": "analytics",
-      "title": "Как Гаттузо вернул Дзакканьи на пик формы",
-      "summary": "Капитан «Лацио» отдал два ассиста в матчах с «Удинезе» и «Миланом» и забил с пенальти «Венеции» — свой первый гол в Серии А с ноября 2025 года.",
-      "bullets": [
-        "Пенальти в ворота «Венеции» стал для Дзакканьи шестым реализованным в Серии А.",
-        "Это его первый выездной гол почти за год: предыдущий был в сентябре 2024-го с «Дженоа».",
-        "Он справился с проблемами лобковой области и мышечным дисбалансом, мучившими его в прошлом сезоне.",
-        "Дзакканьи забивал восемь сезонов Серии А подряд — как Распадори, Зелиньский, Политано, Лаутаро, Чалханоглу и Барелла."
-      ],
-      "category": "other",
-      "country": "italy",
-      "published_at": "2026-09-25T08:33:00+02:00",
-      "source_domain": "corrieredellosport.it",
-      "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/lazio/2026/09/25-151447547/cos_gattuso_ha_rigenerato_zaccagni_il_capitano_della_lazio_ora_al_top",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-рафинья-без-флика-меня-бы-здесь-уже-не-было",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "Рафинья: «Без Флика меня бы здесь уже не было»",
-      "summary": "Бразилец признался, что был готов уйти из «Барселоны» — «моя голова была уже в другом месте», — и остаться его уговорил лично немецкий тренер.",
-      "bullets": [],
-      "category": "statements",
-      "country": "spain",
-      "published_at": "2026-09-25T08:32:37+02:00",
-      "source_domain": "marca.com",
-      "source_url": "https://www.marca.com/futbol/barcelona/2026/09/25/raphinha-confiesa-quiso-dejar-barcelona-flick-le-convencio-mi-cabeza-parte.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-холанд-побил-рекорд-ибрагимовича-по-голам-за-сборную",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "Холанд побил рекорд Ибрагимовича по голам за сборную",
-      "summary": "Дублем в матче Лиги наций с Данией (3:2) норвежец довёл счёт до 64 мячей в 56 играх, тогда как Златану на 62 гола потребовалось 122 матча за Швецию.",
-      "bullets": [],
-      "category": "records",
-      "country": "other",
-      "published_at": "2026-09-25T09:31:00+03:00",
-      "source_domain": "fanatik.com.tr",
-      "source_url": "https://www.fanatik.com.tr/futbol/galeri-yok-artik-erling-haaland-uefa-uluslar-ligine-damga-vurdu-inanilmaz-istatistik-2638890",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "abola.pt",
-          "url": "https://www.abola.pt/noticias/haaland-passou-ibrahimovic-e-colega-reage-ele-marca-todos-os-dias-2026092506153716794"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-25-барселона-вышла-вперёд-в-гонке-за-лукеба",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "«Барселона» вышла вперёд в гонке за Лукеба",
-      "summary": "23-летний защитник «Лейпцига» предпочитает каталонцев клубам АПЛ — Ханси Флик просит усилить ротацию на левом фланге обороны, переговоры планируются на начало 2027 года.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "spain",
-      "published_at": "2026-09-25T08:30:00+02:00",
-      "source_domain": "fichajes.net",
-      "source_url": "https://www.fichajes.net/noticias/barcelona-toma-ventaja-lukeba-20260925.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-шервуд-зовёт-почеттино-на-место-де-дзерби",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "Шервуд зовёт Почеттино на место Де Дзерби",
-      "summary": "«Тоттенхэм» идёт последним в АПЛ без побед после пяти туров, потратив летом более 400 млн евро на десять игроков, и экс-тренер клуба уверен, что болельщики предпочли бы возвращение аргентинца.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-09-25T08:23:00+02:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a6168271384842578324-tottenham-mauricio-pochettino-reclame-pour-remplacer-roberto-de-zerbi",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-бремер-лучший-бразильский-бомбардир-в-истории-серии-а",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "Бремер — лучший бразильский бомбардир в истории Серии А",
-      "summary": "Защитник «Ювентуса» довёл счёт до 24 голов в Серии А, а его 18 мячей головой — лучший показатель среди центральных защитников топ-5 лиг Европы.",
-      "bullets": [],
-      "category": "records",
-      "country": "italy",
-      "published_at": "2026-09-25T08:18:00+02:00",
-      "source_domain": "corrieredellosport.it",
-      "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/juve/2026/09/25-151446534/nessuno_come_bremer_di_testa_imbattibile_e_ha_centrato_un_record",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-милан-готовит-январскую-аренду-эндрика-у-реала",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "«Милан» готовит январскую аренду Эндрика у «Реала»",
-      "summary": "Россонери возвращаются к идее, проваленной летом из-за вето Флорентино Переса: 20-летний бразилец провёл в сезоне всего четыре минуты, интерес проявляет и «Рома».",
-      "bullets": [],
-      "category": "rumors",
-      "country": "italy",
-      "published_at": "2026-09-25T08:18:00+02:00",
-      "source_domain": "corrieredellosport.it",
-      "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/milan/2026/09/25-151445966/il_milan_prova_il_colpaccio_e_ci_riprova_per_endrick_ecco_il_piano",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-кто-такие-раум-и-митчелл-для-ювентуса",
-      "date": "2026-09-25",
-      "section": "analytics",
-      "title": "Кто такие Раум и Митчелл для «Ювентуса»",
-      "summary": "Массара выбрал двух левых защитников, которые летом станут свободными агентами, — и обоих представляет одно агентство ROOF.",
-      "bullets": [
-        "Давид Раум — защитник сборной Германии из «Лейпцига», мечтающий об игре в Лиге чемпионов; у него истекает контракт.",
-        "Тирик Митчелл (1999 г. р.) всю карьеру провёл в «Кристал Пэлас» и в начале сезона оформил дубль в ворота «Фулхэма».",
-        "Проблему обнажила травма голеностопа Камбьязо, выбившая его почти на месяц; дыру затыкал Челик.",
-        "Летом «Ювентус» не смог подписать Тальяфико — сделка зависела от ухода Кабаля."
-      ],
-      "category": "transfers",
-      "country": "italy",
-      "published_at": "2026-09-25T08:12:00+02:00",
-      "source_domain": "tuttosport.com",
-      "source_url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/09/25-151444552/calciomercato_juve_chi_sono_raum_e_mitchell_e_perch_la_svolta_a_sinistra_non_pu_pi_attendere",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "calciomercato.com",
-          "url": "https://www.calciomercato.com/liste/juventus-svolta-a-sinistra-ait-nouri-in-prestito-per-gennaio-poi-raum-a-parametro-zero/blt89ee3ce88ee16862"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-25-кин-на-фланге-манчини-уже-делал-это-в-2019-м",
-      "date": "2026-09-25",
-      "section": "analytics",
-      "title": "Кин на фланге: Манчини уже делал это в 2019-м",
-      "summary": "Corriere dello Sport разбирает решение выпустить Мойзе Кина вингером против Бельгии и вспоминает звонок Анчелотти, который подсказал тренеру эту роль.",
-      "bullets": [
-        "31 марта 2019 года Кин забил первый гол за сборную, играя слева против Финляндии, затем перешёл направо и забил снова.",
-        "Когда Кин переходил в «Эвертон», Анчелотти лично позвонил Манчини: «Кин может играть в центре атаки, но и на фланге — у него есть нужная скорость».",
-        "У Кина 13 голов в 26 матчах за сборную Италии, у Пио Эспозито — 5 голов в 9 матчах текущего сезона.",
-        "Раньери ещё по работе с молодёжкой «Ромы» отмечал Романо словами «не терял ни одного мяча» — в стартовых турах за «Кальяри» полузащитник ошибок тоже не допускал."
-      ],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-09-25T08:01:00+02:00",
-      "source_domain": "corrieredellosport.it",
-      "source_url": "https://www.corrieredellosport.it/news/calcio/italia/2026/09/25-151445960/kean_ala_in_italia-belgio_mancini_lo_aveva_gi_fatto_nel_2019_e_quella_telefonata_ad_ancelotti",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-бавария-готовит-70-млн-евро-за-дани-ольмо",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "«Бавария» готовит 70 млн евро за Дани Ольмо",
-      "summary": "Мюнхенцы планируют зимнее предложение по 28-летнему полузащитнику «Барселоны» как страховку на случай ухода Мусиалы или Олисе; контракт Ольмо действует до 2030 года с отступными в 500 млн.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "spain",
-      "published_at": "2026-09-25T07:57:00+02:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a601580899132673010-le-bayern-prepare-une-grosse-offre-pour-un-joueur-du-barca",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "fichajes.net",
-          "url": "https://www.fichajes.net/noticias/dani-olmo-oferta-irse-barcelona-enero-20260925.html"
-        },
-        {
-          "domain": "espn.com",
-          "url": "https://www.espn.com/soccer/story/_/id/50025646/bayern-eye-barcelona-world-cup-winner-olmo"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-25-будущее-алиссона-в-тумане-переговоры-о-контракте-не-начаты",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "Будущее Алиссона в тумане: переговоры о контракте не начаты",
-      "summary": "33-летний бразилец отыграл все туры АПЛ и номинирован на сейв месяца, но «Ливерпуль» тянет с продлением, а «Ювентус» может вернуться к интересу — Грабара выбыл на полгода после операции на крестах.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-09-25T06:49:00+01:00",
-      "source_domain": "caughtoffside.com",
-      "source_url": "https://www.caughtoffside.com/2026/09/25/alisson-liverpool-future-remains-in-doubt-euro-giants/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-жоау-феликс-принёс-португалии-победу-в-дебюте-жезуша",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "Жоау Феликс принёс Португалии победу в дебюте Жезуша",
-      "summary": "Форвард «Аль-Насра» забил 13-й мяч за сборную в 58-м матче и впервые стал автором победного гола национальной команды — Португалия обыграла Уэльс 1:0 в Лиге наций.",
-      "bullets": [],
-      "category": "match",
-      "country": "portugal",
-      "published_at": "2026-09-25T06:45:00+01:00",
-      "source_domain": "record.pt",
-      "source_url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/joao-felix-deu-a-sua-primeira-vitoria-a-selecao-nacional",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "skysports.com",
-          "url": "https://www.skysports.com/football/news/13591454/portugal-1-0-wales-joao-felix-spares-cristiano-ronaldos-blushes-in-nations-league-win"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-25-зидан-дебютирует-с-мбаппе-слева-и-дембеле-в-центре",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "Зидан дебютирует с Мбаппе слева и Дембеле в центре",
-      "summary": "В первом матче у руля сборной Франции против Турции Зидан, по прогнозу Get French Football News, сдвинет Мбаппе на левый фланг, освободив позицию «девятки» для Усмана Дембеле.",
-      "bullets": [],
-      "category": "match",
-      "country": "france",
-      "published_at": "2026-09-25T05:42:00+00:00",
-      "source_domain": "getfootballnewsfrance.com",
-      "source_url": "https://www.getfootballnewsfrance.com/2026/france-predicted-xi-v-turkiye-kylian-mbappe-to-start-on-left-in-zinedine-zidanes-first-game-in-charge/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-жаке-блистает-барколя-ждёт-аудит-трансферов-ливерпуля",
-      "date": "2026-09-25",
-      "section": "analytics",
-      "title": "Жаке блистает, Барколя ждёт: аудит трансферов «Ливерпуля»",
-      "summary": "FootballTransfers оценил летние покупки «Ливерпуля» при Андони Ираоле: четыре победы и ни одного поражения в первых семи матчах, но к покупкам за 125 млн есть вопросы.",
-      "bullets": [
-        "Жереми Жаке (63,6 млн евро, «Ренн») — лучший новичок: три сухих матча в паре с ван Дейком.",
-        "Роналд Араухо в аренде из «Барселоны» переучился в правого защитника и ассистировал в матче ЛЧ с «Атлетико».",
-        "Барколя за 125 млн евро провёл лишь 170 минут, создал два момента и пока без результативных действий.",
-        "Виктор Муньос заработал пенальти в дебюте и забил «Форесту», но затем перестал создавать моменты."
-      ],
-      "category": "transfers",
-      "country": "england",
-      "published_at": "2026-09-25T06:35:00+01:00",
-      "source_domain": "footballtransfers.com",
-      "source_url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/09/liverpool-transfers-how-have-their-summer-signings-performed-so-far",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-гринвуд-единственный-из-суперлиги-в-сборной-окна",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "Гринвуд — единственный из Суперлиги в сборной окна",
-      "summary": "Форвард «Фенербахче» попал в символическую сборную летнего трансферного окна по версии Transfer News Live; турецкие клубы потратили 426 млн евро и выручили 147 млн, лидер по тратам — «Фенербахче» (99,17 млн).",
-      "bullets": [],
-      "category": "records",
-      "country": "turkey",
-      "published_at": "2026-09-25T08:30:00+03:00",
-      "source_domain": "sporx.com",
-      "source_url": "https://www.sporx.com/fenerbahce-de-greenwood-dunya-yildizlarini-geride-birakti-SXHBQ1177154SXQ",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-09-25-зидан-запретил-парикмахерам-въезд-в-клерфонтен",
-      "date": "2026-09-25",
-      "section": "news",
-      "title": "Зидан запретил парикмахерам въезд в Клерфонтен",
-      "summary": "Новый тренер сборной Франции «сакрализирует» базу: он уже отменил традиционный проход игроков перед камерами при заезде, а теперь, по данным L'Équipe, закрыл доступ личным парикмахерам футболистов.",
-      "bullets": [],
-      "category": "other",
-      "country": "france",
-      "published_at": "2026-09-25T07:25:00+02:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a7982180333520556459-equipe-de-france-zinedine-zidane-a-mis-fin-a-un-privilege-accorde-par-deschamps-aux-joueurs",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
     }
   ]
 }
