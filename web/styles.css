@@ -219,6 +219,22 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
   background: rgba(10,11,10,.18);
   color: var(--ink-on-green);
 }
+.seg__beta {
+  font-size: 9px;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  padding: 2px 5px;
+  border-radius: 5px;
+  background: var(--green);
+  color: var(--ink-on-green);
+  align-self: flex-start;
+}
+.seg[aria-pressed="true"] .seg__beta {
+  background: rgba(10,11,10,.22);
+  color: var(--ink-on-green);
+}
 
 /* Topic filter (secondary — dropdown) */
 .filterbar {

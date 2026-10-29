@@ -1,4 +1,7 @@
 const SECTIONS = {
+  // «Дайджест» — не корзина, а сквозная витрина «топ-материалов» (как lens «Наши»):
+  // берёт лучшее из всего архива. beta: пометка «тест»; view: не считается в hero-статах.
+  digest: { label: "Дайджест", icon: "⭐", hint: "Топ-материалы", beta: true, view: true },
   news: { label: "Новости", icon: "📰", hint: "Оперативные факты" },
   analytics: { label: "Аналитика", icon: "🧠", hint: "Авторские разборы" },
   russians: { label: "Наши", icon: "🇷🇺", hint: "Россияне за рубежом" },
@@ -142,6 +145,54 @@ function renderMeta(generatedAt) {
   if (generatedAt) $("#navMeta").textContent = "обновлено " + fmtDate(generatedAt.slice(0, 10));
 }
 
+// «Дайджест» — курированная витрина «топ-материалов». Сначала уважаем серверный
+// флаг (если сборщик когда-нибудь проставит digest/top/section=digest), иначе
+// считаем топ-N за последние 72ч по лёгкому скорингу значимости.
+const DIGEST_LIMIT = 24;
+const DIGEST_WINDOW_MS = 72 * 3600 * 1000;
+const DIGEST_CAT_WEIGHT = {
+  russians: 3, records: 2, transfers: 2, scandals: 2,
+  statements: 1, rumors: 1, match: 1, injury: 1, other: 0,
+};
+
+function digestScore(i) {
+  let s = 0;
+  if (sectionKey(i.section) === "analytics") s += 3; // крупные авторские разборы
+  s += DIGEST_CAT_WEIGHT[catKey(i.category)] || 0;
+  if (i.ru_covered === false) s += 1; // ещё не в РФ — эксклюзив для редакции
+  if ((i.related || []).length) s += 1; // мультиисточниковый сюжет = крупнее
+  return s;
+}
+
+// Мемо: state.items пересоздаётся только в load(), поэтому кэшируем результат по
+// ссылке на массив — пересборка ленты сама инвалидирует кэш. Без этого digestItems
+// (2 прохода по ~2000 + сортировка) гонялся бы по 2–3 раза на каждый клик и на
+// каждой загрузке (ради счётчика в навигации), хотя входные данные неизменны.
+let _digestCache = null;
+let _digestCacheFor = null;
+
+function digestItems() {
+  if (_digestCache && _digestCacheFor === state.items) return _digestCache;
+  const flagged = state.items.filter(
+    (i) => i.digest === true || i.top === true || (i.section || "").toLowerCase() === "digest"
+  );
+  let result;
+  if (flagged.length) {
+    result = flagged;
+  } else {
+    const now = Date.now();
+    let pool = state.items.filter((i) => now - itemTime(i) <= DIGEST_WINDOW_MS);
+    if (pool.length < 8) pool = state.items.slice(); // разреженный архив → берём всё
+    // pool — уже приватный массив (filter/slice), сортируем на месте.
+    result = pool
+      .sort((a, b) => digestScore(b) - digestScore(a) || itemTime(b) - itemTime(a))
+      .slice(0, DIGEST_LIMIT);
+  }
+  _digestCacheFor = state.items;
+  _digestCache = result;
+  return result;
+}
+
 function sectionItems(section) {
   // "russians" is a cross-cutting lens: every «наши за рубежом» item, regardless
   // of whether it lives in news or analytics. Its cards keep their own section's
@@ -149,14 +200,16 @@ function sectionItems(section) {
   if (section === "russians") {
     return state.items.filter((i) => catKey(i.category) === "russians");
   }
+  if (section === "digest") {
+    return digestItems();
+  }
   return state.items.filter((i) => sectionKey(i.section) === section);
 }
 
 function renderStats() {
-  const stats = Object.keys(SECTIONS).map((s) => [
-    sectionItems(s).length,
-    SECTIONS[s].label,
-  ]);
+  const stats = Object.keys(SECTIONS)
+    .filter((s) => !SECTIONS[s].view) // витрины (Дайджест) не считаем в hero-статах
+    .map((s) => [sectionItems(s).length, SECTIONS[s].label]);
   $("#heroStats").innerHTML = stats
     .map(([n, l]) => `<div class="stat"><div class="stat__num">${n}</div><div class="stat__label">${l}</div></div>`)
     .join("");
@@ -166,9 +219,10 @@ function renderSections() {
   $("#sections").innerHTML = Object.keys(SECTIONS)
     .map((s) => {
       const n = sectionItems(s).length;
+      const beta = SECTIONS[s].beta ? `<span class="seg__beta">тест</span>` : "";
       return `<button class="seg" data-section="${s}" aria-pressed="${s === state.section}">
         <span class="seg__icon">${SECTIONS[s].icon}</span>
-        <span class="seg__label">${SECTIONS[s].label}</span>
+        <span class="seg__label">${SECTIONS[s].label}</span>${beta}
         <span class="seg__count">${n}</span>
       </button>`;
     })
@@ -325,7 +379,7 @@ function escapeHTML(s) {
    switch section (Новости/Аналитика/Наши); country dropdown up top.
    Cards carry more text than the desktop feed (summary + bullets).
    ============================================================ */
-const REEL_ORDER = ["news", "analytics", "russians"];
+const REEL_ORDER = ["digest", "news", "analytics", "russians"];
 const reel = { section: "news", country: "all" };
 
 function reelBase() {
