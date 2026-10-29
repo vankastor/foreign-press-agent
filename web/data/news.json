@@ -1,6 +1,268 @@
 {
-  "generated_at": "2026-10-29T22:13:09.259221+00:00",
+  "generated_at": "2026-10-29T23:13:59.818200+00:00",
   "items": [
+    {
+      "id": "2026-10-29-архитектор-новый-сан-сиро-станет-ещё-больше-сан-сиро",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Архитектор: новый «Сан-Сиро» станет ещё больше «Сан-Сиро»",
+      "summary": "«Милан» и «Интер» раскрыли детали Generali Stadium: 71 500 мест, по 11 700 на каждой «курве», высота 70 м, крыша-колесо с 27 500 м² солнечных панелей; над проектом работают Норман Фостер и Дэвид Маника.",
+      "bullets": [],
+      "category": "other",
+      "country": "italy",
+      "published_at": "2026-10-29T22:58:00+00:00",
+      "source_domain": "football-italia.net",
+      "source_url": "https://football-italia.net/architect-generali-stadium-more-san-siro-today/",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "sportmediaset.mediaset.it",
+          "url": "https://www.sportmediaset.mediaset.it/calcio/nuovo-san-siro-foster-le-curve-saranno-un-muro-di-undicimila-persone-la-visibilita-sara-ottima_118330547-202602k.shtml"
+        },
+        {
+          "domain": "tuttosport.com",
+          "url": "https://www.tuttosport.com/video/calcio/serie-a/2026/10/29-152249520/nuovo_san_siro_milan_e_inter_svelano_il_progetto_come_sar_la_nuova_casa_dei_club"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-эвертон-выбил-ньюкасл-и-вышел-в-четвертьфинал",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "«Эвертон» выбил «Ньюкасл» и вышел в четвертьфинал",
+      "summary": "3:1 в 1/8 финала Кубка лиги: Гарнер (34'), Хакни (45') и Тьерно Барри (69') забили за «Эвертон», Бёрн отыграл один мяч в концовке; в четвертьфинале — «Флитвуд», ранее выбивший «Арсенал». Грилиш был отцеплён от состава за нарушение дисциплины.",
+      "bullets": [],
+      "category": "match",
+      "country": "england",
+      "published_at": "2026-10-29T22:57:00+00:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/13604028/everton-3-1-newcastle-toffees-see-off-visitors-to-set-up-carabao-cup-quarter-final-with-fleetwood-town",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-эшгайю-бенфике-повезло-а-кто-не-забивает-тот-страдает",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Эшгайю: «Бенфике» повезло, а кто не забивает — тот страдает",
+      "summary": "Защитник «Жил Висенте» после 1:4 в Лиссабоне признал удачу хозяев, но заявил, что команда сохранила свою идентичность — как ранее в матчах с «Бенфикой» и «Порту» в чемпионате.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-10-29T22:52:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/ricardo-esgaio-benfica-teve-felicidade-quem-nao-marca-sofre-2026102922520606571",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-псж-отыгрался-у-ман-сити-в-женской-лиге-чемпионов",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "ПСЖ отыгрался у «Ман Сити» в женской Лиге чемпионов",
+      "summary": "1:1: Шоу реализовала пенальти на 85-й минуте, но Элимби Жильбер сравняла счёт через три минуты; «Сити» по-прежнему без побед, третья ничья подряд и 10-е место, до топ-4 — четыре очка.",
+      "bullets": [],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-10-29T22:43:00+00:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/news/13605501/man-city-1-1-psg-khadija-shaw-opener-cancelled-out-with-andree-jeglertzs-side-in-danger-of-not-making-top-four",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-ваноли-о-блэкаутах-эти-мячи-мы-подарили-аталанте",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Ваноли о «блэкаутах»: эти мячи мы подарили «Аталанте»",
+      "summary": "Тренер «Фиорентины» заявил, что состав талантлив, но команде не хватает хитрости и умения защищаться сообща — провалы в концентрации уже стоили очков и в матче с «Интером».",
+      "bullets": [],
+      "category": "statements",
+      "country": "italy",
+      "published_at": "2026-10-29T22:38:00+00:00",
+      "source_domain": "football-italia.net",
+      "source_url": "https://football-italia.net/vanoli-frustrated-fiorentina-defending-talent/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "sportmediaset.mediaset.it",
+          "url": "https://www.sportmediaset.mediaset.it/calcio/fiorentina-vanoli-dobbiamo-essere-piu-cattivi_118331509-202602k.shtml"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-фейеноорд-готовят-к-рекордной-продаже-за-40-млн",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "«Фейеноорд» готовят к рекордной продаже за 40 млн",
+      "summary": "По сообщениям, «Арсенал» и «Челси» — фавориты в борьбе за Дживая Зехиля, недавно продлившего контракт до 2029 года; летом «Лилль» предлагал 17 млн, и клуб отказал.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "netherlands",
+      "published_at": "2026-10-29T23:36:00+01:00",
+      "source_domain": "soccernews.nl",
+      "source_url": "https://www.soccernews.nl/news/feyenoord-komt-met-duurste-transfer-ooit/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-бенфика-разбила-жил-висенте-и-получила-порту",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "«Бенфика» разбила «Жил Висенте» и получила «Порту»",
+      "summary": "4:1 в четвертьфинале Кубка португальской лиги: в «финале четырёх» в Лейрии 5 января «Бенфика» сыграет классико с «Порту», 6 января — «Спортинг» против «Фамаликана», выбившего «Брагу»; финал 9 января.",
+      "bullets": [],
+      "category": "match",
+      "country": "portugal",
+      "published_at": "2026-10-29T22:35:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/classico-na-meia-final-da-taca-da-liga-os-jogos-e-datas-da-final-four-2026102922244273108",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "ojogo.pt",
+          "url": "https://www.ojogo.pt/futebol/artigo/goleada-com-nota-artistica-benfica-arrasa-gil-vicente-e-reencontra-fc-porto-na-taca-da-liga/18142530"
+        },
+        {
+          "domain": "abola.pt",
+          "url": "https://www.abola.pt/noticias/benfica-pode-ter-tres-classicos-seguidos-a-virar-o-ano-2026102922533373917"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-сарри-у-аталанты-вне-игры-восемь-футболистов",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Сарри: у «Аталанты» вне игры восемь футболистов",
+      "summary": "После ничьей во Флоренции тренер признался, что обеспокоен лазаретом: Кристенсен сломался на пятой минуте, под вопросом Гаэтано, а Скамакка, Белланова, Распадори, Кессие, Колашинац, Хин и Коссуну недоступны.",
+      "bullets": [],
+      "category": "injury",
+      "country": "italy",
+      "published_at": "2026-10-29T22:26:00+00:00",
+      "source_domain": "football-italia.net",
+      "source_url": "https://football-italia.net/sarri-getting-worried-atalanta-injury-crisis/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "sportmediaset.mediaset.it",
+          "url": "https://www.sportmediaset.mediaset.it/calcio/atalanta-sarri-infortuni-colpa-della-preparazione-mi-scappa-da-ridere_118331506-202602k.shtml"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-совет-марадоны-который-привёл-кейна-к-золотому-мячу",
+      "date": "2026-10-29",
+      "section": "analytics",
+      "title": "Совет Марадоны, который привёл Кейна к «Золотому мячу»",
+      "summary": "Большой материал о том, как разговор с Марадоной в 2017 году изменил ударную технику Кейна — и как англичанин дошёл до главного индивидуального приза.",
+      "bullets": [
+        "Кейн — первый британец с «Золотым мячом» после Майкла Оуэна в 2001 году; он обошёл Мбаппе и Ямаля.",
+        "В сезоне-2026/27 он забил 73 мяча за клуб и сборную — в современной истории результативнее был только Месси (82 в 2011/12).",
+        "Марадона посоветовал 24-летнему тогда Кейну не бить постоянно в ближний угол, а чаще «прошивать» дальний: «Иногда бей через ворота».",
+        "Сам Марадона приз не выигрывал: с 1956 по 1994 год «Золотой мяч» давали только европейцам — по той же причине его не получил и Пеле."
+      ],
+      "category": "other",
+      "country": "germany",
+      "published_at": "2026-10-29T22:25:00+00:00",
+      "source_domain": "givemesport.com",
+      "source_url": "https://www.givemesport.com/diego-maradona-harry-kane-shooting-advice-ballon-dor/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-ньюэллс-ведёт-переговоры-об-аренде-месси",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "«Ньюэллс» ведёт переговоры об аренде Месси",
+      "summary": "По данным Rosario/12, клуб из Росарио обсуждает с «Интер Майами» аренду минимум на полгода: Месси сыграл бы Апертуру с конца января 2027-го и вернулся в MLS в мае; вопрос — логистика и безопасность стадионов.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "other",
+      "published_at": "2026-10-29T22:22:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/newells-negoceia-regresso-historico-de-messi-por-emprestimo-2026102922184074215",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-барселона-забила-восемь-в-женской-лиге-чемпионов",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "«Барселона» забила восемь в женской Лиге чемпионов",
+      "summary": "Разгром «Кёге» 8:0 в гостях, в числе героев матча — португалка Кика Назарет.",
+      "bullets": [],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-10-29T22:14:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/kika-nazareth-brilha-em-goleada-de-8-0-do-barcelona-na-champions-2026102922144614904",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-кифт-в-манчестер-юнайтед-больше-никто-не-хочет",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Кифт: в «Манчестер Юнайтед» больше никто не хочет",
+      "summary": "Экс-игрок сборной Нидерландов заявил, что при Ван Гале и Тен Хаге топы соглашались на переезд, а теперь нет; Роб Янсен винит «мейкеров денег», а Невилл признался, что удивлён сохранением Каррика после 0:3 от «Борнмута».",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-10-29T23:10:00+01:00",
+      "source_domain": "soccernews.nl",
+      "source_url": "https://www.soccernews.nl/news/niemand-wil-nog-naar-manchester-united/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-милан-нацелился-на-йоро-из-манчестер-юнайтед",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "«Милан» нацелился на Йоро из «Манчестер Юнайтед»",
+      "summary": "По информации Calciomercato, Аморим хочет вернуть 20-летнего защитника, с которым работал в «МЮ», чтобы закрыть потери из-за травм Габбии и Хилы; у Каррика Йоро проигрывает конкуренцию Мартинесу и Магуайру.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "italy",
+      "published_at": "2026-10-29T22:10:00+00:00",
+      "source_domain": "onefootball.com",
+      "source_url": "https://onefootball.com/en/news/ruben-amorim-eyes-manchester-united-reunion-as-ac-milan-target-star-43694768",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-разбор-провала-ньюкасла-56-мяча-и-вылет-из-кубка",
+      "date": "2026-10-29",
+      "section": "analytics",
+      "title": "Разбор провала «Ньюкасла»: 56% мяча и вылет из кубка",
+      "summary": "Авторские оценки игрокам «Ньюкасла» после 1:3 на «Хилл Дикинсон» — почему территориальное преимущество не спасло команду Яйссле от вылета.",
+      "bullets": [
+        "«Ньюкасл» владел мячом 56% и нанёс вдвое больше ударов, чем «Эвертон», но проиграл из-за хладнокровной реализации хозяев.",
+        "Исход решил первый тайм: оба мяча «Эвертона» выросли из индивидуальных ошибок обороны гостей.",
+        "Тройная замена Яйссле в перерыве выровняла игру, но было слишком поздно — Джейкоба Рэмси сняли уже после 45 минут.",
+        "Голкипер Лукас Хорничек пропустил все три удара, а Дэн Бёрн сумел отыграть лишь один мяч в концовке."
+      ],
+      "category": "match",
+      "country": "england",
+      "published_at": "2026-10-29T22:09:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/newcastle-united-player-ratings-everton-dan-burn-carabao-cup/blt9bf079297a600ee7",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-10-29-кения-злится-стадион-открывают-аякс-и-бавария",
       "date": "2026-10-29",
@@ -13,6 +275,22 @@
       "published_at": "2026-10-29T22:01:00+00:00",
       "source_domain": "goal.com",
       "source_url": "https://www.goal.com/en/news/anger-over-millions-in-taxpayers-money-for-ajax-this-can-t-be-true/blt99a60b5baf943370",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-10-29-аяксу-советуют-продать-лучшего-игрока-сезона",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "«Аяксу» советуют продать лучшего игрока сезона",
+      "summary": "Юри Бас теряет место в составе из-за возвращения Блинда и Каю Энрике; контракт до 2028-го, оценка — 16 млн евро, летом его хотел «Порту» Фариоли, но клубы не сошлись в цене.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "netherlands",
+      "published_at": "2026-10-29T23:00:00+01:00",
+      "source_domain": "soccernews.nl",
+      "source_url": "https://www.soccernews.nl/news/jordi-cruijff-verkoopt-beste-speler-van-het-jaar/",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -233,6 +511,47 @@
           "url": "https://www.ojogo.pt/jogos-em-direto/artigo/direto-taca-da-liga-benfica-gil-vicente-ao-minuto-e-com-relato-na-tsf/18142373"
         }
       ]
+    },
+    {
+      "id": "2026-10-29-хет-трик-роналду-до-1000-голов-осталось-15",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "Хет-трик Роналду: до 1000 голов осталось 15",
+      "summary": "«Аль-Насср» победил «Аль-Холуд» 5:3, Роналду забил на 66-й, 72-й и 81-й минутах и дошёл до 985 мячей; это его 67-й хет-трик в карьере и седьмой в Саудовской Аравии, у Жоау Феликса — четыре ассиста.",
+      "bullets": [],
+      "category": "records",
+      "country": "other",
+      "published_at": "2026-10-29T17:34:00-04:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50321759/ronaldo-15-shy-1000-goals-15-minute-hat-trick",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "footmercato.net",
+          "url": "https://www.footmercato.net/a541142162574981221-67e-triple-en-carriere-985-buts-cristiano-ronaldo-poursuit-sa-marche-vers-lhistoire"
+        },
+        {
+          "domain": "calciomercato.com",
+          "url": "https://www.calciomercato.com/liste/cristiano-ronaldo-sale-a-985-reti-a-meno-15-dal-traguardo-dei-mille-goal-in-carriera-tripletta-anche-per-reijnders/blt558f4e86bc14320a"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-васко-подтвердил-переговоры-с-галатасараем-по-куэсте",
+      "date": "2026-10-29",
+      "section": "news",
+      "title": "«Васко» подтвердил переговоры с «Галатасараем» по Куэсте",
+      "summary": "Колумбийский защитник арендован у турецкого клуба, но больше месяца мучается с бедром и выпал из заявки на матч с «Фламенго»; опцию выкупа за 5,75 млн евро «Васко» использовать не собирается.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "turkey",
+      "published_at": "2026-10-30T00:33:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/vasco-dan-cuesta-aciklamasi-galatasaray-ile-gorusuyoruz-SXHBQ1181085SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
     },
     {
       "id": "2026-10-29-канселу-ответил-критикам-после-двух-поражений",
@@ -37625,329 +37944,6 @@
           "url": "https://www.ojogo.pt/internacional/artigo/courtois-faz-alusao-a-cristiano-ronaldo-vinicius-so-conheco-dois-jogadores-que-estiveram-sempre-no-seu-melhor-nivel/18139686"
         }
       ]
-    },
-    {
-      "id": "2026-10-21-реал-разобрал-лейпциг-4-1-моуринью-обошёл-венгера-по-победам",
-      "date": "2026-10-21",
-      "section": "news",
-      "title": "«Реал» разобрал «Лейпциг» 4:1 — Моуринью обошёл Венгера по победам в ЛЧ",
-      "summary": "Мадридцы забили четыре: Бернарду Силва (43', первый мяч за клуб), Арда Гюлер (52'), Мбаппе (83', 12-й в сезоне) и Ян Диоманде (87'), у гостей отличился Гомис (85'). «Реал» — 3 из 3 и 9 очков в общем этапе. Это 87-я победа Жозе Моуринью в Лиге чемпионов: португалец обошёл Арсена Венгера.",
-      "bullets": [],
-      "category": "match",
-      "country": "spain",
-      "published_at": "2026-10-21T21:34:00+00:00",
-      "source_domain": "espn.com",
-      "source_url": "https://www.espn.com/soccer/report/_/gameId/401915313",
-      "ru_covered": true,
-      "ru_source": "https://www.championat.com/football/",
-      "related": [
-        {
-          "domain": "uol.com.br",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/10/21/real-madrid-red-bull-leipzig-champions-league-como-foi-21-out.ghtm"
-        },
-        {
-          "domain": "sporx.com",
-          "url": "https://www.sporx.com/futbol/sampiyonlar-ligi"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-21-диоманде-залпом-с-лёта-забил-бывшему-клубу-лейпцигу",
-      "date": "2026-10-21",
-      "section": "news",
-      "title": "Диоманде залпом с лёта забил бывшему клубу — «Лейпцигу»",
-      "summary": "19-летний Ян Диоманде вышел на замену и мощным ударом с лёта после навеса Брахима Диаса поразил ворота «Лейпцига» — клуба, из которого он перешёл в «Реал». Гол на 87-й минуте поставил точку в матче и вывел мадридцев в первую восьмёрку общего этапа.",
-      "bullets": [],
-      "category": "match",
-      "country": "spain",
-      "published_at": "2026-10-21T21:34:00+00:00",
-      "source_domain": "espn.com",
-      "source_url": "https://www.espn.com/soccer/report/_/gameId/401915313",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-22-руй-боргеш-нам-не-хватило-вдохновения",
-      "date": "2026-10-22",
-      "section": "news",
-      "title": "Руй Боргеш: «Нам не хватило вдохновения»",
-      "summary": "Тренер «Спортинга» признал, что ЛАСК навязал неожиданную физическую игру, назвал потери мяча фатальными и взял вину на себя.",
-      "bullets": [],
-      "category": "statements",
-      "country": "portugal",
-      "published_at": "2026-10-21T22:33:00+01:00",
-      "source_domain": "record.pt",
-      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/20261021-223316-conferencia-de-rui-borges-em-direto",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-21-спортинг-сенсационно-проиграл-дома-ласку-2-3",
-      "date": "2026-10-21",
-      "section": "news",
-      "title": "«Спортинг» сенсационно проиграл дома ЛАСКу 2:3",
-      "summary": "Лиссабонцы повели после пенальти Луиса Суареса на 5-й минуте, но австрийцы перевернули матч: Ланг (15'), Калайджич (63') и Данек (68'). Второй мяч Суареса на 89-й уже ничего не изменил. Это одна из главных сенсаций третьего тура.",
-      "bullets": [],
-      "category": "match",
-      "country": "portugal",
-      "published_at": "2026-10-21T22:33:00+01:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/futebol/champions-league",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-22-каррагер-в-тренерских-зонах-был-мисматч",
-      "date": "2026-10-22",
-      "section": "news",
-      "title": "Каррагер: «В тренерских зонах был мисматч»",
-      "summary": "Эксперт Sky назвал Фабрегаса «следующим большим тренером Европы» и усомнился, удержится ли Кэррик на посту в «Манчестер Юнайтед».",
-      "bullets": [],
-      "category": "statements",
-      "country": "england",
-      "published_at": "2026-10-21T21:30:44+00:00",
-      "source_domain": "football365.com",
-      "source_url": "https://www.football365.com/news/carrick-sack-verdict-carragher-knife-man-utd-boss-mismathc-dugout",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-10-21-бавария-и-арсенал-2-2-райс-спас-лондонцев-на-82-й-минуте",
-      "date": "2026-10-21",
-      "section": "news",
-      "title": "«Бавария» и «Арсенал» — 2:2: Райс спас лондонцев на 82-й минуте",
-      "summary": "На «Альянц Арене» Эзе открыл счёт на 25-й, Дэвис сравнял на 35-й, Кейн с пенальти вывел «Баварию» вперёд на 61-й, а Деклан Райс на 82-й установил окончательный счёт. «Бавария» играла без дисквалифицированного Олисе и травмированного Мусиалы, Луис Диас остался на скамейке. Победная серия «Арсенала» в ЛЧ из 14 матчей прервана.",
-      "bullets": [],
-      "category": "match",
-      "country": "germany",
-      "published_at": "2026-10-21T21:29:00+00:00",
-      "source_domain": "espn.com",
-      "source_url": "https://www.espn.com/soccer/report/_/gameId/401915312",
-      "ru_covered": true,
-      "ru_source": "https://www.sports.ru/football/",
-      "related": [
-        {
-          "domain": "skysports.com",
-          "url": "https://www.skysports.com/football/news"
-        },
-        {
-          "domain": "footmercato.net",
-          "url": "https://www.footmercato.net/ligue-des-champions/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-21-сака-ушёл-с-поля-на-10-й-минуте-повреждение-бедра",
-      "date": "2026-10-21",
-      "section": "news",
-      "title": "Сака ушёл с поля на 10-й минуте — повреждение бедра",
-      "summary": "Букайо Сака покинул поле в Мюнхене уже на 10-й минуте из-за повреждения четырёхглавой мышцы. Микель Артета: «Когда игрок вынужден уходить с резкой болью — это никогда не хорошая новость, но нужно дождаться обследования». Заменивший его Эберечи Эзе забил через 15 минут.",
-      "bullets": [],
-      "category": "injury",
-      "country": "england",
-      "published_at": "2026-10-21T21:29:00+00:00",
-      "source_domain": "espn.com",
-      "source_url": "https://www.espn.com/soccer/report/_/gameId/401915312",
-      "ru_covered": true,
-      "ru_source": "https://www.sports.ru/football/",
-      "related": [
-        {
-          "domain": "onefootball.com",
-          "url": "https://onefootball.com/en/news"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-22-брюгге-разгромил-ланс-3-0",
-      "date": "2026-10-22",
-      "section": "news",
-      "title": "«Брюгге» разгромил «Ланс» — 3:0",
-      "summary": "Ванакен, Сейс и Форбс обеспечили бельгийцам шесть очков в общем этапе, французский клуб остался с тремя.",
-      "bullets": [],
-      "category": "match",
-      "country": "eurocups",
-      "published_at": "2026-10-22T00:28:00+03:00",
-      "source_domain": "sporx.com",
-      "source_url": "https://www.sporx.com/club-brugge-dan-evinde-rahat-galibiyet-SXHBQ1180152SXQ",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-21-коста-рика-назначила-брайана-руиса-главным-тренером-перед-ма",
-      "date": "2026-10-21",
-      "section": "news",
-      "title": "Коста-Рика назначила Брайана Руиса главным тренером перед матчем с Аргентиной",
-      "summary": "Федерация футбола Коста-Рики официально утвердила Брайана Руиса на посту главного тренера национальной сборной. Первое серьёзное испытание для бывшего капитана команды — предстоящая встреча со сборной Аргентины.",
-      "bullets": [],
-      "category": "other",
-      "country": "other",
-      "published_at": "2026-10-21T21:27:48+00:00",
-      "source_domain": "tycsports.com",
-      "source_url": "https://www.tycsports.com/futbol-internacional/costa-rica-confirmo-a-bryan-ruiz-como-dt-de-cara-al-cruce-con-la-seleccion-argentina-id767621.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-22-каюзак-о-0-3-в-брюгге-второй-тайм-был-плохим",
-      "date": "2026-10-22",
-      "section": "news",
-      "title": "Каюзак о 0:3 в Брюгге: «Второй тайм был плохим»",
-      "summary": "Тренер «Ланса» признал проблемы в обеих штрафных и невозможность реализовать свои отрезки — клуб идёт 27-м в общем этапе.",
-      "bullets": [],
-      "category": "statements",
-      "country": "france",
-      "published_at": "2026-10-21T23:26:46+02:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a2560301643148097372-ligue-des-champions-rc-lens-la-grande-frustration-de-yannick-cahuzac",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-22-как-арсенал-дожал-баварию-тактический-разбор",
-      "date": "2026-10-22",
-      "section": "analytics",
-      "title": "Как «Арсенал» дожал «Баварию»: тактический разбор",
-      "summary": "Goal разбирает, почему лондонцы отказались от высокого прессинга и за счёт чего вырвали ничью в концовке в Мюнхене.",
-      "bullets": [
-        "«Бавария» строила атаки из 3-2-5, используя Кейна как оттянутого плеймейкера, и наработала 2,51 xG против 1,40 у соперника.",
-        "«Арсенал» отказался от привычного прессинга и сел в 4-4-2, сознательно отдав мяч, но закрыв центральную зону.",
-        "Ключевая дуэль шла в «зоне 14»: центрбеки лондонцев не выдвигались на Кейна и Саибари, Упамекано сделал 14 оборонительных действий за высокой линией.",
-        "В последние 20 минут Лаймер остался один против двух рывков слева — отсюда гол Райса на 82-й; по дуэлям «Арсенал» выиграл 55 против 31."
-      ],
-      "category": "match",
-      "country": "eurocups",
-      "published_at": "2026-10-21T21:26:43+00:00",
-      "source_domain": "goal.com",
-      "source_url": "https://www.goal.com/en/news/-bayern-munich-arsenal-tactics-board-arsenal-bayer-dramatic-draw-/blt3ea01b5e83f1a8ee",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-22-мбаппе-догнал-зидана-по-ассистам-в-лиге-чемпионов",
-      "date": "2026-10-22",
-      "section": "news",
-      "title": "Мбаппе догнал Зидана по ассистам в Лиге чемпионов",
-      "summary": "Передача на Арду Гюлера стала для француза 26-й в турнире — столько же у Зидана; следующий ориентир — рекорд Бензема.",
-      "bullets": [],
-      "category": "records",
-      "country": "eurocups",
-      "published_at": "2026-10-21T21:19:54+00:00",
-      "source_domain": "goal.com",
-      "source_url": "https://www.goal.com/en/news/mbappe-equals-zidane-and-closes-in-on-benzema-s-record/blt468f8fb407f189bd",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-10-22-барелла-победа-не-очень-заслуженная-но-важная",
-      "date": "2026-10-22",
-      "section": "news",
-      "title": "Барелла: «Победа не очень заслуженная, но важная»",
-      "summary": "Полузащитник признал, что разговоры о необходимости выиграть сковали команду, а Киву заявил: «Интер» наконец показал готовность страдать.",
-      "bullets": [],
-      "category": "statements",
-      "country": "eurocups",
-      "published_at": "2026-10-21T22:19:53+01:00",
-      "source_domain": "football-italia.net",
-      "source_url": "https://football-italia.net/barella-inter-victory-not-that-deserved-result/",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "gianlucadimarzio.com",
-          "url": "https://www.gianlucadimarzio.com/news-calcio/inter-chivu-dichiarazioni-post-partita-champions-league-news-498594"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-22-кейн-о-золотом-мяче-это-была-бы-огромная-честь",
-      "date": "2026-10-22",
-      "section": "news",
-      "title": "Кейн о «Золотом мяче»: «Это была бы огромная честь»",
-      "summary": "Форвард «Баварии» забил и ассистировал против «Арсенала», назвал 2:2 справедливым результатом; Райс заявил, что англичанин — явный фаворит награды.",
-      "bullets": [],
-      "category": "statements",
-      "country": "germany",
-      "published_at": "2026-10-21T23:18:53+02:00",
-      "source_domain": "sport.es",
-      "source_url": "https://www.sport.es/es/noticias/champions/kane-balon-oro-seria-honor-135605641",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "onefootball.com",
-          "url": "https://onefootball.com/en/news/declan-rice-declares-harry-kane-as-the-clear-winner-for-ballon-dor-43650579"
-        },
-        {
-          "domain": "skysports.com",
-          "url": "https://www.skysports.com/football/video/13602099/ballon-dor-harry-kane-says-it-would-be-incredible-to-win-award"
-        },
-        {
-          "domain": "kicker.de",
-          "url": "https://www.kicker.de/der-ball-ist-unfassbar-uebrigens-geisteskrank-1263844/artikel"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-22-бетис-растёт-в-европе-1-0-с-фейеноордом",
-      "date": "2026-10-22",
-      "section": "analytics",
-      "title": "«Бетис» растёт в Европе: 1:0 с «Фейеноордом»",
-      "summary": "Crónica Mundo Deportivo о третьей победе севильцев в Лиге чемпионов и о том, чего им по-прежнему не хватает в финальной трети.",
-      "bullets": [
-        "«Бетис» — один из пяти клубов, выигравших все три матча общего этапа, рядом с «ПСЖ», «Астон Виллой», «Ливерпулем» и «Реалом».",
-        "На «Ла Картуха» собрались 67 524 зрителя, включая около 3500 фанатов «Фейеноорда».",
-        "Первые полчаса прошли под давлением хозяев: вдохновлённый Иско и Абде, выигрывавший дуэли слева, — но без точности в последней передаче.",
-        "Самый явный шанс — 29-я минута: Парротт бил без помех с точки, вратарь Эрнст отразил удар рукой и сразу выручил против Форналса."
-      ],
-      "category": "match",
-      "country": "eurocups",
-      "published_at": "2026-10-21T23:16:08+02:00",
-      "source_domain": "mundodeportivo.com",
-      "source_url": "https://www.mundodeportivo.com/futbol/champions-league/20261021/1004241670/real-betis-grande-europa.html",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-10-21-кейн-забил-в-10-матчах-лч-подряд-ближе-к-роналду-только-он-с",
-      "date": "2026-10-21",
-      "section": "news",
-      "title": "Кейн забил в 10 матчах ЛЧ подряд — ближе к Роналду только он сам",
-      "summary": "Гарри Кейн реализовал пенальти в ворота «Арсенала» и довёл серию до 10 матчей Лиги чемпионов подряд с голом. Дольше в истории турнира забивал только Криштиану Роналду (11 матчей, июнь 2017 — апрель 2018). Это также 9-я игра Кейна в ЛЧ с голом и передачей — на две больше, чем у любого другого англичанина, и 16-й мяч в ворота «Арсенала».",
-      "bullets": [],
-      "category": "records",
-      "country": "germany",
-      "published_at": "2026-10-21T21:15:20+00:00",
-      "source_domain": "theanalyst.com",
-      "source_url": "https://theanalyst.com/articles/bayern-munich-vs-arsenal-stats-champions-league-10-2026",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-21-нойер-провёл-163-й-матч-в-лч-и-догнал-месси-и-мюллера",
-      "date": "2026-10-21",
-      "section": "news",
-      "title": "Нойер провёл 163-й матч в ЛЧ и догнал Месси и Мюллера",
-      "summary": "Матч с «Арсеналом» стал для Мануэля Нойера 163-м в Лиге чемпионов (22 за «Шальке» и 141 за «Баварию»). Он делит третье место в истории турнира с Лионелем Месси и Томасом Мюллером; впереди только Криштиану Роналду (183) и Икер Касильяс (177). Это же рекорд среди немецких футболистов.",
-      "bullets": [],
-      "category": "records",
-      "country": "germany",
-      "published_at": "2026-10-21T21:15:20+00:00",
-      "source_domain": "theanalyst.com",
-      "source_url": "https://theanalyst.com/articles/bayern-munich-vs-arsenal-stats-champions-league-10-2026",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
     }
   ]
 }
