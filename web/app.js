@@ -145,11 +145,14 @@ function renderMeta(generatedAt) {
   if (generatedAt) $("#navMeta").textContent = "обновлено " + fmtDate(generatedAt.slice(0, 10));
 }
 
-// «Дайджест» — курированная витрина «топ-материалов». Сначала уважаем серверный
-// флаг (если сборщик когда-нибудь проставит digest/top/section=digest), иначе
-// считаем топ-N за последние 72ч по лёгкому скорингу значимости.
-const DIGEST_LIMIT = 24;
-const DIGEST_WINDOW_MS = 72 * 3600 * 1000;
+// «Дайджест» — не одна лента, а СЕРИЯ дайджестов: по одному на каждое 3-часовое
+// окно (МСК) каждого дня. Внутри окна — топ-материалы по лёгкому скорингу значимости.
+// Если сборщик когда-нибудь проставит флаг digest/top — уважаем его как есть.
+const DIGEST_WINDOW_MS = 72 * 3600 * 1000; // из какого диапазона вообще берём (3 суток)
+const DIGEST_SLOT_HOURS = 3;               // размер окна одного дайджеста
+const DIGEST_PER_SLOT = 8;                 // сколько топ-материалов в одном дайджесте
+const DIGEST_MAX_SLOTS = 12;               // сколько последних дайджестов держим (~1.5 суток)
+const DIGEST_MSK_OFFSET_MIN = 180;         // МСК = UTC+3, без перехода на лето
 const DIGEST_CAT_WEIGHT = {
   russians: 3, records: 2, transfers: 2, scandals: 2,
   statements: 1, rumors: 1, match: 1, injury: 1, other: 0,
@@ -164,13 +167,46 @@ function digestScore(i) {
   return s;
 }
 
-// Мемо: state.items пересоздаётся только в load(), поэтому кэшируем результат по
-// ссылке на массив — пересборка ленты сама инвалидирует кэш. Без этого digestItems
-// (2 прохода по ~2000 + сортировка) гонялся бы по 2–3 раза на каждый клик и на
-// каждой загрузке (ради счётчика в навигации), хотя входные данные неизменны.
+// 3-часовое МСК-окно для ms-времени: { key, dayKey, slot(0..21), startMs }.
+// Трюк: сдвигаем метку на МСК и читаем UTC-поля как «стенные часы МСК».
+function digestSlot(ms) {
+  if (!ms) return null;
+  const m = new Date(ms + DIGEST_MSK_OFFSET_MIN * 60000);
+  const y = m.getUTCFullYear(), mo = m.getUTCMonth(), d = m.getUTCDate();
+  const slot = Math.floor(m.getUTCHours() / DIGEST_SLOT_HOURS) * DIGEST_SLOT_HOURS;
+  const startMs = Date.UTC(y, mo, d, slot) - DIGEST_MSK_OFFSET_MIN * 60000;
+  const dayKey = `${y}-${String(mo + 1).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
+  return { key: `${dayKey}#${slot}`, dayKey, slot, startMs };
+}
+
+// Группируем айтемы по 3-часовым МСК-окнам → массив окон (новейшее сверху), внутри
+// items отсортированы по значимости. perSlot/maxSlots (если >0) ограничивают объём.
+function digestGroup(items, perSlot, maxSlots) {
+  const bySlot = new Map();
+  for (const i of items) {
+    const s = digestSlot(itemTime(i));
+    if (!s) continue;
+    let b = bySlot.get(s.key);
+    if (!b) { b = { key: s.key, dayKey: s.dayKey, slot: s.slot, startMs: s.startMs, items: [] }; bySlot.set(s.key, b); }
+    b.items.push(i);
+  }
+  let slots = [...bySlot.values()].sort((a, b) => b.startMs - a.startMs);
+  if (maxSlots) slots = slots.slice(0, maxSlots);
+  for (const b of slots) {
+    b.items.sort((x, y) => digestScore(y) - digestScore(x) || itemTime(y) - itemTime(x));
+    if (perSlot) b.items = b.items.slice(0, perSlot);
+  }
+  return slots;
+}
+
+// Мемо: state.items пересоздаётся только в load(), поэтому кэшируем по ссылке на
+// массив — пересборка ленты сама инвалидирует кэш.
 let _digestCache = null;
 let _digestCacheFor = null;
 
+// Плоский список материалов из показываемых дайджестов (топ per-slot по последним
+// DIGEST_MAX_SLOTS окнам). Нужен для счётчика, чипов стран и фильтров; рендер
+// (renderDigest) группирует его обратно по окнам.
 function digestItems() {
   if (_digestCache && _digestCacheFor === state.items) return _digestCache;
   const flagged = state.items.filter(
@@ -181,12 +217,9 @@ function digestItems() {
     result = flagged;
   } else {
     const now = Date.now();
-    let pool = state.items.filter((i) => now - itemTime(i) <= DIGEST_WINDOW_MS);
-    if (pool.length < 8) pool = state.items.slice(); // разреженный архив → берём всё
-    // pool — уже приватный массив (filter/slice), сортируем на месте.
-    result = pool
-      .sort((a, b) => digestScore(b) - digestScore(a) || itemTime(b) - itemTime(a))
-      .slice(0, DIGEST_LIMIT);
+    let pool = state.items.filter((i) => { const t = itemTime(i); return t && now - t <= DIGEST_WINDOW_MS; });
+    if (pool.length < 8) pool = state.items.filter((i) => itemTime(i)); // разреженный архив → всё с временем
+    result = digestGroup(pool, DIGEST_PER_SLOT, DIGEST_MAX_SLOTS).flatMap((b) => b.items);
   }
   _digestCacheFor = state.items;
   _digestCache = result;
@@ -351,6 +384,11 @@ function render() {
 
   $("#empty").hidden = items.length > 0;
 
+  if (state.section === "digest") {
+    renderDigest(items);
+    return;
+  }
+
   const groups = {};
   items.forEach((i) => (groups[i.date] ??= []).push(i));
   const dates = Object.keys(groups).sort((a, b) => (a < b ? 1 : -1));
@@ -363,6 +401,42 @@ function render() {
         <div class="daygroup__label">${fmtDate(date)}</div>
         <div class="list">${rows}</div>
       </div>`;
+    })
+    .join("");
+}
+
+// Метка периода дайджеста: { period: "09:00–12:00 МСК", day: "Сегодня|Вчера|29 октября" }.
+function digestSlotLabel(b) {
+  const pad = (h) => String(h).padStart(2, "0");
+  const period = `${pad(b.slot)}:00–${pad((b.slot + DIGEST_SLOT_HOURS) % 24)}:00 МСК`;
+  const today = digestSlot(Date.now());
+  const yest = digestSlot(Date.now() - 86400000);
+  let day;
+  if (today && b.dayKey === today.dayKey) day = "Сегодня";
+  else if (yest && b.dayKey === yest.dayKey) day = "Вчера";
+  else day = fmtDate(b.dayKey);
+  return { period, day };
+}
+
+// Рендер «Дайджеста»: отдельный батч-блок на каждое 3-часовое МСК-окно, с заметной
+// шапкой периода. items уже отфильтрованы по стране/теме; группируем по тем же окнам
+// (доп. лимиты не накладываем — они уже применены в digestItems).
+function renderDigest(items) {
+  const slots = digestGroup(items, 0, 0);
+  let idx = 0;
+  $("#feed").innerHTML = slots
+    .map((b) => {
+      const { period, day } = digestSlotLabel(b);
+      const rows = b.items.map((i) => cardHTML(i, idx++)).join("");
+      return `<section class="digest-batch">
+        <header class="digest-batch__head">
+          <span class="digest-batch__badge">⭐ Дайджест</span>
+          <span class="digest-batch__period">${period}</span>
+          <span class="digest-batch__day">${day}</span>
+          <span class="digest-batch__count">${b.items.length}</span>
+        </header>
+        <div class="list">${rows}</div>
+      </section>`;
     })
     .join("");
 }
