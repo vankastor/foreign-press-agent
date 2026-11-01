@@ -1,6 +1,85 @@
 {
-  "generated_at": "2026-11-01T00:11:32.410586+00:00",
+  "generated_at": "2026-11-01T01:10:23.414255+00:00",
   "items": [
+    {
+      "id": "2026-11-01-порту-разгромил-эшторил-4-0-и-держит-отрыв",
+      "date": "2026-11-01",
+      "section": "news",
+      "title": "«Порту» разгромил «Эшторил» 4:0 и держит отрыв",
+      "summary": "Лидер Примейры решил вопрос во втором тайме: в главных ролях — испанский тандем Габри Вейга и Борха Саинс.",
+      "bullets": [],
+      "category": "match",
+      "country": "portugal",
+      "published_at": "2026-11-01T00:31:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/detalhe/a-cronica-do-fc-porto-estoril-deztas-exibicoes-e-que-o-lider-gosta",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "record.pt",
+          "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/as-notas-dos-jogadores-do-fc-porto-diante-do-estoril-alianca-espanhola-acordou-o-vulcao"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-мартинес-стал-обузой-для-мю-разбор-удаления-на-bbc",
+      "date": "2026-11-01",
+      "section": "news",
+      "title": "Мартинес стал обузой для «МЮ»? Разбор удаления на BBC",
+      "summary": "Эксперты Match of the Day Дэнни Мёрфи и Стефан Уорнок оценили игру аргентинца, удалённого в матче с «Челси» (0:2).",
+      "bullets": [],
+      "category": "scandals",
+      "country": "england",
+      "published_at": "2026-10-31T23:59:22+00:00",
+      "source_domain": "bbc.com",
+      "source_url": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "dailymail.co.uk",
+          "url": "https://www.dailymail.com/sport/football/article-16255259/Bruno-Fernandes-TEARS-Man-United.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-юнайтед-и-зона-вылета-цифры-которых-не-было-с-1986-го",
+      "date": "2026-11-01",
+      "section": "analytics",
+      "title": "«Юнайтед» и зона вылета: цифры, которых не было с 1986-го",
+      "summary": "BBC Sport разбирает, насколько реальна для «Манчестер Юнайтед» борьба за выживание после 0:2 от «Челси».",
+      "bullets": [
+        "7 очков в 9 турах: при таком темпе команда Кэррика не набрала бы и 30 очков за сезон — в зоне вылета после 9+ матчей «МЮ» не был с ноября 1986 года.",
+        "17-е место — худшая позиция клуба на этом отрезке с сезона-1989/90, а серия из 9 матчей без побед во всех турнирах — худшая с 1988/89 (дольше было лишь в сентябре 1984-го — 10 матчей).",
+        "Для контекста: рекорд АПЛ по вылету — «Вест Хэм» 2002/03 с 42 очками; тогда за него играл сам Кэррик вместе с Джеймсом, Коулом и Дефо.",
+        "Цена падения: выручка «МЮ» в этом сезоне превысит £700 млн, а финансовый блогер The Esk оценивал потери «Тоттенхэма» при вылете в £197–235 млн."
+      ],
+      "category": "match",
+      "country": "england",
+      "published_at": "2026-10-31T23:52:28+00:00",
+      "source_domain": "bbc.com",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-11-01-аморим-два-дня-назад-у-нас-было-как-на-кладбище",
+      "date": "2026-11-01",
+      "section": "news",
+      "title": "Аморим: «Два дня назад у нас было как на кладбище»",
+      "summary": "Тренер «Милана» после победы над «Интером» осадил разговоры о скудетто: ещё недавно вокруг команды были похороны, теперь — титульные ожидания.",
+      "bullets": [],
+      "category": "statements",
+      "country": "italy",
+      "published_at": "2026-10-31T23:51:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/internacional/paises/italia/ac-milan/detalhe/amorim-apos-vencer-o-inter-ha-2-dias-parecia-que-estavamos-num-cemiterio-agora-ja-falam-no-scudetto",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
     {
       "id": "2026-11-01-фарьоли-порту-входит-в-лигу-чемпионов-на-подъёме",
       "date": "2026-11-01",
@@ -13,6 +92,38 @@
       "published_at": "2026-10-31T23:45:00+00:00",
       "source_domain": "abola.pt",
       "source_url": "https://www.abola.pt/noticias/confianca-em-alta-para-a-champions-um-super-gabri-e-souza-em-vez-de-francisco-moura-tudo-o-que-disse-farioli-2026103123450425908",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-01-густаву-силва-ставит-витории-цель-4-5-е-место-и-еврокубки",
+      "date": "2026-11-01",
+      "section": "news",
+      "title": "Густаву Силва ставит «Витории» цель — 4–5-е место и еврокубки",
+      "summary": "Форвард «Витории» Гимарайнш обозначил задачу сезона: вернуть клуб в Европу, финишировав в верхней части Примейры.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-10-31T23:34:46+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/v--guimaraes/detalhe/gustavo-silva-quer-voltar-a-europa-com-o-v-guimaraes-tentar-terminar-no-4-5-lugar",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-01-аякс-обыграл-аз-но-потерял-брандта-тренер-о-травме",
+      "date": "2026-11-01",
+      "section": "news",
+      "title": "«Аякс» обыграл АЗ, но потерял Брандта — тренер о травме",
+      "summary": "Гол Толу принёс амстердамцам 1:0, а Мишел на пресс-конференции признал: он сразу почувствовал, что повреждение может быть опасным.",
+      "bullets": [],
+      "category": "injury",
+      "country": "netherlands",
+      "published_at": "2026-11-01T00:33:15+01:00",
+      "source_domain": "voetbalprimeur.nl",
+      "source_url": "https://www.voetbalprimeur.nl/videos/2153504/michel-deelt-nieuws-over-de-blessure-van-brandt-voelde-dat-het-gevaarlijk-kon-zijn.html",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -81,6 +192,22 @@
       ]
     },
     {
+      "id": "2026-11-01-де-йонг-сыграл-центрбеком-и-получил-8-от-испанской-прессы",
+      "date": "2026-11-01",
+      "section": "news",
+      "title": "Де Йонг сыграл центрбеком — и получил 8 от испанской прессы",
+      "summary": "Diario Sport назвал дебют Френки в центре обороны «авантюрным», но наградил его высшим баллом в матче с «Алавесом».",
+      "bullets": [],
+      "category": "other",
+      "country": "spain",
+      "published_at": "2026-11-01T00:27:44+01:00",
+      "source_domain": "voetbalprimeur.nl",
+      "source_url": "https://www.voetbalprimeur.nl/nieuws/2153498/spaanse-media-belonen-frenkie-de-jong-met-hoge-cijfers-uitmuntend.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
       "id": "2026-11-01-порту-повторил-рекорд-1939-года-10-побед-из-10",
       "date": "2026-11-01",
       "section": "news",
@@ -98,6 +225,64 @@
         {
           "domain": "ojogo.pt",
           "url": "https://www.ojogo.pt/futebol/artigo/fc-porto-faz-historia-10-vitorias-seguidas-na-i-liga-pela-primeira-vez-desde-193940/18143235"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-тренер-эшторила-не-подтвердил-что-останется-до-конца-сезона",
+      "date": "2026-11-01",
+      "section": "news",
+      "title": "Тренер «Эшторила» не подтвердил, что останется до конца сезона",
+      "summary": "После 0:4 от «Порту» Сержиу Раймунду уклонился от ответа о своём будущем в клубе.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-10-31T23:16:12+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/estoril/detalhe/sergio-raimundo-estavamos-a-procura-de-fazer-uma-surpresa-nos-ultimos-minutos",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-01-милан-забрал-дерби-у-интера-3-1-морейра-с-тремя-баллами",
+      "date": "2026-11-01",
+      "section": "news",
+      "title": "«Милан» забрал дерби у «Интера» — 3:1, Морейра с тремя баллами",
+      "summary": "Диегу Морейра оформил гол со штрафного и два ассиста, поставив точку в Derby della Madonnina.",
+      "bullets": [],
+      "category": "match",
+      "country": "italy",
+      "published_at": "2026-10-31T23:12:25+00:00",
+      "source_domain": "kicker.de",
+      "source_url": "https://www.kicker.de/traum-freistoss-als-kroenung-milan-siegt-im-derby-della-madonnina-1267298/video",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "record.pt",
+          "url": "https://www.record.pt/internacional/paises/italia/detalhe/a-cronica-do-milan-inter-3-1-ali-manda-diego-moreira"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01-барселона-разнесла-алавес-6-1-после-двух-поражений",
+      "date": "2026-11-01",
+      "section": "news",
+      "title": "«Барселона» разнесла «Алавес» 6:1 после двух поражений",
+      "summary": "В оценках kicker блистали Фермин Лопес и Ламин Ямаль — каталонцы сняли напряжение после осечек с «ПСЖ» и «Реалом».",
+      "bullets": [],
+      "category": "match",
+      "country": "spain",
+      "published_at": "2026-10-31T23:11:18+00:00",
+      "source_domain": "kicker.de",
+      "source_url": "https://www.kicker.de/bei-kantersieg-von-barca-lamine-yamal-traumhaft-adeyemi-in-die-raenge-1267296/video",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "mundodeportivo.com",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261101/1004245644/raphinha-lamine-dobletes-cicatrizar-heridas.html"
         }
       ]
     },
@@ -38152,195 +38337,6 @@
           "url": "https://www.footmercato.net/a3769177141953406094-bayern-munich-le-remplacant-de-vincent-kompany-donne-de-bonnes-nouvelles"
         }
       ]
-    },
-    {
-      "id": "2026-10-27-невилл-удивлён-каррик-остаётся-в-мю",
-      "date": "2026-10-27",
-      "section": "news",
-      "title": "Невилл удивлён: Каррик остаётся в «МЮ»",
-      "summary": "ИНЕОС решил не увольнять Майкла Каррика после 0:3 от «Борнмута» и 1:4 от «Комо» — Гари Невилл назвал решение неожиданным, но правильным перед выездом к «Челси».",
-      "bullets": [],
-      "category": "statements",
-      "country": "england",
-      "published_at": "2026-10-27T16:05:00+00:00",
-      "source_domain": "skysports.com",
-      "source_url": "https://www.skysports.com/football/video/13604418/manchester-united-gary-neville-reacts-to-michael-carrick-staying-in-charge-surprised-but-happy",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "footmercato.net",
-          "url": "https://www.footmercato.net/a6963777181482894386-man-utd-carrick-maintenu-en-poste"
-        },
-        {
-          "domain": "football365.com",
-          "url": "https://www.football365.com/news/man-utd-keep-michael-carrick-manager-decision-three-crucial-factors-revealed"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-27-кубок-турции-третий-отборочный-тур-стартовал",
-      "date": "2026-10-27",
-      "section": "news",
-      "title": "Кубок Турции: третий отборочный тур стартовал",
-      "summary": "В третьем квалификационном раунде прошли девять матчей, «Газиантеп» прошёл дальше с крупной победой; дату жеребьёвки следующего этапа уже объявили.",
-      "bullets": [],
-      "category": "match",
-      "country": "turkey",
-      "published_at": "2026-10-27T19:03:00+03:00",
-      "source_domain": "sporx.com",
-      "source_url": "https://www.sporx.com/turkiye-kupasi-3-eleme-turuna-9-macla-baslandi-SXHBQ1180861SXQ",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "fanatik.com.tr",
-          "url": "https://www.fanatik.com.tr/gaziantep-fk/gaziantep-fk-farkli-kazanarak-turladi-2642489"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-27-за-варелой-из-монцы-выстроилась-очередь",
-      "date": "2026-10-27",
-      "section": "news",
-      "title": "За Варелой из «Монцы» выстроилась очередь",
-      "summary": "«Ювентус» присоединился к «Наполи» и «Интеру» в наблюдении за одним из самых результативных игроков сезона — Густаво Варелой.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "italy",
-      "published_at": "2026-10-27T16:00:00+00:00",
-      "source_domain": "getfootballnewsitaly.com",
-      "source_url": "https://www.getfootballnewsitaly.com/2026/juventus-join-napoli-and-inter-in-monitoring-monzas-varela/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-27-недооценённая-клара-бюль-цифры-против-12-го-места",
-      "date": "2026-10-27",
-      "section": "analytics",
-      "title": "Недооценённая Клара Бюль: цифры против 12-го места",
-      "summary": "Авторская колонка о том, почему вингер «Байерна» заслуживала куда более высокой позиции в женском «Золотом мяче».",
-      "bullets": [
-        "Бюль заняла лишь 12-е место в женском «Золотом мяче» — на одну позицию ниже Юи Хасэгавы из «Манчестер Сити», но это прогресс после 19-го места в 2025 году.",
-        "В Женской Бундеслиге у неё 7 голов и 15 результативных передач — лучший показатель лиги; «Байерн» взял национальный дубль.",
-        "В Лиге чемпионов Бюль сделала 8 ассистов — больше, чем у победительницы голосования Алексии Путельяс (7).",
-        "В матче с «Арсеналом» (3:2) она ассистировала при всех трёх голах «Байерна», а в августе уступила лишь партнёрше Джулии Гвинн в опросе на звание футболистки года в Германии — сама Гвинн потом признала, что Бюль была достойнее."
-      ],
-      "category": "records",
-      "country": "germany",
-      "published_at": "2026-10-27T15:59:15+00:00",
-      "source_domain": "getfootballnewsgermany.com",
-      "source_url": "https://www.getfootballnewsgermany.com/2026/ggfn-editorial-klara-buhl/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-27-класико-под-лупой-идеальный-план-моуринью",
-      "date": "2026-10-27",
-      "section": "analytics",
-      "title": "Класико под лупой: идеальный план Моуринью",
-      "summary": "Record вместе с замредактора AS разбирает победу «Реала» 2:1 на «Камп Ноу» и объясняет, почему «Барса» была неузнаваема.",
-      "bullets": [
-        "«Реал» выиграл класико 2:1 в гостях, хотя перед матчем «Барса» шла единоличным лидером Ла Лиги и считалась явным фаворитом.",
-        "Хавьер Сильес (AS) называет план Моуринью на игру «идеальным», а игру каталонцев — «неузнаваемой» по сравнению с их предыдущими матчами.",
-        "До класико мадридцев описывали как нестабильную команду — именно на этом фоне результат выглядит переломным.",
-        "Победа вернула интригу в чемпионскую гонку Ла Лиги, сократив отрыв лидера."
-      ],
-      "category": "match",
-      "country": "spain",
-      "published_at": "2026-10-27T15:57:50+00:00",
-      "source_domain": "record.pt",
-      "source_url": "https://www.record.pt/internacional/paises/espanha/detalhe/triunfo-do-real-madrid-em-analise-do-plano-de-jogo-perfeito-de-mourinho-ao-barcelona-irreconhecivel",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-27-давинсон-санчес-скрытый-герой-дерби-в-колумбии",
-      "date": "2026-10-27",
-      "section": "news",
-      "title": "Давинсон Санчес — скрытый герой дерби в Колумбии",
-      "summary": "Победа «Галатасарая» над «Фенербахче» вышла на первые полосы колумбийской прессы: местные медиа сделали главным героем матча защитника Давинсона Санчеса.",
-      "bullets": [],
-      "category": "match",
-      "country": "turkey",
-      "published_at": "2026-10-27T18:56:00+03:00",
-      "source_domain": "fanatik.com.tr",
-      "source_url": "https://www.fanatik.com.tr/galatasaray/galatasarayin-derbi-zaferi-kolombiyada-manset-oldu-galibiyetin-gizli-kahramani-davinson-sanchez-2642524",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-27-невилл-о-кейне-всё-в-нём-мировой-класс",
-      "date": "2026-10-27",
-      "section": "news",
-      "title": "Невилл о Кейне: «Всё в нём — мировой класс»",
-      "summary": "Гари Невилл разобрал победу Харри Кейна в «Золотом мяче» и назвал бывшего капитана «Тоттенхэма» эталонным форвардом.",
-      "bullets": [],
-      "category": "statements",
-      "country": "germany",
-      "published_at": "2026-10-27T15:34:00+00:00",
-      "source_domain": "skysports.com",
-      "source_url": "https://www.skysports.com/watch/video/13604421/harry-kane-wins-ballon-dor-gar-neville-describes-him-as-gold",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-27-галатасарай-требует-наказать-за-эпизоды-дерби",
-      "date": "2026-10-27",
-      "section": "news",
-      "title": "«Галатасарай» требует наказать за эпизоды дерби",
-      "summary": "После победы 2:1 над «Фенербахче» клуб выпустил заявление об «недопустимой несправедливости» в матче; «Фенербахче» и «Бешикташ» тоже выступили со своими претензиями.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "turkey",
-      "published_at": "2026-10-27T18:33:00+03:00",
-      "source_domain": "fanatik.com.tr",
-      "source_url": "https://www.fanatik.com.tr/galatasaray/galatasaraydan-derbide-yasanan-olaylar-icin-aciklama-kabul-edilemez-adaletsizlik-2642519",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "sporx.com",
-          "url": "https://www.sporx.com/galatasaray-dan-fenerbahce-nin-aciklamasina-cevap-SXHBQ1180860SXQ"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-27-форест-встретил-савону-после-тяжёлой-травмы",
-      "date": "2026-10-27",
-      "section": "news",
-      "title": "«Форест» встретил Савону после тяжёлой травмы",
-      "summary": "Клуб опубликовал видео особого возвращения итальянского защитника в общую группу после долгого лечения.",
-      "bullets": [],
-      "category": "injury",
-      "country": "england",
-      "published_at": "2026-10-27T15:31:45+00:00",
-      "source_domain": "football-italia.net",
-      "source_url": "https://football-italia.net/forest-give-savona-a-special-welcome-back/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-10-27-исмаик-идёт-в-суд-против-мюнхена-1860",
-      "date": "2026-10-27",
-      "section": "news",
-      "title": "Исмаик идёт в суд против «Мюнхена 1860»",
-      "summary": "Многолетний инвестор клуба Хасан Исмаик решил судиться с «Мюнхеном 1860» — конфликт вокруг контроля над клубом перешёл в юридическую плоскость.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "germany",
-      "published_at": "2026-10-27T15:31:17+00:00",
-      "source_domain": "kicker.de",
-      "source_url": "https://www.kicker.de/1860-muenchen-ismaik-zieht-vor-gericht-1265780/artikel",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
     }
   ]
 }
