@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-11-02T03:10:29.655854+00:00",
+  "generated_at": "2026-11-02T04:04:23.632768+00:00",
   "items": [
+    {
+      "id": "2026-11-02-батракова-приедут-смотреть-скауты-ливерпуля-и-псж",
+      "date": "2026-11-02",
+      "section": "news",
+      "title": "Батракова приедут смотреть скауты «Ливерпуля» и «ПСЖ»",
+      "summary": "Fotomaç: на матч Лиги чемпионов «Галатасарай» — «Штутгарт» на RAMS Park приедут представители «Ливерпуля» и «ПСЖ», интерес также проявляют «Барселона» и «Арсенал», а в пятилетнем контракте россиянина прописаны отступные около £50 млн.",
+      "bullets": [],
+      "category": "russians",
+      "country": "turkey",
+      "published_at": "2026-11-02T06:50:00+03:00",
+      "source_domain": "fotomac.com.tr",
+      "source_url": "https://www.fotomac.com.tr/galatasaray/2026/11/02/galatasaray-stuttgart-macina-scout-akini-batrakov",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-02-фенербахче-склоняется-к-консейсау-в-клубе-зреет-раскол",
+      "date": "2026-11-02",
+      "section": "news",
+      "title": "«Фенербахче» склоняется к Консейсау, в клубе зреет раскол",
+      "summary": "Fotomaç: после отставки Исмаила Картала большинство руководства выступает за 51-летнего португальца, свободного с июня, но спор «турецкий или иностранный тренер» может привести к отставкам в совете — решение за Азизом Йылдырымом.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "turkey",
+      "published_at": "2026-11-02T06:50:00+03:00",
+      "source_domain": "fotomac.com.tr",
+      "source_url": "https://www.fotomac.com.tr/fenerbahce/2026/11/02/fenerbahcede-sergio-conceicao-sesleri",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "fotomac.com.tr",
+          "url": "https://www.fotomac.com.tr/fenerbahce/2026/11/02/fenerbahcede-kriz-istifalar-pes-pese-gelebilir"
+        },
+        {
+          "domain": "sporx.com",
+          "url": "https://www.sporx.com/fenerbahce-de-conceicao-sesleri-jesus-referans-verdi-SXHBQ1181455SXQ"
+        }
+      ]
+    },
     {
       "id": "2026-11-02-роналду-вне-заявки-аль-насра-на-матч-в-узбекистане",
       "date": "2026-11-02",
@@ -38197,48 +38238,6 @@
           "url": "https://www.sporx.com/can-uzun-a-hutter-ve-gotze-den-ovgu-SXHBQ1180950SXQ"
         }
       ]
-    },
-    {
-      "id": "2026-10-28-вольтемаде-в-италии-предсказуемая-жердь-под-огнём",
-      "date": "2026-10-28",
-      "section": "analytics",
-      "title": "Вольтемаде в Италии: «предсказуемая жердь» под огнём",
-      "summary": "Разбор Goal о том, почему немецкий форвард в аренде в «Ювентусе» так и не убедил итальянскую прессу, несмотря на улучшение формы.",
-      "bullets": [
-        "Экс-сборник Италии Марко Борриелло назвал его «предсказуемым» и «жердью» и заявил, что связка с Коло Муани не работает: оба неуютно чувствуют себя в штрафной.",
-        "В Серии A у Вольтемаде до сих пор ноль голов и ноль передач; Tuttosport поставил ему 5 баллов после 1:1 с «Кальяри».",
-        "При этом в Лиге Европы он поучаствовал в двух голах в матче с «Ренном» (2:2), а Спаллетти публично сказал, что ждёт большего и от него, и от Коло Муани.",
-        "«Ювентус» идёт седьмым, отставая от зоны ЛЧ на шесть очков: 4 победы в 8 турах. Форвард перешёл в «Ньюкасл» из «Штутгарта» за €75 млн и уехал в аренду без опции выкупа — по данным Sport Bild, сам он об уходе не просил."
-      ],
-      "category": "other",
-      "country": "italy",
-      "published_at": "2026-10-28T16:34:00+00:00",
-      "source_domain": "goal.com",
-      "source_url": "https://www.goal.com/en/news/predictable-beanpole-nick-woltemade-heavily-criticised-again/blt179ca8c2011165fd",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "calciomercato.com",
-          "url": "https://www.calciomercato.com/liste/marco-borriello-juventus-nemmeno-conte-basterebbe-manca-andrea-agnelli/blt6e4662948b9d9c62"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-28-акции-экипировщика-мбаппе-рухнули-на-фоне-скандала",
-      "date": "2026-10-28",
-      "section": "news",
-      "title": "Акции экипировщика Мбаппе рухнули на фоне скандала",
-      "summary": "Бумаги швейцарской On потеряли 3,81% после слов форварда о Мао: с $33,06 котировки открылись на $31,80, а три китайские компании уже разорвали с ним контракты.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "spain",
-      "published_at": "2026-10-28T16:33:00+00:00",
-      "source_domain": "goal.com",
-      "source_url": "https://www.goal.com/en/news/fires-of-the-chinese-crisis-burn-mbappe-s-partners/bltdb3c1af5ab053b8a",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
     }
   ]
 }
