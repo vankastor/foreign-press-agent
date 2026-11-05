@@ -1,6 +1,92 @@
 {
-  "generated_at": "2026-11-05T04:14:07.140699+00:00",
+  "generated_at": "2026-11-05T05:09:16.668571+00:00",
   "items": [
+    {
+      "id": "2026-11-05-холанд-вырвал-сити-победу-в-лейпциге",
+      "date": "2026-11-05",
+      "section": "news",
+      "title": "Холанд вырвал «Сити» победу в Лейпциге",
+      "summary": "Гол Эрлинга Холанда на 78-й минуте принёс «Манчестер Сити» выездные 3:2 с «РБ Лейпциг» в Лиге чемпионов — для немцев это третье поражение в четырёх матчах общего этапа.",
+      "bullets": [],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-11-05T05:31:00+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/fussball/champions-league/2026/11/kennen-wir-leider-alle-haaland-schlaegt-wieder-zu",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-11-05-вернулся-тот-самый-дух-турция-разбирает-3-2-с-ливерпулем",
+      "date": "2026-11-05",
+      "section": "analytics",
+      "title": "«Вернулся тот самый дух»: Турция разбирает 3:2 с «Ливерпулем»",
+      "summary": "Большой разбор колумнистов Hürriyet Угура Мелеке и Гюнтекина Оная о том, как «Фенербахче» дважды отыгрался и обыграл «Ливерпуль» в Лиге чемпионов.",
+      "bullets": [
+        "Сценарий матча: Ньони (25'), Гринвуд (29'), Исак (69'), Браун (73'), победный мяч Мурики на 79-й — «Фенербахче» отыгрывался дважды.",
+        "Мелеке и Онай сходятся в главном: к команде вернулся «тот самый дух», которого не хватало в чемпионате.",
+        "Разбор идёт на фоне кадровых потерь: Талиска клуб покинул, Асенсио травмирован — выигрывать пришлось ограниченной обоймой."
+      ],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-11-05T07:25:00+03:00",
+      "source_domain": "hurriyet.com.tr",
+      "source_url": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-tarihi-liverpool-zaferini-yazdilar-ozlenen-ruh-geri-dondu-43366413",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/skorer/sampiyonlar-ligi-zaferi-sonrasi-halil-ozer-fenerbahce-ilk-yarida-liverpoolu-adeta-ezdi-7694604"
+        },
+        {
+          "domain": "fanatik.com.tr",
+          "url": "https://www.fanatik.com.tr/fenerbahce/galeri-fenerbahcenin-liverpool-zaferi-sonrasi-opponga-ovgu-dolu-sozler-bir-yere-not-edelim-gozlerinden-ates-2643469"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-турция-вплотную-подобралась-к-нидерландам-в-рейтинге-уефа",
+      "date": "2026-11-05",
+      "section": "news",
+      "title": "Турция вплотную подобралась к Нидерландам в рейтинге УЕФА",
+      "summary": "После побед «Галатасарая» (2:0 со «Штутгартом») и «Фенербахче» (3:2 с «Ливерпулем») Турция идёт девятой с 53,075 балла, отставая от Нидерландов всего на 2,320; турецкая пресса называет такой «дубль» в одном туре ЛЧ первым в истории страны.",
+      "bullets": [],
+      "category": "records",
+      "country": "turkey",
+      "published_at": "2026-11-05T07:01:00+03:00",
+      "source_domain": "milliyet.com.tr",
+      "source_url": "https://www.milliyet.com.tr/skorer/galatasaray-ve-fenerbahce-kazandi-uefa-ulke-puani-guncellendi-7694520",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "fanatik.com.tr",
+          "url": "https://www.fanatik.com.tr/fenerbahce/galeri-sampiyonlar-liginde-hem-fenerbahce-hem-de-galatasaray-kazandi-iste-uefa-ulke-puaninda-son-durum-2643470"
+        },
+        {
+          "domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/sporarena/devler-liginde-ilk-kez-duble-yaptik-43366395"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-батраков-обогнал-месси-и-роналду-по-старту-в-лч",
+      "date": "2026-11-05",
+      "section": "news",
+      "title": "Батраков обогнал Месси и Роналду по старту в ЛЧ",
+      "summary": "Hürriyet: у россиянина 4 гола в 4 матчах Лиги чемпионов — быстрее, чем у Месси и Роналду на той же стадии, а дубль «Штутгарту» на 12-й и 15-й минутах стал первым таким случаем в истории «Галатасарая» в ЛЧ.",
+      "bullets": [],
+      "category": "russians",
+      "country": "eurocups",
+      "published_at": "2026-11-05T07:00:00+03:00",
+      "source_domain": "hurriyet.com.tr",
+      "source_url": "https://www.hurriyet.com.tr/sporarena/batrakovdan-10-numara-performans-43366403",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
     {
       "id": "2026-11-05-барселона-вернулась-за-защитником-арсенала-инкапье",
       "date": "2026-11-05",
@@ -13,6 +99,89 @@
       "published_at": "2026-11-05T04:00:00+00:00",
       "source_domain": "mirror.co.uk",
       "source_url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-hincapie-konsa-37842952",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-05-батраков-агент-не-исключил-зимний-уход",
+      "date": "2026-11-05",
+      "section": "news",
+      "title": "Батраков: агент не исключил зимний уход",
+      "summary": "Представитель Алексея Батракова Владимир Кузьмичёв заявил, что говорить о трансфере после ~10 матчей рано, но при сохранении формы 21-летним россиянином всерьёз займутся топ-клубы.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "turkey",
+      "published_at": "2026-11-05T06:59:00+03:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/galatasaray/galeri-galatasarayli-batrakovun-menajerinden-transfer-aciklamasi-boyle-devam-ederse-2643458",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/skorer/galatasarayda-aleksey-batrakov-korkusu-fesih-bedeli-detayi-7694525"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-кёкчю-сядет-на-банку-в-глазго",
+      "date": "2026-11-05",
+      "section": "news",
+      "title": "Кёкчю сядет на банку в Глазго",
+      "summary": "Перед матчем Лиги Европы «Селтик» — «Бешикташ» (23:00 по Стамбулу) Итальяно подтвердил: Оркун Кёкчю начнёт со скамейки; Миретти травмирован, Умит Акдаг дисквалифицирован, у «Селтика» ноль очков против семи у турок.",
+      "bullets": [],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-11-05T06:59:00+03:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/besiktas/live-celtic-besiktas-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-11ler-2643451",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/sporarena/namaglup-besiktas-celtice-karsi-43366401"
+        },
+        {
+          "domain": "milliyet.com.tr",
+          "url": "https://www.milliyet.com.tr/skorer/live-avrupa-liginde-besiktas-celtice-konuk-oluyor-7694522"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-у-трабзонспора-на-фрайбург-остался-один-форвард",
+      "date": "2026-11-05",
+      "section": "news",
+      "title": "У «Трабзонспора» на Фрайбург остался один форвард",
+      "summary": "Перед домашним матчем Лиги конференций (20:45) единственный чистый нападающий турок — Пол Онуачу: Франкулино Джу травмирован, Сидни Кабрал дисквалифицирован, вне игры также Батагов, Аral Шимшир и Чевиккан.",
+      "bullets": [],
+      "category": "injury",
+      "country": "eurocups",
+      "published_at": "2026-11-05T06:59:00+03:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/trabzonspor/live-trabzonspor-freiburg-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-11ler-2643457",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "hurriyet.com.tr",
+          "url": "https://www.hurriyet.com.tr/sporarena/trabzonspor-reisle-8de-8-pesinde-rakip-freiburg-43366402"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-в-галатасарае-объявили-тревогу-из-за-газона",
+      "date": "2026-11-05",
+      "section": "news",
+      "title": "В «Галатасарае» объявили тревогу из-за газона",
+      "summary": "На тренировочной базе «Кемербургаз» испорчены поля: президент Дурсун Озбек и руководство клуба в четверг встречаются с английской компанией-подрядчиком, чтобы ускорить ремонт.",
+      "bullets": [],
+      "category": "other",
+      "country": "turkey",
+      "published_at": "2026-11-05T06:59:00+03:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/galatasaray/galatasarayda-zemin-alarmi-dursun-ozbek-harekete-geciyor-2643456",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -38497,170 +38666,6 @@
           "url": "https://www.record.pt/internacional/paises/franca/detalhe/le-havre-vive-pesadelo-e-perde-treinador-e-presidente-no-mesmo-dia"
         }
       ]
-    },
-    {
-      "id": "2026-11-01-сен-максимен-гениальный-гол-промах-с-пенальти-и-жест",
-      "date": "2026-11-01",
-      "section": "news",
-      "title": "Сен-Максимен: гениальный гол, промах с пенальти и жест",
-      "summary": "Экс-игрок «Ланса» и «Ньюкасла» блистал в победе «Шарлотт» над «Орландо» (4:0), но испортил вечер непристойным жестом.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "other",
-      "published_at": "2026-11-01T08:36:42+00:00",
-      "source_domain": "rmcsport.bfmtv.com",
-      "source_url": "https://rmcsport.bfmtv.com/football/major-league-soccer/but-genial-penalty-manque-et-geste-obscene-l-improbable-soiree-de-saint-maximin-en-mls_AN-202611010179.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "footmercato.net",
-          "url": "https://www.footmercato.net/a5263931989759804629-mls-le-but-genial-dallan-saint-maximin-face-a-orlando"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-01-мортон-и-опенда-не-поедут-с-лионом-в-анже",
-      "date": "2026-11-01",
-      "section": "news",
-      "title": "Мортон и Опенда не поедут с «Лионом» в Анже",
-      "summary": "Англичанин лечит пубалгию и не попал в заявку, вместе с ним вне состава остался и бельгийский форвард.",
-      "bullets": [],
-      "category": "injury",
-      "country": "france",
-      "published_at": "2026-11-01T08:35:24+00:00",
-      "source_domain": "getfootballnewsfrance.com",
-      "source_url": "https://www.getfootballnewsfrance.com/2026/lyon-predicted-xi-v-angers-tyler-morton-and-lois-openda-out/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-01-ливерпуль-арсенал-составы-и-кадровые-потери",
-      "date": "2026-11-01",
-      "section": "news",
-      "title": "«Ливерпуль» — «Арсенал»: составы и кадровые потери",
-      "summary": "Перед главным матчем тура на «Энфилде» (16:30 GMT) The Standard собрал подтверждённые новости по составам и травмам обеих команд и дал прогнозные стартовые одиннадцатки.",
-      "bullets": [],
-      "category": "match",
-      "country": "england",
-      "published_at": "2026-11-01T08:35:07+00:00",
-      "source_domain": "standard.co.uk",
-      "source_url": "https://www.standard.co.uk/sport/football/liverpool-fc-xi-vs-arsenal-predicted-lineup-confirmed-team-news-injury-latest-premier-league-2026-b1302792.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "standard.co.uk",
-          "url": "https://www.standard.co.uk/sport/football/arsenal-fc-xi-vs-liverpool-predicted-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1302661.html"
-        },
-        {
-          "domain": "lequipe.fr",
-          "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-liverpool-arsenal-en-premier-league/1739444"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-01-кака-расплакался-на-чествовании-в-милане",
-      "date": "2026-11-01",
-      "section": "news",
-      "title": "Кака расплакался на чествовании в «Милане»",
-      "summary": "Бразилец не сдержал эмоций во время церемонии в его честь перед дерби на «Сан-Сиро»: «Это особенный день для меня».",
-      "bullets": [],
-      "category": "other",
-      "country": "italy",
-      "published_at": "2026-11-01T08:30:20+00:00",
-      "source_domain": "ad.nl",
-      "source_url": "https://www.ad.nl/voetbal/emotionele-kaka-breekt-bij-eerbetoon-van-ac-milan-het-is-een-bijzondere-dag-voor-mij~a1609e09/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-01-мю-договорился-об-отставке-кэррика-но-не-сейчас",
-      "date": "2026-11-01",
-      "section": "news",
-      "title": "«МЮ» договорился об отставке Кэррика, но не сейчас",
-      "summary": "Manchester Evening News: у совета директоров есть «частное соглашение» по будущему Кэррика — тренер проведёт матч Лиги чемпионов с «Ромой», решение отложено до паузы на сборные, в клубе звучит имя Эдди Хау.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-11-01T08:29:44+00:00",
-      "source_domain": "manchestereveningnews.co.uk",
-      "source_url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-michael-carrick-sack-34845982",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "mirror.co.uk",
-          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-sack-man-utd-37829900"
-        },
-        {
-          "domain": "theguardian.com",
-          "url": "https://www.theguardian.com/football/live/2026/nov/01/carrick-defiant-after-latest-defeat-liverpool-v-arsenal-buildup-wsl-and-more-matchday-live"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-01-мерсон-назвал-дату-к-которой-всё-решится-для-арсенала",
-      "date": "2026-11-01",
-      "section": "news",
-      "title": "Мерсон назвал дату, к которой всё решится для «Арсенала»",
-      "summary": "«К 13 декабря вы будете знать, выиграет ли «Арсенал» титул», — эксперт Sky Sports предупредил о тяжёлом календаре и цене травмы Саки.",
-      "bullets": [],
-      "category": "statements",
-      "country": "england",
-      "published_at": "2026-11-01T08:28:09+00:00",
-      "source_domain": "football365.com",
-      "source_url": "https://www.football365.com/news/merson-makes-huge-arsenal-pl-title-prediction-liverpool-match",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-01-матч-в-эредивизи-не-доиграют-из-за-пиротехники",
-      "date": "2026-11-01",
-      "section": "news",
-      "title": "Матч в Эредивизи не доиграют из-за пиротехники",
-      "summary": "Прерванный из-за фейерверков матч «Камбюр» — «Го Эхед Иглз» не будет доигран, клуб из Девентера уже опознал первых нарушителей: «Нам стыдно, сделаем всё, чтобы найти виновных».",
-      "bullets": [],
-      "category": "scandals",
-      "country": "netherlands",
-      "published_at": "2026-11-01T08:28:00+00:00",
-      "source_domain": "telegraaf.nl",
-      "source_url": "https://www.telegraaf.nl/sport/voetbal/door-vuurwerk-gestaakt-duel-cambuur-go-ahead-wordt-niet-uitgespeeld-eerste-daders-in-beeld/163833928.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "ad.nl",
-          "url": "https://www.ad.nl/voetbal/go-ahead-heeft-eerste-daders-vuurwerk-bij-cambuur-in-beeld-gaan-er-alles-aan-doen-om-daders-op-te-sporen~a378dc98/"
-        },
-        {
-          "domain": "nu.nl",
-          "url": "https://www.nu.nl/voetbal/6415105/go-ahead-heeft-eerste-vuurwerkgooiers-bij-cambuur-in-beeld-we-schamen-ons.html"
-        },
-        {
-          "domain": "voetbalprimeur.nl",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2153541/go-ahead-heeft-eerste-daders-in-beeld-na-vuurwerkincident-bij-cambuur.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-01-китай-вычеркнул-реал-из-эфира-после-слов-мбаппе",
-      "date": "2026-11-01",
-      "section": "news",
-      "title": "Китай вычеркнул «Реал» из эфира после слов Мбаппе",
-      "summary": "Государственный CCTV в субботу не показал ни одного матча Ла Лиги после высказывания Мбаппе про мем о Мао, а стриминговая платформа Migu убрала из сетки сегодняшнюю игру «Расинг» — «Реал Мадрид».",
-      "bullets": [],
-      "category": "scandals",
-      "country": "spain",
-      "published_at": "2026-11-01T09:27:24+01:00",
-      "source_domain": "mundodeportivo.com",
-      "source_url": "https://www.mundodeportivo.com/futbol/real-madrid/20261101/1004245702/tv-estatal-china-actua-polemica-mbappe-migu-carga-real-madrid.html",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
     }
   ]
 }
