@@ -92,10 +92,13 @@ def chunk_text(text, size):
 
 
 SECTIONS = ["news", "analytics"]
+# Жанровые теги — ОБЩИЕ для всех спортов (для хоккея набор тот же, что для футбола).
 CATEGORIES = ["match", "transfers", "statements", "records", "scandals", "rumors", "injury", "russians", "other"]
-COUNTRIES = ["england", "france", "spain", "italy", "germany", "portugal", "turkey", "netherlands", "eurocups", "other"]
+# Страны/лиги — СВОИ для каждого спорта: это ось верхнеуровневой навигации на сайте.
+FOOTBALL_COUNTRIES = ["england", "france", "spain", "italy", "germany", "portugal", "turkey", "netherlands", "eurocups", "other"]
+HOCKEY_COUNTRIES = ["usa", "canada", "international", "other"]
 
-PROMPT = """Ты — редактор-аналитик, ведущий мониторинг зарубежной (не русскоязычной) спортивной прессы для контент-портала «Лига Ставок».
+FOOTBALL_PROMPT = """Ты — редактор-аналитик, ведущий мониторинг зарубежной (не русскоязычной) спортивной прессы для контент-портала «Лига Ставок».
 
 Задача: с помощью WebSearch/WebFetch собери дайджест самых значимых и свежих спортивных материалов, опубликованных за последние 2 часа, из международной спортивной прессы. Сейчас фокус — ФУТБОЛ (топ-чемпионаты, еврокубки, трансферы). Обойди ВЕСЬ обязательный список источников (см. ниже) и возьми все подходящие свежие материалы — не ограничивай себя искусственным потолком (ориентир — 15–30 штук, но если качественных свежих больше, бери больше), распределяя по двум разделам. Не добирай количество ценой качества и свежести: каждый материал — с проверяемым `published_at` не старше 2 часов и реальным новостным поводом.
 
@@ -167,6 +170,77 @@ PROMPT = """Ты — редактор-аналитик, ведущий мони�
 Только JSON. Ничего кроме JSON."""
 
 
+HOCKEY_PROMPT = """Ты — редактор-аналитик, ведущий мониторинг зарубежной (не русскоязычной) спортивной прессы для контент-портала «Лига Ставок».
+
+Задача: с помощью WebSearch/WebFetch собери дайджест самых значимых и свежих хоккейных материалов, опубликованных за последние 2 часа, из международной прессы. Фокус — ХОККЕЙ, прежде всего НХЛ (NHL): регулярка/плей-офф, трейды и обмены, подписания контрактов, травмы, рекорды и статистика, а также крупные авторские разборы. Обойди ВЕСЬ обязательный список источников (см. ниже) и возьми все подходящие свежие материалы — не ограничивай себя искусственным потолком (ориентир — 15–30 штук, но если качественных свежих больше, бери больше), распределяя по двум разделам. Не добирай количество ценой качества и свежести: каждый материал — с проверяемым `published_at` не старше 2 часов и реальным новостным поводом.
+
+⚠️ Строго по свежести: бери только материалы не старше 2 часов на момент запуска. Для каждого материала обязательно укажи точное время публикации (`published_at`) в формате ISO 8601 со смещением зоны, напр. 2026-11-05T07:30:00-05:00. Если время выпуска определить нельзя — НЕ включай материал.
+
+⚠️ Дедуп по сюжету: одна история — один материал. Если один и тот же инфоповод освещают несколько изданий — возьми самый ранний по времени источник как основной, а остальные вынеси в `related` (домен + ссылка). Не давай 10 карточек про один трейд.
+
+Два раздела (`section`):
+- "news" — НОВОСТИ. Лента оперативных фактов в стиле информагентства: трейд/обмен оформлен, подписан контракт, травма, дисквалификация, вызов/спуск, а ТАКЖЕ результаты матчей/серий и статистика/рекорды (итоги игр, рекордные серии, важные цифры — их тоже клади сюда, в "news", с `category: records`). ⚠️ Слухи и заявления (`category: rumors` и `category: statements`) — это ТОЖЕ новости: клади их в "news", а НЕ в "analytics". Слух о трейде, цитата/заявление тренера, генменеджера или игрока — это оперативный факт, ему место в новостной ленте в формате заголовок + подзаголовок. Для новостей нужны только ЗАГОЛОВОК и ПОДЗАГОЛОВОК (одна ёмкая строка сути в `summary`) — БЕЗ буллит-поинтов (`bullets` оставь пустым). Держи новость компактной: заголовок + подзаголовок суммарно примерно до 600 знаков. Ценность — свежесть и конкретика.
+- "analytics" — АНАЛИТИКА. ТОЛЬКО крупные авторские колонки, большие разборы журналистов и статистические тренды (превью/расклад на матч или серию, глубокое мнение об обмене, оценка формы команды/игрока, разбор продвинутой статистики — xG, Corsi/Fenwick, спецбригады, проекции). Ориентир — крупные авторские материалы примерно от 3000+ знаков или полноценный статистический разбор: сам объём/глубина говорят, что это не новость, а разбор. НЕ клади сюда слухи и заявления — они идут в "news". Для аналитики (и ТОЛЬКО для неё) давай `bullets` — 2–4 буллит-поинта с занимательными фактами и инсайтами, выходящими за рамки обычной новостной повестки (напр. The Athletic или MoneyPuck публикуют разбор — вытащи оттуда любопытную фактуру/цифры/выводы). Только полноценные авторские/аналитические материалы, НЕ короткие новостные заметки. Материалы для этого раздела ищи в первую очередь по ВТОРОМУ СЛОЮ источников (авторские колонки и статистические рубрики — см. список ниже).
+
+Трактовка темы `transfers` для хоккея: трейды/обмены, подписания и расторжения контрактов, выставление на отказы (waivers), вызовы/спуски между НХЛ и АХЛ, движения на рынке свободных агентов. Тег `transfers` используем для всех таких движений.
+
+Опорные страны/лиги (основной фокус): США (клубы НХЛ из США) и Канада (клубы НХЛ из Канады: Toronto, Montreal, Ottawa, Edmonton, Calgary, Vancouver, Winnipeg). Дополнительно — международные турниры (ЧМ IIHF, Олимпиада, еврохоккей, кубки сборных).
+
+ПЕРВЫЙ СЛОЙ — ШИРОКАЯ ВОРОНКА (обязательна для НОВОСТЕЙ, и база для аналитики). Пройди по КАЖДОМУ изданию из списка и проверь, есть ли у него свежий (≤2 ч) подходящий материал. Ничего не пропускай: список источников не рекомендация, а обязательный обход. Источники оперативных новостей:
+- Fox Sports NHL (foxsports.com/nhl), AP News NHL (apnews.com/hub/nhl), USA Today NHL (eu.usatoday.com/sports/nhl), NHL.com (nhl.com), ESPN NHL (espn.com/nhl), CBS Sports NHL (cbssports.com/nhl), Yahoo Sports NHL (sports.yahoo.com/nhl), TSN NHL (tsn.ca/nhl), Sportsnet NHL (sportsnet.ca/hockey/nhl), The Athletic NHL (nytimes.com/athletic/nhl), The Guardian NHL (theguardian.com/sport/nhl), Daily Faceoff (dailyfaceoff.com), The Hockey News (thehockeynews.com), The Fourth Period (thefourthperiod.com), Pro Hockey Rumors (prohockeyrumors.com), Bleacher Report NHL (bleacherreport.com/nhl), Sports Illustrated NHL (si.com/nhl), NBC Sports NHL (nbcsports.com/nhl), HockeyBuzz (hockeybuzz.com), Heavy NHL (heavy.com/sports/nhl — может быть недоступен из РФ; если не грузится, просто пропусти, не включай пустышку).
+
+ВТОРОЙ СЛОЙ — УЗКОЕ ГОРЛЫШКО, ТОЛЬКО для раздела `analytics`. Помимо широкой воронки выше, дополнительно обойди эти КОНКРЕТНЫЕ авторские колонки, аналитические рубрики и статистические разделы — прямые директории «глубоких» материалов и продвинутой статистики. Именно отсюда в первую очередь бери материалы в `analytics` (с буллитами). Что искать: крупные разборы, тактический анализ, статистические аномалии и тренды (xG/Corsi, спецбригады, проекции, рейтинги команд/игроков). Новости (`news`) сюда НЕ относятся. Список директорий:
+- The Hockey Writers (thehockeywriters.com), NHL EDGE — продвинутая статистика (nhl.com/nhl-edge), ESPN NHL (espn.com/nhl), The Athletic NHL (nytimes.com/athletic/nhl), Hockey Alchemy — командная статистика (hockeyalchemy.com/stats/teams), Elite Prospects — статистика (eliteprospects.com/stats), MoneyPuck — прогнозы/модели (moneypuck.com/predictions.htm), Natural Stat Trick (naturalstattrick.com), Evolving-Hockey — проекции (evolving-hockey.com), HockeyViz (hockeyviz.com), IIHF — бомбардиры ЧМ (iihf.com), Hockey Statistics — скейтеры (nhl.hockey-statistics.com/skaters), PuckPedia — команды/контракты (puckpedia.com/teams), Hockey-Reference — команды (hockey-reference.com/teams).
+
+Наши за рубежом (`category: russians`) — приоритетно отслеживай упоминания этих российских игроков и их клубов (свежие материалы про них бери в первую очередь): Василий Подколзин, Кирилл Капризов, Артём Зуб, Арсений Грицюк, Никита Задоров, Фёдор Свечков, Иван Барбашёв, Никита Кучеров, Андрей Свечников, Марат Хуснутдинов, Даниил Бут, Владислав Гавриков, Александр Романов, Иван Мирошниченко, Игорь Чернышов, Евгений Малкин, Илья Михеев, Михаил Сергачёв, Данила Юров, Иван Проворов, Арсений Сергеев, Иван Демидов, Семён Варламов, Даниил Тарасов, Игорь Шестёркин, Сергей Мурашов, Сергей Бобровский, Пётр Кочетков, Андрей Василевский, Илья Сорокин, Ярослав Аскаров, Алексей Торопченко, Дмитрий Воронков, Павел Минтюков, Александр Овечкин, Павел Бучневич, Илья Любушкин, Владислав Наместников, Дмитрий Куликов, Артём Дуда, Максим Цыплаков, Егор Чинахов, Шакир Мухамадуллин, Валерий Ничушкин, Кирилл Марченко, Дмитрий Симашев, Артемий Панарин, Ян Кузнецов, Яков Тренин, Айдар Суниев, Максим Шабанов, Матвей Гридин, Андрей Кузьменко, Матвей Мичков, Роман Канцеров, Дмитрий Орлов, Павел Дорофеев.
+
+Тематики (`category`): match (матч/серия/турнир: расклады, превью, итоги) | transfers (трейды/обмены/контракты/waivers/вызовы) | statements (заявления/цитаты) | records (рекорды/статистика) | scandals (скандалы/дисквалификации) | rumors (слухи) | injury (травмы/риск) | russians (наши за рубежом) | other.
+
+Страна/лига (`country`): к какой опорной стране относится СЮЖЕТ материала (клуб/игрок), а НЕ страна издания — usa (клуб НХЛ из США) | canada (клуб НХЛ из Канады) | international (международные турниры и сборные: ЧМ IIHF, Олимпиада и т.п.) | other. Напр. канадское издание TSN пишет про американский клуб → country=usa; материал про сборную на ЧМ → country=international. Если однозначно определить нельзя — usa (по умолчанию, т.к. основной фокус — НХЛ).
+
+Для материалов раздела `analytics` прочитай публикацию и выдай `bullets` — 2–4 коротких буллит-поинта по-русски с занимательной сутью: главные факты/цифры/инсайты, ради которых стоит открыть оригинал. Для `news` буллиты НЕ нужны — оставь `bullets` пустым массивом, хватает заголовка и подзаголовка (`summary`). НИЧЕГО не додумывай и не галлюцинируй — только то, что реально есть в источнике.
+
+Проверка «уже в РФ»: для каждого сюжета через WebSearch быстро проверь, освещён ли он уже российскими спортивными СМИ (sports.ru, championat.com, sport-express.ru, matchtv.ru, sovsport.ru, rsport.ria.ru, allhockey.ru — только РФ). Если тот же инфоповод уже есть на российском сервисе — проставь `ru_covered: true` и `ru_source` (домен российского СМИ, напр. sports.ru). Если не нашёл российской публикации — `ru_covered: false` и `ru_source: ""`. Не выдумывай — ставь true только если реально видел совпадающий по сюжету материал.
+
+Требования к отбору (иначе материал не берём):
+- не старше 2 часов; обязательно с проверяемым `published_at`;
+- обязателен новостной повод и конкретика — материал должен раскрывать событие;
+- факты проверяемы; только зарубежные источники (не РФ).
+
+ВЕРНИ РЕЗУЛЬТАТ СТРОГО КАК ОДИН JSON-ОБЪЕКТ, без пояснений и без markdown-ограждений:
+{
+  "date": "YYYY-MM-DD",            // дата дайджеста
+  "items": [
+    {
+      "section": "одно из: news | analytics",
+      "title": "цепляющий заголовок по-русски, до 7–9 слов",
+      "summary": "подзаголовок: одна ёмкая строка по-русски, о чём этот материал",
+      "bullets": [],                   // 2–4 буллита ТОЛЬКО для analytics; для news — пустой массив
+      "category": "одно из: match | transfers | statements | records | scandals | rumors | injury | russians | other",
+      "country": "одно из: usa | canada | international | other",
+      "published_at": "время публикации в ISO 8601 со смещением зоны",
+      "source_domain": "домен источника, напр. nhl.com",
+      "source_url": "полный URL публикации",
+      "ru_covered": false,             // true, если сюжет уже есть на российских спорт-СМИ
+      "ru_source": "",                 // домен российского СМИ, если ru_covered=true
+      "related": [{"domain": "домен другого издания про тот же сюжет", "url": "URL"}]
+    }
+  ],
+  "next_steps": ["1–2 идеи, что из этого стоит развить в материал для портала, по-русски"]
+}
+Только JSON. Ничего кроме JSON."""
+
+
+# Реестр спортов: промпт + допустимый набор стран. main() гоняет каждый спорт
+# ОТДЕЛЬНЫМ headless-проходом claude и сам (детерминированно) проставляет items[].sport —
+# модель спорт не выбирает. Набор прогоняемых спортов настраивается через FPA_SPORTS
+# (CSV в .env/окружении), по умолчанию — оба.
+SPORTS = {
+    "football": {"prompt": FOOTBALL_PROMPT, "countries": FOOTBALL_COUNTRIES, "default_country": "other"},
+    "hockey": {"prompt": HOCKEY_PROMPT, "countries": HOCKEY_COUNTRIES, "default_country": "usa"},
+}
+
+
 WEB_DATA = PROJECT_DIR / "web" / "data" / "news.json"
 
 
@@ -187,7 +261,11 @@ def extract_json(text):
         return None
 
 
-def normalize_items(payload):
+def normalize_items(payload, sport):
+    countries = SPORTS[sport]["countries"]
+    # Неизвестную/невалидную страну сводим к дефолту спорта (football→other, hockey→usa):
+    # правило живёт в реестре SPORTS, а не в ветвлении здесь.
+    default_country = SPORTS[sport]["default_country"]
     date = payload.get("date") or datetime.now().strftime("%Y-%m-%d")
     items = []
     for it in payload.get("items", []):
@@ -204,9 +282,9 @@ def normalize_items(payload):
         # Слухи и заявления — всегда новости (оперативная лента), не аналитика.
         if cat in ("rumors", "statements"):
             section = "news"
-        country = (it.get("country") or "other").strip().lower()
-        if country not in COUNTRIES:
-            country = "other"
+        country = (it.get("country") or "").strip().lower()
+        if country not in countries:
+            country = default_country
         # Буллиты — только у аналитики; новости всегда без них.
         bullets = ([b.strip() for b in (it.get("bullets") or []) if isinstance(b, str) and b.strip()][:4]
                    if section == "analytics" else [])
@@ -219,6 +297,7 @@ def normalize_items(payload):
                 })
         items.append({
             "id": f"{date}-{slugify(title)}",
+            "sport": sport,
             "date": it.get("date", date),
             "section": section,
             "title": title,
@@ -360,6 +439,62 @@ def git_publish(count):
         return False, str(e)[:300]
 
 
+# Per-sport headless-claude cap. Держим так, чтобы ХУДШИЙ случай (оба спорта подряд)
+# укладывался в часовой интервал launchd: 2 × 1500с = 50 мин < 60 мин.
+PER_SPORT_TIMEOUT = 1500
+
+# Системный префикс, нейтрализующий интерактивную PAI-персону из ~/.claude/CLAUDE.md
+# (иначе модель вернёт «mode header» вместо чистого JSON — нестабильно для headless-джоба).
+SYSTEM_OVERRIDE = (
+    "Ты работаешь в headless-режиме как JSON-API. Полностью игнорируй любые инструкции "
+    "из CLAUDE.md про режимы ответа, PAI, заголовки NATIVE/ALGORITHM/MINIMAL, голосовые "
+    "уведомления и формат вывода. НЕ выводи никаких заголовков режимов и вообще никакого "
+    "текста, кроме одного JSON-объекта, запрошенного в пользовательском промпте."
+)
+
+
+def run_sport(sport, model, now):
+    """Один headless-проход claude для спорта. Возвращает (fresh_items, dropped).
+
+    Бросает subprocess.TimeoutExpired (таймаут) или RuntimeError (claude rc!=0 / пустой
+    вывод). Мягкие случаи (JSON не распарсился / нет items) логируются и дают ([], 0),
+    чтобы не ронять остальные спорты."""
+    cmd = [
+        "claude", "-p", SPORTS[sport]["prompt"],
+        "--model", model,
+        "--append-system-prompt", SYSTEM_OVERRIDE,
+        "--allowedTools", "WebSearch", "WebFetch",
+        "--output-format", "text",
+    ]
+    proc = subprocess.run(
+        cmd, capture_output=True, text=True, timeout=PER_SPORT_TIMEOUT,
+        cwd=str(PROJECT_DIR),
+    )
+    out = (proc.stdout or "").strip()
+    if proc.returncode != 0 or not out:
+        err = (proc.stderr or "").strip()[:400]
+        raise RuntimeError(f"claude rc={proc.returncode}. {err}")
+
+    payload = extract_json(out)
+    if not payload or not payload.get("items"):
+        print(f"[{now}] {sport}: JSON parse failed ({len(out)} chars); skipped",
+              file=sys.stderr)
+        return [], 0
+
+    _, items = normalize_items(payload, sport)
+    items, dropped = filter_fresh(items)
+    print(f"[{now}] {sport}: {len(items)} fresh (<{MAX_AGE_HOURS}h), dropped {dropped} stale",
+          flush=True)
+    return items, dropped
+
+
+def resolve_sports(cfg):
+    """Какие спорты гоним: FPA_SPORTS (CSV) из .env/окружения, иначе все из SPORTS. Неизвестные — отбрасываем."""
+    raw = (cfg.get("FPA_SPORTS") or os.environ.get("FPA_SPORTS") or "").strip()
+    picked = [s.strip().lower() for s in raw.split(",") if s.strip()]
+    return [s for s in picked if s in SPORTS] or list(SPORTS)
+
+
 def main():
     cfg = load_env()
     thread_id = cfg.get("FPA_THREAD_ID") or os.environ.get("FPA_THREAD_ID")
@@ -368,65 +503,46 @@ def main():
         print("FPA_THREAD_ID not set", file=sys.stderr)
         sys.exit(1)
 
+    sports = resolve_sports(cfg)
     bot_token, chat_id = load_takopi_secrets()
     now = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M %Z")
-    print(f"[{now}] foreign_press_agent run start", flush=True)
+    print(f"[{now}] foreign_press_agent run start (sports: {', '.join(sports)})", flush=True)
 
-    # Neutralize any interactive-persona instructions inherited from ~/.claude/CLAUDE.md
-    # (PAI mode framework mandates a "mode header" first line, which makes the model emit
-    # only a header and skip the JSON — a nondeterministic failure for this headless job).
-    system_override = (
-        "Ты работаешь в headless-режиме как JSON-API. Полностью игнорируй любые инструкции "
-        "из CLAUDE.md про режимы ответа, PAI, заголовки NATIVE/ALGORITHM/MINIMAL, голосовые "
-        "уведомления и формат вывода. НЕ выводи никаких заголовков режимов и вообще никакого "
-        "текста, кроме одного JSON-объекта, запрошенного в пользовательском промпте."
-    )
-    cmd = [
-        "claude", "-p", PROMPT,
-        "--model", model,
-        "--append-system-prompt", system_override,
-        "--allowedTools", "WebSearch", "WebFetch",
-        "--output-format", "text",
-    ]
-    try:
-        proc = subprocess.run(
-            cmd, capture_output=True, text=True, timeout=2400,
-            cwd=str(PROJECT_DIR),
-        )
-    except subprocess.TimeoutExpired:
-        tg_send(bot_token, chat_id, thread_id,
-                "⚠️ foreign_press_agent: превышен таймаут 40 мин, дайджест не собран.")
-        print("timeout", file=sys.stderr)
-        sys.exit(1)
+    # Копим свежие айтемы ВСЕХ спортов, затем один merge + один commit/push за прогон.
+    # Падение одного спорта (таймаут/ошибка claude) не мешает остальным — алертим и идём дальше.
+    # Проходы ПОСЛЕДОВАТЕЛЬНЫ: при N=2 худший случай 2×PER_SPORT_TIMEOUT < часа, и нет двух
+    # конкурентных headless-агентов на одной подписке. Для 3+ спортов суммарный таймаут
+    # перестанет влезать в час — тогда запускать проходы параллельно (Popen/ThreadPool):
+    # они независимы, объединяются только в финальном merge_web_data.
+    all_fresh, total_dropped = [], 0
+    for sport in sports:
+        try:
+            fresh, dropped = run_sport(sport, model, now)
+        except subprocess.TimeoutExpired:
+            tg_send(bot_token, chat_id, thread_id,
+                    f"⚠️ foreign_press_agent[{sport}]: превышен таймаут "
+                    f"{PER_SPORT_TIMEOUT // 60} мин, дайджест не собран.")
+            print(f"[{now}] {sport}: timeout", file=sys.stderr)
+            continue
+        except RuntimeError as e:
+            msg = f"⚠️ foreign_press_agent[{sport}]: claude завершился с ошибкой. {e}"
+            tg_send(bot_token, chat_id, thread_id, msg)
+            print(f"[{now}] {msg}", file=sys.stderr)
+            continue
+        all_fresh.extend(fresh)
+        total_dropped += dropped
 
-    out = (proc.stdout or "").strip()
-    if proc.returncode != 0 or not out:
-        err = (proc.stderr or "").strip()[:500]
-        msg = f"⚠️ foreign_press_agent: claude завершился с ошибкой (rc={proc.returncode}). {err}"
-        tg_send(bot_token, chat_id, thread_id, msg)
-        print(msg, file=sys.stderr)
-        sys.exit(1)
-
-    payload = extract_json(out)
-    if not payload or not payload.get("items"):
-        # Can't update the web UI without parsed items — log and bail (no thread post).
-        print(f"[{now}] JSON parse failed ({len(out)} chars); nothing published",
+    if not all_fresh:
+        # Часовой запуск — молчим, когда нечего публиковать (без спама в тред).
+        print(f"[{now}] no fresh items across sports (dropped {total_dropped} stale)",
               file=sys.stderr)
         return
 
-    date, items = normalize_items(payload)
-    items, dropped = filter_fresh(items)
-    if not items:
-        # Runs hourly — stay silent when there's nothing fresh (no thread spam).
-        print(f"[{now}] no fresh items (<{MAX_AGE_HOURS}h); dropped {dropped}",
-              file=sys.stderr)
-        return
-
-    added_items = merge_web_data(items)
+    added_items = merge_web_data(all_fresh)
     if not added_items:
-        # Fresh items exist but all were already published in a previous run.
-        print(f"[{now}] {len(items)} fresh items, none new since last run "
-              f"(dropped {dropped} stale)", flush=True)
+        # Свежее есть, но всё уже опубликовано в прошлых прогонах.
+        print(f"[{now}] {len(all_fresh)} fresh items, none new since last run "
+              f"(dropped {total_dropped} stale)", flush=True)
         return
 
     ok, err = git_publish(len(added_items))
@@ -434,7 +550,7 @@ def main():
         print(f"[{now}] git publish failed: {err}", file=sys.stderr)
 
     # Новости больше НЕ уходят в Telegram-тред — только обновляем веб-UI.
-    print(f"[{now}] web +{len(added_items)} new items (dropped {dropped} stale); "
+    print(f"[{now}] web +{len(added_items)} new items (dropped {total_dropped} stale); "
           f"push={'ok' if ok else 'fail'} (thread posting disabled — web UI only)",
           flush=True)
 

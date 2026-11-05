@@ -236,6 +236,52 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
   color: var(--ink-on-green);
 }
 
+/* Переключатель вида спорта — верхнеуровневая навигация над разделами.
+   Активный = графит (ink), чтобы визуально стоять «выше» зелёных раздел-сегментов. */
+.sports {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin: 14px 0 10px;
+}
+.sporttab {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  border: 1px solid var(--card-border);
+  background: var(--panel);
+  color: var(--ink-2);
+  font: inherit;
+  font-family: var(--font-display);
+  font-size: 15px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  padding: 11px 22px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: transform .18s ease, background .18s ease, color .18s ease, border-color .18s;
+}
+.sporttab:hover { transform: translateY(-1px); border-color: var(--card-border-2); }
+.sporttab__icon { font-size: 18px; }
+.sporttab__count {
+  font-size: 12px;
+  font-weight: 800;
+  padding: 1px 8px;
+  border-radius: 999px;
+  background: rgba(23,25,26,.08);
+  color: var(--ink-3);
+}
+.sporttab[aria-pressed="true"] {
+  background: var(--ink);
+  color: #fff;
+  border-color: var(--ink);
+}
+.sporttab[aria-pressed="true"] .sporttab__count {
+  background: rgba(255,255,255,.2);
+  color: #fff;
+}
+
 /* «Дайджест» — батч на каждое 3-часовое окно, с заметной шапкой периода */
 .digest-batch { margin: 0 0 30px; }
 .digest-batch__head {
@@ -539,7 +585,7 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
   .stat__num { font-size: 22px; }
 
   /* Swipeable, edge-to-edge control rows instead of tall wrapped blocks */
-  .sections, .countries {
+  .sports, .sections, .countries {
     flex-wrap: nowrap;
     justify-content: flex-start;
     overflow-x: auto;
@@ -550,9 +596,10 @@ main { position: relative; z-index: 1; max-width: var(--maxw); margin: 0 auto; p
     padding-left: 16px;
     padding-right: 16px;
   }
+  .sports::-webkit-scrollbar,
   .sections::-webkit-scrollbar,
   .countries::-webkit-scrollbar { display: none; }
-  .seg, .chip { flex: 0 0 auto; }
+  .sporttab, .seg, .chip { flex: 0 0 auto; }
   .countries { top: 51px; margin-top: 6px; margin-bottom: 18px; }
 
   /* Stack each list row; keep meta as a compact wrapping header line */

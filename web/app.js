@@ -20,7 +20,7 @@ const CATEGORIES = {
   other: "Прочее",
 };
 
-const COUNTRIES = {
+const FOOTBALL_COUNTRIES = {
   all: "Все страны",
   england: "Англия",
   france: "Франция",
@@ -34,12 +34,12 @@ const COUNTRIES = {
   other: "Прочее",
 };
 
-const COUNTRY_ORDER = [
+const FOOTBALL_COUNTRY_ORDER = [
   "england", "france", "spain", "italy", "germany",
   "portugal", "turkey", "netherlands", "eurocups", "other",
 ];
 
-const COUNTRY_FLAG = {
+const FOOTBALL_COUNTRY_FLAG = {
   all: "🌍",
   england: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
   france: "🇫🇷",
@@ -55,9 +55,9 @@ const COUNTRY_FLAG = {
 
 // Fallback: derive country from the source domain when item.country is absent
 // (archive items predate the parser's `country` field). Domains whose TLD already
-// encodes the country (.it/.es/.de/.pt/.fr/.nl/.tr/.co.uk) are handled by TLD_COUNTRY;
+// encodes the country (.it/.es/.de/.pt/.fr/.nl/.tr/.co.uk) are handled by FOOTBALL_TLD_COUNTRY;
 // this map only covers country-specific .com/.net outlets and ambiguous cases.
-const DOMAIN_COUNTRY = {
+const FOOTBALL_DOMAIN_COUNTRY = {
   "goal.com": "england", "skysports.com": "england", "football365.com": "england",
   "footballtransfers.com": "england", "theguardian.com": "england", "onefootball.com": "england",
   "talksport.com": "england", "90min.com": "england", "givemesport.com": "england",
@@ -75,23 +75,74 @@ const DOMAIN_COUNTRY = {
   "uefa.com": "eurocups",
 };
 
-const TLD_COUNTRY = {
+const FOOTBALL_TLD_COUNTRY = {
   ".co.uk": "england", ".uk": "england", ".fr": "france", ".es": "spain",
   ".it": "italy", ".de": "germany", ".pt": "portugal", ".tr": "turkey", ".nl": "netherlands",
 };
 
-function countryOf(item) {
-  const c = (item.country || "").toLowerCase();
-  if (COUNTRIES[c] && c !== "all") return c;
-  const dom = (item.source_domain || "").toLowerCase();
-  if (DOMAIN_COUNTRY[dom]) return DOMAIN_COUNTRY[dom];
-  for (const tld in TLD_COUNTRY) {
-    if (dom.endsWith(tld)) return TLD_COUNTRY[tld];
-  }
-  return "other";
+// ─── Виды спорта ────────────────────────────────────────────────────────────
+// Верхнеуровневая ось: один сайт, две (расширяемо) витрины. Контент НЕ смешивается —
+// всё ниже (разделы, страны, темы, статы, дайджест, рилсы) скоупится по активному
+// спорту (state.sport). Навигация по странам, флаги и фолбэк-карты доменов — СВОИ
+// у каждого спорта; жанровые теги (CATEGORIES) и разделы (SECTIONS) — общие.
+// Футбольные наборы переиспользуем как есть (FOOTBALL_*), хоккейные заданы инлайн.
+const SPORTS = {
+  football: {
+    label: "Футбол",
+    icon: "⚽",
+    defaultCountry: "other",
+    countries: FOOTBALL_COUNTRIES,
+    order: FOOTBALL_COUNTRY_ORDER,
+    flags: FOOTBALL_COUNTRY_FLAG,
+    domainCountry: FOOTBALL_DOMAIN_COUNTRY,
+    tldCountry: FOOTBALL_TLD_COUNTRY,
+  },
+  hockey: {
+    label: "Хоккей",
+    icon: "🏒",
+    defaultCountry: "usa",
+    countries: { all: "Все", usa: "США", canada: "Канада", international: "Международные", other: "Прочее" },
+    order: ["usa", "canada", "international", "other"],
+    flags: { all: "🏒", usa: "🇺🇸", canada: "🇨🇦", international: "🌍", other: "🌐" },
+    // Хоккейные айтемы почти всегда приходят с country от бэкенда; эта карта — лишь
+    // безопасный фолбэк для легаси/айтемов без country.
+    domainCountry: { "tsn.ca": "canada", "sportsnet.ca": "canada", "iihf.com": "international" },
+    tldCountry: { ".ca": "canada" },
+  },
+};
+
+const SPORT_ORDER = ["football", "hockey"];
+const DEFAULT_SPORT = "football"; // витрина по умолчанию + трактовка айтемов без поля sport
+
+function sportCfg(sport) {
+  return SPORTS[sport] || SPORTS[DEFAULT_SPORT];
 }
 
-const state = { items: [], section: "news", country: "all", category: "all" };
+// Back-compat: архивные футбольные айтемы sport-поля не имеют → трактуем как DEFAULT_SPORT.
+function sportOf(item) {
+  const s = (item.sport || "").toLowerCase();
+  return SPORTS[s] ? s : DEFAULT_SPORT;
+}
+
+function countriesFor(sport) { return sportCfg(sport).countries; }
+function countryOrderFor(sport) { return sportCfg(sport).order; }
+function flagOf(sport, key) { return sportCfg(sport).flags[key] || ""; }
+
+// Страна СЮЖЕТА айтема в рамках ЕГО спорта: сперва явное поле country, затем фолбэк
+// по домену/TLD, иначе дефолт спорта (football→other, hockey→usa).
+function countryOf(item) {
+  const cfg = sportCfg(sportOf(item));
+  const c = (item.country || "").toLowerCase();
+  if (cfg.countries[c] && c !== "all") return c;
+  const dom = (item.source_domain || "").toLowerCase();
+  if (cfg.domainCountry[dom]) return cfg.domainCountry[dom];
+  for (const tld in cfg.tldCountry) {
+    if (dom.endsWith(tld)) return cfg.tldCountry[tld];
+  }
+  return cfg.defaultCountry;
+}
+
+const state = { items: [], sport: DEFAULT_SPORT, section: "news", country: "all", category: "all" };
 
 const $ = (sel) => document.querySelector(sel);
 
@@ -131,6 +182,7 @@ async function load() {
     const data = await res.json();
     state.items = (data.items || []).slice().sort((a, b) => itemTime(b) - itemTime(a));
     renderMeta(data.generated_at);
+    renderSports();
     renderStats();
     renderSections();
     renderCountries();
@@ -143,6 +195,38 @@ async function load() {
 
 function renderMeta(generatedAt) {
   if (generatedAt) $("#navMeta").textContent = "обновлено " + fmtDate(generatedAt.slice(0, 10));
+}
+
+// Верхний переключатель вида спорта (Футбол / Хоккей). Счётчик — число айтемов спорта
+// в архиве. Смена спорта сбрасывает раздел/страну/тему и полностью перерисовывает низ.
+function renderSports() {
+  const box = $("#sports");
+  if (!box) return;
+  box.innerHTML = SPORT_ORDER.map((s) => {
+    const n = state.items.filter((i) => sportOf(i) === s).length;
+    return `<button class="sporttab" data-sport="${s}" aria-pressed="${s === state.sport}">
+      <span class="sporttab__icon">${SPORTS[s].icon}</span>
+      <span class="sporttab__label">${SPORTS[s].label}</span>
+      <span class="sporttab__count">${n}</span>
+    </button>`;
+  }).join("");
+  box.querySelectorAll(".sporttab").forEach((btn) =>
+    btn.addEventListener("click", () => {
+      if (btn.dataset.sport === state.sport) return;
+      state.sport = btn.dataset.sport;
+      state.section = "news";
+      state.country = "all";
+      state.category = "all";
+      box.querySelectorAll(".sporttab").forEach((b) =>
+        b.setAttribute("aria-pressed", b.dataset.sport === state.sport)
+      );
+      renderStats();
+      renderSections();
+      renderCountries();
+      renderCategories();
+      render();
+    })
+  );
 }
 
 // «Дайджест» — не одна лента, а СЕРИЯ дайджестов: по одному на каждое 3-часовое
@@ -199,17 +283,26 @@ function digestGroup(items, perSlot, maxSlots) {
   return slots;
 }
 
-// Мемо: state.items пересоздаётся только в load(), поэтому кэшируем по ссылке на
-// массив — пересборка ленты сама инвалидирует кэш.
+// Активный спорт — верхний фильтр: всё ниже работает ТОЛЬКО с айтемами активного
+// спорта, поэтому футбол и хоккей не смешиваются ни в одной ленте.
+function sportItems() {
+  return state.items.filter((i) => sportOf(i) === state.sport);
+}
+
+// Мемо: state.items пересоздаётся только в load(); кэшируем по ссылке на массив И по
+// активному спорту — смена спорта/пересборка ленты инвалидируют кэш.
 let _digestCache = null;
 let _digestCacheFor = null;
+let _digestCacheSport = null;
 
 // Плоский список материалов из показываемых дайджестов (топ per-slot по последним
-// DIGEST_MAX_SLOTS окнам). Нужен для счётчика, чипов стран и фильтров; рендер
-// (renderDigest) группирует его обратно по окнам.
+// DIGEST_MAX_SLOTS окнам) для АКТИВНОГО спорта. Нужен для счётчика, чипов стран и
+// фильтров; рендер (renderDigest) группирует его обратно по окнам.
 function digestItems() {
-  if (_digestCache && _digestCacheFor === state.items) return _digestCache;
-  const flagged = state.items.filter(
+  if (_digestCache && _digestCacheFor === state.items && _digestCacheSport === state.sport)
+    return _digestCache;
+  const pool0 = sportItems();
+  const flagged = pool0.filter(
     (i) => i.digest === true || i.top === true || (i.section || "").toLowerCase() === "digest"
   );
   let result;
@@ -217,26 +310,29 @@ function digestItems() {
     result = flagged;
   } else {
     const now = Date.now();
-    let pool = state.items.filter((i) => { const t = itemTime(i); return t && now - t <= DIGEST_WINDOW_MS; });
-    if (pool.length < 8) pool = state.items.filter((i) => itemTime(i)); // разреженный архив → всё с временем
+    let pool = pool0.filter((i) => { const t = itemTime(i); return t && now - t <= DIGEST_WINDOW_MS; });
+    if (pool.length < 8) pool = pool0.filter((i) => itemTime(i)); // разреженный архив → всё с временем
     result = digestGroup(pool, DIGEST_PER_SLOT, DIGEST_MAX_SLOTS).flatMap((b) => b.items);
   }
   _digestCacheFor = state.items;
+  _digestCacheSport = state.sport;
   _digestCache = result;
   return result;
 }
 
 function sectionItems(section) {
-  // "russians" is a cross-cutting lens: every «наши за рубежом» item, regardless
-  // of whether it lives in news or analytics. Its cards keep their own section's
-  // rendering (bullets stay analytics-only via item.section in cardHTML).
-  if (section === "russians") {
-    return state.items.filter((i) => catKey(i.category) === "russians");
-  }
+  // digest строит собственный sport-scoped пул внутри → выходим до сборки `pool`.
   if (section === "digest") {
     return digestItems();
   }
-  return state.items.filter((i) => sectionKey(i.section) === section);
+  const pool = sportItems();
+  // "russians" is a cross-cutting lens: every «наши за рубежом» item of the active
+  // sport, regardless of whether it lives in news or analytics. Its cards keep their
+  // own section's rendering (bullets stay analytics-only via item.section in cardHTML).
+  if (section === "russians") {
+    return pool.filter((i) => catKey(i.category) === "russians");
+  }
+  return pool.filter((i) => sectionKey(i.section) === section);
 }
 
 function renderStats() {
@@ -278,12 +374,14 @@ function renderSections() {
 }
 
 function renderCountries() {
+  const order = countryOrderFor(state.sport);
+  const labels = countriesFor(state.sport);
   const present = new Set(sectionItems(state.section).map(countryOf));
-  const keys = ["all", ...COUNTRY_ORDER.filter((k) => present.has(k))];
+  const keys = ["all", ...order.filter((k) => present.has(k))];
   $("#countries").innerHTML = keys
     .map(
       (k) =>
-        `<button class="chip" data-country="${k}" aria-pressed="${k === state.country}"><span class="chip__flag">${COUNTRY_FLAG[k] || ""}</span>${COUNTRIES[k]}</button>`
+        `<button class="chip" data-country="${k}" aria-pressed="${k === state.country}"><span class="chip__flag">${flagOf(state.sport, k)}</span>${labels[k]}</button>`
     )
     .join("");
   $("#countries")
@@ -466,6 +564,7 @@ function reelCardHTML(item) {
   const cat = catKey(item.category);
   const when = fmtDateTime(item.published_at) || fmtDate(item.date);
   const country = countryOf(item);
+  const sport = sportOf(item);
   const hasUrl = !!item.source_url;
   const summary = item.summary ? `<p class="reel__summary">${escapeHTML(item.summary)}</p>` : "";
   const bullets = (item.bullets || []).length
@@ -494,7 +593,7 @@ function reelCardHTML(item) {
       <div class="reel__inner">
         <div class="reel__top">
           <span class="tag tag--${cat}">${CATEGORIES[cat]}</span>
-          <span class="reel__country">${COUNTRY_FLAG[country] || ""} ${COUNTRIES[country] || ""}</span>
+          <span class="reel__country">${flagOf(sport, country)} ${countriesFor(sport)[country] || ""}</span>
           <time class="reel__time">${when}</time>
           ${ruBadge}
         </div>
@@ -542,13 +641,15 @@ function reelRenderTabs() {
 }
 
 function reelRenderCountry() {
+  const order = countryOrderFor(state.sport);
+  const labels = countriesFor(state.sport);
   const present = new Set(sectionItems(reel.section).map(countryOf));
-  const keys = ["all", ...COUNTRY_ORDER.filter((k) => present.has(k))];
+  const keys = ["all", ...order.filter((k) => present.has(k))];
   if (!keys.includes(reel.country)) reel.country = "all";
   $("#reelCountry").innerHTML = keys
     .map(
       (k) =>
-        `<option value="${k}"${k === reel.country ? " selected" : ""}>${(COUNTRY_FLAG[k] || "") + " " + COUNTRIES[k]}</option>`
+        `<option value="${k}"${k === reel.country ? " selected" : ""}>${flagOf(state.sport, k) + " " + labels[k]}</option>`
     )
     .join("");
 }
