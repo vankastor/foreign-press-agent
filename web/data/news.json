@@ -1,6 +1,181 @@
 {
-  "generated_at": "2026-11-09T03:17:34.714262+00:00",
+  "generated_at": "2026-11-09T04:25:12.026706+00:00",
   "items": [
+    {
+      "id": "2026-11-09-девилз-не-выпустят-хеллебайка-против-виннипега",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "«Девилз» не выпустят Хеллебайка против «Виннипега»",
+      "summary": "Генменеджер Санни Мехта объяснил решение «снижением наших ожидаемых шансов на победу»; сам вратарь назвал это разочарованием.",
+      "bullets": [],
+      "category": "statements",
+      "country": "usa",
+      "published_at": "2026-11-08T23:14:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/story/_/id/50429372/connor-hellebuyck-play-winnipeg-return-devils",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "dose.ca",
+          "url": "https://dose.ca/2026/11/08/connor-hellebuyck-will-not-face-the-jets-to-improve-the-chances-of-winning"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-40-сэйвов-свеймана-бостон-разобрал-флориду",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "40 сэйвов Свеймана: «Бостон» разобрал «Флориду»",
+      "summary": "4:1 на «ТД Гарден»: три гола «Брюинз» за первые 16 минут, четвёртая победа подряд и идеальные 7-0-0 дома.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-08T22:57:00-05:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/bruins-earn-4th-straight-win-035755395.html",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/florida-panthers-boston-bruins-game-recap-november-8-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-готье-третий-хет-трик-за-восемь-дней",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "Готье — третий хет-трик за восемь дней",
+      "summary": "«Анахайм» обыграл «Питтсбург» 5:2, взял пятую победу подряд и забил 5+ в восьми матчах кряду — впервые в НХЛ с 1988/89.",
+      "bullets": [],
+      "category": "records",
+      "country": "usa",
+      "published_at": "2026-11-08T22:51:00-05:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/cutter-gauthier-gets-3rd-hat-035119230.html",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892679"
+        },
+        {
+          "domain": "pittsburghhockeynow.com",
+          "url": "https://pittsburghhockeynow.com/penguins-outclassed-fight-back-not-enough/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-коронато-принёс-калгари-победу-в-овертайме",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "Коронато принёс «Калгари» победу в овертайме",
+      "summary": "4:3 ОТ: Фараби сравнял счёт в меньшинстве, а победный гол Коронато состоялся после передачи Матвея Гридина.",
+      "bullets": [],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-08T22:27:00-05:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/matt-coronato-scores-4-08-032709204.html",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "flamesnation.ca",
+          "url": "https://flamesnation.ca/news/calgary-flames-philadelphia-flyers-recap-farabee-parekh-ot-2026"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/philadelphia-flyers-calgary-flames-game-recap-november-8-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-филадельфия-переиграла-по-цифрам-и-снова-проиграла",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "analytics",
+      "title": "«Филадельфия» переиграла по цифрам — и снова проиграла",
+      "summary": "Разбор бит-райтера Inquirer: Флайерз трижды вели в счёте и выиграли второй период по всем метрикам, но остались без очков.",
+      "bullets": [
+        "Во втором периоде у «Филадельфии» 64,71% бросковых попыток, 16 бросков в створ и 10 опасных моментов против одного у «Калгари».",
+        "Это третье поражение подряд и шестое в семи матчах: баланс сезона — 4-10-5.",
+        "Оуэн Типпетт нанёс 5 бросковых попыток и создал 4 шанса за первые 40 минут, прежде чем забил свой первый гол с 3 октября.",
+        "Давид Иржичек остался вне состава восьмой матч подряд, Майкл Бантинг — пятый; Кутюрье провёл 971-ю игру в НХЛ (585 очков)."
+      ],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-08T22:26:00-05:00",
+      "source_domain": "inquirer.com",
+      "source_url": "https://www.inquirer.com/flyers/flyers-flames-score-denver-barkey-dan-vladar-joel-farabee-20261108.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "broadstreethockey.com",
+          "url": "https://broadstreethockey.com/post/takeaways-flyers-blow-three-leads-fall-in-overtime-to-flames-4-3"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-пойнт-не-доиграл-матч-с-виннипегом",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "Пойнт не доиграл матч с «Виннипегом»",
+      "summary": "Купер: «Надеюсь, ничего серьёзного, но он, вероятно, пропустит какое-то время»; лидер «Тампы» провёл на льду лишь 5:35.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-08T22:13:57-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/news/brayden-point-tampa-bay-lightning-injury-not-return-miss-games",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "yardbarker.com",
+          "url": "https://www.yardbarker.com/nhl/articles/lightnings_brayden_point_leaves_game_with_undisclosed_injury/s1_16958_44535242"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-хеллебайк-оформил-первый-шатаут-за-девилз",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "Хеллебайк оформил первый шатаут за «Девилз»",
+      "summary": "«Нью-Джерси» выиграл в Торонто 4:0: 23 сэйва Хеллебайка, дубль Тимо Майера и пятая победа подряд.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-08T22:03:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/nhl/article/hellebuyck-leads-devils-past-struggling-leafs-who-drop-third-straight-home-game/",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/hellebuyck-makes-23-saves-first-031243178.html"
+        },
+        {
+          "domain": "theglobeandmail.com",
+          "url": "https://www.theglobeandmail.com/sports/hockey/article-hellebuyck-shuts-the-door-on-leafs-in-4-0-devils-win/"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/new-jersey-devils-toronto-maple-leafs-game-recap-november-8-2026"
+        }
+      ]
+    },
     {
       "id": "2026-11-09-васко-вылетел-из-кубка-бразилии-по-пенальти",
       "sport": "football",
@@ -17,6 +192,54 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
+    },
+    {
+      "id": "2026-11-09-торонто-нечего-предложить-пятое-поражение-в-шести-матчах",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "analytics",
+      "title": "«Торонто» нечего предложить: пятое поражение в шести матчах",
+      "summary": "Авторский разбор The Leafs Nation: обескровленный состав, ноль большинства и 0:4 дома от «Нью-Джерси».",
+      "bullets": [
+        "«Торонто» не заработал ни одного большинства за матч, зато трижды сам садился в меньшинство — третий штраф закончился пропущенным голом.",
+        "Парадокс: «Нью-Джерси» подходил к игре с 29-м меньшинством в НХЛ, но «Листья» не получили шанса это проверить.",
+        "Без Риелли (травма низа тела) и Тэйнева (поддержание формы), Рословик снят из состава перед игрой, Сиссонс не вышел после второго периода.",
+        "Это пятое поражение в последних шести матчах и третий подряд домашний проигрыш."
+      ],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-08T21:54:00-05:00",
+      "source_domain": "theleafsnation.com",
+      "source_url": "https://theleafsnation.com/news/instant-reaction-depleted-toronto-maple-leafs-nothing-offer-loss-devils",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-09-патрик-кейн-в-ir-чикаго-поднял-коммессо",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "Патрик Кейн — в IR, «Чикаго» поднял Коммессо",
+      "summary": "«Блэкхоукс» оформили Кейну список травмированных задним числом с 2 ноября и вызвали вратаря Дрю Коммессо из АХЛ.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "usa",
+      "published_at": "2026-11-08T21:31:00-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/blackhawks-recall-drew-commesso-place-patrick-kane-on-ir.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "bleachernation.com",
+          "url": "https://www.bleachernation.com/blackhawks/2026/11/08/blackhawks-place-patrick-kane-on-ir-recall-drew-commesso/"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/blackhawks/news/release-blackhawks-recall-drew-commesso-from-rockford"
+        }
+      ]
     },
     {
       "id": "2026-11-09-вратарская-чехарда-эдмонтона-это-уже-проклятие",
@@ -39837,196 +40060,6 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
-    },
-    {
-      "id": "2026-11-04-надаль-идёт-в-совет-директоров-реала",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "Надаль идёт в совет директоров «Реала»",
-      "summary": "Совет директоров «Реала» предложил кандидатуру Рафаэля Надаля новым членом совета — решение должно утвердить общее собрание клуба.",
-      "bullets": [],
-      "category": "other",
-      "country": "spain",
-      "published_at": "2026-11-04T13:21:01+00:00",
-      "source_domain": "bbc.co.uk",
-      "source_url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "marca.com",
-          "url": "https://www.marca.com/radio/2026/11/04/fichaje-nadal-madrid-galactico-florentino-dejando-atado.html"
-        },
-        {
-          "domain": "mundodeportivo.com",
-          "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261104/1004247214/reaccion-rafa-nadal-entrada-junta-directiva-real-madrid.html"
-        },
-        {
-          "domain": "ojogo.pt",
-          "url": "https://www.ojogo.pt/internacional/artigo/real-madrid-propoe-entrada-de-rafael-nadal-na-direcao-do-clube/18144465"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-04-брюгге-не-проигрывает-почти-два-месяца",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "«Брюгге» не проигрывает почти два месяца",
-      "summary": "Перед матчем с ПСВ бельгийцы выдали серию только из побед — лучше в Европе сейчас идёт лишь ПСЖ.",
-      "bullets": [],
-      "category": "records",
-      "country": "eurocups",
-      "published_at": "2026-11-04T13:20:04+00:00",
-      "source_domain": "vi.nl",
-      "source_url": "https://www.vi.nl/nieuws/psv-opgelet-alleen-psg-is-bezig-aan-betere-serie-dan-club-brugge",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-04-лион-официально-отпустил-фонсеку-в-спортинг",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "«Лион» официально отпустил Фонсеку в «Спортинг»",
-      "summary": "Французский клуб объявил об уходе португальского тренера, который уже провёл первую тренировку в Алкошете.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "portugal",
-      "published_at": "2026-11-04T13:17:14+00:00",
-      "source_domain": "rmcsport.bfmtv.com",
-      "source_url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-l-ol-officialise-le-depart-de-paulo-fonseca_LS-202611040431.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "maisfutebol.iol.pt",
-          "url": "https://maisfutebol.iol.pt/sporting/alcochete/paulo-fonseca-ja-esta-em-alcochete-e-orienta-o-primeiro-treino-esta-tarde"
-        },
-        {
-          "domain": "voetbalprimeur.nl",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2154884/sporting-koopt-nieuwe-trainer-voor-5-miljoen-van-lyon.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-04-кунья-спас-кэррика-и-заслужил-место-в-составе",
-      "date": "2026-11-04",
-      "section": "analytics",
-      "title": "Кунья спас Кэррика и заслужил место в составе",
-      "summary": "GiveMeSport доказывает: после дубля с «Ромой» бразилец должен играть слева постоянно, даже когда вернётся Рэшфорд.",
-      "bullets": [
-        "Кунья заработал пенальти, с которого Фернандеш начал камбэк при 0:2, и забил сам на 82-й и 84-й минутах.",
-        "Дубль прервал его шестиматчевую безголевую серию; теперь у него 4 гола во всех турнирах — столько же у Мбемо, это лучший показатель в клубе.",
-        "До этой игры «МЮ» не побеждал девять матчей подряд, и автор уверен: без победы Кэррика могли уволить.",
-        "Кунья начинал первые шесть туров АПЛ, но выпал из состава на матч с «Лидсом»; по версии издания, сейчас он в лучшей форме, чем Рэшфорд."
-      ],
-      "category": "match",
-      "country": "england",
-      "published_at": "2026-11-04T13:15:14+00:00",
-      "source_domain": "givemesport.com",
-      "source_url": "https://www.givemesport.com/matheus-cunha-man-utd-michael-carrick-roma-saved-job/",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-04-барса-изучает-оборону-арсенала-и-инкапье",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "«Барса» изучает оборону «Арсенала» и Инкапье",
-      "summary": "В Каталонии считают, что никто не защищается как лондонцы, — защитник попал в поле зрения клуба.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "spain",
-      "published_at": "2026-11-04T13:11:27+00:00",
-      "source_domain": "tuttomercatoweb.com",
-      "source_url": "https://www.tuttomercatoweb.com/calcio-estero/nessuno-difende-arsenal-barcellona-prende-appunti-occhi-hincapie-2290638",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-04-цифры-второго-тайма-мю-каррика-ещё-не-похоронили",
-      "date": "2026-11-04",
-      "section": "analytics",
-      "title": "Цифры второго тайма «МЮ»: Каррика ещё не похоронили",
-      "summary": "The Analyst разобрал камбэк «Юнайтед» с «Ромой» и показал, как команда перевернула матч после перерыва.",
-      "bullets": [
-        "«Рома» вела 2:0 уже к 17-й минуте — ни один гость не забивал дважды на «Олд Траффорд» так быстро в еврокубках (прежний рекорд — «Брага», 20 минут, 2012).",
-        "В первом тайме у «МЮ» было 5 ударов, все из-за пределов штрафной, на 0,24 xG; после перерыва — 10 ударов из 15, все 7 из штрафной и все 3 явных момента.",
-        "2,46 из 2,70 xG «Юнайтед» набрали во втором тайме — почти всё качество моментов пришло после перерыва.",
-        "Давление выросло с 125 до 159 прессингов на половине «Ромы», отборы — с 6 до 15 при почти равном владении (53,6% → 51,0%)."
-      ],
-      "category": "match",
-      "country": "england",
-      "published_at": "2026-11-04T13:06:16+00:00",
-      "source_domain": "theanalyst.com",
-      "source_url": "https://theanalyst.com/articles/man-utd-second-half-vs-roma-stats-michael-carrick-ucl",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-04-кубок-германии-1-8-финала-получила-точное-время",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "Кубок Германии: 1/8 финала получила точное время",
-      "summary": "DFB развёл матчи по слотам, три игры покажут в открытом эфире.",
-      "bullets": [],
-      "category": "match",
-      "country": "germany",
-      "published_at": "2026-11-04T13:06:10+00:00",
-      "source_domain": "kicker.de",
-      "source_url": "https://www.kicker.de/pokal-achtelfinale-zeitgenau-angesetzt-drei-spiele-im-free-tv-1268061/artikel",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-04-барселона-потеряла-родри-перед-атлетико",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "«Барселона» потеряла Родри перед «Атлетико»",
-      "summary": "Травма вывела хавбека из состава, и Флик ищет замену — шанс получает Френки де Йонг.",
-      "bullets": [],
-      "category": "injury",
-      "country": "spain",
-      "published_at": "2026-11-04T13:05:56+00:00",
-      "source_domain": "mundodeportivo.com",
-      "source_url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261104/1004247165/opciones-flick-cubrir-ko-lesion-rodri.html",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "vi.nl",
-          "url": "https://www.vi.nl/nieuws/barca-update-over-rodri-biedt-mogelijk-perspectief-voor-de-jong"
-        },
-        {
-          "domain": "maisfutebol.iol.pt",
-          "url": "https://maisfutebol.iol.pt/internacional/espanha/barcelona-rodri-falha-jogo-com-o-atletico-madrid-por-lesao"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-04-спортдир-лиона-фонсека-рвался-в-клуб-мечты",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "Спортдир «Лиона»: Фонсека рвался в клуб мечты",
-      "summary": "Руководитель французского клуба назвал уход тренера шоком и сюрпризом: португалец сам сказал, что хочет в «Спортинг».",
-      "bullets": [],
-      "category": "statements",
-      "country": "france",
-      "published_at": "2026-11-04T13:05:00+00:00",
-      "source_domain": "maisfutebol.iol.pt",
-      "source_url": "https://maisfutebol.iol.pt/internacional/paulo-fonseca/diretor-desportivo-do-lyon-paulo-fonseca-queria-ir-para-o-clube-do-coracao",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "record.pt",
-          "url": "https://www.record.pt/internacional/paises/franca/lyon/detalhe/diretor-desportivo-do-lyon-paulo-fonseca-queria-partir-para-o-seu-clube-do-coracao"
-        }
-      ]
     }
   ]
 }
