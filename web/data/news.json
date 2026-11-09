@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-09T02:26:34.136645+00:00",
+  "generated_at": "2026-11-09T03:17:34.714262+00:00",
   "items": [
+    {
+      "id": "2026-11-09-васко-вылетел-из-кубка-бразилии-по-пенальти",
+      "sport": "football",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "«Васко» вылетел из Кубка Бразилии по пенальти",
+      "summary": "Педру Эмануэл после 2:1 и 4:5 в серии от «Палмейраса» в полуфинале: «Из этого Кубка я беру гордость за пройденный путь».",
+      "bullets": [],
+      "category": "statements",
+      "country": "other",
+      "published_at": "2026-11-09T00:01:01-03:00",
+      "source_domain": "oglobo.globo.com",
+      "source_url": "https://oglobo.globo.com/esportes/futebol/vasco/noticia/2026/11/09/o-que-tiro-dessa-copa-do-brasil-e-o-orgulho-pelo-percurso-diz-pedro-emanuel-tecnico-do-vasco.ghtml",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-09-вратарская-чехарда-эдмонтона-это-уже-проклятие",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "analytics",
+      "title": "Вратарская чехарда «Эдмонтона»: это уже проклятие?",
+      "summary": "Колонка The Hockey News: четыре вратаря и экстренный дублёр за 18 матчей — и всё равно 12-3-3.",
+      "bullets": [
+        "Девон Леви пропустил семь матчей из-за травмы приводящей мышцы.",
+        "В первом матче после возвращения Леви отразил 20 броском в победе 4:2 над «Ванкувером».",
+        "До 20-й игры сезона «Эдмонтон» успел задействовать четырёх вратарей плюс экстренного дублёра.",
+        "При этом команда идёт с балансом 12-3-3 — нестабильность в воротах пока не ломает результат."
+      ],
+      "category": "injury",
+      "country": "canada",
+      "published_at": "2026-11-09T02:26:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/oilers-goaltending-just-cursed-022620764.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-09-шайфли-добил-тампу-за-1-6-секунды-до-конца",
       "sport": "hockey",
@@ -22,6 +61,45 @@
           "url": "https://www.nhl.com/news/tampa-bay-lightning-winnipeg-jets-game-recap-november-8-2026"
         }
       ]
+    },
+    {
+      "id": "2026-11-09-нечас-объяснил-чем-колорадо-задавил-детройт",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "Нечас объяснил, чем «Колорадо» задавил «Детройт»",
+      "summary": "Форвард «Эвеланш» назвал спецбригады и игру от обороны главными причинами сухой победы 4:0 над «Ред Уингз».",
+      "bullets": [],
+      "category": "statements",
+      "country": "usa",
+      "published_at": "2026-11-09T02:08:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/martin-necas-makes-clear-statement-020806523.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-09-путь-к-уэмбли-хэлифакс-сошёл-в-челтнеме",
+      "sport": "football",
+      "date": "2026-11-09",
+      "section": "analytics",
+      "title": "Путь к Уэмбли: «Хэлифакс» сошёл в Челтнеме",
+      "summary": "Большой репортаж Daily Mail из Кубка Англии: клуб Национальной лиги проиграл 0:2 и потерял £50 тысяч призовых, но получил план на будущее.",
+      "bullets": [
+        "Тренер «Хэлифакса» Джон Макграт 25 лет назад выходил на поле за «Астон Виллу» против «Ливерпуля», а карьеру закончил из-за тяжёлой травмы стопы в 32 года — и успел получить магистра по медиа в Стаффордширском университете.",
+        "Макграт и его сын Джей (сейчас игрок «Донкастера») — первая в истории пара отец-сын, сыгравшая в одном составе в матче Кубка Англии: 2019 год, «Миклоувер Спортс» против «Ковентри Сфинкс».",
+        "Победа принесла бы «Хэлифаксу» £50 000; матч при 2961 зрителе (350 гостевых) закончился 0:2, причём год назад Макграт уже вёл здесь 2:1 к перерыву с «Бакстоном» и упустил сенсацию.",
+        "«Челтнем» 15 месяцев назад купил экс-владелец «Бернли» Майк Гарлик, который сразу привёл Стива Коттерилла и владеет также клубом третьего дивизиона Испании «Антекера» и командой в Гибралтаре."
+      ],
+      "category": "match",
+      "country": "england",
+      "published_at": "2026-11-09T02:00:46+00:00",
+      "source_domain": "dailymail.co.uk",
+      "source_url": "https://www.dailymail.co.uk/sport/football/article-16268451/Journey-Wembley-Halifax-set-sights-winning-fans-climbing-mountain-Football-League-FA-Cup-adventure-ended-route-one-Cheltenham.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
     },
     {
       "id": "2026-11-09-путь-к-уэмбли-как-галифакс-выбыли-из-кубка-англии",
@@ -61,6 +139,32 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
+    },
+    {
+      "id": "2026-11-09-уилсон-избежал-дисквалификации-за-хит-на-вилманиса",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "Уилсон избежал дисквалификации за хит на Вилманиса",
+      "summary": "Департамент безопасности НХЛ не стал наказывать форварда «Вашингтона» после матч-штрафа за атаку в борт, а защитник «Айлендерс» Стэнли оштрафован на $3865,98.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "usa",
+      "published_at": "2026-11-08T20:57:00-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/metropolitan-notes-wilson-mantha-stanley-mateychuk.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/story/_/id/50410074/panthers-sandis-vilmanis-exits-game-hard-hit"
+        },
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/news/new-york-islanders-logan-stanley-nhl-fined-slashing-new-jersey-devils-nico-hischier"
+        }
+      ]
     },
     {
       "id": "2026-11-09-даниэл-паулиста-ушёл-из-сеары-после-поражения",
@@ -119,6 +223,36 @@
       "related": []
     },
     {
+      "id": "2026-11-09-шайфли-забил-за-1-6-секунды-до-сирены",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "Шайфли забил за 1,6 секунды до сирены",
+      "summary": "«Виннипег» упустил фору в три шайбы, но дожал «Тампу» 4:3 голом Шайфли в формате 5 на 3 — третья победа подряд.",
+      "bullets": [],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-09T01:38:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/jets-win-third-straight-scheifele-013830561.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "foxsports.com",
+          "url": "https://www.foxsports.com/articles/nhl/scheifele-scores-on-power-play-with-16-seconds-left-to-lift-jets-past-lightning-43"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/tampa-bay-lightning-winnipeg-jets-game-recap-november-8-2026"
+        },
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892677"
+        }
+      ]
+    },
+    {
       "id": "2026-11-09-жена-андреса-гомеса-бить-отказались-те-кто-должен-был",
       "sport": "football",
       "date": "2026-11-09",
@@ -148,6 +282,23 @@
       "published_at": "2026-11-09T01:26:17+00:00",
       "source_domain": "record.pt",
       "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/rio-ave/detalhe/vasco-seabra-temos-de-continuar-a-crescer-para-sermos-mais-fortes-quando-surgem-adversidades",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-09-лос-анджелес-вернул-хромяка-в-ахл",
+      "sport": "hockey",
+      "date": "2026-11-09",
+      "section": "news",
+      "title": "«Лос-Анджелес» вернул Хромяка в АХЛ",
+      "summary": "Крайний форвард отправлен в «Онтарио» после активации Алекса Тёркотта из списка травмированных: две игры в НХЛ без очков.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "usa",
+      "published_at": "2026-11-08T20:26:00-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/kings-assign-martin-chromiak-to-ahl.html",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -39876,128 +40027,6 @@
           "url": "https://www.record.pt/internacional/paises/franca/lyon/detalhe/diretor-desportivo-do-lyon-paulo-fonseca-queria-partir-para-o-seu-clube-do-coracao"
         }
       ]
-    },
-    {
-      "id": "2026-11-04-маккенни-вернулся-к-общей-тренировке-юве",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "Маккенни вернулся к общей тренировке «Юве»",
-      "summary": "Американец размялся отдельно, но затем присоединился к команде на «Континассе» — перед выездом в Лигу Европы к АЗ его участие под вопросом снято.",
-      "bullets": [],
-      "category": "injury",
-      "country": "italy",
-      "published_at": "2026-11-04T12:59:42+00:00",
-      "source_domain": "football-italia.net",
-      "source_url": "https://football-italia.net/mckennie-joins-juventus-group-training-az-video/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-04-как-смена-роли-раскрыла-джоба-беллингема",
-      "date": "2026-11-04",
-      "section": "analytics",
-      "title": "Как смена роли раскрыла Джоба Беллингема",
-      "summary": "Большой разбор: почему англичанин заиграл в «Боруссии» только после того, как его освободили от черновой работы.",
-      "bullets": [
-        "Беллингем перешёл в Дортмунд из «Сандерленда» за €31 млн летом 2025 года.",
-        "В этом сезоне у него 2 ассиста в 8 турах Бундеслиги — столько же, сколько за 32 матча в прошлом сезоне.",
-        "Ключ к переменам — летний трансфер Йоуи Вермана, который взял на себя оборонительный объём и отпустил Беллингема вперёд.",
-        "В дерби с «Баварией» (2:2) англичанин почти оформил первый гол в Бундеслиге, но взятие ворот отменили."
-      ],
-      "category": "other",
-      "country": "germany",
-      "published_at": "2026-11-04T12:56:41+00:00",
-      "source_domain": "getfootballnewsgermany.com",
-      "source_url": "https://www.getfootballnewsgermany.com/2026/borussia-dortmund-jobe-bellingham-role-change/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-04-переговоры-антона-с-боруссией-зашли-в-тупик",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "Переговоры Антона с «Боруссией» зашли в тупик",
-      "summary": "По данным Sport Bild, Дортмунд хочет продлить контракт защитника за пределы 2028 года, но первое предложение не устроило игрока — агенты выставили встречные условия.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "germany",
-      "published_at": "2026-11-04T12:54:50+00:00",
-      "source_domain": "getfootballnewsgermany.com",
-      "source_url": "https://www.getfootballnewsgermany.com/2026/contract-talks-anton-borussia-dortmund-stall/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-04-тревога-за-кайседо-и-тройное-усиление-челси",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "Тревога за Кайседо и тройное усиление «Челси»",
-      "summary": "У полузащитника проблемы со здоровьем, зато трое игроков вернулись к тренировкам в общей группе.",
-      "bullets": [],
-      "category": "injury",
-      "country": "england",
-      "published_at": "2026-11-04T12:48:09+00:00",
-      "source_domain": "football.london",
-      "source_url": "https://www.football.london/chelsea-fc/news/moises-caicedo-injury-scare-chelsea-34861543",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-04-уфкира-неожиданно-вызвали-в-сборную-марокко",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "Уфкира неожиданно вызвали в сборную Марокко",
-      "summary": "Приглашение пришло в ключевое для молодёжной сборной Нидерландов окно.",
-      "bullets": [],
-      "category": "other",
-      "country": "netherlands",
-      "published_at": "2026-11-04T12:45:56+00:00",
-      "source_domain": "ad.nl",
-      "source_url": "https://www.ad.nl/voetbal/ayoub-oufkir-plots-opgeroepen-voor-marokkaanse-elftal-in-cruciale-interlandperiode-jong-oranje~ac074c84/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-04-тоттенхэм-ждёт-тройное-трансферное-решение",
-      "date": "2026-11-04",
-      "section": "news",
-      "title": "«Тоттенхэм» ждёт тройное трансферное решение",
-      "summary": "Эксклюзив Standard: после неожиданного возвращения Луки Гюнтера из аренды клубу предстоит определиться сразу по нескольким игрокам.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "england",
-      "published_at": "2026-11-04T12:44:26+00:00",
-      "source_domain": "standard.co.uk",
-      "source_url": "https://www.standard.co.uk/sport/football/tottenham-transfer-news-luca-gunter-b1303554.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-04-винисиус-возвращается-в-состав-но-зачем-он-реалу",
-      "date": "2026-11-04",
-      "section": "analytics",
-      "title": "Винисиус возвращается в состав — но зачем он «Реалу»?",
-      "summary": "Авторский расклад: бразилец снова в основе на АЕК, однако без него команда Моуринью играет лучше, и это может стать его новой нормой.",
-      "bullets": [
-        "После четырёхматчевой дисквалификации за красную карточку с «Вильярреалом» Винисиус провёл два матча ЛЧ (с «Ромой» и «Лейпцигом») и в обоих был заменён около 60-й минуты.",
-        "Без него «Реал» обыграл «Севилью» (4:1), «Барселону» на выезде (2:1) и «Сантандер» (3:0), набрав в среднем около трёх голов за игру.",
-        "Моуринью на пресс-конференции оборвал вопрос журналиста фразой «Он будет играть, он будет играть», но продолжает требовать от бразильца большего в работе.",
-        "Контракт 26-летнего игрока продлён до 2032 года, поэтому быстрый уход исключён — остаётся роль ротации."
-      ],
-      "category": "other",
-      "country": "spain",
-      "published_at": "2026-11-04T13:44:13+01:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a8616838895084437724-real-madrid-quel-avenir-pour-vinicius-jr",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
     }
   ]
 }
