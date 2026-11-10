@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-11-10T05:18:58.132739+00:00",
+  "generated_at": "2026-11-10T06:11:05.765174+00:00",
   "items": [
+    {
+      "id": "2026-11-10-филадельфия-прервала-спад-ванкувер-проиграл-шестой-подряд",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "«Филадельфия» прервала спад, «Ванкувер» проиграл шестой подряд",
+      "summary": "Майкл Бантинг и Трэвис Конекны забили в первых двух периодах (ассист на Конекны сделал Матвей Мичков), Джозеф Уолл отразил 18 бросков — «Флайерз» выиграли в Ванкувере 3:1, у хозяев 3-16-1 и шесть поражений подряд.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-10T05:57:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/flyers-hold-off-canucks-3-055719369.html",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892681"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/philadelphia-flyers-vancouver-canucks-game-recap-november-9-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-мандрагора-возвращается-торино-ждёт-двойной-перезапуск",
+      "sport": "football",
+      "date": "2026-11-10",
+      "section": "analytics",
+      "title": "Мандрагора возвращается: «Торино» ждёт двойной перезапуск",
+      "summary": "Tuttosport: без плеймейкера «Торино» проиграл дважды, после паузы он выйдет в основе в Неаполе",
+      "bullets": [
+        "Без Мандрагоры в составе «Торино» потерпел два поражения и провалил матч с «Лечче»",
+        "После перерыва на сборные он вернётся в стартовый состав — и впервые сыграет в Неаполе в футболке «гранатовых» после тяжёлой травмы 2021 года",
+        "Тогда в Неаполе он повредил внутренний мениск правого колена уже на 8-й минуте игры",
+        "До этого, 23 июня 2020-го в матче «Удинезе» против «Торино», он порвал кресты и внешний мениск; «Фиорентина» купила его примерно через полгода после травмы 2021 года, и с тех пор он выходил в Неаполе трижды — всегда на замену"
+      ],
+      "category": "injury",
+      "country": "italy",
+      "published_at": "2026-11-10T06:15:00+01:00",
+      "source_domain": "tuttosport.com",
+      "source_url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/10-152499591/mandragora_e_toro_ripartenza_doppia",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-10-соуле-забрал-рому-себе-дибала-вне-игры",
+      "sport": "football",
+      "date": "2026-11-10",
+      "section": "analytics",
+      "title": "Соуле забрал «Рому» себе: Дибала вне игры",
+      "summary": "Tuttosport разбирает, как аргентинец стал главной фигурой у Гасперини после травмы Дибалы",
+      "bullets": [
+        "Статистика Соуле на 10 ноября: 4 гола и 5 результативных передач за 1028 минут в Серии А и Лиге чемпионов",
+        "Летом его связывали с уходом из «Ромы», а затем он потерял около полутора месяцев из-за пубалгии",
+        "Гасперини после победы над «Сассуоло» (3:0): «Выступление Соуле было выдающимся»",
+        "Скалони вызвал его в сборную Аргентины — дебют состоялся в матче против Буркина-Фасо"
+      ],
+      "category": "match",
+      "country": "italy",
+      "published_at": "2026-11-10T06:00:00+01:00",
+      "source_domain": "tuttosport.com",
+      "source_url": "https://www.tuttosport.com/news/calcio/serie-a/roma/2026/11/10-152496949/soul_piglia_tutto_con_dybala_ko_roma_ai_piedi_dell_altro_ex_juve",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-10-как-соуле-стал-главным-джокером-ромы",
       "sport": "football",
@@ -162,6 +232,28 @@
           "domain": "espn.com",
           "url": "https://www.espn.com/nhl/recap/_/gameId/401892680"
         },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/new-york-rangers-edmonton-oilers-game-recap-november-9-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-макдэвид-продлил-серию-с-очками-до-19-матчей",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "Макдэвид продлил серию с очками до 19 матчей",
+      "summary": "Капитан «Эдмонтона» забил после неудачного выброса вратаря «Рейнджерс» Дилана Гаранда и довёл результативную серию со старта сезона до 19 игр: у него 48 очков — лучший результат в НХЛ, до отметки 50 осталось два.",
+      "bullets": [],
+      "category": "records",
+      "country": "canada",
+      "published_at": "2026-11-10T04:28:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/oilers-connor-mcdavid-keeps-bonkers-042822692.html",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
         {
           "domain": "nhl.com",
           "url": "https://www.nhl.com/news/new-york-rangers-edmonton-oilers-game-recap-november-9-2026"
@@ -40278,107 +40370,6 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
-    },
-    {
-      "id": "2026-11-05-ювентус-вырвал-победу-в-алкмаре-и-вошёл-в-топ-8",
-      "sport": "football",
-      "date": "2026-11-05",
-      "section": "news",
-      "title": "«Ювентус» вырвал победу в Алкмаре и вошёл в топ-8",
-      "summary": "АЗ — «Ювентус» 1:2: Коопмейнерс забил против клуба своего брата, Коло Муани сделал гол плюс передачу, туринцы остались без поражений в Лиге Европы.",
-      "bullets": [],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-11-05T21:57:59+00:00",
-      "source_domain": "tuttomercatoweb.com",
-      "source_url": "https://www.tuttomercatoweb.com/serie-a/finale-brivido-juventus-vince-ancora-koop-kolo-muani-finisce-2-1-alkmaar-2291202",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "football-italia.net",
-          "url": "https://football-italia.net/uel-az-alkmaar-1-2-juventus-special-k-success/"
-        },
-        {
-          "domain": "corrieredellosport.it",
-          "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/05-152406062/la_juve_batte_l_az_alkmaar_e_spalletti_si_toglie_qualche_sassolino_partita_seria_col_nec_ci_ridevate_in_faccia_e_invece_ha/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-05-ювентус-сломал-трёхлетнюю-домашнюю-серию-аз",
-      "sport": "football",
-      "date": "2026-11-05",
-      "section": "analytics",
-      "title": "«Ювентус» сломал трёхлетнюю домашнюю серию «АЗ»",
-      "summary": "Сьюзи Кампанале разбирает победу 2:1 в Алкмааре, где Коопмейнерс и Коло Муани вытащили обескровленный травмами «Юве».",
-      "bullets": [
-        "До этого матча «АЗ» не проигрывал дома в еврокубках 17 встреч подряд — с октября 2023 года.",
-        "Голы: Коопмейнерс (19'), Коло Муани (37') с передачи Вольтемаде, у хозяев отличился Мердинк (88').",
-        "В компенсированное время гол Мердинка головой отменили из-за офсайда, а Викарио сделал сэйв, названный в тексте «экстраординарным».",
-        "«Юве» играл без Маккенни, Йылдыза, Локателли, Гонсалеса, Консейсау, Челика и Кефрена Тюрама — в заявку УЕФА пришлось вносить Джеффа Экхатора."
-      ],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-11-05T21:57:00+00:00",
-      "source_domain": "football-italia.net",
-      "source_url": "https://football-italia.net/uel-az-alkmaar-1-2-juventus-special-k-success/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "calciomercato.com",
-          "url": "https://www.calciomercato.com/liste/europa-league-az-alkmaar-juventus-live/blt4545089e75b0a19a"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-05-марсель-впервые-победил-в-европе-1-0-в-леверкузене",
-      "sport": "football",
-      "date": "2026-11-05",
-      "section": "news",
-      "title": "«Марсель» впервые победил в Европе — 1:0 в Леверкузене",
-      "summary": "Гол Амина Гуири принёс олимпийцам первый успех в Лиге Европы, а Foot Mercato собрал итоги вечера вместе с победой «Ювентуса» в Алкмааре.",
-      "bullets": [],
-      "category": "match",
-      "country": "france",
-      "published_at": "2026-11-05T22:57:00+01:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a7832125042246191976-ligue-europa-lom-decroche-son-premier-succes-a-leverkusen-kolo-muani-porte-la-juventus",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "footmercato.net",
-          "url": "https://www.footmercato.net/a8363122841052968548-om-le-bijou-damine-gouiri-contre-leverkusen"
-        },
-        {
-          "domain": "onefootball.com",
-          "url": "https://onefootball.com/en/news/europa-league-juve-deliver-benfica-top-sunderlands-crisis-deepens-43733096"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-05-сандерленд-снова-проиграл-давление-на-ле-бри-растёт",
-      "sport": "football",
-      "date": "2026-11-05",
-      "section": "news",
-      "title": "«Сандерленд» снова проиграл — давление на Ле Бри растёт",
-      "summary": "0:2 от «Динамо» Загреб на своём поле; тренер объяснил ротацию приоритетом матча с «Челси», что только усилило вопросы к нему.",
-      "bullets": [],
-      "category": "match",
-      "country": "england",
-      "published_at": "2026-11-05T21:56:00+00:00",
-      "source_domain": "skysports.com",
-      "source_url": "https://www.skysports.com/football/sunderland-vs-dinamo-zagreb/report/577811",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "theguardian.com",
-          "url": "https://www.theguardian.com/football/live/2026/nov/05/crystal-palace-hoffenheim-sparta-prague-bournemouth-sunderland-celtic-europa-league-live"
-        }
-      ]
     }
   ]
 }
