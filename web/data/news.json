@@ -1,6 +1,122 @@
 {
-  "generated_at": "2026-11-10T03:22:46.357902+00:00",
+  "generated_at": "2026-11-10T04:15:13.022390+00:00",
   "items": [
+    {
+      "id": "2026-11-10-эдмонтон-3-1-дубль-драйзайтля-передача-подколзина",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "«Эдмонтон» 3:1: дубль Драйзайтля, передача Подколзина",
+      "summary": "«Ойлерз» дома обыграли «Рейнджерс» 3:1 — Макдэвид открыл счёт (11-я шайба), Леон Драйзайтль оформил дубль (17-я и 18-я, включая гол в пустые при игре в меньшинстве), Василий Подколзин отдал результативную передачу, Девон Леви отразил 28 бросков.",
+      "bullets": [],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-09T22:45:00-05:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/oilers/news/live-updates-oilers-vs-rangers-11-09-26",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/game/_/gameId/401892680/rangers-oilers"
+        },
+        {
+          "domain": "cbssports.com",
+          "url": "https://www.cbssports.com/nhl/gametracker/recap/NHL_20261109_NYR@EDM/"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/oilers/video/leon-draisaitl-with-a-goal-vs-new-york-rangers-6408163133112"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-самуэл-соареш-под-давлением-после-ошибки-в-амадоре",
+      "sport": "football",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "Самуэл Соареш под давлением после ошибки в Амадоре",
+      "summary": "Вратарь «Бенфики» ушёл со стадиона в Реболейре поникшим после неудачного выхода, приведшего к голу «Эштрелы Амадоры», — болельщики требуют вернуть в состав Трубина, а отставание от «Порту» выросло до семи очков.",
+      "bullets": [],
+      "category": "match",
+      "country": "portugal",
+      "published_at": "2026-11-10T03:42:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/samuel-soares-sob-pressao-apos-erro-na-reboleira",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-10-зал-славы-2026-прайс-бержерон-и-ткачук-приняты",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "Зал славы-2026: Прайс, Бержерон и Ткачук приняты",
+      "summary": "В Торонто прошла церемония: Кэри Прайс, Патрис Бержерон, Пекка Ринне, Кит Ткачук, Синди Керли и Брайан Бёрк официально введены в Зал хоккейной славы — Прайс завершил карьеру с 361 победой, 49 «сухарями» и 2.51 пропущенной шайбы за игру, у Бержерона 1040 очков в 1294 матчах.",
+      "bullets": [],
+      "category": "other",
+      "country": "other",
+      "published_at": "2026-11-09T22:42:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/story/_/id/50438897/carey-price-patrice-bergeron-pekka-rinne-keith-tkachuk-cindy-curley-brian-burke-inducted-hockey-hall-fame",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/2026-hockey-hall-of-fame-induction-speech-highlights"
+        },
+        {
+          "domain": "foxsports.com",
+          "url": "https://www.foxsports.com/articles/nhl/carey-price-patrice-bergeron-among-6-inducted-into-hockey-hall-of-fame"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/hockey-hall-of-fame-2026-inductees-walk-the-red-carpet"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-эшторил-присмотрится-к-молодёжи-на-паузе-чемпионата",
+      "sport": "football",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "«Эшторил» присмотрится к молодёжи на паузе чемпионата",
+      "summary": "Сержиу Раймунду использует перерыв на матчи сборных, чтобы оценить игроков команды U23 — Мартима Диаша, Келиана Барути, Жайме Кошту и Диниша; «Эшторил» последний в Лиге Бетклик с 2 очками после 10 туров.",
+      "bullets": [],
+      "category": "other",
+      "country": "portugal",
+      "published_at": "2026-11-10T03:29:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/estoril/detalhe/sergio-raimundo-deve-aproveitar-a-paragem-das-selecoes-para-observar-jovens-dos-sub-23",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-10-ткачук-в-зале-славы-быть-вашим-отцом-лучшее-звание",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "Ткачук в Зале славы: «Быть вашим отцом — лучшее звание»",
+      "summary": "Кит Ткачук (538 голов, 1065 очков и 2219 минут штрафа в 1201 матче) посвятил речь при введении в Зал славы детям — Мэттью, Брэйди и Тарин: «Быть вашим отцом — лучшее звание, которое у меня было».",
+      "bullets": [],
+      "category": "statements",
+      "country": "usa",
+      "published_at": "2026-11-09T22:24:42-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/news/keith-tkachuk-hockey-hall-of-fame-speech-celebrates-matthew-brady-emotional-bergeron-price-burke",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/blues/video/keith-tkachuk-s-hockey-hall-of-fame-induction-speech-6408163976112"
+        }
+      ]
+    },
     {
       "id": "2026-11-10-коуэн-объяснил-драку-за-капитана-торонто",
       "sport": "hockey",
@@ -14,6 +130,23 @@
       "published_at": "2026-11-09T22:10:44-05:00",
       "source_domain": "heavy.com",
       "source_url": "https://heavy.com/sports/nhl/toronto-maple-leafs/easton-cowan-gets-honest-about-reaction-to-auston-matthews-hit/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-10-спортинг-у-защитника-ба-снова-болит-колено",
+      "sport": "football",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "«Спортинг»: у защитника Ба снова болит колено",
+      "summary": "Ибраима Ба продолжает жаловаться на воспаление в правом колене после самых интенсивных тренировок — с прошлой паузы на сборные он провёл лишь 90 минут против «Академику Визеу», а повторную операцию в клубе держат как крайний вариант.",
+      "bullets": [],
+      "category": "injury",
+      "country": "portugal",
+      "published_at": "2026-11-10T03:03:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/ba-ainda-tem-dores-no-joelho-direito-defesa-prossegue-reforco-e-operacao-e-ultima-solucao",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -53,6 +186,28 @@
       "published_at": "2026-11-09T22:00:18-05:00",
       "source_domain": "prohockeyrumors.com",
       "source_url": "https://www.prohockeyrumors.com/2026/11/mammoth-recall-zac-jones.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-10-мичков-с-реализацией-37-большой-мейлбэг-pro-hockey-rumors",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "analytics",
+      "title": "Мичков с реализацией 37%: большой мейлбэг Pro Hockey Rumors",
+      "summary": "Разбор Брайана Ла Роуза: роль Матвея Мичкова в «Филадельфии», экономика «аварийных» вратарей (EBUG) и логика офферщитов на молодых звёзд.",
+      "bullets": [
+        "Мичков реализует 37% своих бросков, а его среднее игровое время выросло примерно на минуту за матч — но досрочное продление контракта автор считает маловероятным.",
+        "Зарплату «аварийного» вратаря (EBUG) в районе $80 тыс. в прессе называют, но официально она никогда не подтверждалась; такие игроки не представлены профсоюзом NHLPA.",
+        "Автор не опасается офферщитов на топовых молодых игроков: кейс Лео Карлссона показывает, что даже переплата не доводит дело до подписания.",
+        "В качестве прецедента быстрой смены правил НХЛ приводится эпизод с Шоном Эйвери и запретом «экранировать» вратаря в 2008 году."
+      ],
+      "category": "other",
+      "country": "usa",
+      "published_at": "2026-11-09T22:00:00-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/phr-mailbag-ebugs-ahl-tocchet-michkov-fanbases-goalies.html",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -154,6 +309,28 @@
         {
           "domain": "thefourthperiod.com",
           "url": "https://www.thefourthperiod.com/nov-2026/blackhawks-very-active-in-trade-market"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-сорокин-выйдет-в-старте-айлендерс-в-сан-хосе",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "Сорокин выйдет в старте «Айлендерс» в Сан-Хосе",
+      "summary": "Илья Сорокин защищает ворота «Нью-Йорк Айлендерс» в матче против «Сан-Хосе» — первой игре трёхматчевой выездной серии на Западном побережье.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-09T21:29:29-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/hockey-player-news/1",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/islanders/news/game-preview-islanders-sharks-nov-9-2026"
         }
       ]
     },
@@ -40204,147 +40381,6 @@
       "source_url": "https://russianmachineneverbreaks.com/2026/11/05/ivan-miroshnichenko-agent-dan-milstein-top-six-role-trade-request-nhl/",
       "ru_covered": true,
       "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-05-каролина-громит-метрополитен-24-5-2-с-прошлого-сезона",
-      "sport": "hockey",
-      "date": "2026-11-05",
-      "section": "news",
-      "title": "«Каролина» громит Метрополитен: 24-5-2 с прошлого сезона",
-      "summary": "Действующий обладатель Кубка идёт 12-3-2 и с 26 очками лидирует в лиге, опережая «Нью-Джерси» на шесть баллов, а против соседей по дивизиону с начала прошлого сезона у «Харрикейнз» 24-5-2 — 80,6% набранных очков.",
-      "bullets": [],
-      "category": "records",
-      "country": "usa",
-      "published_at": "2026-11-05T16:23:00-05:00",
-      "source_domain": "heavy.com",
-      "source_url": "https://heavy.com/sports/nhl/carolina-hurricanes/hurricanes-are-dominating-metropolitan-division-opponents/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-05-агент-василевский-хочет-завершить-карьеру-в-тампе",
-      "sport": "hockey",
-      "date": "2026-11-05",
-      "section": "news",
-      "title": "Агент: Василевский хочет завершить карьеру в «Тампе»",
-      "summary": "Дэн Мильштейн заявил, что 32-летний вратарь намерен доиграть карьеру в «Лайтнинг»: он в седьмом сезоне контракта на 8 лет и $76 млн, продлеваться сможет с 1 июля 2027-го, а запрос Кучерова на обмен на его будущее не влияет.",
-      "bullets": [],
-      "category": "russians",
-      "country": "usa",
-      "published_at": "2026-11-05T16:20:00-05:00",
-      "source_domain": "thefourthperiod.com",
-      "source_url": "https://www.thefourthperiod.com/nov-2026/vasilevskiy-wants-to-retire-a-lightning-agent-says",
-      "ru_covered": true,
-      "ru_source": "allhockey.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-05-собослаи-сорвался-на-цимикасе-видео-разлетелось-по-сети",
-      "sport": "football",
-      "date": "2026-11-05",
-      "section": "news",
-      "title": "Собослаи сорвался на Цимикасе: видео разлетелось по сети",
-      "summary": "Кадры с раздражённой реакцией венгра на партнёра по «Ливерпулю» во время поражения от «Фенербахче» (2:3) вызвали волну критики.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "england",
-      "published_at": "2026-11-05T21:19:00+00:00",
-      "source_domain": "caughtoffside.com",
-      "source_url": "https://www.caughtoffside.com/2026/11/05/dominik-szoboszlai-angry-reaction-kostas-tsimikas-liverpool/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-05-олайтан-результативен-в-каждом-матче-бешикташа-в-европе",
-      "sport": "football",
-      "date": "2026-11-05",
-      "section": "news",
-      "title": "Олайтан результативен в каждом матче «Бешикташа» в Европе",
-      "summary": "Нигериец забил и в Глазго — Sporx отмечает, что он сделал результативное действие во всех еврокубковых встречах сезона.",
-      "bullets": [],
-      "category": "records",
-      "country": "turkey",
-      "published_at": "2026-11-06T00:18:00+03:00",
-      "source_domain": "sporx.com",
-      "source_url": "https://www.sporx.com/olaitan-dan-avrupa-da-yuksek-katki-SXHBQ1181935SXQ",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-05-адам-фокс-идёт-на-рекордный-сезон-и-большой-контракт",
-      "sport": "hockey",
-      "date": "2026-11-05",
-      "section": "analytics",
-      "title": "Адам Фокс идёт на рекордный сезон и большой контракт",
-      "summary": "Почему защитник «Рейнджерс» в шаге от зарплаты топ-уровня и во сколько это может обойтись клубу.",
-      "bullets": [
-        "Фокс забил второй гол сезона в матче с «Сент-Луисом» (3:1) и довёл счёт до 19 очков — темп на уровне около 100 за сезон.",
-        "Личный рекорд американца — 74 очка в сезоне-2021/22.",
-        "Ориентир рынка: Кейл Макар продлился с «Колорадо» на восемь лет при $20,4 млн в год — лучшая зарплата лиги.",
-        "Для контекста автор напоминает: за Дорофеева «Рейнджерс» отдали два пика первого раунда и дали контракт на семь лет и $77 млн."
-      ],
-      "category": "transfers",
-      "country": "usa",
-      "published_at": "2026-11-05T16:16:25-05:00",
-      "source_domain": "bluelinestation.com",
-      "source_url": "https://bluelinestation.com/adam-fox-is-poised-to-cash-in-on-next-contract-as-star-is-on-pace-for-career-year-01m6pa2yvsh1",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-05-овечкин-открыл-офис-ови-для-детей-с-онкологией",
-      "sport": "hockey",
-      "date": "2026-11-05",
-      "section": "news",
-      "title": "Овечкин открыл «офис Ови» для детей с онкологией",
-      "summary": "На базе «Вашингтона» прошёл благотворительный лёд Hockey Fights Cancer: Овечкин принимал детей, проходящих лечение от рака, и их семьи — для капитана «Кэпиталз» это акция в рамках его последнего сезона в НХЛ.",
-      "bullets": [],
-      "category": "russians",
-      "country": "usa",
-      "published_at": "2026-11-05T16:15:20-05:00",
-      "source_domain": "nhl.com",
-      "source_url": "https://www.nhl.com/news/alex-ovechkin-hosts-children-impacted-by-cancer-at-washington-capitals-facility",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-05-толиссо-я-был-разочарован-уходом-фонсеки",
-      "sport": "football",
-      "date": "2026-11-05",
-      "section": "news",
-      "title": "Толиссо: «Я был разочарован» уходом Фонсеки",
-      "summary": "Полузащитник «Лиона», забивший в ничейном матче с «Реал Сосьедад», впервые высказался о внезапном отъезде тренера в «Спортинг».",
-      "bullets": [],
-      "category": "statements",
-      "country": "france",
-      "published_at": "2026-11-05T22:14:00+01:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a2541704687945143928-jai-ete-decu-corentin-tolisso-sort-du-silence-apres-le-depart-choc-de-paulo-fonseca",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-05-лион-закрыл-вопрос-с-преемником-паулу-фонсеки",
-      "sport": "football",
-      "date": "2026-11-05",
-      "section": "news",
-      "title": "«Лион» закрыл вопрос с преемником Паулу Фонсеки",
-      "summary": "По данным Foot Mercato, клуб уже договорился с новым главным тренером — до этого командой руководил ассистент Жорже Масиэл.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "france",
-      "published_at": "2026-11-05T22:13:00+01:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a3375030148468037085-lol-a-boucle-larrivee-du-successeur-de-paulo-fonseca",
-      "ru_covered": false,
-      "ru_source": "",
       "related": []
     }
   ]
