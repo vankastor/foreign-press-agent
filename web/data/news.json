@@ -1,6 +1,101 @@
 {
-  "generated_at": "2026-11-10T23:21:11.955831+00:00",
+  "generated_at": "2026-11-11T00:20:36.318269+00:00",
   "items": [
+    {
+      "id": "2026-11-10-виннипег-встретил-хеллебайка-чантом-трус",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "Виннипег встретил Хеллебайка чантом «трус»",
+      "summary": "На разминке перед матчем «Джетс» — «Девилз» трибуны громко скандировали «Coward», один из болельщиков бросил на лёд свитер; сам вратарь в заявку не попал.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "canada",
+      "published_at": "2026-11-10T18:51:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/nhl/article/hellebuyck-receives-loud-coward-chants-during-warmups-in-winnipeg/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "bleacherreport.com",
+          "url": "https://bleacherreport.com/articles/25531979-connor-hellebuyck-booed-heavily-jets-fans-video-return-winnipeg-after-devils-trade"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-кэри-прайс-о-вратарской-связке-монреаля",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "Кэри Прайс — о вратарской связке «Монреаля»",
+      "summary": "Легендарный голкипер «Канадиенс» заявил, что у обоих вратарей клуба «одинаковый настрой и уровень соперничества».",
+      "bullets": [],
+      "category": "statements",
+      "country": "canada",
+      "published_at": "2026-11-10T18:50:05-05:00",
+      "source_domain": "sportsnet.ca",
+      "source_url": "https://www.sportsnet.ca/nhl/video/price-on-habs-goalie-tandem-both-have-same-mindset-and-compete-level/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-10-хеллебайк-путается-в-показаниях-разбор-возвращения-в-виннипе",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "Хеллебайк путается в показаниях: разбор возвращения в Виннипег",
+      "summary": "Колонка Sportsnet: вратарь хочет и уйти, и остаться легендой «Джетс» — но его хронология и объяснения противоречат друг другу.",
+      "bullets": [],
+      "category": "statements",
+      "country": "canada",
+      "published_at": "2026-11-10T18:38:14-05:00",
+      "source_domain": "sportsnet.ca",
+      "source_url": "https://www.sportsnet.ca/nhl/article/hellebuyck-sends-mixed-message-to-jets-fans-seeking-closure/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-10-флайерз-ответили-мичкова-не-обменивают",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "«Флайерз» ответили: Мичкова не обменивают",
+      "summary": "Крис Джонстон (TSN): формального запроса на обмен от россиянина клуб не получал, и в «Филадельфии» его не рассматривают как игрока на выход — 10 голов и 14 очков в 20 матчах.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "usa",
+      "published_at": "2026-11-10T18:26:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/nhl/article/flyers-not-looking-to-trade-michkov-have-not-received-formal-trade-request/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-10-оценки-брендам-четырёх-новых-клубов-pwhl",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "analytics",
+      "title": "Оценки брендам четырёх новых клубов PWHL",
+      "summary": "Daily Faceoff разбирает названия и логотипы команд расширения женской лиги — от A- до C-.",
+      "bullets": [
+        "PWHL представила названия и логотипы четырёх клубов расширения, которые стартуют в сезоне-2026/27 — четвёртом в истории лиги.",
+        "Лучшая оценка — A- у «Гамильтон Хэвок»: хмурый сокол и «ржавые» цвета Стилтауна, хотя название города на эмблеме автор считает лишним.",
+        "«Детройт Клатч» — B- за автомобильные отсылки к Motor City, но в сочетании с чёрными свитерами бренд даёт «любительские» ассоциации.",
+        "Худшая оценка — C- у «Сан-Хосе Си Лайонс»: круглый логотип «в стиле парка развлечений» и яркие оранжевые свитеры; «Вегас Вангардс» — B, при этом лиса «совсем не выглядит грозной»."
+      ],
+      "category": "other",
+      "country": "other",
+      "published_at": "2026-11-10T18:20:29-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/news/grading-four-pwhl-expansion-team-brands-names-logos-detroit-clutch-hamilton-havoc-vegas-vanguards-san-jose-sea-lions",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-10-торонто-проблема-в-тренере-или-глубже",
       "sport": "hockey",
@@ -220,6 +315,36 @@
       "related": []
     },
     {
+      "id": "2026-11-10-хеллебайк-моей-семье-перешли-границу",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "Хеллебайк: «Моей семье перешли границу»",
+      "summary": "Вратарь «Нью-Джерси» впервые объяснил запрос на обмен из «Виннипега»: причина — инциденты с семьёй и неопределённость в карьере, детали раскрывать отказался.",
+      "bullets": [],
+      "category": "statements",
+      "country": "canada",
+      "published_at": "2026-11-10T17:32:00-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/news/some-things-that-happened-to-my-family-crossed-the-line-hellebuyck-on-decision-to-leave-jets",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/connor-hellebuyck-says-concerns-for-family-uncertain-career-path-led-to-winnipeg-jets-trade"
+        },
+        {
+          "domain": "thehockeynews.com",
+          "url": "https://thehockeynews.com/news/latest-news/uncertainty-with-my-career-hellebuyck-explains-factors-leading-to-trade-request-from-jets"
+        },
+        {
+          "domain": "foxsports.com",
+          "url": "https://www.foxsports.com/articles/nhl/hellebuyck-says-incidents-more-than-online-death-threats-led-him-to-ask-the-jets-to-trade-him"
+        }
+      ]
+    },
+    {
       "id": "2026-11-10-илья-сафонов-возвращается-в-кхл-из-системы-ванкувера",
       "sport": "hockey",
       "date": "2026-11-10",
@@ -252,6 +377,36 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
+    },
+    {
+      "id": "2026-11-10-инсайдер-мичков-хочет-начать-заново-в-другом-клубе",
+      "sport": "hockey",
+      "date": "2026-11-10",
+      "section": "news",
+      "title": "Инсайдер: Мичков хочет «начать заново» в другом клубе",
+      "summary": "По информации Кевина Уикса (ESPN), россиянин готов приветствовать обмен из «Филадельфии» после публичной перепалки с Ником Силером на скамейке.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-10T17:29:55-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/news/philadelphia-flyers-matvei-michkov-wants-new-start-elsewhere-trade-request-nhl-rumors",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "thehockeywriters.com",
+          "url": "https://thehockeywriters.com/insider-reports-flyers-michkov-would-welcome-trade/"
+        },
+        {
+          "domain": "bleacherreport.com",
+          "url": "https://bleacherreport.com/articles/25531874-flyers-matvei-michkov-reportedly-eyeing-trade-latest-nhl-rumors-amid-contract-year"
+        },
+        {
+          "domain": "nhltradetalk.com",
+          "url": "https://nhltradetalk.com/is-matvei-michkov-ready-to-leave-the-flyers-heres-what-we-actually-know/"
+        }
+      ]
     },
     {
       "id": "2026-11-10-лучший-бомбардир-милана-хвалит-аморима-и-боготворит-балотелл",
@@ -39837,145 +39992,6 @@
           "url": "https://rmcsport.bfmtv.com/football/kylian-mbappe/affaire-mbappe-un-premier-signe-de-rechauffement-entre-le-real-madrid-et-la-chine-apres-la-polemique-du-dictateur_AV-202611060623.html"
         }
       ]
-    },
-    {
-      "id": "2026-11-06-ван-бронкхорст-защитил-эрнста-после-насмешек-трибун",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Ван Бронкхорст защитил Эрнста после насмешек трибун",
-      "summary": "Тренер «Фейеноорда» назвал несправедливым, что в пропущенных мячах винят только немецкого вратаря, которого фанаты в «Де Кюйпе» проводили циничными аплодисментами.",
-      "bullets": [],
-      "category": "statements",
-      "country": "netherlands",
-      "published_at": "2026-11-06T16:13:59+01:00",
-      "source_domain": "nu.nl",
-      "source_url": "https://www.nu.nl/voetbal/6415736/van-bronckhorst-in-de-bres-voor-keeper-ernst-na-cynisch-applaus-feyenoord-fans.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "vi.nl",
-          "url": "https://www.vi.nl/nieuws/van-bronckhorst-neemt-het-op-voor-ernst-lopez-dekt-aan-de-verkeerde-kant"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-06-спенс-идёт-по-пути-дюмфриса-как-интер-нашёл-правый-фланг",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "analytics",
-      "title": "Спенс идёт по пути Дюмфриса: как «Интер» нашёл правый фланг",
-      "summary": "Gazzetta объясняет, почему матч с «Фейеноордом» сделал англичанина хозяином позиции, которая месяцами была у «Интера» аварийной.",
-      "bullets": [
-        "УЕФА признала Спенса лучшим игроком матча с «Фейеноордом» — именно там «Интер» наконец закрыл правый фланг.",
-        "Официально он стал игроком клуба 15 августа, но из-за физических проблем выпал из первых двух месяцев сезона: программа восстановления шла под девизом «осторожность».",
-        "Киву сознательно не искал копию Дюмфриса: у Спенса дриблинг и скорость, у нидерландца — мощь и результативность.",
-        "Параллель прямая: в свой первый сезон Дюмфрис тоже дождался места в основе только к середине сентября."
-      ],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-11-06T16:10:57+01:00",
-      "source_domain": "gazzetta.it",
-      "source_url": "https://www.gazzetta.it/Calcio/Serie-A/Inter/06-11-2026/inter-spence-sulle-orme-di-dumfries-da-oggetto-misterioso-a-padrone-della-fascia-destra.shtml",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-бальде-определился-с-клубом-юнайтед-узнал-условия",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Бальде определился с клубом, «Юнайтед» узнал условия",
-      "summary": "По сообщениям, левый защитник «Барселоны» Алехандро Бальде выбрал направление на фоне серьёзного интереса «Манчестер Юнайтед», а INEOS уже знает параметры январской сделки.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-11-06T15:08:35+00:00",
-      "source_domain": "football365.com",
-      "source_url": "https://www.football365.com/news/man-utd-alejandro-balde-decides-destination-terms-january",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-берлин-хочет-сохранить-чм-2027-несмотря-на-бойкот",
-      "sport": "hockey",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Берлин хочет сохранить ЧМ-2027 несмотря на бойкот",
-      "summary": "Представитель правительства Германии Корнелиус заявил в пятницу: цель — провести турнир «как планировалось», хотя при участии России это невозможно из-за бойкота семи федераций и давления спонсоров.",
-      "bullets": [],
-      "category": "other",
-      "country": "international",
-      "published_at": "2026-11-06T10:07:53-05:00",
-      "source_domain": "sportsnet.ca",
-      "source_url": "https://www.sportsnet.ca/ice-hockey-world-championship/article/german-government-wants-to-keep-hockey-worlds-as-russias-return-leads-to-boycott/",
-      "ru_covered": true,
-      "ru_source": "sport-express.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-копмейнерс-в-алкмааре-перелом-в-карьере-или-снова-мираж",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "analytics",
-      "title": "Копмейнерс в Алкмааре: перелом в карьере или снова мираж?",
-      "summary": "Gazzetta разбирает, почему гол на стадионе, где его узнала Европа, может стать точкой разворота для самого проблемного трансфера «Ювентуса».",
-      "bullets": [
-        "В Алкмааре нидерландец выиграл 7 единоборств из 10 и сделал 5 отборов, но коснулся мяча реже обычного — всего 57 раз: матч самоотдачи, а не диспетчерства.",
-        "Спаллетти перед игрой называл его топ-игроком: «Против МакТоминея, Де Брюйне и Ангиссы он задавал ритм, отбирал мячи, создавал давление».",
-        "Тренер ранее сам объяснял спад дефицитом минут: «Когда возможность показать качества сокращается до 15–20 минут, напряжение растёт».",
-        "«Ювентус» два года назад заплатил за него 51 млн евро плюс бонусы — и до сих пор ждёт отдачи."
-      ],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-11-06T16:05:48+01:00",
-      "source_domain": "gazzetta.it",
-      "source_url": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/06-11-2026/juve-koopmeiners-brilla-ad-alkmaar-e-la-svolta-per-l-olandese.shtml",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-баффало-тянут-вниз-норрис-и-маклауд",
-      "sport": "hockey",
-      "date": "2026-11-06",
-      "section": "analytics",
-      "title": "«Баффало» тянут вниз Норрис и Маклауд",
-      "summary": "Колонка о том, как провал нижних звеньев держит «Сэйбрз» за пределами зоны плей-офф при вполне приличном старте сезона.",
-      "bullets": [
-        "Процент набранных очков у «Баффало» — 0,567 (7-5-3), но до места в плей-офф не хватает двух баллов в плотном «Атлантике».",
-        "Джош Норрис — самый высокооплачиваемый форвард команды ($7,95 млн), однако у него лишь 2 гола и 3 очка в 15 матчах.",
-        "Доверие тренера видно по времени на льду: в последних двух играх Норрис провёл 9:12 и 10:40.",
-        "Райан Маклауд после обмена из «Эдмонтона» выдал 20 голов и 53 очка в 2024/25, но затем пошёл на спад."
-      ],
-      "category": "records",
-      "country": "usa",
-      "published_at": "2026-11-06T15:05:00+00:00",
-      "source_domain": "thehockeywriters.com",
-      "source_url": "https://thehockeywriters.com/sabres-norris-mcleod-need-to-justify-their-places-in-the-lineup/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-фабер-вернулся-на-тренировку-после-перелома-черепа",
-      "sport": "hockey",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Фабер вернулся на тренировку после перелома черепа",
-      "summary": "Защитник «Миннесоты» получил допуск врачей, но пропустит матчи в пятницу и субботу: дебют в сезоне возможен в выездной серии со вторника в Монреале — травму он получил от броска 25 сентября.",
-      "bullets": [],
-      "category": "injury",
-      "country": "usa",
-      "published_at": "2026-11-06T09:03:27-06:00",
-      "source_domain": "mprnews.org",
-      "source_url": "https://www.mprnews.org/story/2026/11/06/wild-defenseman-brock-faber-returns-to-practice-after-recovery-from-fractured-skull",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
     }
   ]
 }
