@@ -1,6 +1,89 @@
 {
-  "generated_at": "2026-11-11T03:22:59.867992+00:00",
+  "generated_at": "2026-11-11T04:14:17.541615+00:00",
   "items": [
+    {
+      "id": "2026-11-11-проворов-забил-флориде-но-коламбус-проиграл-1-4",
+      "sport": "hockey",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "Проворов забил «Флориде», но «Коламбус» проиграл 1:4",
+      "summary": "Единственную шайбу хозяев на 19:41 второго периода забросил Иван Проворов, а дубль Сэма Беннетта и 37 сэйвов Маркстрема принесли «Пантерз» победу.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-10T22:51:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/nhl/video/2026/11/11/nhl-panthers-4-blue-jackets-1/",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "floridahockeynow.com",
+          "url": "https://floridahockeynow.com/florida-panthers-4-columbus-blue-jackets-1-nov-10-2026-game-recap-summary/"
+        },
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/boxscore/_/gameId/401892686"
+        },
+        {
+          "domain": "fieldlevelmedia.com",
+          "url": "https://fieldlevelmedia.com/news/sam-bennett-scores-twice-panthers-turn-back-blue-jackets/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-худший-период-сезона-как-вашингтон-вытащил-матч-в-оттаве",
+      "sport": "hockey",
+      "date": "2026-11-11",
+      "section": "analytics",
+      "title": "«Худший период сезона»: как «Вашингтон» вытащил матч в Оттаве",
+      "summary": "Авторский разбор Теда Старки: «Кэпиталз» провалили вторую двадцатиминутку по броскам 2:16, но спаслись в третьем периоде и выиграли в овертайме.",
+      "bullets": [
+        "Мэтт Рой открыл счёт броском от синей линии уже на 35-й секунде — это его первый гол в сезоне.",
+        "Во втором периоде «Оттава» перебросала «Вашингтон» 16:2; главный тренер Спенсер Карбери назвал этот отрезок «худшим периодом сезона».",
+        "Гол Хейдена Ходжсона, выведший «Сенаторз» вперёд за 3:56 до конца второго периода, стал для него первым с 24 марта 2022 года.",
+        "Пьер-Люк Дюбуа сравнял за 7:29 до конца третьего, а Коул Хатсон забил победный на 1:14 овертайма — вытащил матч вратарь Логан Томпсон."
+      ],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-11T03:33:00+00:00",
+      "source_domain": "thehockeynews.com",
+      "source_url": "https://thehockeynews.com/nhl/washington-capitals/latest-news/capitals-sneak-out-win-in-ottawa-despite-worst-period-of-season",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "tsn.ca",
+          "url": "https://www.tsn.ca/nhl/article/hutson-scores-in-overtime-as-capitals-squeeze-past-senators/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-капризов-принёс-миннесоте-победу-в-овертайме-в-монреале",
+      "sport": "hockey",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "Капризов принёс «Миннесоте» победу в овертайме в Монреале",
+      "summary": "Гол Капризова в большинстве на 21-й секунде овертайма (2:1) стал 17-м в сезоне и продлил беспроигрышную серию «Уайлд» до девяти матчей.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-10T22:24:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/nhl/article/wallstedt-kaprizov-lead-wild-past-canadiens-in-overtime/",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892684"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/minnesota-wild-montreal-canadiens-game-recap-november-10-2026"
+        }
+      ]
+    },
     {
       "id": "2026-11-11-хатсон-принёс-вашингтону-победу-в-овертайме-с-передачи-овечк",
       "sport": "hockey",
@@ -87,6 +170,58 @@
       "published_at": "2026-11-11T02:46:00+00:00",
       "source_domain": "sportsmole.co.uk",
       "source_url": "https://www.sportsmole.co.uk/football/guatemala/preview/guatemala-vs-canada-prediction-team-news-lineups_608883.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-11-возвращение-хеллебайка-в-виннипег-разбор-матча-джетс-девилз",
+      "sport": "hockey",
+      "date": "2026-11-11",
+      "section": "analytics",
+      "title": "Возвращение Хеллебайка в Виннипег: разбор матча «Джетс» — «Девилз»",
+      "summary": "Крупный авторский разбор игры, в которой «Виннипег» обыграл «Нью-Джерси» 4:2, а Хеллебайк так и не вышел на лёд в городе, который требовал его освистать.",
+      "bullets": [
+        "Доусон Мерсер — один из ключевых активов, полученных «Виннипегом» в обмене за Хеллебайка, — оформил дубль против своего бывшего клуба; вторая шайба зашла в большинстве после численного нарушения состава у «Девилз».",
+        "Кайл Коннор забросил 14-й и 15-й голы в сезоне, один — в пустые ворота.",
+        "Хеллебайка в составе не было: «Нью-Джерси» объяснило это ожидаемым снижением вероятности победы, и соцсети вместе с аккаунтом «Джетс» растащили эту формулировку на мемы.",
+        "По броскам «Виннипег» выиграл первый период 11:8, но после 40 минут уже «Нью-Джерси» вёл 17:13 — исход решили третий период и спецбригады; Нико Доз отразил 18 из 21, Джейк Аллен — 21 из 24."
+      ],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-11T02:37:00+00:00",
+      "source_domain": "thehockeynews.com",
+      "source_url": "https://thehockeynews.com/nhl/winnipeg-jets/latest-news/mercer-helps-power-jets-past-hellebuyck-less-devils",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "tsn.ca",
+          "url": "https://www.tsn.ca/nhl/article/mercer-connor-each-score-twice-to-lift-jets-over-devils-in-hellebuycks-return-to-winnipeg/"
+        },
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892688"
+        },
+        {
+          "domain": "thehockeynews.com",
+          "url": "https://thehockeynews.com/news/latest-news/expected-win-probability-100-social-media-reacts-to-jets-win-in-hellebuycks-return-to-winnipeg"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-рейнджерс-отправили-новичка-смитса-в-список-травмированных",
+      "sport": "hockey",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "«Рейнджерс» отправили новичка Смитса в список травмированных",
+      "summary": "Защитник Албертс Смитс, пятый номер драфта-2026, выбыл из-за травмы верхней части тела; из АХЛ вызван 29-летний форвард Глен Гоудин.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-10T21:19:00-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/rangers-place-alberts-smits-on-injured-reserve-recall-glenn-gawdin.html",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -39840,95 +39975,6 @@
       "published_at": "2026-11-06T10:57:13-05:00",
       "source_domain": "sportsnet.ca",
       "source_url": "https://www.sportsnet.ca/nhl/article/canadiens-demidov-progressing-in-recovery-no-timeline-for-return/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-бельгия-вызвала-лукаку-и-троссарда-из-турции",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Бельгия вызвала Лукаку и Троссарда из Турции",
-      "summary": "Форвард «Фенербахче» Ромелу Лукаку и вингер «Бешикташа» Леандро Троссард попали в расширенный список сборной Бельгии.",
-      "bullets": [],
-      "category": "other",
-      "country": "turkey",
-      "published_at": "2026-11-06T15:56:00+00:00",
-      "source_domain": "trtspor.com.tr",
-      "source_url": "https://www.trtspor.com.tr/haber/futbol/trossard-ve-lukakuya-milli-davet-33948014",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-ливерпуль-готов-отпустить-алиссона-и-смотрит-на-судзуки",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "«Ливерпуль» готов отпустить Алиссона и смотрит на Судзуки",
-      "summary": "По данным Football Insider, у 34-летнего бразильца истекает контракт и клуб ждёт его уход летом, а наследником видит не Мамардашвили, а вратаря «Астон Виллы» Зиона Судзуки.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-11-06T15:55:57+00:00",
-      "source_domain": "football365.com",
-      "source_url": "https://www.football365.com/news/liverpool-let-alisson-becker-leave-summer-aston-villa-zion-suzuki-replacement",
-      "ru_covered": true,
-      "ru_source": "euro-football.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-как-гики-вышел-из-голевой-засухи-цифры-броска",
-      "sport": "hockey",
-      "date": "2026-11-06",
-      "section": "analytics",
-      "title": "Как Гики вышел из голевой засухи: цифры броска",
-      "summary": "Статистический разбор того, что изменилось в игре форварда «Бостона» за три матча — от попыток броска до реализации.",
-      "bullets": [
-        "После 14 матчей у Гики был 1 гол и 9 очков: 50 попыток броска, лишь 17 в створ и реализация 5,9% — 3,57 попытки и 1,21 броска в створ за игру.",
-        "Через три матча — 4 гола и 13 очков в 17 играх, 66 попыток (16 за последние три матча) и 24 броска в створ: он просто начал больше бросать.",
-        "При этом «Бостон» уже шёл 12-4-1 — первое место в Атлантике и разница шайб +24, вторая в НХЛ после «Каролины», то есть команда выигрывала и без его голов."
-      ],
-      "category": "records",
-      "country": "usa",
-      "published_at": "2026-11-06T15:55:00+00:00",
-      "source_domain": "thehockeywriters.com",
-      "source_url": "https://thehockeywriters.com/boston-bruins-geekie-scoring-touch-rediscovered/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-шекай-установил-рекорд-сезона-по-силе-голевого-броска",
-      "sport": "hockey",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Шекай установил рекорд сезона по силе голевого броска",
-      "summary": "Защитник «Монреаля» Арбер Шекай забил «Юте» щелчком на 97,22 мили в час — самый сильный бросок сезона НХЛ, завершившийся голом; прежний показатель принадлежал Трэвису Санхайму (95,71 мили в час, 1 октября).",
-      "bullets": [],
-      "category": "records",
-      "country": "canada",
-      "published_at": "2026-11-06T15:54:18+00:00",
-      "source_domain": "nhl.com",
-      "source_url": "https://www.nhl.com/news/nhl-edge-stats-leaders-for-2026-27-season",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-осимхену-сделают-операцию-на-колене-после-матча-со-штутгарто",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Осимхену сделают операцию на колене после матча со «Штутгартом»",
-      "summary": "«Галатасарай» объявил: у Виктора Осимхена на МРТ обнаружен свободный фрагмент в левом колене, завтра ему проведут артроскопическую операцию, из-за чего нигериец исключён из заявки на игру с «Амед».",
-      "bullets": [],
-      "category": "injury",
-      "country": "turkey",
-      "published_at": "2026-11-06T18:52:21+03:00",
-      "source_domain": "sabah.com.tr",
-      "source_url": "https://www.sabah.com.tr/spor-haberleri/2026/11/06/galatasaraydan-osimhen-aciklamasi",
       "ru_covered": false,
       "ru_source": "",
       "related": []
