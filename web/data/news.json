@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-11-11T01:16:19.675911+00:00",
+  "generated_at": "2026-11-11T02:10:01.992954+00:00",
   "items": [
+    {
+      "id": "2026-11-11-хайнен-не-поехал-в-ахл-и-взвешивает-варианты",
+      "sport": "hockey",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "Хайнен не поехал в АХЛ и взвешивает варианты",
+      "summary": "По данным The Athletic, форвард «Коламбуса» Дантон Хайнен после прохождения драфта отказов не сразу явился в «Кливленд» и обдумывает будущее: 0 очков в 10 матчах и 10:10 игрового времени — худший показатель за 11 лет карьеры.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "usa",
+      "published_at": "2026-11-10T20:54:00-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/evening-notes-heinen-hanifin-marchment-panthers.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-11-прайс-получил-четырёхминутную-овацию-в-белл-центре",
       "sport": "hockey",
@@ -39915,32 +39932,6 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
-    },
-    {
-      "id": "2026-11-06-каррик-юнайтед-снова-может-достичь-уровня-фергюсона",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Каррик: «Юнайтед» снова может достичь уровня Фергюсона",
-      "summary": "В день 40-летия назначения сэра Алекса тренер «Манчестер Юнайтед» заявил, что клуб способен вернуться на те высоты, но признал: такого терпения, как у Фергюсона, ему не дадут.",
-      "bullets": [],
-      "category": "statements",
-      "country": "england",
-      "published_at": "2026-11-06T15:40:00+00:00",
-      "source_domain": "skysports.com",
-      "source_url": "https://www.skysports.com/football/news/11661/13608887/michael-carrick-manchester-united-boss-says-its-possible-the-club-can-emulate-sir-alex-fergusons-success-at-old-trafford",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "vi.nl",
-          "url": "https://www.vi.nl/nieuws/carrick-wil-glorietijden-uit-ferguson-tijdperk-doen-herleven"
-        },
-        {
-          "domain": "sportskeeda.com",
-          "url": "https://www.sportskeeda.com/football"
-        }
-      ]
     }
   ]
 }
