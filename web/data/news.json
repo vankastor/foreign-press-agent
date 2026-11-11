@@ -1,6 +1,109 @@
 {
-  "generated_at": "2026-11-11T05:14:02.526885+00:00",
+  "generated_at": "2026-11-11T06:13:00.772396+00:00",
   "items": [
+    {
+      "id": "2026-11-11-сарос-оформил-шатаут-нэшвилл-разгромил-кингз",
+      "sport": "hockey",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "Сарос оформил шатаут, «Нэшвилл» разгромил «Кингз»",
+      "summary": "Филип Форсберг забил дважды, Юусе Сарос отразил все 30 броросков — 28-й «сухарь» в карьере — и «Предаторз» выиграли пятый матч подряд, 3:0 в Лос-Анджелесе.",
+      "bullets": [],
+      "category": "records",
+      "country": "usa",
+      "published_at": "2026-11-11T01:01:00-05:00",
+      "source_domain": "foxsports.com",
+      "source_url": "https://www.foxsports.com/articles/nhl/filip-forsberg-has-2-goals-juuse-saros-gets-shutout-in-predators-5th-straight-win-30-over-kings",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892689"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/nashville-predators-los-angeles-kings-game-recap-november-10-2026"
+        },
+        {
+          "domain": "si.com",
+          "url": "https://www.si.com/nhl/predators/onsi/news/nashville-win-streak-reaches-five-after-beating-the-kings-"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-белозоглу-просит-у-фенербахче-трёх-новичков",
+      "sport": "football",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "Белозоглу просит у «Фенербахче» трёх новичков",
+      "summary": "В списке нового тренера — защитники Силла и Хёгсберг, бразильцы Данило и Андре, а в атаку клуб готов просить Эндрика в аренду.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "turkey",
+      "published_at": "2026-11-11T09:00:00+03:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/fenerbahce/galeri-iste-emre-belozoglunun-istedigi-3-yildiz-fenerbahce-transferde-bombalari-patlatti-2644106",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-11-дирк-кюйт-остаётся-в-фенербахче-в-новой-роли",
+      "sport": "football",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "Дирк Кюйт остаётся в «Фенербахче» в новой роли",
+      "summary": "Белозоглу не берёт нидерландца в штаб, но, по данным Akşam, Азиз Йылдырым хочет оставить его в академии вместе с Ван Пёйвельде.",
+      "bullets": [],
+      "category": "other",
+      "country": "turkey",
+      "published_at": "2026-11-11T08:35:00+03:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/fenerbahce/galeri-fenerbahcede-dirk-kuytin-yeni-gorevi-belli-oluyor-emre-belozoglu-istemedi-aziz-yildirim-birakmiyor-2644117",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-11-стадион-торино-как-приманка-для-американских-фондов",
+      "sport": "football",
+      "date": "2026-11-11",
+      "section": "analytics",
+      "title": "Стадион «Торино» как приманка для американских фондов",
+      "summary": "Tuttosport разбирает, зачем Кайро подал заявку на 99-летнюю концессию «Олимпико Гранде Торино» и как это связано с продажей клуба.",
+      "bullets": [
+        "Мэр Турина Стефано Ло Руссо подтвердил: в понедельник клуб подал «предложение о реализуемости» по стадиону и спортцентру «Робальдо» — через механизм государственно-частного партнёрства (декрет 38/2021) с горизонтом управления 99 лет.",
+        "Город ждал заявку в сентябре, потом в октябре; Ло Руссо выставил Кайро ультиматум — «до 31 декабря, не позже».",
+        "Кайро уже выдал Bank of America мандат на продажу клуба: по версии издания, стадионный проект нужен именно как приманка для американских инвестиционных и девелоперских фондов.",
+        "Прописан и календарь: техническая экспертиза с ответом к январю, затем публичный тендер до 60 дней в конце зимы — начале весны и присвоение концессии летом или к осени."
+      ],
+      "category": "other",
+      "country": "italy",
+      "published_at": "2026-11-11T06:30:00+01:00",
+      "source_domain": "tuttosport.com",
+      "source_url": "https://www.tuttosport.com/news/calcio/serie-a/torino/2026/11/11-152515247/stadio_toro_c_la_proposta_cairo_ecco_la_svolta_per_attirare_i_fondi",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-11-галатасарай-готов-вернуть-угочукву-досрочно",
+      "sport": "football",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "«Галатасарай» готов вернуть Угочукву досрочно",
+      "summary": "По данным Milliyet, 20-летний француз за 7 матчей набрал 123 минуты, и клуб обсуждает разрыв аренды стоимостью 3 млн фунтов.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "turkey",
+      "published_at": "2026-11-11T08:25:00+03:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/galatasaray/galeri-galatasarayda-ayrilik-bileti-kesildi-ara-transferde-operasyon-basliyor-2644116",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-11-белозоглу-привёл-в-фенербахче-штаб-из-11-человек",
       "sport": "football",
@@ -14,6 +117,23 @@
       "published_at": "2026-11-11T07:58:00+03:00",
       "source_domain": "sporx.com",
       "source_url": "https://www.sporx.com/emre-belozoglu-nun-yardimcilari-kimler-iste-isim-isim-teknik-heyet-SXHBQ1182500SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-11-бавария-обыграла-псж-в-женской-лиге-чемпионов",
+      "sport": "football",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "«Бавария» обыграла ПСЖ в женской Лиге чемпионов",
+      "summary": "Автогол Кедржинек и мяч Клары Бюль принесли победу 2:1; Бюль после матча: «Это показывает нашу зрелость».",
+      "bullets": [],
+      "category": "match",
+      "country": "eurocups",
+      "published_at": "2026-11-11T05:53:00+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/fussball/frauen-champions-league/2026/11/glueckliche-buehl-das-zeigt-unsere-reife",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -39,6 +159,57 @@
           "url": "https://www.fanatik.com.tr/galatasaray/galeri-galatasaray-pesini-birakmiyor-christ-ouali-icin-operasyon-2644111"
         }
       ]
+    },
+    {
+      "id": "2026-11-11-бавария-недовольна-перелётами-сборной-в-южную-америку",
+      "sport": "football",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "«Бавария» недовольна перелётами сборной в Южную Америку",
+      "summary": "Спортдиректор Бьянка Рех назвала товарищеские матчи Германии в Аргентине и Бразилии «огромным вызовом» из-за нагрузки на Гвинн и Бюль.",
+      "bullets": [],
+      "category": "statements",
+      "country": "germany",
+      "published_at": "2026-11-11T05:36:00+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/fussball/frauen-wm/2026/11/wm-tests-in-suedamerika-nicht-ideal-aber-nachvollziehbar",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-11-марта-в-41-год-остаётся-в-планах-бразилии",
+      "sport": "football",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "Марта в 41 год остаётся в планах Бразилии",
+      "summary": "Тренер Артур Элиас: легенда «полностью часть наших планов» на домашний ЧМ-2027, хотя в заявку на матчи в Японии её не включили.",
+      "bullets": [],
+      "category": "statements",
+      "country": "other",
+      "published_at": "2026-11-11T05:36:00+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/fussball/frauen-wm/2026/11/wuenschen-wir-uns-alle-marta-und-der-traum-von-der-heim-wm",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-11-телебашня-вратарь-2-05-м-дебютирует-в-молодёжке-германии",
+      "sport": "football",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "«Телебашня»: вратарь 2,05 м дебютирует в молодёжке Германии",
+      "summary": "22-летний Том Ритци Хюльсман из «Реймса» впервые вызван в U21 и поражает партнёров ростом — «Телебашня!», сказал про него Дамар.",
+      "bullets": [],
+      "category": "other",
+      "country": "germany",
+      "published_at": "2026-11-11T05:35:00+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/fussball/dfb-team/2026/11/u21-neuling-und-fernsehturm-huelsmann-sorgt-fuer-staunen",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
     },
     {
       "id": "2026-11-11-хеллибака-освистали-в-виннипеге-но-на-лёд-он-не-вышел",
@@ -39815,194 +39986,6 @@
       "source_url": "https://www.nhl.com/news/anaheim-ducks-cutter-gauthier-making-history-with-goal-power-play-streaks",
       "ru_covered": true,
       "ru_source": "sport-express.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-нью-джерси-упустил-3-и-спасся-в-овертайме",
-      "sport": "hockey",
-      "date": "2026-11-06",
-      "section": "analytics",
-      "title": "«Нью-Джерси» упустил «+3» и спасся в овертайме",
-      "summary": "Разбор победы «Девилз» над «Сент-Луисом» 5:4 в овертайме: взрывной второй период, обвал в третьем и гол Братта через полторы минуты в формате 3 на 3.",
-      "bullets": [
-        "После двух периодов «Девилз» вели 4:1, но «Блюз» забросили три шайбы в третьем — вторую на 11-й минуте и ещё две до 14-й — и сравняли счёт.",
-        "Энтони Манта оформил дубль и набрал три очка уже к концу второго периода; Йеспер Буквист обыграл Биннингтона на пятачке и закатил шайбу в пустые ворота.",
-        "К 40-й минуте по два очка было у Люка Хьюза, Джека Хьюза и Бретта Пеcче — вся верхняя часть состава работала.",
-        "Победный гол Йеспера Братта пришёл спустя полторы минуты овертайма."
-      ],
-      "category": "match",
-      "country": "usa",
-      "published_at": "2026-11-06T11:35:00-05:00",
-      "source_domain": "thehockeywriters.com",
-      "source_url": "https://thehockeywriters.com/3-takeaways-from-devils-5-4-ot-win-over-blues/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-бывшие-игроки-колорадо-мстят-эвеланш-весь-сезон",
-      "sport": "hockey",
-      "date": "2026-11-06",
-      "section": "analytics",
-      "title": "Бывшие игроки «Колорадо» мстят «Эвеланш» весь сезон",
-      "summary": "The Hockey News собрал закономерность сезона: экс-игроки «Колорадо» систематически обыгрывают свой прежний клуб.",
-      "bullets": [
-        "Райан О'Райлли набрал 46 очков в 39 матчах карьеры против «Колорадо», в том числе 10 (5+5) в трёх последних личных встречах.",
-        "В день выборов Чарли Койл и Валерий Ничушкин вместе сделали 3 гола и 3 передачи, когда «Коламбус» разгромил «Эвеланш» 7:2.",
-        "Юстус Аннунен начинал оба матча против бывшей команды и оба выиграл: 49 отражённых броска из 53, 92,5% и 2,00 пропущенных в среднем.",
-        "Ник Бланкенбург забил первым же броском в дебютной игре за «Торонто» 10 октября, открыв счёт в победе 6:3."
-      ],
-      "category": "records",
-      "country": "usa",
-      "published_at": "2026-11-06T16:33:40+00:00",
-      "source_domain": "sports.yahoo.com",
-      "source_url": "https://sports.yahoo.com/articles/ex-factor-former-avalanche-players-163340509.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-закончена-ли-карьера-палмера-в-сборной-при-тухеле",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "analytics",
-      "title": "Закончена ли карьера Палмера в сборной при Тухеле",
-      "summary": "Главный футбольный обозреватель BBC Фил Макналти разбирает, почему слова Тухеля о Палмере звучат как приговор.",
-      "bullets": [
-        "Формулировка Тухеля — «он упускает слишком много возможностей произвести впечатление»; решение принято уже после того, как тренер получил подтверждение, что Палмер здоров и доступен.",
-        "У Палмера 14 матчей за Англию, 2 гола и 1 результативная передача; последний выход — в марте в проигранном 0:1 матче с Японией, где его заменили до 60-й минуты.",
-        "Куда показательнее другое: он сыграл лишь в 3 из 26 матчей Тухеля во главе сборной.",
-        "В окружении игрока удивлены невызовом, но Тухель уже доказывал, что у него нет «звёздной системы»."
-      ],
-      "category": "other",
-      "country": "england",
-      "published_at": "2026-11-06T16:30:03+00:00",
-      "source_domain": "bbc.com",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "telegraph.co.uk",
-          "url": "https://www.telegraph.co.uk/football/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-06-кого-торонто-не-может-потерять-рейтинг-джастина-борна",
-      "sport": "hockey",
-      "date": "2026-11-06",
-      "section": "analytics",
-      "title": "Кого «Торонто» не может потерять: рейтинг Джастина Борна",
-      "summary": "Колумнист Sportsnet оценивает, чьи травмы для «Мэйпл Лифс» критичнее всего и почему команда в борьбе за плей-офф обязана быть здоровой.",
-      "bullets": [
-        "Кирилл Марченко набирал очки в 10 из 11 октябрьских матчей, а в игре с «Калгари» получил травму ноги, отыграв лишь семь минут.",
-        "После этого «Торонто» трижды — с «Калгари», «Сиэтлом» и «Ютой» — проиграл с разницей в одну шайбу (без учёта голов в пустые ворота).",
-        "Джон Таварес тоже шёл по очку за игру при 16:30 игрового времени, плюс команда потеряла Криса Танева.",
-        "Вывод автора: единственное настоящее оружие «Лифс» — обойма высококлассных форвардов, и минус двое из топ-6 опускают атаку до среднего уровня."
-      ],
-      "category": "injury",
-      "country": "canada",
-      "published_at": "2026-11-06T11:30:01-05:00",
-      "source_domain": "sportsnet.ca",
-      "source_url": "https://www.sportsnet.ca/nhl/article/which-players-could-maple-leafs-least-afford-to-lose-in-race-for-playoff-spot/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-ковач-минутами-хвалил-фермана-после-переезда-из-псв",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Ковач минутами хвалил Фермана после переезда из ПСВ",
-      "summary": "Тренер «Боруссии» Дортмунд отметил прогресс нидерландца, которому поначалу тяжело давалась интенсивность Бундеслиги.",
-      "bullets": [],
-      "category": "statements",
-      "country": "germany",
-      "published_at": "2026-11-06T17:28:13+01:00",
-      "source_domain": "vi.nl",
-      "source_url": "https://www.vi.nl/nieuws/veerman-krijgt-minutenlange-lofzang-van-zijn-trainer",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-салах-поднял-интерес-египтян-к-турецкому-футболу",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Салах поднял интерес египтян к турецкому футболу",
-      "summary": "После перехода в «Трабзонспор» египетская аудитория резко развернулась в сторону бордово-синих и Суперлиги.",
-      "bullets": [],
-      "category": "other",
-      "country": "turkey",
-      "published_at": "2026-11-06T19:26:41+03:00",
-      "source_domain": "sabah.com.tr",
-      "source_url": "https://www.sabah.com.tr/spor/futbol/2026/11/06/muhammed-salahin-trabzonsporda-oynamasi-misirlilari-memnun-etti",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-год-де-росси-в-дженоа-цифры-подиумного-уровня",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "analytics",
-      "title": "Год Де Росси в «Дженоа»: цифры подиумного уровня",
-      "summary": "Corriere dello Sport подводит итог первого года работы Де Росси в Генуе — с разбором его места в тренерской иерархии клуба.",
-      "bullets": [
-        "За год и 38 матчей Серии А у Де Росси 13 побед, 9 ничьих и 16 поражений — 1,26 очка в среднем за игру.",
-        "Среди тренеров «Дженоа» после Гасперини это третий показатель: Гасперини — 1,39, Баллардини — 1,32, позади Джиларадино (1,18) и Юрич (0,80).",
-        "Сейчас у команды три победы подряд, и Де Росси сократил до минимума отпуска и поездки в Рим, которые остаются его домом.",
-        "Перед матчем с «Миланом» он назвал состав россонери одним из трёх сильнейших в чемпионате, а свою команду — «клубом нижней половины таблицы»."
-      ],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-11-06T17:23:54+01:00",
-      "source_domain": "corrieredellosport.it",
-      "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/genoa/2026/11/06-152419910/cos_de_rossi_si_preso_il_genoa_un_anno_da_allenatore_l_amore_di_marassi_e_una_media_punti_da_podio/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-капитан-наполи-ди-лоренцо-порвал-приводящую-мышцу",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Капитан «Наполи» Ди Лоренцо порвал приводящую мышцу",
-      "summary": "Медицинский отчёт клуба подтвердил повреждение приводящей мышцы левого бедра — защитник пропустит матч с «Лацио» и далее.",
-      "bullets": [],
-      "category": "injury",
-      "country": "italy",
-      "published_at": "2026-11-06T17:23:00+01:00",
-      "source_domain": "tuttomercatoweb.com",
-      "source_url": "https://www.tuttomercatoweb.com/serie-a/napoli-report-medico-lesione-adduttore-coscia-sinistra-lorenzo-2291406",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-пастрняк-и-зача-новая-элитная-связка-нхл",
-      "sport": "hockey",
-      "date": "2026-11-06",
-      "section": "analytics",
-      "title": "Пастрняк и Зача — новая элитная связка НХЛ",
-      "summary": "Daily Faceoff разбирает, почему чешский тандем «Бостона» вышел на уровень лучших дуэтов лиги и как это держит клуб на вершине Атлантики.",
-      "bullets": [
-        "В 166 минутах вместе в формате 5 на 5 «Бостон» выигрывает у соперников по голам 10:2 — то есть это не «связка большинства».",
-        "У Пастрняка 22 очка — на восемь больше, чем у второго бомбардира команды.",
-        "«Брюинз» идут 12-4-1 в 17 матчах, первые в Атлантике и делят второе место в лиге; их 64 гола — второй показатель Востока после «Каролины».",
-        "В матче с «Питтсбургом» (6:2) Зача забил дважды, и оба раза ассистировал Пастрняк."
-      ],
-      "category": "records",
-      "country": "usa",
-      "published_at": "2026-11-06T11:20:56-05:00",
-      "source_domain": "dailyfaceoff.com",
-      "source_url": "https://www.dailyfaceoff.com/news/boston-bruins-david-pastrnak-pavel-zacha-among-nhl-elite-duos",
-      "ru_covered": false,
-      "ru_source": "",
       "related": []
     }
   ]
