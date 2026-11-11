@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-11-11T02:10:01.992954+00:00",
+  "generated_at": "2026-11-11T03:22:59.867992+00:00",
   "items": [
+    {
+      "id": "2026-11-11-хатсон-принёс-вашингтону-победу-в-овертайме-с-передачи-овечк",
+      "sport": "hockey",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "Хатсон принёс «Вашингтону» победу в овертайме с передачи Овечкина",
+      "summary": "«Кэпиталз» вырвали у «Оттавы» 3:2: Коул Хатсон забросил через 74 секунды овертайма после паса Овечкина, Томпсон сделал 23 сейва, Вашингтон идёт 10-6-0.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-10T22:03:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/nhl/article/hutson-scores-in-overtime-as-capitals-squeeze-past-senators/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892685"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/washington-capitals-ottawa-senators-game-recap-november-10-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-казинс-покинул-матч-с-вашингтоном-после-хита-чичруна",
+      "sport": "hockey",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "Казинс покинул матч с «Вашингтоном» после хита Чичруна",
+      "summary": "Форвард «Оттавы» не вернулся на лёд в третьем периоде после жёсткого силового приёма Якоба Чичруна — большой штраф защитнику «Кэпиталз» отменили, Казинс провёл 12:12 за 19 смен.",
+      "bullets": [],
+      "category": "injury",
+      "country": "canada",
+      "published_at": "2026-11-10T22:00:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/nhl/article/sens-cousins-exits-vs-capitals-after-hard-hit-from-chychrun/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-11-колорадо-разбил-торонто-у-листьев-четвёртое-поражение-подряд",
+      "sport": "hockey",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "«Колорадо» разбил «Торонто», у «Листьев» четвёртое поражение подряд",
+      "summary": "Ландескуг забил дважды, включая победный на 5:02 третьего периода, «Эвеланш» выиграли 6:3; Бобровский отразил 22 броска и пропустил три или больше в 12 из 13 матчей после подписания контракта.",
+      "bullets": [],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-10T21:53:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/nhl/article/landeskog-scores-twice-avalanche-hand-maple-leafs-fourth-straight-loss/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/landeskog-scores-twice-avalanche-hand-025857267.html"
+        },
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892683"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/colorado-avalanche-toronto-maple-leafs-game-recap-november-10-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-гватемала-канада-расклад-на-четвертьфинал-лиги-наций",
+      "sport": "football",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "Гватемала — Канада: расклад на четвертьфинал Лиги наций",
+      "summary": "Хозяева вышли с первого места в группе B с семью очками после 1:0 с Суринамом, но без дисквалифицированных на три матча Франко и Эстрады и травмированного Сантиса; у Канады нет Осорио и Шаффелбурга, Дэвис готов играть.",
+      "bullets": [],
+      "category": "match",
+      "country": "other",
+      "published_at": "2026-11-11T02:46:00+00:00",
+      "source_domain": "sportsmole.co.uk",
+      "source_url": "https://www.sportsmole.co.uk/football/guatemala/preview/guatemala-vs-canada-prediction-team-news-lineups_608883.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-11-хайнен-не-поехал-в-ахл-и-взвешивает-варианты",
       "sport": "hockey",
@@ -16,6 +106,40 @@
       "source_url": "https://www.prohockeyrumors.com/2026/11/evening-notes-heinen-hanifin-marchment-panthers.html",
       "ru_covered": false,
       "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-11-слух-ракелл-отказался-от-обмена-в-чикаго",
+      "sport": "hockey",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "Слух: Ракелл отказался от обмена в «Чикаго»",
+      "summary": "Кит Яндл в подкасте Spittin' Chiclets заявил, что форвард «Питтсбурга» заблокировал переход в «Блэкхокс»; у 33-летнего Ракелла 6+4 в 18 матчах и два года контракта по $5 млн со списком из восьми клубов.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "usa",
+      "published_at": "2026-11-11T01:51:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/rumor-penguins-rakell-rejected-trade-015134283.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-11-мю-ищет-способ-спасти-каррика-от-увольнения",
+      "sport": "football",
+      "date": "2026-11-11",
+      "section": "news",
+      "title": "МЮ ищет способ спасти Каррика от увольнения",
+      "summary": "BBC: вместо отставки «Юнайтед» рассматривает усиление штаба ассистентом «Баварии» Аароном Дэнксом — Уилкокс и Беррада в среду встречаются с Ратклиффом в Монако, у Каррика одна победа в 10 турах АПЛ.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "england",
+      "published_at": "2026-11-11T01:35:00+00:00",
+      "source_domain": "sportsmole.co.uk",
+      "source_url": "https://www.sportsmole.co.uk/football/man-utd/sack-race/news/man-united-considering-one-option-that-could-save-carrick-from-sack_608881.html",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
       "related": []
     },
     {
@@ -39805,130 +39929,6 @@
       "published_at": "2026-11-06T18:52:21+03:00",
       "source_domain": "sabah.com.tr",
       "source_url": "https://www.sabah.com.tr/spor-haberleri/2026/11/06/galatasaraydan-osimhen-aciklamasi",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-осимхена-экстренно-оперируют-галатасарай-теряет-бомбардира",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Осимхена экстренно оперируют: «Галатасарай» теряет бомбардира",
-      "summary": "МРТ выявило свободный фрагмент в левом колене нигерийца — клуб объявил об артроскопии и исключил Осимхена из заявки на матч с «Амедспором».",
-      "bullets": [],
-      "category": "injury",
-      "country": "turkey",
-      "published_at": "2026-11-06T18:52:00+03:00",
-      "source_domain": "fanatik.com.tr",
-      "source_url": "https://www.fanatik.com.tr/galatasaray/galatasaraydan-osimhen-aciklamasi-amed-macinda-yok-2643633",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "sporx.com",
-          "url": "https://www.sporx.com/futbol/galatasaray-dan-osimhen-aciklamasi-ameliyat-edilecek-SXHBQ1182021SXQ"
-        },
-        {
-          "domain": "fotomac.com.tr",
-          "url": "https://www.fotomac.com.tr/galatasaray/2026/11/06/galatasarayda-osimhen-soku"
-        },
-        {
-          "domain": "beinsports.com.tr",
-          "url": "https://beinsports.com.tr/haber/galatasaraydan-victor-osimhen-icin-sakatlik-aciklamasi-2"
-        },
-        {
-          "domain": "ntvspor.net",
-          "url": "https://www.ntvspor.net/futbol/galeri-ve-galatasaraydan-beklenen-osimhen-aciklamasi-geldi-sakatligindaki-son-durum-belli-oldu-429196"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-06-мирошниченко-переговоры-об-обмене-продолжаются",
-      "sport": "hockey",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Мирошниченко: переговоры об обмене продолжаются",
-      "summary": "Агент Дэн Мильштейн подтвердил TFP, что ищет Ивану клуб с ролью в топ-6; «Вашингтон» просит высокий пик или топ-проспекта, интерес есть у «Ванкувера», «Оттавы», «Чикаго» и «Лос-Анджелеса».",
-      "bullets": [],
-      "category": "transfers",
-      "country": "usa",
-      "published_at": "2026-11-06T10:52:00-05:00",
-      "source_domain": "thefourthperiod.com",
-      "source_url": "https://www.thefourthperiod.com/nov-2026/miroshnichenko-trade-talks-continue",
-      "ru_covered": true,
-      "ru_source": "allhockey.ru",
-      "related": [
-        {
-          "domain": "bleacherreport.com",
-          "url": "https://bleacherreport.com/articles/25529838-6-landing-spots-ivan-miroshnichenko-amid-nhl-trade-rumors"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-06-спаллетти-кабалю-в-алкмааре-я-тебе-сейчас-врежу",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Спаллетти — Кабалю в Алкмааре: «Я тебе сейчас врежу»",
-      "summary": "Gazzetta вспомнила все стычки тренера «Ювентуса» с собственными игроками после того, как в матче Лиги Европы он лицом к лицу отчитал колумбийца за провал в обороне при отменённом голе на 2:2.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "italy",
-      "published_at": "2026-11-06T16:49:43+01:00",
-      "source_domain": "gazzetta.it",
-      "source_url": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/storie/06-11-2026/spalletti-e-le-strigliate-da-cabal-a-totti-e-openda/spalletti-e-il-pugno-a-cabal.shtml",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-франк-шмидт-я-месяцами-думал-о-своём-уходе",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "Франк Шмидт: «Я месяцами думал о своём уходе»",
-      "summary": "Спустя несколько дней после решения покинуть «Хайденхайм» после целой эпохи тренер подробно объяснился и рассказал о своём внутреннем состоянии.",
-      "bullets": [],
-      "category": "statements",
-      "country": "germany",
-      "published_at": "2026-11-06T15:48:08+00:00",
-      "source_domain": "kicker.de",
-      "source_url": "https://www.kicker.de/das-hat-etwas-mit-mir-gemacht-schmidt-gruebelte-monate-ueber-sein-ende-1269243/artikel",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-бостон-хотят-видеть-в-списке-ларкина-и-бьются-за-эдвинссона",
-      "sport": "hockey",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "«Бостон» хотят видеть в списке Ларкина и бьются за Эдвинссона",
-      "summary": "Ричардсон: «Детройт» просит Ларкина добавить «Брюинз», а Босс из NBC Sports Boston считает, что ценой станет Минтен или Хагенс; «Юта» Армстронга тоже мониторит и Ларкина, и Кучерова.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "usa",
-      "published_at": "2026-11-06T15:46:49+00:00",
-      "source_domain": "thehockeynews.com",
-      "source_url": "https://thehockeynews.com/news/latest-news/nhl-rumor-roundup-bruins-linked-to-larkin-and-edvinsson-latest-mammoth-speculation",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-06-ренн-вернёт-франковского-на-матч-с-лиллем",
-      "sport": "football",
-      "date": "2026-11-06",
-      "section": "news",
-      "title": "«Ренн» вернёт Франковского на матч с «Лиллем»",
-      "summary": "Франк Эз сможет рассчитывать на поляка в воскресенье, а Эстебан Леполь выйдет только после паузы на сборные.",
-      "bullets": [],
-      "category": "match",
-      "country": "france",
-      "published_at": "2026-11-06T16:46:43+01:00",
-      "source_domain": "lequipe.fr",
-      "source_url": "https://www.lequipe.fr/Football/Actualites/Rennes-avec-przemys-aw-frankowski-contre-lille-mais-toujours-sans-lepaul/1741676",
       "ru_covered": false,
       "ru_source": "",
       "related": []
