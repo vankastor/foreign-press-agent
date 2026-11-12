@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-11-12T03:13:49.729989+00:00",
+  "generated_at": "2026-11-12T04:12:58.760869+00:00",
   "items": [
+    {
+      "id": "2026-11-12-дорофеев-ассистировал-зибанеяду-рейнджерс-дожали-калгари",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Дорофеев ассистировал Зибанеяду — «Рейнджерс» дожали «Калгари»",
+      "summary": "Дубль Зибанеяда во втором периоде и передача Дорофеева на победную шайбу принесли «Рейнджерс» 3:1 в Калгари — четвёртая победа в пяти матчах, Корписало отразил 29 броcков.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-11T22:51:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/recap/_/gameId/401892691",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/zibanejad-scores-twice-rangers-beat-035108476.html"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/new-york-rangers-calgary-flames-game-recap-november-11-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-кучеров-оформил-натуральный-хет-трик-тампа-разнесла-баффало",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Кучеров оформил натуральный хет-трик — «Тампа» разнесла «Баффало»",
+      "summary": "Кучеров забросил три шайбы подряд в третьем периоде и добавил передачу — «Лайтнинг» выиграли в Буффало 8:3, у Карлсона гол и четыре ассиста, Василевский отразил 28 броcков.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-11T22:06:00-05:00",
+      "source_domain": "foxsports.com",
+      "source_url": "https://www.foxsports.com/articles/nhl/kucherov-has-natural-hat-trick-in-lightnings-83-romp-over-sabres",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/kucherov-natural-hat-trick-lightnings-030638910.html"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/tampa-bay-lightning-buffalo-sabres-game-recap-november-11-2026"
+        }
+      ]
+    },
     {
       "id": "2026-11-12-кучеров-оформил-натуральный-хет-трик-тампа-разгромила-баффал",
       "sport": "hockey",
@@ -22,6 +74,45 @@
           "url": "https://www.espn.com/nhl/recap/_/gameId/401892690"
         }
       ]
+    },
+    {
+      "id": "2026-11-12-юта-теряет-гюнтера-на-две-четыре-недели",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Юта» теряет Гюнтера на две-четыре недели",
+      "summary": "Гюнтер отправлен в список травмированных с повреждением верхней части тела, Кули — день ко дню и пропускает матч, Шмидт тоже в IR, Ямамото из IR активирован.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-12T02:41:21+00:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/mammoths-dylan-guenther-logan-cooley-out.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/players/news/dylan-guenther/34613"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-питтсбург-в-сан-хосе-составы-и-расклад-на-матч",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Питтсбург» в Сан-Хосе: составы и расклад на матч",
+      "summary": "Превью со составами и игровыми заметками: «Пингвинз» идут 1-1 в трёхматчевом калифорнийском выезде и хотят закончить его в плюсе.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-12T02:41:15+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/penguins-sharks-preview-lineups-game-024115843.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
     },
     {
       "id": "2026-11-12-сон-и-лидеры-южной-кореи-опровергли-слухи-о-расколе",
@@ -39396,84 +39487,6 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
-    },
-    {
-      "id": "2026-11-09-вильярреал-дожал-хетафе-в-концовке-2-0",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "«Вильярреал» дожал «Хетафе» в концовке: 2:0",
-      "summary": "Бьюкенен забил на 80-й с паса Пепе, Карлос Ромеро — на 90+1 с подачи Айосе Переса; у хозяев 22 удара против 9, xG 2,38 против 0,68 и 73% владения",
-      "bullets": [],
-      "category": "match",
-      "country": "spain",
-      "published_at": "2026-11-09T07:13:08+00:00",
-      "source_domain": "football-espana.net",
-      "source_url": "https://www.football-espana.net/2026/11/09/late-buchanan-and-carlos-romero-goals-give-villarreal-2-0-win-over-getafe",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-катастрофический-вечер-альвареса-против-барселоны",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Катастрофический вечер Альвареса против «Барселоны»",
-      "summary": "Аргентинец запорол два выхода один на один и снова услышал свист своей трибуны в матче с клубом мечты; Marca пишет «Хулиан возвращается в ад», Симеоне защищает: «Нам нужен лучший Хулиан»",
-      "bullets": [],
-      "category": "other",
-      "country": "spain",
-      "published_at": "2026-11-09T07:13:02+00:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a894460135254685602-atletico-la-soiree-catastrophique-de-julian-alvarez",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-эра-белозоглу-в-фенербахче-началась-с-5-0",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Эра Белозоглу в «Фенербахче» началась с 5:0",
-      "summary": "В первом матче нового тренера жёлто-синие разгромили «Арджа Чорум» на выезде в 11-м туре Суперлиги; турецкие колумнисты отметили перестроенную тактику 46-летнего Эмре",
-      "bullets": [],
-      "category": "match",
-      "country": "turkey",
-      "published_at": "2026-11-09T07:09:24+00:00",
-      "source_domain": "takvim.com.tr",
-      "source_url": "https://www.takvim.com.tr/spor/fenerbahce/2026/11/09/spor-yazarlari-fenerbahcenin-5-0lik-corum-fk-galibiyetini-degerlendirdi",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "cnnturk.com",
-          "url": "https://www.cnnturk.com/spor/futbol/fenerbahcede-emre-belozoglu-donemi-degisikliklerle-basladi-3490754"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-юнайтед-отыграл-2-4-за-шесть-минут-компенсированного",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "«Юнайтед» отыграл 2:4 за шесть минут компенсированного",
-      "summary": "Зиркзее на 92-й и Доргу на 96-й спасли 4:4 с «Астон Виллой»; датчанин сделал гол плюс пас за 24 минуты, но признал: «Я не чувствую радости, мы в тяжёлой ситуации»",
-      "bullets": [],
-      "category": "match",
-      "country": "england",
-      "published_at": "2026-11-09T07:04:35+00:00",
-      "source_domain": "sportskeeda.com",
-      "source_url": "https://www.sportskeeda.com/football/news-i-feel-happy-patrick-dorgu-sends-strong-message-manchester-united-teammates-scoring-late-equaliser-4-4-draw-aston-villa",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "football365.com",
-          "url": "https://www.football365.com/news/man-utd-neville-names-four-players-relegated-aston-villa"
-        }
-      ]
     }
   ]
 }
