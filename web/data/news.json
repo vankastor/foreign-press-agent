@@ -1,6 +1,384 @@
 {
-  "generated_at": "2026-11-12T05:17:31.927640+00:00",
+  "generated_at": "2026-11-12T06:20:19.502258+00:00",
   "items": [
+    {
+      "id": "2026-11-12-вегас-побил-юту-и-взял-четвёртую-победу-подряд",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Вегас» побил «Юту» и взял четвёртую победу подряд",
+      "summary": "5:3 в Лас-Вегасе: забили Айкел, Олофссон, Хауден и дважды Барбашев, Марнер отдал три передачи, а ассист Марка Стоуна приблизил его к клубному рекорду «Вегаса» по очкам — осталось два балла.",
+      "bullets": [],
+      "category": "records",
+      "country": "usa",
+      "published_at": "2026-11-12T01:07:00-05:00",
+      "source_domain": "foxsports.com",
+      "source_url": "https://www.foxsports.com/articles/nhl/stone-moves-within-2-points-of-breaking-vegas-career-scoring-record-in-53-win-over-utah",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892693"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/utah-mammoth-vegas-golden-knights-game-recap-november-11-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-гол-сезона-хёгландер-забросил-между-ног",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Гол сезона? Хёгландер забросил между ног",
+      "summary": "Форвард «Нэшвилла» протащил шайбу между ног и бросил под перекладину Броссуа на 36-й минуте — пас отдал Страбл, «Предаторз» повели 2:1.",
+      "bullets": [],
+      "category": "other",
+      "country": "usa",
+      "published_at": "2026-11-12T01:03:00-05:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/predators/video/nsh-ana-hoglander-scores-goal-against-laurent-brossoit-6408268575112",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/topic/short-shifts/goal-of-season-nashville-predators-nils-hoglander"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-делап-в-челси-я-был-расстроен-и-злился",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Делап: в «Челси» я был расстроен и злился",
+      "summary": "Форвард «Ноттингем Форест» признался в интервью talkSPORT, что период в «Челси» с двумя голами в 41 матче выбил его из колеи, и теперь он ждёт первого вызова в сборную Англии после пропуска матчей с Хорватией и Испанией.",
+      "bullets": [],
+      "category": "statements",
+      "country": "england",
+      "published_at": "2026-11-12T05:55:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/liam-delap-frustrated-angry-tough-chelsea-spell-nottingham-forest-striker-england-call-up/blt2a83e45010b231af",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-нэшвилл-выиграл-шестой-матч-подряд",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Нэшвилл» выиграл шестой матч подряд",
+      "summary": "«Предаторз» обыграли «Анахайм» 4:2: Аннунен отразил 27 броска, Йози набрал 800-е очко в НХЛ, а у «Дакс» прервалась серия из пяти побед.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-12T00:51:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/recap/_/gameId/401892694",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/nashville-predators-anaheim-ducks-game-recap-november-11-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-галатасарай-зимой-уход-угочукву-и-слова-озбека",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Галатасарай» зимой: уход Угочукву и слова Озбека",
+      "summary": "Клуб планирует усилить опорную зону, центр обороны и правый фланг, при этом Угочукву ждёт уход в январе, а Битшиабу — возвращение в «Лейпциг»; президент Дурсун Озбек оправдал летнюю паузу, заявив, что более ранние сделки стоили бы примерно на 50 млн евро дороже.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "turkey",
+      "published_at": "2026-11-12T08:47:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/galatasaray-da-transferde-soru-isaretleri-SXHBQ1182597SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-прессинг-монстр-розе-как-борнмут-взлетел-с-18-го-места",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "analytics",
+      "title": "Прессинг-монстр Розе: как «Борнмут» взлетел с 18-го места",
+      "summary": "Большой разбор Goal: Марко Розе превратил «Борнмут» из команды с тремя очками за шесть туров в седьмую силу АПЛ и грозу Европы.",
+      "bullets": [
+        "В середине октября «Борнмут» был 18-м с тремя очками за шесть туров — с тех пор восемь побед подряд во всех турнирах.",
+        "Восемь голов АПЛ после провоцированных ошибок соперника — вдвое больше, чем у любой другой команды лиги; в шести из восьми эпизодов мяч отбирал или забивал Эванилсон.",
+        "У Эванилсона девять результативных действий — он делит первое место в гонке бомбардиров с Холандом, а «Борнмут» пропустил лишь дважды в последних восьми матчах.",
+        "«Борнмут» стал вторым английским клубом в истории и первым после «Ливерпуля» 1964 года, кто победил в первых четырёх матчах еврокубка."
+      ],
+      "category": "match",
+      "country": "england",
+      "published_at": "2026-11-12T05:45:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/unstoppable-after-a-horror-start-a-german-manager-has-created-a-feared-pressing-monster-in-the-premier-league/bltac481716ae023c9f",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-дубль-барбашева-принёс-вегасу-победу-над-ютой",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Дубль Барбашева принёс «Вегасу» победу над «Ютой»",
+      "summary": "Россиянин забил дважды во втором периоде (4:51 и 8:16) и стал второй звездой матча; у «Юты» отличился Дмитрий Симашев, а вызванный из АХЛ Даниил Бут провёл 12:36.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-12T00:42:00-05:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/goldenknights/video/uta-vgk-barbashev-scores-goal-against-sebastian-cossa-6408266551112",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892693"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-кейн-не-исключил-возвращения-в-премьер-лигу",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Кейн не исключил возвращения в Премьер-лигу",
+      "summary": "Обладатель «Золотого мяча» после продления контракта с «Баварией» до 2029 года заявил на talkSPORT, что возвращение в «Тоттенхэм» или другой клуб АПЛ однажды возможно, и нацелился сыграть на чемпионате мира 2030 года.",
+      "bullets": [],
+      "category": "statements",
+      "country": "germany",
+      "published_at": "2026-11-12T05:35:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/ballon-dor-winner-harry-kane-tottenham-premier-league-return-bayern-munich-2030-world-cup/blt7ca879009563fa76",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-галатасарай-ищет-правого-защитника-мюльдюр-и-куртулан",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Галатасарай» ищет правого защитника: Мюльдюр и Куртулан",
+      "summary": "В зимнем окне клуб намерен усилить правый фланг обороны и уже провёл один контакт с 27-летним Мертом Мюльдюром, у которого контракт с «Фенербахче» истекает летом; вторым вариантом остаётся 23-летний Арда Окан Куртулан из «Гёзтепе».",
+      "bullets": [],
+      "category": "transfers",
+      "country": "turkey",
+      "published_at": "2026-11-12T08:32:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/galatasaray-da-sag-bek-hedefi-mert-muldur-ve-arda-okan-kurtulan-SXHBQ1182594SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-верона-готова-расстаться-с-сусловом-в-январе",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Верона» готова расстаться с Сусловом в январе",
+      "summary": "Словацкий атакующий игрок провёл в сезоне лишь четыре матча и 152 минуты, в конце октября клуб объявлял о надрыве задней поверхности бедра средней степени, но его всё равно вызвали в сборную — и теперь обсуждается уход в зимнее окно.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "italy",
+      "published_at": "2026-11-12T06:30:00+01:00",
+      "source_domain": "tuttosport.com",
+      "source_url": "https://www.tuttosport.com/news/calcio/serie-b/hellas-verona/2026/11/12-152531231/verona_suslov_un_caso_sar_addio_",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-бешикташ-выдал-самый-результативный-старт-за-десять-лет",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Бешикташ» выдал самый результативный старт за десять лет",
+      "summary": "При Винченцо Итальяно команда забила 23 мяча — лучший старт в лиге за десятилетие, а на вершине списка по системе «гол+пас» сразу трое: Коркун Кёкчю, Жуниор Олайтан и Влахович, у каждого по десять результативных действий.",
+      "bullets": [],
+      "category": "records",
+      "country": "turkey",
+      "published_at": "2026-11-12T08:26:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/besiktas-ta-10-yilin-en-golcu-baslangici-zirvede-uc-isim-SXHBQ1182593SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-асенсио-нашёл-сюрприз-претендента-в-испании",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Асенсио нашёл сюрприз-претендента в Испании",
+      "summary": "Испанский клуб, по данным местной прессы, интересуется Марко Асенсио, который из-за травм так и не смог помочь «Фенербахче».",
+      "bullets": [],
+      "category": "rumors",
+      "country": "turkey",
+      "published_at": "2026-11-12T08:26:00+03:00",
+      "source_domain": "milliyet.com.tr",
+      "source_url": "https://www.milliyet.com.tr/skorer/fenerbahcede-marco-asensioya-surpriz-talip-ispanya-iddiasi-7699099",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-белозоглу-перестраивает-фенербахче-йылдырым-доволен",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Белозоглу перестраивает «Фенербахче», Йылдырым доволен",
+      "summary": "С приходом Эмре Белозоглу в клубе начались широкие перемены, включая собственный тренерский штаб, и президент Азиз Йылдырым, по данным издания, остался доволен ходом перестройки.",
+      "bullets": [],
+      "category": "other",
+      "country": "turkey",
+      "published_at": "2026-11-12T08:25:00+03:00",
+      "source_domain": "milliyet.com.tr",
+      "source_url": "https://www.milliyet.com.tr/skorer/fenerbahcede-buyuk-degisim-aziz-yildirim-memnun-kaldi-7699044",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-план-белозоглу-на-паузу-двойные-тренировки-в-самандыре",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "План Белозоглу на паузу: двойные тренировки в Самандыре",
+      "summary": "Новый тренер «Фенербахче», стартовавший с победы 5:0 над «Арка Чорум», проведёт перерыв на сборные с двухразовыми занятиями, усилит атакующую роль Мэйсона Гринвуда и столкнёт Огуза Айдына с Керемом Актюркоглу в борьбе за левый фланг.",
+      "bullets": [],
+      "category": "other",
+      "country": "turkey",
+      "published_at": "2026-11-12T08:21:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/emre-belozoglu-nun-milli-ara-plani-SXHBQ1182592SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-наполи-и-рома-интересуются-габриэлом-сарой",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Наполи» и «Рома» интересуются Габриэлом Сарой",
+      "summary": "Со ссылкой на итальянскую прессу сообщается об интересе «Наполи» и «Ромы» к 27-летнему полузащитнику «Галатасарая»: в этом сезоне у бразильца 2 гола и 6 передач в 15 официальных матчах, контракт до 2029 года, оценка — 27 млн евро.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "turkey",
+      "published_at": "2026-11-12T08:18:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/gabriel-sara-ya-yeni-talip-SXHBQ1182591SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-доку-вернулся-лукаку-выпал-из-матча-с-турцией",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Доку вернулся, Лукаку выпал из матча с Турцией",
+      "summary": "Винго «Манчестер Сити» Жереми Доку снова в распоряжении Марка ван Боммеля после четырёх пропущенных матчей, а форвард «Фенербахче» Ромелу Лукаку не сыграет в Измире из-за проблемы с бедром, хотя продолжает тренироваться.",
+      "bullets": [],
+      "category": "injury",
+      "country": "other",
+      "published_at": "2026-11-12T05:15:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/man-city-jeremy-doku-belgium-mark-van-bommel-boost-fenerbahce-romelu-lukaku-turkey/blt5750ee46d3cdf572",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-торино-заключил-зимний-пакт-против-наполи-по-каччамани",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Торино» заключил зимний пакт против «Наполи» по Каччамани",
+      "summary": "Спортдиректор «Наполи» Джованни Манна признал слежку за 19-летним винго «Торино» («следим, но до перехода ещё далеко»), однако клуб и игрок договорились не уезжать зимой: летом «Рома» давала около 12 млн плюс бонусы, Кайро отказал, а в сентябре Каччамани продлил контракт до 2031 года.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "italy",
+      "published_at": "2026-11-12T06:15:00+01:00",
+      "source_domain": "tuttosport.com",
+      "source_url": "https://www.tuttosport.com/news/calcio/calciomercato/2026/11/12-152531229/cacciamani-torino_il_patto_invernale_per_frenare_il_napoli",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-адалы-отрезал-талиска-не-в-повестке-бешикташа",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Адалы отрезал: Талиска не в повестке «Бешикташа»",
+      "summary": "Президент клуба Сердал Адалы опроверг сообщения о возвращении Андерсона Талиски, заявив «его нет в нашей повестке»; бразилец летом ушёл из «Фенербахче» в «Аль-Джазиру», забив за стамбульцев 44 мяча в 75 матчах.",
+      "bullets": [],
+      "category": "statements",
+      "country": "turkey",
+      "published_at": "2026-11-12T08:11:00+03:00",
+      "source_domain": "fanatik.com.tr",
+      "source_url": "https://www.fanatik.com.tr/besiktas/besiktas-anderson-taliscayi-reddetti-2644242",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-серия-макдэвида-20-матчей-эдмонтон-победил-в-овертайме",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Серия Макдэвида — 20 матчей, «Эдмонтон» победил в овертайме",
+      "summary": "Бушар забил на 47-й секунде овертайма (3:2 с «Филадельфией»), Хайман оформил дубль, а передача Макдэвида довела его результативную серию со старта сезона до 20 игр и 49 очков.",
+      "bullets": [],
+      "category": "records",
+      "country": "canada",
+      "published_at": "2026-11-12T00:11:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/recap/_/gameId/401892692",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/philadelphia-flyers-edmonton-oilers-game-recap-november-11-2026"
+        },
+        {
+          "domain": "foxsports.com",
+          "url": "https://www.foxsports.com/articles/nhl/bouchard-scores-in-ot-to-lift-the-oilers-past-the-flyers-32"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-трабзонспор-вышел-на-тоттенхэм-по-ришарлисону",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Трабзонспор» вышел на «Тоттенхэм» по Ришарлисону",
+      "summary": "Турецкий клуб начал контакты по 29-летнему бразильцу, который не внесён в заявку «Тоттенхэма» на АПЛ: лондонцы просят 15 млн евро, игрок благосклонен к переезду, а его контракт истекает в июне 2027 года.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "turkey",
+      "published_at": "2026-11-12T08:07:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/trabzonspor-dan-richarlison-icin-hamle-SXHBQ1182590SXQ",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-12-бушар-в-овертайме-дотянул-эдмонтон-до-третьей-победы-подряд",
       "sport": "hockey",
@@ -16,6 +394,23 @@
       "source_url": "https://www.sportsnet.ca/nhl/article/bouchard-nets-ot-winner-as-oilers-hold-off-flyers/",
       "ru_covered": true,
       "ru_source": "allhockey.ru",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-малиновский-возвращается-хорошая-новость-для-трабзонспора",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Малиновский возвращается: хорошая новость для «Трабзонспора»",
+      "summary": "Долго отсутствовавший Руслан Малиновский нарастил объём тренировок и, по данным издания, скоро вернётся в состав чёрно-синих.",
+      "bullets": [],
+      "category": "injury",
+      "country": "turkey",
+      "published_at": "2026-11-12T08:02:00+03:00",
+      "source_domain": "milliyet.com.tr",
+      "source_url": "https://www.milliyet.com.tr/skorer/trabzonspora-malinovskyi-mujdesi-geri-donuyor-7699142",
+      "ru_covered": false,
+      "ru_source": "",
       "related": []
     },
     {
@@ -85,6 +480,23 @@
       "related": []
     },
     {
+      "id": "2026-11-12-фабиньо-тащит-трабзонспор-шесть-из-шести",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Фабиньо тащит «Трабзонспор»: шесть из шести",
+      "summary": "Издание отмечает, что клуб взял шесть результатов из шести в Суперлиге, а ключевую роль в центре поля сыграл Фабиньо — особенно в матчах против «Галатасарая» и «Бешикташа».",
+      "bullets": [],
+      "category": "records",
+      "country": "turkey",
+      "published_at": "2026-11-12T07:57:00+03:00",
+      "source_domain": "milliyet.com.tr",
+      "source_url": "https://www.milliyet.com.tr/skorer/trabzonsporda-fabinho-farki-7699062",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
       "id": "2026-11-12-гол-сэнхайма-выстоял-после-запроса-эдмонтона",
       "sport": "hockey",
       "date": "2026-11-12",
@@ -124,6 +536,28 @@
       ]
     },
     {
+      "id": "2026-11-12-батраков-зовёт-кисляка-галатасарай-начал-операцию",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Батраков зовёт Кисляка: «Галатасарай» начал операцию",
+      "summary": "Турецкая пресса сообщает, что лидер Суперлиги подключил Алексея Батракова к уговорам Матвея Кисляка и готов заплатить ЦСКА 20–25 млн евро за 21-летнего полузащитника с контрактом до 2029 года; интерес также приписывают «Фенербахче» и «Бешикташу».",
+      "bullets": [],
+      "category": "russians",
+      "country": "turkey",
+      "published_at": "2026-11-12T07:52:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/galatasaray-da-matvey-kislyak-operasyonu-SXHBQ1182589SXQ",
+      "ru_covered": true,
+      "ru_source": "sportmail.ru",
+      "related": [
+        {
+          "domain": "fanatik.com.tr",
+          "url": "https://www.fanatik.com.tr/galatasaray/galeri-aleksey-batrakov-devreye-girdi-galatasaraydan-makyev-kslyiak-operasyonu-2644246"
+        }
+      ]
+    },
+    {
       "id": "2026-11-12-хёгландер-забил-между-ног-и-вывел-нэшвилл-вперёд",
       "sport": "hockey",
       "date": "2026-11-12",
@@ -136,6 +570,23 @@
       "published_at": "2026-11-11T23:51:37-05:00",
       "source_domain": "sportsnet.ca",
       "source_url": "https://www.sportsnet.ca/nhl/video/predators-hoglander-goes-between-the-legs-to-score-remarkable-goal/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-ювентус-внёс-осимхена-в-январский-список",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Ювентус» внёс Осимхена в январский список",
+      "summary": "Итальянский агент и юрист Никола Пента заявил в эфире TMW Radio, что нигериец — самый подходящий форвард для «Юве», а Турин мог бы заплатить 30–40 млн евро сразу и остальное в рассрочку; «Галатасарай» держит игрока по контракту до 2029 года.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "italy",
+      "published_at": "2026-11-12T07:45:00+03:00",
+      "source_domain": "sporx.com",
+      "source_url": "https://www.sporx.com/futbol/superlig/galatasaray/osimhen-icin-juventus-iddiasi-SXGLQ81238SXQ",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -158,6 +609,40 @@
       "published_at": "2026-11-11T23:44:43-05:00",
       "source_domain": "sports.yahoo.com",
       "source_url": "https://sports.yahoo.com/articles/trade-tree-trading-erik-karlsson-044443999.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-братья-аллофс-о-братьях-эль-мала-похвала-и-смирение",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Братья Аллофс — о братьях Эль-Мала: похвала и смирение",
+      "summary": "В двойном интервью Sport1 Томас и Клаус Аллофс похвалили Саида Эль-Малу и порассуждали о давлении, которое ложится на него и его брата Малека в «Кёльне».",
+      "bullets": [],
+      "category": "statements",
+      "country": "germany",
+      "published_at": "2026-11-12T05:37:00+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/allofs-brueder-ueber-el-mala-brueder-zwischen-lob-und-demut",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-германия-сыграет-в-белграде-при-пустых-трибунах",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Германия сыграет в Белграде при пустых трибунах",
+      "summary": "Матч Лиги наций против Сербии в пятницу (20:45) пройдёт практически без зрителей из-за санкции УЕФА в адрес сербской федерации: Филипп Треу считает, что это упростит общение на поле, а DFB отдал 50 из своих 200 мест делегации и семьям.",
+      "bullets": [],
+      "category": "match",
+      "country": "germany",
+      "published_at": "2026-11-12T05:36:00+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/fussball/dfb-team/2026/11/dfb-elf-geisterkulisse-auch-ein-vorteil",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -38903,564 +39388,6 @@
       "published_at": "2026-11-09T08:52:33+00:00",
       "source_domain": "footmercato.net",
       "source_url": "https://www.footmercato.net/a3825443671172679838-tottenham-roberto-de-zerbi-tacle-lourdement-ses-joueurs",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-сассуоло-снимает-аквилани-29-пропущенных-за-11-туров",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "«Сассуоло» снимает Аквилани: 29 пропущенных за 11 туров",
-      "summary": "После 0:3 от «Ромы» и шести поражений в семи турах клуб готов расстаться с тренером; главные кандидаты — Роберто Д'Аверса и Винченцо Монтелла, оба были на «Олимпико» в субботу.",
-      "bullets": [],
-      "category": "other",
-      "country": "italy",
-      "published_at": "2026-11-09T09:47:28+01:00",
-      "source_domain": "tuttosport.com",
-      "source_url": "https://www.tuttosport.com/news/calcio/serie-a/sassuolo/2026/11/09-152486546/sassuolo_aquilani_al_capolinea_idea_montella_ma_c_un_altro_nome_in_pole/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "corrieredellosport.it",
-          "url": "https://www.corrieredellosport.it/news/calcio/serie-a/sassuolo/2026/11/09-152487684/sassuolo_aquilani_in_bilico_idea_montella/"
-        },
-        {
-          "domain": "gianlucadimarzio.com",
-          "url": "https://www.gianlucadimarzio.com/news-calcio/sassuolo-daversa-montella-panchine-serie-a-499320"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-маффео-извинился-за-интервью-в-перерыве-матча-с-реалом",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Маффео извинился за интервью в перерыве матча с «Реалом»",
-      "summary": "Защитник «Валенсии» назвал формат «ерундой» при счёте 0:2, а теперь в Instagram объяснил: он отказывался говорить, его обязали, и журналиста Серхио Киранте обижать не хотел.",
-      "bullets": [],
-      "category": "statements",
-      "country": "spain",
-      "published_at": "2026-11-09T08:45:00+00:00",
-      "source_domain": "sports.yahoo.com",
-      "source_url": "https://sports.yahoo.com/articles/valencia-defender-pablo-maffeo-apologises-084500198.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-брайтон-новая-сенсация-англии-но-сам-в-это-не-верит",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "«Брайтон» — новая сенсация Англии, но сам в это не верит",
-      "summary": "Voetbal International разбирает цифры команды Хюрцелера, которая идёт вплотную к еврокубковой зоне и отрицает борьбу за титул.",
-      "bullets": [
-        "Никто в АПЛ не забил больше «Брайтона» (26 мячей), и только «Арсенал» пропустил меньше — 5 против 7.",
-        "Отставание от «Арсенала» всё ещё велико — 22 очка против 27, но Паскаль Грос жёстко отрезает: «Нет, мы не в гонке за титул».",
-        "Фабиан Хюрцелер — третий среди немецких тренеров по среднему числу очков за матч в клубах из топ-10 европейских лиг в этом сезоне.",
-        "В четверг «Брайтон» играл в Лиге Европы с «Хетафе» и выиграл, в воскресенье обыграл «Брентфорд» — Хюрцелер называет сохранение этой стабильности главным вызовом."
-      ],
-      "category": "match",
-      "country": "england",
-      "published_at": "2026-11-09T08:44:47+00:00",
-      "source_domain": "vi.nl",
-      "source_url": "https://www.vi.nl/nieuws/brighton-de-nieuwe-stuntploeg-van-engeland-dit-is-niet-vanzelfsprekend",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-gazzetta-у-ювентуса-нет-идентичности-и-в-лч-так-не-попадают",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Gazzetta: у «Ювентуса» нет идентичности, и в ЛЧ так не попадают",
-      "summary": "Тактический разбор ничьей 2:2 во Флоренции: Спаллетти нашёл связку в атаке, но цифры старта — худшие за десятилетия.",
-      "bullets": [
-        "Это второй худший старт «Ювентуса» в эру Серии А из 20 команд: на одно очко меньше, чем годом ранее, и шесть очков отставания от четвёртого места, где сейчас «Милан».",
-        "Лучший бомбардир команды — защитник Бремер с тремя мячами; «Юве» забивает в среднем 1,3 за игру и смог воспользоваться только тем, что «Фиорентина» пропускает 2,3.",
-        "Схема 4-2-3-1 Ваноли развалилась на левом фланге: Ндуру и Улаи не хватало третьего помощника, и вертикаль Маккенни — Коло Муани раз за разом выводила «Юве» на удар.",
-        "Спаллетти за матч перебрал несколько систем — от 2+1 впереди до 3-4-2-1 с четырьмя игроками на первой линии, но окончательной так и не зафиксировал."
-      ],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-11-09T09:42:37+01:00",
-      "source_domain": "gazzetta.it",
-      "source_url": "https://www.gazzetta.it/Calcio/Serie-A/Juventus/09-11-2026/fiorentina-juve-analisi-tattica-spalletti-gazzetta.shtml",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-рома-гasperini-19-голов-и-рост-больших-шансов-на-145",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "«Рома» Гasperini: +19 голов и рост больших шансов на 145%",
-      "summary": "Corriere dello Sport разбирает, почему 67-летний тренер выбрал Рим именно под чемпионство, и подкрепляет это цифрами второго сезона.",
-      "bullets": [
-        "За первые 11 туров «Рома» забила 31 гол против 12 годом ранее — плюс 19; в восьми победах средняя результативность 3,37 мяча за игру.",
-        "Планки в 41 гол (с учётом ЛЧ) команда достигла за 15 матчей — в прошлом сезоне на это потребовалось 30 игр, до 25 января.",
-        "Число созданных больших шансов выросло на 145%: было 20 за 11 туров в первый год Гasperini, сейчас уже 49; удары в цель — с 57 до 72, касания в финальной трети — с 267 до 409.",
-        "Команда рискует, персонально опекая соперника на его половине поля: 60 отборов на чужой трети за 11 туров против 47 годом ранее."
-      ],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-11-09T09:42:35+01:00",
-      "source_domain": "corrieredellosport.it",
-      "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/09-152487686/gasperini_non_ha_pi_limiti_ha_scelto_roma_per_puntare_al_titolo/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "gazzetta.it",
-          "url": "https://www.gazzetta.it/Calcio/Serie-A/Roma/storie/09-11-2026/roma-scudetto-gasperini/dream-team.shtml"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-три-клуба-апл-целятся-в-защитника-фенербахче",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Три клуба АПЛ целятся в защитника «Фенербахче»",
-      "summary": "По данным турецкой прессы, «Челси», «Манчестер Юнайтед» и «Ливерпуль» следят за левым защитником Арчи Брауном; стамбульцы не станут слушать предложения ниже 30 млн евро.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "turkey",
-      "published_at": "2026-11-09T11:37:38+03:00",
-      "source_domain": "aspor.com.tr",
-      "source_url": "https://www.aspor.com.tr/fenerbahce/2026/11/09/devre-arasinda-30-milyon-euroluk-teklif-3-premier-lig-devi-fenerbahceli-yildizi-istiyor",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-что-лига-наций-значит-для-клоппа-и-отбора-на-евро-2028",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Что Лига наций значит для Клоппа и отбора на Евро-2028",
-      "summary": "Transfermarkt разбирает все расклады сборной Германии перед Сербией и Нидерландами — вплоть до влияния на квалификацию.",
-      "bullets": [
-        "Германия отстаёт на три очка от Нидерландов и Греции (по 8) и уже не может выиграть группу своими силами.",
-        "Второе место выводит в четвертьфинал Лиги наций в марте, но почти наверняка против топ-команды; первое позволило бы обойти Испанию и Францию.",
-        "Пикантный сценарий: при победе Нидерландов над Грецией с разницей в два мяча «оранжевым» и немцам хватило бы договорного 1:0 — обе прошли бы дальше.",
-        "Выход в Финал четырёх в июне 2027-го сдвинул бы старт отбора на Евро на сентябрь: всего шесть матчей в группе из четырёх плюс гарантированное место в плей-офф."
-      ],
-      "category": "other",
-      "country": "germany",
-      "published_at": "2026-11-09T09:37:26+01:00",
-      "source_domain": "transfermarkt.de",
-      "source_url": "https://www.transfermarkt.de/klopp-und-dfb-elf-unter-siegdruck-das-bedeutet-die-nations-league-fur-die-em-qualifikation/view/news/490279",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-манчини-вызвал-в-сборную-италии-17-летнего-без-матчей-за-про",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Манчини вызвал в сборную Италии 17-летнего без матчей за профи",
-      "summary": "Риккардо Кассано из академии «Комо» попал в заявку на Лигу наций — он ещё не дебютировал во взрослом футболе и не родственник Антонио.",
-      "bullets": [],
-      "category": "other",
-      "country": "italy",
-      "published_at": "2026-11-09T08:31:00+00:00",
-      "source_domain": "transfermarkt.com",
-      "source_url": "https://www.transfermarkt.com/still-to-play-his-first-professional-game-mancini-springs-a-surprise-with-17-year-old-cassano/view/news/490280",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "bild.de",
-          "url": "https://www.bild.de/sport/fussball/italien-roberto-mancini-nominiert-17-jaehrigen-ohne-profispiel-fuer-nationalmannschaft-6af17ddd42449d0f3750c2d6"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-football-italia-закат-аллегри-начался-ещё-до-наполи",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Football Italia: закат Аллегри начался ещё до «Наполи»",
-      "summary": "Разбор того, почему тренер «Наполи» на грани, и какие цифры тянутся за ним со второй половины сезона в «Милане».",
-      "bullets": [
-        "«Наполи» проиграл 7 из 14 матчей сезона во всех турнирах; последнее — 1:4 от «Порту» в Лиге чемпионов.",
-        "По подсчётам Джованни Капуано, в последних 27 матчах Аллегри 14 поражений при 10 победах и 40 пропущенных — это тренер, строивший всё на единстве и обороне.",
-        "После Порту раздевалка вскрылась публично: Лукка выяснял отношения с Де Брюйне на поле, Политано заявил, что после поражений к прессе выходят только итальянцы, а Хёйлунд открыто не согласился с тренером.",
-        "Сам Аллегри ссылается на прошлый опыт: «У меня был похожий сезон в «Юве», я через это проходил»."
-      ],
-      "category": "other",
-      "country": "italy",
-      "published_at": "2026-11-09T08:30:21+00:00",
-      "source_domain": "football-italia.net",
-      "source_url": "https://football-italia.net/allegri-downfall-began-way-before-napoli-spell/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-рабьо-о-судействе-в-дженоа-постоянная-ложь-вас-не-продвинет",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Рабьо — о судействе в Дженоа: «Постоянная ложь вас не продвинет»",
-      "summary": "Француз после 2:1 «Милана» публично атаковал арбитра Массу из-за спорного эпизода с жёлтой карточкой Меркандалли.",
-      "bullets": [],
-      "category": "statements",
-      "country": "italy",
-      "published_at": "2026-11-09T08:30:00+00:00",
-      "source_domain": "rmcsport.bfmtv.com",
-      "source_url": "https://rmcsport.bfmtv.com/football/serie-a/genoa-milan-mentir-sans-cesse-ne-vous-fera-pas-avancer-le-coup-de-gueule-de-rabiot-contre-l-arbitrage-apres-une-action-polemique_AV-202611090338.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "milannews.it",
-          "url": "https://www.milannews.it/rassegna-stampa/moviola-gazzetta-mercandalli-rabiot-l-espulsione-decisione-giusta-635639"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-сассуоло-снимает-аквилани-29-пропущенных-в-11-турах",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "«Сассуоло» снимает Аквилани: 29 пропущенных в 11 турах",
-      "summary": "После 0:3 от «Ромы» и пяти поражений подряд клуб меняет тренера, в списке кандидатов — Монтелла и Д’Аверса.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "italy",
-      "published_at": "2026-11-09T08:30:00+00:00",
-      "source_domain": "gianlucadimarzio.com",
-      "source_url": "https://www.gianlucadimarzio.com/caffe-di-marzio/sassuolo-aversa-montella-cambiano-punto-panchine-serie-499321",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "tuttosport.com",
-          "url": "https://www.tuttosport.com/news/calcio/serie-a/sassuolo/2026/11/09-152486546/sassuolo_aquilani_al_capolinea_idea_montella_ma_c_un_altro_nome_in_pole/"
-        },
-        {
-          "domain": "corrieredellosport.it",
-          "url": "https://www.corrieredellosport.it/news/calcio/serie-a/sassuolo/2026/11/09-152487684/sassuolo_aquilani_in_bilico_idea_montella/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-агент-батракова-едет-в-стамбул-за-новым-контрактом",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Агент Батракова едет в Стамбул за новым контрактом",
-      "summary": "Владимир Кузьмичёв подтвердил встречу с руководством «Галатасарая»: действующие отступные — €55 млн, их хотят поднять.",
-      "bullets": [],
-      "category": "russians",
-      "country": "turkey",
-      "published_at": "2026-11-09T08:29:00+00:00",
-      "source_domain": "aspor.com.tr",
-      "source_url": "https://www.aspor.com.tr/galatasaray/2026/11/09/galatasarayda-aleksey-batrakov-icin-yeni-sozlesme-gundemde-menajerinden-aciklama",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "haberturk.com",
-          "url": "https://www.haberturk.com/spor/foto/aleksey-batrakov-un-temsilcisi-vladimir-kuzmichev-acikladi-yeni-sozlesme-icin-galatasaray-ile-gorusme-planladim-3925961"
-        },
-        {
-          "domain": "ntvspor.net",
-          "url": "https://www.ntvspor.net/futbol"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-фанаты-селтика-освистали-минуту-молчания-её-прервали",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Фанаты «Селтика» освистали минуту молчания — её прервали",
-      "summary": "В День поминовения перед игрой с «Килмарноком» арбитр Джон Битон остановил церемонию через 13 секунд из-за свиста; Celtic TV приглушил звук трансляции, клуб не выходил с маками на форме.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "other",
-      "published_at": "2026-11-09T08:28:31+00:00",
-      "source_domain": "dailymail.com",
-      "source_url": "https://www.dailymail.com/sport/football/article-16277509/Celtic-fans-boo-minutes-silence-Remembrance-Sunday-referee-ends-tribute-just-13-SECONDS.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "welt.de",
-          "url": "https://www.welt.de/sport/fussball/internationale-ligen/article6af1740a86bf07099a7be754/celtic-glasgow-schweigeminute-nach-zwoelf-sekunden-abgebrochen"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-барселона-отыгралась-на-метрополитано-и-ушла-в-отрыв",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "«Барселона» отыгралась на «Метрополитано» и ушла в отрыв",
-      "summary": "Дубль Фермина Лопеса принёс победу 2:1 в гостях у «Атлетико» после гола Джулиано Симеоне: каталонцы сохранили первое место и прервали семиматчевую победную серию мадридцев.",
-      "bullets": [],
-      "category": "match",
-      "country": "spain",
-      "published_at": "2026-11-09T08:28:28+00:00",
-      "source_domain": "football-espana.net",
-      "source_url": "https://www.football-espana.net/2026/11/09/fermin-lopez-double-at-the-metropolitano-keeps-barcelona-top-and-five-clear-of-atletico",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "sports.yahoo.com",
-          "url": "https://sports.yahoo.com/articles/ferm-n-l-pez-double-082800086.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-тотти-о-возвращении-в-рому-такие-вещи-делаются-вдвоём",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Тотти о возвращении в «Рому»: «Такие вещи делаются вдвоём»",
-      "summary": "В интервью кувейтскому SashaSports капитан-легенда снова намекнул, что мяч на стороне клуба, и подчеркнул: «Рома» для меня — всё.",
-      "bullets": [],
-      "category": "statements",
-      "country": "italy",
-      "published_at": "2026-11-09T09:27:23+01:00",
-      "source_domain": "corrieredellosport.it",
-      "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/roma/2026/11/09-152486984/l_addio_alla_roma_la_corsa_scudetto_e_il_ritorno_a_trigoria_totti_dice_tutto_e_sempre_casa_mia_/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-мю-хочет-забрать-тренера-байерна-в-штаб-каррика",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "«МЮ» хочет забрать тренера «Байерна» в штаб Каррика",
-      "summary": "Если клуб решит оставить Каррика, «Юнайтед» готов усилить его штаб тренером «Байерна» Аароном Дэнксом — решение за спортивным директором Джейсоном Уилкоксом.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "england",
-      "published_at": "2026-11-09T08:25:15+00:00",
-      "source_domain": "teamtalk.com",
-      "source_url": "https://www.teamtalk.com/manchester-united/michael-carrick-sack-solution-bayern-munich-coach-aaron-danks-new-assistant-exclusive",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-защитника-лидса-травят-в-сети-после-травмы-матиса-теля",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Защитника «Лидса» травят в сети после травмы Матиса Теля",
-      "summary": "Джейден Богл получил поток расистских оскорблений после фола, из-за которого Тель покинул поле; «Лидс» заявил о «мерзких сообщениях» и будет добиваться максимальных санкций вместе с АПЛ.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "england",
-      "published_at": "2026-11-09T08:24:57+00:00",
-      "source_domain": "20minutes.fr",
-      "source_url": "https://www.20minutes.fr/sport/football/premier_league/4261557-20261109-premier-league-joueur-leeds-jayden-bogle-victime-nombreuses-insultes-racistes-apres-avoir-blesse-mathys-tel",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-три-месяца-мечты-альфаджо-чиссе-второй-после-пато",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Три месяца мечты Альфаджо Чиссе: второй после Пато",
-      "summary": "Gazzetta разбирает, за счёт чего 20-летний форвард «Милана» стал лучшим бомбардиром клуба и попал в сборную Италии.",
-      "bullets": [
-        "Пятый гол в чемпионате в девятом матче в возрасте 20 лет и 17 дней сделал его вторым самым молодым игроком «Милана», добравшимся до такой отметки в первых 10 турах эры трёх очков — после Пато (18 лет 181 день).",
-        "Чиссе — один из трёх футболистов 2006 года рождения и младше в топ-5 лигах Европы, у кого минимум 8 голов во всех турнирах: рядом только Ямаль (13) и Бруннер (8).",
-        "Шевченко в своих первых 13 матчах за «Милан» тоже набрал 8 мячей — правда, за меньшее число игр.",
-        "Gazzetta обращает внимание на выбор в гол «Дженоа»: пас Рабьо шёл медленно, Бейлоу стоял неплохо, но Чиссе не стал бить в силу, а положил мяч в угол."
-      ],
-      "category": "records",
-      "country": "italy",
-      "published_at": "2026-11-09T09:18:36+01:00",
-      "source_domain": "gazzetta.it",
-      "source_url": "https://www.gazzetta.it/Calcio/Serie-A/Milan/09-11-2026/alphadjo-cisse-milan-italia-europa.shtml",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-газиантеп-установил-худший-старт-в-истории-суперлиги",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "«Газиантеп» установил худший старт в истории Суперлиги",
-      "summary": "8 очков в 11 турах, шесть поражений подряд, 19 пропущенных и зона вылета — это антирекорд клуба и худшие показатели за восемь сезонов; Орхан Ак уже покинул команду.",
-      "bullets": [],
-      "category": "records",
-      "country": "turkey",
-      "published_at": "2026-11-09T11:14:54+03:00",
-      "source_domain": "sabah.com.tr",
-      "source_url": "https://www.sabah.com.tr/spor/futbol/2026/11/09/gaziantep-fkden-super-lig-tarihinin-en-kotu-baslangici",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "hurriyet.com.tr",
-          "url": "https://www.hurriyet.com.tr/sporarena/gaziantep-fk-super-ligdeki-en-kotu-11-maclik-baslangicini-yapti-43371254"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-худший-старт-тренера-ланса-за-38-лет-у-каюзака",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Худший старт тренера «Ланса» за 38 лет — у Каюзака",
-      "summary": "После домашнего 1:2 от «Марселя» у Янника Каюзака шесть поражений при трёх победах в девяти матчах: так плохо дебютанты на скамейке «Ланса» не начинали с сезона 1988 года.",
-      "bullets": [],
-      "category": "records",
-      "country": "france",
-      "published_at": "2026-11-09T08:01:23+00:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a6805168085882698846-lens-le-triste-record-historique-de-yannick-cahuzac",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-матч-в-нидерландах-сорван-фанаты-заблокировали-свой-автобус",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Матч в Нидерландах сорван: фанаты заблокировали свой автобус",
-      "summary": "Болельщики «Де Графсхапа» в знак протеста против запрета на гостевой сектор не дали автобусу команды выехать в Арнем — игру с «Витессом» отменили, дело передано в дисциплинарные органы KNVB.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "netherlands",
-      "published_at": "2026-11-09T08:00:07+00:00",
-      "source_domain": "bbc.co.uk",
-      "source_url": "https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "abola.pt",
-          "url": "https://www.abola.pt/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-десять-тезисов-тура-апл-возвращение-делапа",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Десять тезисов тура АПЛ: возвращение Делапа",
-      "summary": "Guardian разбирает уик-энд Премьер-лиги: Делап как будущая замена Кейну, бенефис 20-летнего Алиссона на «Олд Траффорд» и очередной шедевр Диего Гомеса",
-      "bullets": [
-        "Лиам Делап (23) оформил дубль в победе «Ноттингем Форест» над «Ман Сити» 3:1 — после провального сезона в «Челси» Джонатан Уилсон уже видит в нём долгосрочную замену Харри Кейну в сборной Англии",
-        "Бразилец Алиссон, купленный «Астон Виллой» у «Гремио» в январе за стартовые £8,7 млн, за 48 минут на «Олд Траффорд» забил и поучаствовал в двух голах — до этого у него был 1 гол в 18 матчах АПЛ",
-        "Диогу Далот был слишком медленным на первом голе Алиссона, привёз пенальти в начале второго тайма и был освистан при замене — гостевой сектор, наоборот, провожал Алиссона аплодисментами",
-        "Диего Гомес («Брайтон», куплен у «Интер Майами») снова забил дальним ударом с правого полуфланга — после гола со центра поля «Кристал Пэлас» в октябре он выдал ещё один шедевр против «Брентфорда»"
-      ],
-      "category": "match",
-      "country": "england",
-      "published_at": "2026-11-09T08:00:04+00:00",
-      "source_domain": "theguardian.com",
-      "source_url": "https://www.theguardian.com/football/2026/nov/09/premier-league-10-talking-points-weekend-action",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-джокер-в-атаке-как-дест-стал-ключевым-в-псв",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Джокер в атаке: как Дест стал ключевым в ПСВ",
-      "summary": "Voetbal International разбирает, почему правый защитник Серхиньо Дест — лицо футбола Петера Боша и его билет назад в топ-лигу",
-      "bullets": [
-        "Против «Брюгге» Дест был опаснейшим атакующим игроком ПСВ и мог сделать хет-трик: «Я упустил слишком много шансов, мне надо на этом учиться»",
-        "Сам игрок сомневается в границах роли: «Может, это и не функция правого защитника, но я часто оказываюсь в ситуациях, где могу быть важнее для команды»",
-        "Бош называет его «verschilmaker» — игроком, который решает: в его схеме фланговые защитники ультраважны, и Дест с лета 2023-го стал олицетворением требований тренера",
-        "Тренер сознательно мирится с его провалами в обороне и чрезмерным азартом впереди; сам Дест рассчитывает через универсальность вернуться в топ-чемпионат"
-      ],
-      "category": "other",
-      "country": "netherlands",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "source_domain": "vi.nl",
-      "source_url": "https://www.vi.nl/pro/joker-in-de-aanval-hoe-dest-een-dominante-rol-in-het-nieuwe-psv-pakt",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-худшая-сборная-тура-апл-сити-дал-больше-игроков-чем-мю",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Худшая сборная тура АПЛ: «Сити» дал больше игроков, чем «МЮ»",
-      "summary": "Football365 собрал антисимволическую команду 10-го тура по оценкам WhoScored — и «Юнайтед» там далеко не главный поставщик.",
-      "bullets": [
-        "От «Манчестер Юнайтед» в составе только один защитник — Лени Йоро (5,6), и оценка была бы ниже, если бы Ламменс не вытащил мяч перед четвёртым голом «Виллы».",
-        "У «Ман Сити» представителей больше: Гвардиол (5,20) на левом фланге и Энцо Фернандес рядом с ещё одним полузащитником за 100+ млн фунтов.",
-        "Сразу три вратаря тура получили оценку ниже 6: Уолтон (5,37), Доннарумма и Ламменс.",
-        "«Ипсвич» отдал в состав и вратаря, и правого защитника: Уаттара (5,42) потерял мяч 13 раз, не выиграв ни одного отбора и не сделав ни одного перехвата."
-      ],
-      "category": "records",
-      "country": "england",
-      "published_at": "2026-11-09T07:57:15+00:00",
-      "source_domain": "football365.com",
-      "source_url": "https://www.football365.com/news/premier-league-matchday-10-worst-xi-man-utd-city-spurs-brentford-ipswich-forest-villa",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-почеттино-новый-фаворит-на-пост-тренера-юнайтед",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Почеттино — новый фаворит на пост тренера «Юнайтед»",
-      "summary": "После ночного вала ставок аргентинец вышел в лидеры (5/2), опередив Хау (3/1), Нагельсманна (6/1), Конте и Дешама; на этой неделе в Каррингтоне пройдёт совещание о будущем Каррика",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-11-09T07:57:10+00:00",
-      "source_domain": "teamtalk.com",
-      "source_url": "https://www.teamtalk.com/manchester-united/next-boss-mauricio-pochettino-explodes-into-lead-michael-carrick-reacts-sack",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "standard.co.uk",
-          "url": "https://www.standard.co.uk/sport/football/michael-carrick-sack-news-live-man-utd-latest-b1304053.html"
-        },
-        {
-          "domain": "express.co.uk",
-          "url": "https://www.express.co.uk/sport/football/2264495/man-utd-live-michael-carrick-sack-news-updates"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-в-монако-повторили-жест-за-который-дали-четыре-матча",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "В «Монако» повторили жест, за который дали четыре матча",
-      "summary": "Мамаду Кулибали забил «Ле-Ману» и изобразил ту же «перерезанную глотку», за которую его партнёр Пари Бруннер получил дисквалификацию на четыре игры",
-      "bullets": [],
-      "category": "scandals",
-      "country": "france",
-      "published_at": "2026-11-09T07:56:37+00:00",
-      "source_domain": "20minutes.fr",
-      "source_url": "https://www.20minutes.fr/sport/football/ligue-1/4261553-20261109-monaco-finaud-mamadou-coulibaly-refait-celebration-egorgement-paris-brunner-suspendu-quatre-matchs",
       "ru_covered": false,
       "ru_source": "",
       "related": []
