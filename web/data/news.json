@@ -1,6 +1,167 @@
 {
-  "generated_at": "2026-11-12T01:13:09.820159+00:00",
+  "generated_at": "2026-11-12T02:16:46.404053+00:00",
   "items": [
+    {
+      "id": "2026-11-12-корписало-выбросил-клюшку-и-спас-рейнджерс",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Корписало выбросил клюшку и спас «Рейнджерс»",
+      "summary": "В первом периоде в Калгари вратарь «Рейнджерс» отбросил клюшку и в падении поймал ловушкой бросок Зейна Парека, обводившего защитников из-за ворот, — претендент на сэйв сезона НХЛ.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-11T20:29:46-05:00",
+      "source_domain": "sportsnet.ca",
+      "source_url": "https://www.sportsnet.ca/nhl/video/rangers-korpisalo-robs-parekh-with-incredible-stickless-save/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/topic/short-shifts/save-of-season-new-york-rangers-joonas-korpisalo"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-ванкувер-расторгает-контракт-с-ильёй-сафоновым",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Ванкувер» расторгает контракт с Ильёй Сафоновым",
+      "summary": "Канадцы выставили россиянина на безусловный драфт отказов для расторжения однолетнего контракта на $950 тыс. — форвард покинул «Эбботсфорд» и возвращается в «Ак Барс», набрав 4 (0+4) очка в 12 матчах АХЛ.",
+      "bullets": [],
+      "category": "russians",
+      "country": "canada",
+      "published_at": "2026-11-12T01:11:40+00:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/canucks-place-ilya-safonov-on-unconditional-waivers-for-contract-termination.html",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/news/ilya-safonov-vancouver-canucks-waivers-contract-termination-left-ahl-abbotsf"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-суд-запретил-икарди-приближаться-к-дочери",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Суд запретил Икарди приближаться к дочери",
+      "summary": "Суд города Тигре на 45 дней ограничил Мауро Икарди в контактах с 11-летней дочерью после обращения Ванды Нары; сам футболист обвинения отрицает.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "other",
+      "published_at": "2026-11-12T01:05:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/after-a-distress-message-court-bars-icardi-from-approaching-his-daughter/blt293b224b1a3eb6e3",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-как-за-десять-месяцев-развалилась-эпоха-каррика-в-мю",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "analytics",
+      "title": "Как за десять месяцев развалилась эпоха Каррика в «МЮ»",
+      "summary": "Авторский разбор Goal: от вызова из отпуска на Барбадосе и выхода в Лигу чемпионов до драки игроков в самолёте и 18-го места в АПЛ.",
+      "bullets": [
+        "После домашнего 0:3 от «Борнмута» Каррику дали две недели; издание называет его «ходячим мертвецом», которого совет директоров оставил «один на один со своей судьбой» (со ссылкой на Daily Mail).",
+        "Его вызвали из отпуска на Барбадосе в середине января, в мае он подписал двухлетний контракт после третьего места и выхода в Лигу чемпионов — и не продержался даже десяти месяцев.",
+        "После 0:2 от «Атлетико» в Мадриде напряжение прорвалось в самолёте: несколько игроков сцепились на борту.",
+        "В матче с «Астон Виллой» (4:4) «МЮ» дважды отыгрался с −2, но за последние четыре игры пропустил 15 мячей; трансфер Эллиота Андерсона сорвался, вместо него взяли Тилеманса и Андрея Сантоса."
+      ],
+      "category": "other",
+      "country": "england",
+      "published_at": "2026-11-12T01:05:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/player-brawls-and-backstage-disputes-how-did-carrick-s-adventure-with-manchester-united-collapse/blt5fef5946e24c486c",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "football365.com",
+          "url": "https://www.football365.com/news/carrick-called-out-wilcox-man-utd-trainign-camp-steve-holland-shock-role-sack"
+        },
+        {
+          "domain": "onefootball.com",
+          "url": "https://www.onefootball.com/en/news/man-united-morale-was-at-an-all-time-low-after-atletico-loss-as-lisandro-martinez-and-youri-tielemans-clashed-43763537"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-почеттино-выставил-юнайтед-условия-перед-назначением",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Почеттино выставил «Юнайтед» условия перед назначением",
+      "summary": "Соглашение с «МЮ» в принципе достигнуто, но аргентинец требует двух зимних новичков — центрального защитника и форварда (среди целей — Фоларин Балогун), плюс клубу придётся заплатить Федерации футбола США 10 млн долларов за выкуп контракта.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "england",
+      "published_at": "2026-11-12T02:00:00+01:00",
+      "source_domain": "fichajes.net",
+      "source_url": "https://www.fichajes.net/noticias/primeras-exigencias-pochettino-20261112.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/soccer/story/_/id/50455598/man-united-us-soccer-pochettino-carrick"
+        },
+        {
+          "domain": "caughtoffside.com",
+          "url": "https://www.caughtoffside.com/2026/11/11/man-united-sack-michael-carrick-mauricio-pochettino/"
+        },
+        {
+          "domain": "corrieredellosport.it",
+          "url": "https://www.corrieredellosport.it/news/calcio/calcio-estero/premier-league/manchester-united/2026/11/11-152528947/pochettino_verso_manchester_quanto_coster_tanto_allo_united_l_esonero_di_carrick"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-генменеджер-филадельфии-сообщения-об-уходе-мичкова-неверны",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Генменеджер «Филадельфии»: сообщения об уходе Мичкова неверны",
+      "summary": "Дэниел Бриер заявил, что обмен Матвея Мичкова «вообще не входит в планы» и никогда не обсуждался, а агент игрока «клянётся», что утечка не от него; у россиянина 14 (10+4) очков в 20 матчах при балансе клуба 5-10-5.",
+      "bullets": [],
+      "category": "statements",
+      "country": "usa",
+      "published_at": "2026-11-12T00:50:00+00:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/news/matvei-michkov-happy-with-philadelphia-flyers-amid-reports",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/story/_/id/50454698/matvei-michkov-ask-flyers-trade-rick-tocchet-says"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-трой-терри-дебютирует-в-сезоне-за-анахайм",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Трой Терри дебютирует в сезоне за «Анахайм»",
+      "summary": "В сводке травм НХЛ: Терри выйдет на лёд против «Нэшвилла» после июньской операции на бедре, «Тампа» отправила Брэйдена Пойнта (16 очков в 17 играх) в список травмированных, Ник Кузинс выбыл на 7–10 дней.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-12T00:45:00+00:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-11-2026",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-12-гендиректор-португальского-клуба-работает-диджеем",
       "sport": "football",
@@ -39333,145 +39494,6 @@
       "published_at": "2026-11-09T07:56:00+01:00",
       "source_domain": "tuttomercatoweb.com",
       "source_url": "https://www.tuttomercatoweb.com/serie-a/udinese-spesi-almeno-30-mercato-ultima-classifica-2291520",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-в-норвегии-рухнул-гостевой-сектор-на-матче-буде-глимт",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "В Норвегии рухнул гостевой сектор на матче «Буде-Глимт»",
-      "summary": "Во время игры «Тромсё» — «Буде-Глимт» часть гостевой трибуны провалилась, люди упали вниз, один болельщик доставлен в больницу.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "other",
-      "published_at": "2026-11-09T07:50:02+01:00",
-      "source_domain": "nu.nl",
-      "source_url": "https://www.nu.nl/voetbal/6415944/deel-uitvak-stort-in-bij-noorse-wedstrijd-een-bod-supporter-naar-ziekenhuis.html",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "ad.nl",
-          "url": "https://www.ad.nl/voetbal/tribune-stort-in-tijdens-wedstrijd-in-noorwegen-supporter-raakt-ernstig-gewond~a99bf99a/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-волтемаде-забил-первый-гол-в-серии-а-за-ювентус",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Волтемаде забил первый гол в Серии А за «Ювентус»",
-      "summary": "В ничьей 2:2 с «Фиорентиной» немец размочил счёт в чемпионате Италии с передачи Коло Муани, которого отдельно похвалил Спаллетти; «Юве» лишь седьмой.",
-      "bullets": [],
-      "category": "records",
-      "country": "italy",
-      "published_at": "2026-11-09T07:50:00+01:00",
-      "source_domain": "transfermarkt.de",
-      "source_url": "https://www.transfermarkt.de/juve-angreifer-woltemade-erzielt-ersten-serie-a-treffer-sonderlob-fur-vorbereiter-kolo-muani/view/news/490273",
-      "ru_covered": true,
-      "ru_source": "matchtv.ru",
-      "related": [
-        {
-          "domain": "tuttojuve.com",
-          "url": "https://www.tuttojuve.com/altre-notizie/woltemade-si-sblocca-bremer-il-capocannoniere-un-dato-che-fa-riflettere-799903"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-пойнт-выбыл-тампа-теряет-лидера-атаки",
-      "sport": "hockey",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Пойнт выбыл: «Тампа» теряет лидера атаки",
-      "summary": "Брэйден Пойнт покинул лёд в первом периоде матча с «Виннипегом» (3:4) после шести смен и 5:35 игрового времени — Джон Купер допустил, что форвард с 16 очками в 17 играх «пропустит некоторое время»; в том же сводном отчёте НХЛ — операция и конец сезона для защитника «Калгари» Кевина Бала с разрывом ахилла и уход Кейла Макара с тренировки «Колорадо» в качестве меры предосторожности.",
-      "bullets": [],
-      "category": "injury",
-      "country": "usa",
-      "published_at": "2026-11-09T01:47:00-05:00",
-      "source_domain": "nhl.com",
-      "source_url": "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-8-2026",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "dailyfaceoff.com",
-          "url": "https://www.dailyfaceoff.com/news/brayden-point-tampa-bay-lightning-injury-not-return-miss-games"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-мгновенные-травмы-и-шаткий-каррик-мю-на-грани",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Мгновенные травмы и шаткий Каррик: «МЮ» на грани",
-      "summary": "Магуайр ушёл с поля в перерыве матча с «Астон Виллой» из-за спазма спины, Балеба выпал на недели с повреждением задней поверхности бедра, а сам Каррик после 4:4 остался в зоне вылета и под угрозой отставки.",
-      "bullets": [],
-      "category": "injury",
-      "country": "england",
-      "published_at": "2026-11-09T06:45:57+00:00",
-      "source_domain": "standard.co.uk",
-      "source_url": "https://www.standard.co.uk/sport/football/man-utd-injury-update-maguire-baleba-rashford-latest-news-return-dates-b1304039.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-талант-из-берлина-выбрал-италию-вместо-сборной-германии",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Талант из Берлина выбрал Италию вместо сборной Германии",
-      "summary": "18-летний Маттео Пальма («Удинезе»), прошедший юношеские команды DFB, дал согласие итальянской федерации — за сборную Клоппа он не сыграет и уже попал в заявку Манчини",
-      "bullets": [],
-      "category": "other",
-      "country": "germany",
-      "published_at": "2026-11-09T07:45:50+01:00",
-      "source_domain": "t-online.de",
-      "source_url": "https://www.t-online.de/sport/fussball/nationalmannschaft-deutschland/id_101519142/rueckschlag-fuer-dfb-toptalent-matteo-palma-entscheidet-sich-fuer-italien.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-шесть-игроков-фрозиноне-уже-в-списках-покупателей",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Шесть игроков «Фрозиноне» уже в списках покупателей",
-      "summary": "Поражение от «Кальяри» не портит сезон новичка Серии А, но клуб получает запросы сразу по шестерым футболистам — TMW публикует список и условия.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "italy",
-      "published_at": "2026-11-09T07:45:07+01:00",
-      "source_domain": "tuttomercatoweb.com",
-      "source_url": "https://www.tuttomercatoweb.com/serie-a/giocatori-frosinone-uomini-mercato-lista-richieste-2291768",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-сальвионе-все-ошибки-наполи-де-лаурентиса-и-аллегри",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Сальвионе: все ошибки «Наполи», Де Лаурентиса и Аллегри",
-      "summary": "Колонка Corriere dello Sport после домашней ничьей с «Лацио»: почему команда включается только во втором тайме и что должна дать пауза.",
-      "bullets": [
-        "14 из 25 пропущенных мячей «Наполи» получил в последние полчаса матчей — команда ни разу не держала уровень все 90 минут.",
-        "Подход к игре с «Лацио» автор называет позорным: сказались поражения от «Юве» и «Порту», сбор и решение не выпускать тренера на предматчевую пресс-конференцию.",
-        "Во втором тайме «Наполи» закрыл матч с xG 2,35 против 0,86 — именно тот футбол, который узнаёт публика.",
-        "Аллегри сказал Мактоминею в перерыве «спокойно, сейчас забьём» и дал команде пять дней отдыха — пауза нужна, чтобы сбить напряжение и вернуть травмированных."
-      ],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-11-09T07:44:00+01:00",
-      "source_domain": "corrieredellosport.it",
-      "source_url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/09-152484907/il_napoli_de_laurentiis_e_allegri_tutti_gli_errori_da_correggere/",
       "ru_covered": false,
       "ru_source": "",
       "related": []
