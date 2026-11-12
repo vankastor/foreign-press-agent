@@ -1,6 +1,96 @@
 {
-  "generated_at": "2026-11-12T02:16:46.404053+00:00",
+  "generated_at": "2026-11-12T03:13:49.729989+00:00",
   "items": [
+    {
+      "id": "2026-11-12-кучеров-оформил-натуральный-хет-трик-тампа-разгромила-баффал",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Кучеров оформил натуральный хет-трик, «Тампа» разгромила «Баффало»",
+      "summary": "Никита Кучеров забил три гола подряд в третьем периоде и добавил передачу, Карлсон набрал 5 очков (1+4), Василевский отразил 28 броска — «Лайтнинг» выиграли в Баффало 8:3 и идут с 12-4-2.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-11T22:03:20-05:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/news/tampa-bay-lightning-buffalo-sabres-game-recap-november-11-2026",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892690"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-сон-и-лидеры-южной-кореи-опровергли-слухи-о-расколе",
+      "sport": "football",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Сон и лидеры Южной Кореи опровергли слухи о расколе",
+      "summary": "Пятеро ключевых игроков выпустили совместное заявление из Дохи: сообщения о конфликте внутри сборной после провала на ЧМ — неправда.",
+      "bullets": [],
+      "category": "statements",
+      "country": "other",
+      "published_at": "2026-11-11T21:28:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50457696/son-heung-min-key-south-korea-players-deny-rumors-feud",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-даниил-бут-снова-вызван-в-нхл-из-тусона",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Даниил Бут снова вызван в НХЛ из «Тусона»",
+      "summary": "«Юта Мамонт» подняла российского форварда Даниила Бута из фарм-клуба АХЛ на фоне лазарета клуба — травм Гюнтера, Кули и Шмидта.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-11T21:14:03-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/players/news/daniil-but/38459",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-юта-вернула-ямамото-из-списка-травмированных",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "«Юта» вернула Ямамото из списка травмированных",
+      "summary": "Кайлер Ямамото восстановился от повреждения верхней части тела, активирован из IR и вышел на игру «Мамонта» в Вегасе в среду.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "usa",
+      "published_at": "2026-11-11T21:13:16-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/players/news/kailer-yamamoto/2796",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-12-корписало-бросил-клюшку-и-вытащил-мяч-рукой",
+      "sport": "hockey",
+      "date": "2026-11-12",
+      "section": "news",
+      "title": "Корписало бросил клюшку и вытащил мяч рукой",
+      "summary": "Голкипер «Рейнджерс» Йоонас Корписало в матче в Калгари остался без клюшки и в падении поймал шайбу голой рукой — НХЛ назвала эпизод претендентом на сэйв сезона.",
+      "bullets": [],
+      "category": "other",
+      "country": "usa",
+      "published_at": "2026-11-11T20:35:00-05:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/news/topic/short-shifts/save-of-season-new-york-rangers-joonas-korpisalo",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-12-корписало-выбросил-клюшку-и-спас-рейнджерс",
       "sport": "hockey",
@@ -39384,119 +39474,6 @@
           "url": "https://www.football365.com/news/man-utd-neville-names-four-players-relegated-aston-villa"
         }
       ]
-    },
-    {
-      "id": "2026-11-09-нико-пас-за-100-млн-кто-вообще-может-его-купить",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Нико Пас за €100 млн: кто вообще может его купить",
-      "summary": "Sports Mole считает деньги в самой горячей трансферной саге 2027 года и объясняет, почему «Реал» в заведомо выигрышном положении",
-      "bullets": [
-        "У «Реала» прописана опция обратного выкупа за £68 млн (€80 млн) — её нельзя активировать раньше следующего лета; в 2024-м мадридцы продали Паса в «Комо» за £56,1 млн (€66 млн)",
-        "«Комо» рассчитывает минимум на £85 млн (€100 млн) — для «Барселоны» это запретная сумма, она не тратила столько с покупки Гризманна в 2019-м",
-        "«Ман Сити» выпадает из гонки из-за висящих санкций, «Ман Юнайтед» потерял привлекательность, а реальные альтернативы «Реалу» — ПСЖ (философия Луиса Энрике) и «Челси»",
-        "Повод для ажиотажа: Пас разорвал «Ланс» в Лиге чемпионов (9:1) с голом и двумя ассистами, а за последние пять матчей набрал 5+5 в 22 года"
-      ],
-      "category": "transfers",
-      "country": "italy",
-      "published_at": "2026-11-09T07:02:00+00:00",
-      "source_domain": "sportsmole.co.uk",
-      "source_url": "https://www.sportsmole.co.uk/football/como/transfer-talk/news/nico-paz-sets-the-2027-transfer-market-alight-but-who-can-actually-afford-him_608756.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-моуринью-дал-арде-гюлеру-полную-свободу-на-поле",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Моуринью дал Арде Гюлеру полную свободу на поле",
-      "summary": "По данным Marca, португалец разрешил 21-летнему турку смещаться куда угодно, а партнёрам велел подстраивать движение под него; «Реал» готовит плеймейкеру новый контракт",
-      "bullets": [],
-      "category": "other",
-      "country": "spain",
-      "published_at": "2026-11-09T07:02:00+00:00",
-      "source_domain": "sports.yahoo.com",
-      "source_url": "https://sports.yahoo.com/articles/jose-mourinho-grants-real-madrid-070200329.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-самое-смехотворное-заявление-tsn-разнесла-решение-девилз",
-      "sport": "hockey",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "«Самое смехотворное заявление»: TSN разнесла решение «Девилз»",
-      "summary": "Ведущий TSN OverDrive Брайан Хейс публично возмутился тем, что «Нью-Джерси» не поставит Коннора Хеллибака в старт на вторничный матч в Виннипеге — клуб объяснил это «снижением вероятности нашей победы», и Хейс назвал формулировку «самым смехотворным заявлением, что он читал в жизни».",
-      "bullets": [],
-      "category": "statements",
-      "country": "usa",
-      "published_at": "2026-11-09T02:00:14-05:00",
-      "source_domain": "tsn.ca",
-      "source_url": "https://www.tsn.ca/nhl/video/2026/11/09/hayes-is-embarrassed-for-devils-hellebuyck-its-the-most-ridiculous-statement-ive-ever-read-in-my-life/",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "nhl.com",
-          "url": "https://www.nhl.com/news/new-jersey-devils-hellebuyck-will-not-start-against-winnipeg-jets"
-        },
-        {
-          "domain": "sportsnet.ca",
-          "url": "https://www.sportsnet.ca/nhl/article/devils-say-connor-hellebuyck-wont-play-in-return-to-winnipeg-vs-jets/"
-        },
-        {
-          "domain": "dailyfaceoff.com",
-          "url": "https://www.dailyfaceoff.com/news/new-jersey-devils-connor-hellebuyck-wont-play-return-winnipeg-jets-sunny-mehta-reduction-expected-win-probability-nhl-news"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-с-основой-милан-другая-команда-и-аморим-это-предсказал",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "С основой «Милан» — другая команда, и Аморим это предсказал",
-      "summary": "Разбор MilanNews: победа в Генуе 2:1 подтвердила тезис тренера о том, что этот состав тянет только один турнир.",
-      "bullets": [
-        "После провала с «Ференцварошем» в Лиге Европы «Милан» выиграл в Генуе, вышел на 4-е место и сократил отставание от вершины до 5 очков.",
-        "Tuttosport: с титульными игроками это команда с идентичностью и прогрессом — и Аморим был прав, говоря, что бороться можно лишь в одном турнире.",
-        "Когда тренер выпускал вторые линии, «Милан» в этом сезоне взял только одну победу — над «Зальцбургом», всё остальное поражения.",
-        "Сам Аморим настаивает, что ротация необходима, а провал в четверг объясняет ментальностью, но хвалит рост владения и контроля игры."
-      ],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-11-09T08:00:06+01:00",
-      "source_domain": "milannews.it",
-      "source_url": "https://www.milannews.it/primo-piano/titolari-milan-amorim-ragione-cosa-635620",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-удинезе-потратил-30-млн-и-остался-единственным-последним",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "«Удинезе» потратил 30 млн и остался единственным последним",
-      "summary": "Разбор TMW: как клуб семьи Поццо от лидерства Серии А пришёл к реальной угрозе вылета.",
-      "bullets": [
-        "Летом владельцы потратили минимум 30 млн евро, выкупив в том числе Заньоло и Гейе.",
-        "В сентябре 2024-го «Удинезе» с Руньяичем возглавлял таблицу — впервые за 13 лет после команды Гвидолина.",
-        "Теперь клуб единственный на последнем месте, его обошла даже «Венеция» Даниэле Николы.",
-        "Оба клуба меняли тренера, и пока сравнение складывается в пользу экс-наставника «Кремонезе», а не Паоло Дзанетти."
-      ],
-      "category": "transfers",
-      "country": "italy",
-      "published_at": "2026-11-09T07:56:00+01:00",
-      "source_domain": "tuttomercatoweb.com",
-      "source_url": "https://www.tuttomercatoweb.com/serie-a/udinese-spesi-almeno-30-mercato-ultima-classifica-2291520",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
     }
   ]
 }
