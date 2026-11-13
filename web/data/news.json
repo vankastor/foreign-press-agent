@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-11-13T01:19:16.722213+00:00",
+  "generated_at": "2026-11-13T02:16:02.241084+00:00",
   "items": [
+    {
+      "id": "2026-11-13-эрикссон-эк-покинул-лёд-после-стыка-с-маккейбом",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Эрикссон Эк покинул лёд после стыка с Маккейбом",
+      "summary": "Центрфорвард «Миннесоты» получил повреждение в столкновении с защитником «Торонто» Джейком Маккейбом во втором периоде и на третий не вышел; в его активе 17 очков (6+11) в 20 матчах сезона.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-12T21:11:22-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/news/minnesota-wild-joel-eriksson-ek-leaves-game-injury-news-toronto-maple-leafs-jake-mccabe",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-13-тампа-потеряла-чирелли-и-чернака-перед-коламбусом",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "«Тампа» потеряла Чирелли и Чернака перед Коламбусом",
+      "summary": "Клуб объявил, что Энтони Чирелли (низ тела) и Эрик Чернак (верх тела) пропускают выездной матч с «Блю Джекетс» и оцениваются как day-to-day, а Янни Гурд не играет по плановому отдыху.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-12T21:00:23-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/lightnings-anthony-cirelli-erik-cernak-out-with-injuries.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/news/tampa-bay-lightning-anthony-cirelli-erik-cernak-out-columbus-blue-jackets-nhl"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-кровавая-драка-оливье-и-сабурина-в-коламбусе",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Кровавая драка Оливье и Сабурина в Коламбусе",
+      "summary": "В середине первого периода матча «Коламбус» — «Тампа» Матьё Оливье и Скотт Сабурин обменялись жёсткими ударами: у обоих кровь, у Сабурина рассечение на носу; вскоре схватились Ломберг и Вьель.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "usa",
+      "published_at": "2026-11-12T20:23:00-05:00",
+      "source_domain": "hockeyfeed.com",
+      "source_url": "https://hockeyfeed.com/videos/hockey-fight-turns-bloody-as-mathieu-olivier-and-scott-sabourin-unleash-vicious-punches",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-13-коламбус-остался-без-главного-тренера-на-игру",
       "sport": "hockey",
@@ -137,6 +193,45 @@
         {
           "domain": "corrieredellosport.it",
           "url": "https://www.corrieredellosport.it/calcio"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-иихф-начала-расследование-в-отношении-фхр",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "ИИХФ начала расследование в отношении ФХР",
+      "summary": "По информации Горда Миллера (TSN), федерация проверяет интеграцию клубов с оккупированных территорий Украины в российскую систему — при подтверждении это нарушение устава ИИХФ, а разбирательство в CAS придётся начинать заново.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "international",
+      "published_at": "2026-11-12T19:17:00-05:00",
+      "source_domain": "hockeyfeed.com",
+      "source_url": "https://hockeyfeed.com/nhl-news/russia-hit-with-major-new-threat-as-iihf-just-launched-shocking-investigation",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": []
+    },
+    {
+      "id": "2026-11-13-зидан-о-1-3-в-первом-матче-италия-была-лучше",
+      "sport": "football",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Зидан о 1:3: «В первом матче Италия была лучше»",
+      "summary": "Главный тренер Франции после первого поражения во главе команды отметил, что в сентябрьской игре итальянцы выглядели сильнее, но победу взяли именно в этот вечер.",
+      "bullets": [],
+      "category": "statements",
+      "country": "france",
+      "published_at": "2026-11-13T01:12:00+01:00",
+      "source_domain": "tuttosport.com",
+      "source_url": "https://www.tuttosport.com/video/calcio/uefa-nations-league/2026/11/13-152555982/zidane_meglio_l_italia_all_andata_ma_stasera_hanno_vinto",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "corrieredellosport.it",
+          "url": "https://www.corrieredellosport.it/video/calcio/uefa-nations-league/2026/11/13-152555979/zidane_l_italia_ha_giocato_meglio_all_andata_ma_stasera_ha_vinto"
         }
       ]
     },
@@ -39234,106 +39329,6 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
-    },
-    {
-      "id": "2026-11-09-самый-умный-новичок-сборной-англии-у-тухеля",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Самый умный новичок сборной Англии у Тухеля",
-      "summary": "Большой портрет Дэвида Хитнера в The Guardian: как 19-летний хавбек «Фулхэма» Джош Кинг с академическим бэкграундом и рэгбийным прошлым пробивается в планы Томаса Тухеля.",
-      "bullets": [
-        "Кинг сдал все 10 предметов GCSE на A или A*, а A-levels по французскому, математике и психологии — в номере отеля в Румынии, параллельно играя на Евро U19.",
-        "Мать — преподаватель вуза, почти защитившая PhD по серповидноклеточной анемии, отец — юрист; сам игрок считает, что учёба ускорила его обработку информации на поле.",
-        "В сезоне-2025/26 он провёл 32 матча АПЛ за «Фулхэм» (15 в старте), сейчас играет без пропусков и считается одним из главных талантов Англии.",
-        "Тухель уже пробовал Кинга на фланге, в роли «девятки» и даже крайним защитником на сборе во Флориде — при конкуренции из Беллингема, Роджерса, Эзе и Гиббса-Уайта."
-      ],
-      "category": "other",
-      "country": "england",
-      "published_at": "2026-11-09T22:30:20+00:00",
-      "source_domain": "theguardian.com",
-      "source_url": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-10-псж-отказался-от-ибрагима-мазы",
-      "sport": "football",
-      "date": "2026-11-10",
-      "section": "news",
-      "title": "ПСЖ отказался от Ибрагима Мазы",
-      "summary": "Луис Кампос отклонил предложение окружения игрока «Байера», и январский трансфер хавбека, которого хотел Луис Энрике, сорвался — клуб ищет другие варианты.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "france",
-      "published_at": "2026-11-09T23:30:00+01:00",
-      "source_domain": "fichajes.net",
-      "source_url": "https://www.fichajes.net/noticias/psg-descarta-deseo-luis-enrique-20261109.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-record-португалия-теряет-не-только-игрока",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Record: Португалия теряет не только игрока",
-      "summary": "Колонка Мигела Салемы Гарсана о том, что уход Криштиану Роналду из сборной — это ещё и экономико-имиджевая потеря для страны, а не только спортивная.",
-      "bullets": [
-        "Цифры карьеры в сборной: 23 года, 234 матча и 146 голов, пять чемпионатов мира и шесть Евро.",
-        "Трофеи: Евро-2016 плюс две Лиги наций (2019 и 2025); в финале 2016-го Роналду получил травму, но остался лицом той победы.",
-        "Автор подчёркивает: Роналду не получил готовую команду-победителя — он прошёл через проигранный домашний финал-2004 и помогал её строить.",
-        "Главный тезис — уход лишает федерацию глобального медиаканала: имя Роналду открывало рынки, спонсоров и телеаудитории, куда Португалия как страна доходит тяжелее."
-      ],
-      "category": "other",
-      "country": "portugal",
-      "published_at": "2026-11-09T22:28:00+00:00",
-      "source_domain": "record.pt",
-      "source_url": "https://www.record.pt/opiniao/detalhe/cristiano-ronaldo-sai-mas-portugal-nao-pode-esquecer-o-que-lhe-deve",
-      "ru_covered": true,
-      "ru_source": "sport-express.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-10-андерлехт-может-потерять-очко-из-за-протокола",
-      "sport": "football",
-      "date": "2026-11-10",
-      "section": "news",
-      "title": "«Андерлехт» может потерять очко из-за протокола",
-      "summary": "В заявке на дерби с «Брюгге» (1:1) не хватило требуемых шести бельгийских воспитанников — клуб признал «человеческую ошибку», «Брюгге» просит федерацию разобраться.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "other",
-      "published_at": "2026-11-09T22:27:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/erro-insolito-pode-custar-caro-a-vitor-bruno-anderlecht-arrisca-perder-na-secretaria-2026110922272867814",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-тренера-египта-уволили-из-за-ссоры-двух-его-жён",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Тренера Египта уволили из-за ссоры двух его жён",
-      "summary": "Отставка Хоссама Хассана с поста наставника сборной, как выяснилось, имела не только спортивную подоплёку: поводом стал публичный конфликт двух его бывших супруг.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "other",
-      "published_at": "2026-11-09T22:26:06+00:00",
-      "source_domain": "record.pt",
-      "source_url": "https://www.record.pt/internacional/detalhe/selecionador-egipcio-foi-despedido-e-a-culpa-tera-sido-da-sua-vida-amorosa",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "tuttomercatoweb.com",
-          "url": "https://www.tuttomercatoweb.com/calcio-estero/egitto-retroscena-hossam-hassan-ct-esonerato-lite-mogli-2292568"
-        }
-      ]
     }
   ]
 }
