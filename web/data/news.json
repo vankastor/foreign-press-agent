@@ -1,6 +1,152 @@
 {
-  "generated_at": "2026-11-13T02:16:02.241084+00:00",
+  "generated_at": "2026-11-13T03:13:36.377673+00:00",
   "items": [
+    {
+      "id": "2026-11-13-ассистентский-хет-трик-капризова-миннесота-добила-торонто",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Ассистентский хет-трик Капризова: «Миннесота» добила «Торонто»",
+      "summary": "«Уайлд» выиграли в Торонто 5:2 — хет-трик Мэтта Болди, три передачи Кирилла Капризова (10-матчевая результативная серия) и 1+1 Данилы Юрова; «Мэйпл Лифс» проиграли пятый домашний матч подряд.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-12T22:01:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/recap?gameId=401892697",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "thehockeynews.com",
+          "url": "https://thehockeynews.com/nhl/minnesota-wild/latest-news/wild-continue-dominant-start-boldys-hat-trick-leads-5-2-win-over-toronto"
+        },
+        {
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/news/sports/2026/11/13/maple-leafs-suffer-fifth-straight-home-loss-after-5-2-defeat-by-wild/"
+        },
+        {
+          "domain": "globalnews.ca",
+          "url": "https://globalnews.ca/news/12149024/boldys-hat-trick-sends-leafs-to-5th-straight-loss/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-колячонок-решил-матч-нью-джерси-побил-вашингтон",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Колячонок решил матч, «Нью-Джерси» побил «Вашингтон»",
+      "summary": "«Девилз» выиграли 5:2 — победный гол Владислава Колячонка в начале третьего периода и 26 сэйвов Коннора Хеллебайка; Овечкин остался без голов и с «-1».",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-13T02:59:42+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/kolyachonok-scores-ahead-goal-hellebuyck-025942503.html",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": []
+    },
+    {
+      "id": "2026-11-13-оттава-обыграла-колорадо-в-овертайме-дубль-пинто",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Оттава обыграла «Колорадо» в овертайме: дубль Пинто",
+      "summary": "«Сенаторз» победили 4:3 — Шейн Пинто забил дважды, включая решающий гол на 2:08 овертайма, Линус Улльмарк отразил 25 из 28 броском в первом матче после девяти пропущенных.",
+      "bullets": [],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-12T21:59:33-05:00",
+      "source_domain": "yardbarker.com",
+      "source_url": "https://www.yardbarker.com/nhl/articles/senators_beat_avalanche_4_3_as_pinto_scores_2/s1_17668_44554420",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/game/_/gameId/401892698/avalanche-senators"
+        },
+        {
+          "domain": "cbssports.com",
+          "url": "https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261112_COL@OTT/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-хагел-набрал-три-очка-тампа-обыграла-коламбус",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Хагел набрал три очка, «Тампа» обыграла «Коламбус»",
+      "summary": "Брэндон Хагел забил дважды и отдал передачу в победе 3:1, Деннис Хильдебю сделал 28 сэйвов, Джейк Гюнцель отметился голом в 700-м матче в НХЛ, у Никиты Кучерова две передачи.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-13T02:54:49+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/hagel-scores-twice-lightning-beat-025449211.html",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/tampa-bay-lightning-columbus-blue-jackets-game-recap-november-12-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-колорадо-потерял-маккиннона-и-макара-в-одном-матче",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "«Колорадо» потерял Маккиннона и Макара в одном матче",
+      "summary": "Обе суперзвезды «Эвеланш» выбыли во втором периоде игры в Оттаве с повреждениями нижней части тела — Маккиннон пострадал в стыке с Артёмом Зубом.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-13T02:31:45+00:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/nathan-mackinnon-cale-makar-exit-with-injuries.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/news/colorado-avalanche-nathan-mackinnon-cale-makar-exit-game-lower-body-injury-nhl-news"
+        },
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/nathan-mackinnon-cale-makar-leave-025819054.html"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/nathan-mackinnon-cale-makar-exit-game-for-colorado-avalanche"
+        },
+        {
+          "domain": "tsn.ca",
+          "url": "https://www.tsn.ca/nhl/article/avalanche-lose-mackinnon-makar-against-senators/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-сорокин-вышел-на-матч-против-лос-анджелеса",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Сорокин вышел на матч против «Лос-Анджелеса»",
+      "summary": "Илья Сорокин заявлен стартовым вратарём «Айлендерс» в Лос-Анджелесе — в предыдущей игре он отразил 39 из 41 броска, но команда уступила «Сан-Хосе» по буллитам.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-13T02:26:35+00:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/players/news/ilya-sorokin/25264",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-13-эрикссон-эк-покинул-лёд-после-стыка-с-маккейбом",
       "sport": "hockey",
@@ -14,6 +160,40 @@
       "published_at": "2026-11-12T21:11:22-05:00",
       "source_domain": "dailyfaceoff.com",
       "source_url": "https://www.dailyfaceoff.com/news/minnesota-wild-joel-eriksson-ek-leaves-game-injury-news-toronto-maple-leafs-jake-mccabe",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-13-ван-дер-гааг-отпустил-маритиму-на-три-дня",
+      "sport": "football",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Ван дер Гааг отпустил «Маритиму» на три дня",
+      "summary": "Нидерландский тренер дал команде отдых на паузе в календаре: состав полностью боеспособен, возвращение к работе в понедельник, 21 ноября — кубковый матч с «Шавешем».",
+      "bullets": [],
+      "category": "other",
+      "country": "portugal",
+      "published_at": "2026-11-13T02:10:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/maritimo/detalhe/van-der-gaag-da-3-dias-de-folga",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-13-маршман-забил-100-й-гол-в-карьере-нхл",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Маршман забил 100-й гол в карьере НХЛ",
+      "summary": "Мэйсон Маршман достиг отметки 100 голов в НХЛ — путь от игрока без драфтового статуса до трёхзначного снайперского счёта.",
+      "bullets": [],
+      "category": "records",
+      "country": "usa",
+      "published_at": "2026-11-13T02:06:58+00:00",
+      "source_domain": "thehockeynews.com",
+      "source_url": "https://thehockeynews.com/nhl/san-jose-sharks/players/mason-marchment-from-long-shot-to-100-career-nhl-goals",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -37,6 +217,113 @@
         {
           "domain": "dailyfaceoff.com",
           "url": "https://www.dailyfaceoff.com/news/tampa-bay-lightning-anthony-cirelli-erik-cernak-out-columbus-blue-jackets-nhl"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-пачука-интересуется-маттеусом-оливейрой-из-фаренсе",
+      "sport": "football",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "«Пачука» интересуется Маттеусом Оливейрой из «Фаренсе»",
+      "summary": "Об интересе мексиканского клуба рассказал отец игрока — бывшая звезда сборной Бразилии Бебето; у 32-летнего полузащитника 11 матчей, 2 гола и 3 ассиста в сезоне, контракт истекает летом.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "portugal",
+      "published_at": "2026-11-13T02:00:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/2--liga/farense/detalhe/mexicanos-do-pachuca-querem-mattheus-oliveira",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-13-юта-перетряхнула-состав-дебют-зака-джонса",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "«Юта» перетряхнула состав: дебют Зака Джонса",
+      "summary": "Защитник Зак Джонс дебютировал за «Мэммот» в матче с «Сент-Луисом», Бен Маккартни впервые вышел в этом сезоне, а Ник ДеСимоне отправлен в запас.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "usa",
+      "published_at": "2026-11-13T01:51:38+00:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/players/news/zachary-jones-30457/30457",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/players/news/ben-mccartney/28455"
+        },
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/players/news/nick-desimone/2886"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-горби-мы-не-в-лучшей-форме-но-боремся",
+      "sport": "football",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Горби: «Мы не в лучшей форме, но боремся»",
+      "summary": "Полузащитник «Браги» в интервью Record оценил перестройку команды после смены тренера — Карлоса Висенса на Франклима Карвалью — и назвал целью Кубок Португалии.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-11-13T01:41:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sp--braga/detalhe/gorby-nao-estamos-na-melhor-forma-mas-ainda-estamos-a-lutar-pelos-objetivos",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-13-вейммелка-остался-первым-номером-юты-при-0-840",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "Вейммелка остался первым номером «Юты» при 0,840",
+      "summary": "Чешский вратарь снова вышел в старте против «Блюз», хотя пропускает три и больше шесть матчей подряд при проценте отражённых броском 0,840 и балансе 1-5-0.",
+      "bullets": [],
+      "category": "records",
+      "country": "usa",
+      "published_at": "2026-11-13T01:36:22+00:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/players/news/karel-vejmelka/26614",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-13-монреаль-разгромил-бостон-и-довёл-серию-до-12-матчей",
+      "sport": "hockey",
+      "date": "2026-11-13",
+      "section": "news",
+      "title": "«Монреаль» разгромил «Бостон» и довёл серию до 12 матчей",
+      "summary": "Канадиенс выиграли на «ТД-Гарден» 5:2, выбив Джереми Свеймана после четырёх пропущенных на 17 бросках, — очковая серия Монреаля выросла до 12 игр (9-0-3).",
+      "bullets": [],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-13T01:36:10+00:00",
+      "source_domain": "thehockeynews.com",
+      "source_url": "https://thehockeynews.com/nhl/boston-bruins/latest-news/canadiens-chase-swayman-midway-through-second-as-bruins-trail-4-0",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/canadiens-snap-bruins-seven-game-030332643.html"
+        },
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892696"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/montreal-canadiens-boston-bruins-game-recap-november-12-2026"
         }
       ]
     },
@@ -39070,262 +39357,6 @@
       "published_at": "2026-11-09T23:01:00+00:00",
       "source_domain": "football365.com",
       "source_url": "https://www.football365.com/news/ferdinand-arsenal-huge-problem-arteta",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-вашингтон-вызвал-джастина-холла-из-ахл",
-      "sport": "hockey",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "«Вашингтон» вызвал Джастина Холла из АХЛ",
-      "summary": "Потеряв вратаря Реми Пуарье на драфте отказов, «Кэпиталз» срочно подняли из «Херши» 34-летнего защитника Холла — у него 2 гола в 3 матчах сезона при 12:59 среднего игрового времени.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "usa",
-      "published_at": "2026-11-09T23:00:20+00:00",
-      "source_domain": "prohockeyrumors.com",
-      "source_url": "https://www.prohockeyrumors.com/2026/11/capitals-recall-justin-holl.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-10-валенсия-нацелилась-на-денниса-мана",
-      "sport": "football",
-      "date": "2026-11-10",
-      "section": "news",
-      "title": "«Валенсия» нацелилась на Денниса Мана",
-      "summary": "В борьбе за выживание клуб ищет усиление атаки: ПСВ просит около €12 млн, на румына претендует и «Лацио» — с арендой и опцией выкупа.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "spain",
-      "published_at": "2026-11-10T00:00:00+01:00",
-      "source_domain": "fichajes.net",
-      "source_url": "https://www.fichajes.net/noticias/valencia-fija-nuevo-objetivo-ataque-20261110.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-пингвинз-упустили-рынок-раста-и-ракелла",
-      "sport": "hockey",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "«Пингвинз» упустили рынок Раста и Ракелла",
-      "summary": "Колонка Pro Hockey Rumors: при старте 6-10-2 Питтсбург теряет переговорную силу по своим ветеранам и рискует продать их дешевле, чем мог летом.",
-      "bullets": [
-        "Питтсбург идёт 6-10-2 и замыкает Восточную конференцию — худший старт со дебютного сезона Сидни Кросби (2005/06).",
-        "По данным PuckPedia, на следующий сезон у клуба свыше $59 млн свободного пространства под потолком зарплат.",
-        "Главными разменными активами автор Джош Сибульски называет Рикарда Ракелла, Брайана Раста и Эрика Карлссона."
-      ],
-      "category": "transfers",
-      "country": "usa",
-      "published_at": "2026-11-09T18:00:00-05:00",
-      "source_domain": "prohockeyrumors.com",
-      "source_url": "https://www.prohockeyrumors.com/2026/11/penguins-misplayed-bryan-rust-and-rickard-rakells-market.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-болезни-роста-гэвина-маккенны-два-лица-новичка-торонто",
-      "sport": "hockey",
-      "date": "2026-11-09",
-      "section": "analytics",
-      "title": "Болезни роста Гэвина Маккенны: два лица новичка «Торонто»",
-      "summary": "Адам Прото разбирает уик-энд 18-летнего новичка «Мэйпл Лифс»: гол при 15 сменах — и худший в команде показатель xGF% в игре с «Нью-Джерси».",
-      "bullets": [
-        "Маккенна забил 6-й гол сезона в матче с «Монреалем», проведя всего 15 смен; на его счету 12 очков — темп на 53 балла в 84 играх.",
-        "Против «Девилз» он получил 17:22 игрового времени (2-й результат в карьере) и 20 смен (повторение личного максимума), но закончил с «-3» и 24,2% xGF в равных составах — худшим показателем в команде.",
-        "Две грубые потери против «Канадиенс», одна привела к голу Криса Крайдера; после этого тренер Джим Хиллер посадил новичка на лавку.",
-        "Автор считает спорным решение убрать Маккенну из первой бригады большинства после возвращения Джона Тавареса — «он изобретательнее с лишним игроком»."
-      ],
-      "category": "match",
-      "country": "canada",
-      "published_at": "2026-11-09T22:58:14+00:00",
-      "source_domain": "thehockeynews.com",
-      "source_url": "https://thehockeynews.com/news/latest-news/gavin-mckennas-growing-pains-were-on-full-display-as-maple-leafs-drop-a-pair-of-games-over-the-weekend",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-почеттино-и-конте-в-шорт-листе-мю",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Почеттино и Конте — в шорт-листе «МЮ»",
-      "summary": "Главным кандидатом на замену Каррика называют действующего тренера сборной США Маурисио Почеттино, в списке также Антонио Конте; смену ожидают до матча с «Ливерпулем» после паузы на сборные.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-11-09T22:53:42+00:00",
-      "source_domain": "standard.co.uk",
-      "source_url": "https://www.standard.co.uk/sport/football/next-man-utd-manager-pochettino-conte-carrick-b1304236.html",
-      "ru_covered": true,
-      "ru_source": "matchtv.ru",
-      "related": [
-        {
-          "domain": "thesun.co.uk",
-          "url": "https://www.thesun.co.uk/sport/40973002/mauricio-pochettino-consider-premier-league-return-man-utd-carrick/"
-        },
-        {
-          "domain": "givemesport.com",
-          "url": "https://www.givemesport.com/man-utd-sir-alex-ferguson-verdict-mauricio-pochettino/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-10-дания-срочно-вызвала-доргу-на-матч-с-португалией",
-      "sport": "football",
-      "date": "2026-11-10",
-      "section": "news",
-      "title": "Дания срочно вызвала Доргу на матч с Португалией",
-      "summary": "Защитник «Юнайтед» восстановился раньше ожидаемого, Ример довёл состав до 25 человек перед игрой Лиги наций в Браге в субботу.",
-      "bullets": [],
-      "category": "other",
-      "country": "portugal",
-      "published_at": "2026-11-09T22:51:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/dinamarca-chama-a-ultima-hora-jogador-do-man-united-para-o-duelo-com-portugal-2026110922510699202",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-10-гальяни-обжаловал-комиссию-по-выборам-в-figc",
-      "sport": "football",
-      "date": "2026-11-10",
-      "section": "news",
-      "title": "Гальяни обжаловал комиссию по выборам в FIGC",
-      "summary": "Экс-менеджер «Милана» подал иск в Федеральный трибунал против созданной Малаго комиссии, в деле всплывает и история с двойной подписью «Дженоа».",
-      "bullets": [],
-      "category": "scandals",
-      "country": "italy",
-      "published_at": "2026-11-09T23:45:00+01:00",
-      "source_domain": "sportmediaset.mediaset.it",
-      "source_url": "https://www.sportmediaset.mediaset.it/calcio/elezioni-figc-galliani-fa-ricorso-al-tribunale-federale-c-entra-anche-la-doppia-firma-del-genoa_118812684-202602k.shtml",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-кипреос-объяснение-нью-джерси-по-хеллебайку-оскорбляет-наш-р",
-      "sport": "hockey",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Кипреос: объяснение «Нью-Джерси» по Хеллебайку «оскорбляет наш разум»",
-      "summary": "Аналитик Sportsnet разнёс ссылку «Девилз» на «снижение вероятности победы» как причину не ставить Хеллебайка в Виннипеге; тренер «Джетс» Арниел назвал решение разочарованием — «он просто сдал нас».",
-      "bullets": [],
-      "category": "statements",
-      "country": "usa",
-      "published_at": "2026-11-09T22:43:48+00:00",
-      "source_domain": "sportsnet.ca",
-      "source_url": "https://www.sportsnet.ca/nhl/video/kypreos-devils-statement-on-hellebuyck-insults-our-intelligence/",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "foxsports.com",
-          "url": "https://www.foxsports.com/articles/nhl/jets-coach-criticizes-devils-decision-not-to-play-connor-hellebuyck-in-winnipeg"
-        },
-        {
-          "domain": "espn.com",
-          "url": "https://www.espn.com/nhl/story/_/id/50435073/jets-disappointed-ex-goalie-connor-hellebuyck-sitting-out"
-        },
-        {
-          "domain": "nhl.com",
-          "url": "https://www.nhl.com/news/connor-hellebuyck-not-starting-against-jets-in-winnipeg-a-disappointment-scott-arniel-says"
-        },
-        {
-          "domain": "thehockeynews.com",
-          "url": "https://thehockeynews.com/news/latest-news/he-just-gave-up-on-us-jets-arniel-talks-hellebuyck-trade-devils-decision-to-sit-goalie-out"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-деле-алли-сжёг-футболку-арсенала-из-за-спора",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Деле Алли сжёг футболку «Арсенала» из-за спора",
-      "summary": "Бывший игрок «Тоттенхэма» проиграл пари стримеру и выполнил условие в прямом эфире — видео с горящей футболкой «канониров» разлетелось по соцсетям и вызвало волну критики.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "england",
-      "published_at": "2026-11-09T22:41:10+00:00",
-      "source_domain": "record.pt",
-      "source_url": "https://www.record.pt/multimedia/videos/detalhe/o-preco-de-uma-aposta-dele-alli-queima-camisola-do-arsenal-e-incendeia-redes-sociais",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-колорадо-отправил-мэнсона-в-долгосрочный-лазарет",
-      "sport": "hockey",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "«Колорадо» отправил Мэнсона в долгосрочный лазарет",
-      "summary": "Защитник «Эвеланш» Джош Мэнсон с травмой голеностопа переведён в LTIR — о движении сообщила PuckPedia.",
-      "bullets": [],
-      "category": "injury",
-      "country": "usa",
-      "published_at": "2026-11-09T22:40:43+00:00",
-      "source_domain": "dailyfaceoff.com",
-      "source_url": "https://www.dailyfaceoff.com/players/news/josh-manson/2400",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-10-серия-а-по-ожидаемым-очкам-милан-и-лацио-без-еврокубков",
-      "sport": "football",
-      "date": "2026-11-10",
-      "section": "news",
-      "title": "Серия А по ожидаемым очкам: «Милан» и «Лацио» без еврокубков",
-      "summary": "По модели xPts «Ювентус» и «Наполи» шли бы в Лиге чемпионов, а самыми невезучими названы «Монца», «Фиорентина», «Юве» и «Наполи» — больше всех переработали результат Аморим и Гаттузо.",
-      "bullets": [],
-      "category": "records",
-      "country": "italy",
-      "published_at": "2026-11-09T23:37:00+01:00",
-      "source_domain": "sportmediaset.mediaset.it",
-      "source_url": "https://www.sportmediaset.mediaset.it/calcio/seriea/classifica-expected-points-xpts_118809491-202602k.shtml",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-ливерпуль-рискует-потерять-лидера-перед-мю",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "«Ливерпуль» рискует потерять лидера перед «МЮ»",
-      "summary": "Ключевой игрок красных подошёл к грани дисквалификации по жёлтым карточкам: следующее предупреждение выключит его из матча с «Манчестер Юнайтед» после паузы на сборные.",
-      "bullets": [],
-      "category": "other",
-      "country": "england",
-      "published_at": "2026-11-09T22:32:31+00:00",
-      "source_domain": "standard.co.uk",
-      "source_url": "https://www.standard.co.uk/sport/football/liverpool-fc-mac-allister-suspension-risk-premier-league-man-utd-b1304229.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-09-гасперини-требует-от-ромы-обещанного-усиления",
-      "sport": "football",
-      "date": "2026-11-09",
-      "section": "news",
-      "title": "Гасперини требует от «Ромы» обещанного усиления",
-      "summary": "После победы над «Сассуоло» тренер напомнил руководству о договорённостях: запланирована встреча для планирования зимнего трансферного окна.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "italy",
-      "published_at": "2026-11-09T23:30:43+01:00",
-      "source_domain": "tuttomercatoweb.com",
-      "source_url": "https://www.tuttomercatoweb.com/serie-a/roma-gasperini-chiede-rinforzi-promessi-previsto-incontro-pianificare-mercato-2292482",
       "ru_covered": false,
       "ru_source": "",
       "related": []
