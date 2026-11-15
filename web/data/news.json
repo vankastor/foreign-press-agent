@@ -1,6 +1,115 @@
 {
-  "generated_at": "2026-11-15T03:17:23.581438+00:00",
+  "generated_at": "2026-11-15T04:16:16.500064+00:00",
   "items": [
+    {
+      "id": "2026-11-15-хеллебайк-отразил-43-броска-нью-джерси-выиграл-7-4",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Хеллебайк отразил 43 броска, «Нью-Джерси» выиграл 7:4",
+      "summary": "«Девилз» забрали обе игры мини-серии с «Вашингтоном»: Коннор Хеллебайк стал 7-0 в новом клубе, Александр Овечкин остался без очков, а Антон Силаев дебютировал в НХЛ.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-14T22:53:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/recap?gameId=401892714",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "russianmachineneverbreaks.com",
+          "url": "https://russianmachineneverbreaks.com/2026/11/14/everything-goes-wrong-in-caps-devils-rematch/"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/new-jersey-devils-washington-capitals-game-recap-november-14-2026"
+        },
+        {
+          "domain": "newjerseyhockeynow.com",
+          "url": "https://newjerseyhockeynow.com/devils-capitals-nov-14-hameenaho-boqvist-recap/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-колорадо-победил-в-монреале-без-маккиннона-и-макара",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "«Колорадо» победил в Монреале без Маккиннона и Макара",
+      "summary": "«Эвеланш» выиграли 4:1 без двух своих звёзд: Натан Маккиннон выбыл примерно на месяц, Кейл Макар — на две недели после травм в матче с «Оттавой».",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-14T22:18:00-05:00",
+      "source_domain": "abcnews.com",
+      "source_url": "https://abcnews.com/Sports/wireStory/avalanche-beat-canadiens-4-1-injured-stars-mackinnon-138151909",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/story/_/id/50480955/avalanc-nathan-mackinnon-cale-makar-injuries"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/nathan-mackinnon-cale-makar-injury-update-colorado-avalanche-november-14-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-как-филадельфия-превратила-оборону-в-голы",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "analytics",
+      "title": "Как «Филадельфия» превратила оборону в голы",
+      "summary": "Разбор Philly Hockey Now: все три решающих гола «Флайерз» в Коламбусе (4:3) выросли из оборонительных действий, а не из позиционных атак.",
+      "bullets": [
+        "Матвей Мичков обокрал Адама Фантилли на синей линии, ушёл в отрыв и забил 11-й гол в сезоне, сравняв счёт в начале второго периода.",
+        "Гол Трэвора Зеграса вырос из борьбы Тайсона Фёрстера у борта, а победный бросок Денвера Баркли — из шайбы, выбитой Ноэлем Аччиари при выходе «Коламбуса» из зоны.",
+        "Баркли забросил дважды, включая гол в большинстве; Джозеф Уолл отразил 28 бросков из 31.",
+        "С этой победой «Флайерз» идут 6-10-6, а «Коламбус» (7-11-0) проиграл четвёртый матч подряд."
+      ],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-15T03:15:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/flyers-postgame-blog-turning-defense-031532187.html",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "inquirer.com",
+          "url": "https://www.inquirer.com/flyers/blue-jackets-score-denver-barkey-matvei-michkov-win-20261114.html"
+        },
+        {
+          "domain": "broadstreethockey.com",
+          "url": "https://www.broadstreethockey.com/post/takeaways-barkey-michkov-lead-flyers-to-comeback-in-columbus/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-ульмарк-взял-200-ю-победу-оттава-обыграла-питтсбург",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Ульмарк взял 200-ю победу, «Оттава» обыграла «Питтсбург»",
+      "summary": "«Сенаторз» выиграли 4:1: Линус Ульмарк отразил 16 бросков и дошёл до 200 побед в НХЛ, а у «Пингвинз» Сергей Мурашов сделал 30 сэйвов, но остался без очков.",
+      "bullets": [],
+      "category": "records",
+      "country": "canada",
+      "published_at": "2026-11-14T22:08:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/recap/_/gameId/401892713",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "wral.com",
+          "url": "https://www.wral.com/news/ap/d065d-giroux-stutzle-score-as-senators-top-penguins-4-1/"
+        }
+      ]
+    },
     {
       "id": "2026-11-15-колорадо-без-маккиннона-и-макара-прервал-серию-монреаля",
       "sport": "hockey",
@@ -20,6 +129,32 @@
         {
           "domain": "habseyesontheprize.com",
           "url": "https://www.habseyesontheprize.com/canadiens-avalanche-2026-11-14-top-six-minutes-recap-3-stars-nick-suzuki-goal-alex-newhook-high-stick-review-jakub-dobes/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-джейми-бенн-набрал-1000-е-очко-в-нхл",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Джейми Бенн набрал 1000-е очко в НХЛ",
+      "summary": "Капитан «Далласа» забил во втором периоде матча с «Баффало» (2:0) и стал вторым игроком в истории клуба, добравшимся до 1000 очков — все они набраны в «Старз».",
+      "bullets": [],
+      "category": "records",
+      "country": "usa",
+      "published_at": "2026-11-14T22:00:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/story/_/id/50486339/stars-captain-jamie-benn-records-1000th-career-nhl-point",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/news/dallas-stars-jamie-benn-registers-1000th-career-nhl-point"
+        },
+        {
+          "domain": "yardbarker.com",
+          "url": "https://www.yardbarker.com/nhl/articles/stars_beat_sabres_2_0_as_benn_scores_winner/s1_17668_44563007"
         }
       ]
     },
@@ -46,6 +181,36 @@
       ]
     },
     {
+      "id": "2026-11-15-дубль-юрова-помог-миннесоте-разгромить-бостон",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Дубль Юрова помог «Миннесоте» разгромить «Бостон»",
+      "summary": "«Уайлд» выиграли 6:2 и продлили выездную победную серию до восьми матчей: Данила Юров забросил две шайбы в третьем периоде, а Кирилл Капризов довёл результативную серию до 11 игр.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-14T21:57:00-05:00",
+      "source_domain": "abcnews.com",
+      "source_url": "https://abcnews.com/Sports/wireStory/wild-beat-bruins-6-2-goals-ryan-hartman-138151273",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "tsn.ca",
+          "url": "https://www.tsn.ca/nhl/article/hartman-scores-twice-as-wild-beat-bruins-extending-road-winning-streak-to-8-games/"
+        },
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892709"
+        },
+        {
+          "domain": "bostonglobe.com",
+          "url": "https://www.bostonglobe.com/2026/11/14/sports/bruins-wild-game-score/"
+        }
+      ]
+    },
+    {
       "id": "2026-11-15-дубль-юрова-и-восьмая-победа-миннесоты-на-выезде",
       "sport": "hockey",
       "date": "2026-11-15",
@@ -64,6 +229,32 @@
         {
           "domain": "bostonhockeynow.com",
           "url": "https://bostonhockeynow.com/2026-11-14-boston-bruins-minnesota-wild-game-20-recap/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-тарасов-отразил-31-броск-и-прервал-домашнюю-серию-тампы",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Тарасов отразил 31 броск и прервал домашнюю серию «Тампы»",
+      "summary": "«Детройт» победил в Тампе 2:0: Даниил Тарасов оформил второй шатаут в сезоне, а «Лайтнинг» впервые проиграли дома, оборвав клубный рекорд из восьми побед на старте чемпионата.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-14T21:52:00-05:00",
+      "source_domain": "abcnews.com",
+      "source_url": "https://abcnews.com/Sports/wireStory/tarasov-gets-shutout-raymond-2-points-red-wings-138151168",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "ca.sports.yahoo.com",
+          "url": "https://ca.sports.yahoo.com/news/daniil-tarasov-shines-red-wings-025436792.html"
+        },
+        {
+          "domain": "cbssports.com",
+          "url": "https://www.cbssports.com/nhl/gametracker/recap/NHL_20261114_DET@TB/"
         }
       ]
     },
@@ -186,6 +377,37 @@
         {
           "domain": "nhl.com",
           "url": "https://www.nhl.com/news/philadelphia-flyers-columbus-blue-jackets-game-recap-november-14-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-вечер-ткачуков-флорида-победила-в-сент-луисе",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "analytics",
+      "title": "Вечер Ткачуков: «Флорида» победила в Сент-Луисе",
+      "summary": "Колонка Florida Hockey Now о том, как братья Ткачуки отметили чествование отца, введённого в Зал славы, победой 4:1 над «Блюз».",
+      "bullets": [
+        "Брэди и Мэттью Ткачуки за сезон уже 17 раз отметились очками в одном голе — темп на 68 за чемпионат; больше в истории было только у братьев Седин (73 в 2010/11 и 71 в 2009/10).",
+        "«Пантерз» задавили «Блюз» на старте: к 6:29 первого периода счёт по броскам был 8:0, после первого — 10:2, хотя по попыткам бросков разрыв составлял лишь 15:9.",
+        "Ассист Сэма Райнхарта на первом голе Брэди стал его 700-м очком в карьере, а защитник Радко Гудас провёл 900-й матч в НХЛ.",
+        "Якоб Маркстрём отразил 22 броска и не дотянул до второго шатаута в сезоне 2:16 — его испортил гол Дилана Холлоуэя в большинстве."
+      ],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-15T02:39:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/tkachuk-town-panthers-beat-blues-023937176.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "floridahockeynow.com",
+          "url": "https://floridahockeynow.com/florida-panthers-4-st-louis-blues-1-game-recap-summary-nov-14-2026-keith-brady-matthew-tkachuk"
+        },
+        {
+          "domain": "abcnews.com",
+          "url": "https://abcnews.com/Sports/wireStory/tkachuk-brothers-power-panthers-4-1-win-after-138151215"
         }
       ]
     },
@@ -39659,162 +39881,6 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
-    },
-    {
-      "id": "2026-11-11-мю-и-тоттенхэм-смотрят-на-оскарссона-из-сосьедада",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "«МЮ» и «Тоттенхэм» смотрят на Оскарссона из «Сосьедада»",
-      "summary": "Оба клуба интересуются 22-летним исландским форвардом в январе: у него 5 голов в последних 6 матчах и 46 во взрослой карьере, а баски хотят более 20 млн евро.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-11-11T21:37:00+00:00",
-      "source_domain": "caughtoffside.com",
-      "source_url": "https://www.caughtoffside.com/2026/11/11/man-united-tottenham-orri-oskarsson-transfer/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "onefootball.com",
-          "url": "https://onefootball.com/en/home"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-возвращение-роналдиньо-на-поле-покажут-бесплатно",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Возвращение Роналдиньо на поле покажут бесплатно",
-      "summary": "Трансляция матча с участием бразильца будет доступна без оплаты — организаторы открыли показ для всех.",
-      "bullets": [],
-      "category": "other",
-      "country": "other",
-      "published_at": "2026-11-11T21:36:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/regresso-de-ronaldinho-gaucho-aos-relvados-tera-transmissao-gratuita-2026111121111483366",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-юта-впервые-вернулась-в-вегас-после-плей-офф",
-      "sport": "hockey",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "«Юта» впервые вернулась в Вегас после плей-офф",
-      "summary": "«Мэммот» (10-7-1) завершают шестиматчевый выезд на арене «Голден Найтс» (12-5-2) там же, где вылетели в шестиматчевой серии прошлой весной: Юта идёт второй в лиге по реализации большинства (37,1%), Вегас — пятый по пропущенным за игру.",
-      "bullets": [],
-      "category": "match",
-      "country": "usa",
-      "published_at": "2026-11-11T16:30:35-05:00",
-      "source_domain": "sports.yahoo.com",
-      "source_url": "https://sports.yahoo.com/articles/utah-returns-vegas-looking-different-213035706.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "sports.yahoo.com",
-          "url": "https://sports.yahoo.com/articles/keys-fortress-golden-knights-lines-222051814.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-атлетико-просит-у-барсы-бальде-на-январь",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "«Атлетико» просит у «Барсы» Бальде на январь",
-      "summary": "Спортдиректор «Атлетико» Матеу Алемани ищет левого защитника и, по данным Marca, внёс в список выпавшего из состава Алехандро Бальде, который не сыграл ни минуты в матче против мадридцев 8 ноября (1:2).",
-      "bullets": [],
-      "category": "transfers",
-      "country": "spain",
-      "published_at": "2026-11-11T22:30:00+01:00",
-      "source_domain": "fichajes.net",
-      "source_url": "https://www.fichajes.net/noticias/mateu-alemany-fija-jugador-barcelona-20261111.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-этсон-баррос-прервал-молчание-после-тяжёлой-аварии",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Этсон Баррос прервал молчание после тяжёлой аварии",
-      "summary": "Футболист системы «Бенфики» впервые рассказал о восстановлении после серьёзного ДТП: «Однажды я вернусь...».",
-      "bullets": [],
-      "category": "other",
-      "country": "portugal",
-      "published_at": "2026-11-11T21:30:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/etson-barros-recuperacao-acidente-benfica-2026111121173368577",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-зидан-объяснил-срочный-вызов-майюлю-в-сборную-франции",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Зидан объяснил срочный вызов Майюлю в сборную Франции",
-      "summary": "После отказа от Мбаппе тренер поднял 19-летнего игрока «ПСЖ» из молодёжки и отметил, что тот может играть и в центре атаки, и в середине поля: «он всегда был в наших списках».",
-      "bullets": [],
-      "category": "statements",
-      "country": "france",
-      "published_at": "2026-11-11T22:28:00+01:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a539411556794846198-equipe-de-france-zinedine-zidane-justifie-son-choix-pour-senny-mayulu",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "getfootballnewsfrance.com",
-          "url": "https://www.getfootballnewsfrance.com/2026/psgs-senny-mayulu-receives-france-call-up/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-внук-кройфа-дебютирует-за-юношескую-сборную-сша-в-португалии",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Внук Кройфа дебютирует за юношескую сборную США в Португалии",
-      "summary": "Родственник легендарного нидерландца впервые сыграет за команду США до 18 лет — матч пройдёт на португальской земле.",
-      "bullets": [],
-      "category": "other",
-      "country": "other",
-      "published_at": "2026-11-11T21:23:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/neto-de-cruyff-vai-estrear-se-pelos-sub-18-dos-estados-unidos-em-portugal-2026111120553387976",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-мю-ускорился-по-почеттино-пошли-переговоры-с-сша",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "«МЮ» ускорился по Почеттино: пошли переговоры с США",
-      "summary": "По данным The Athletic, клуб вышел на американскую федерацию по тренеру сборной США как на замену Майклу Каррику; отступные оцениваются примерно в 8,8 млн евро, контракт Почеттино — до ЧМ-2030.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "england",
-      "published_at": "2026-11-11T21:15:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/manchester-united-acelera-por-pochettino-negociacoes-com-os-eua-ja-estao-em-marcha-2026111120564244607",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "skysports.com",
-          "url": "https://www.skysports.com/football/news/13611004/mauricio-pochettino-manchester-uniteds-approach-for-former-tottenham-and-chelsea-boss-questioned"
-        }
-      ]
     }
   ]
 }
