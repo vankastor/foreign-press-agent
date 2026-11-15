@@ -1,6 +1,53 @@
 {
-  "generated_at": "2026-11-15T00:17:04.028625+00:00",
+  "generated_at": "2026-11-15T01:21:01.099056+00:00",
   "items": [
+    {
+      "id": "2026-11-15-юта-вышла-на-сан-хосе-без-пяти-игроков-основы",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "«Юта» вышла на «Сан-Хосе» без пяти игроков основы",
+      "summary": "Логан Кули, Дилан Гюнтер, Ник Шмальц, Джон Марино и Нейт Шмидт пропускают матч из-за травм, сроки возвращения Шмальца (9+11 в 19 играх) неизвестны; у «Далласа» Миро Хейсканен тоже вне игры, а Тайлер Бертуцци покинул площадку в третьем периоде матча с «Виннипегом».",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-15T01:00:04+00:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/central-notes-mammoth-heiskanen-back-bertuzzi.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-15-виннипег-отыграл-0-4-у-чикаго-и-победил-по-буллитам",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "«Виннипег» отыграл 0:4 у «Чикаго» и победил по буллитам",
+      "summary": "Марк Шайфли сделал 1+3, Кайл Коннор реализовал решающий буллит — «Джетс» вытащили матч 5:4 и выиграли шестой раз подряд, тогда как «Блэкхокс» проиграли восьмой матч из девяти.",
+      "bullets": [],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-14T23:56:22+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/scheifele-connor-score-shootout-jets-235622358.html",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/blackhawks-melt-down-4-0-000444716.html"
+        },
+        {
+          "domain": "foxsports.com",
+          "url": "https://www.foxsports.com/articles/nhl/scheifele-and-connor-score-in-shootout-and-jets-erase-4goal-deficit-for-54-win-over-blackhawks"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/winnipeg-jets-chicago-blackhawks-game-recap-november-14-2026"
+        }
+      ]
+    },
     {
       "id": "2026-11-15-прощание-почеттино-с-сша-началось-с-6-0",
       "sport": "football",
@@ -54,6 +101,66 @@
       ]
     },
     {
+      "id": "2026-11-15-почеттино-начал-прощание-с-сша-разгромом-гаити-6-0",
+      "sport": "football",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Почеттино начал прощание с США разгромом Гаити 6:0",
+      "summary": "Крупнейшая победа в эпоху Почеттино во главе сборной США: дубль Пулишича, голы Трасти, Маккенни и Балогана, ответный матч — во вторник в Цинциннати перед переходом в «Манчестер Юнайтед».",
+      "bullets": [],
+      "category": "match",
+      "country": "other",
+      "published_at": "2026-11-14T23:55:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/atencao-man-united-maior-goleada-da-era-pochettino-nos-eua-2026111423514571548",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino"
+        },
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/soccer/story/_/id/50481405/usmnt-player-ratings-pulisic-haiti"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-невеш-после-1-4-от-дании-нам-нужно-прибавлять",
+      "sport": "football",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Невеш после 1:4 от Дании: «Нам нужно прибавлять»",
+      "summary": "Опорник сборной Португалии разобрал домашний разгром от Дании и назвал пропущенные голы ошибками, над которыми придётся работать.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-11-14T23:52:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/video/ruben-neves-lamenta-desastre-temos-de-melhorar-2026111423513932366",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-11-15-гонсалу-рамуш-возможно-мы-потеряли-концентрацию",
+      "sport": "football",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Гонсалу Рамуш: «Возможно, мы потеряли концентрацию»",
+      "summary": "Форвард сборной Португалии объяснил домашнее поражение 1:4 от Дании в микст-зоне «Муниципала» в Браге.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-11-14T23:51:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/video/goncalo-ramos-e-a-derrota-de-portugal-se-calhar-perdemos-o-foco-2026111423495338375",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
       "id": "2026-11-15-женщина-впервые-войдёт-в-штаб-манчестер-юнайтед",
       "sport": "football",
       "date": "2026-11-15",
@@ -83,6 +190,23 @@
       "published_at": "2026-11-14T18:43:44-05:00",
       "source_domain": "dailyfaceoff.com",
       "source_url": "https://www.dailyfaceoff.com/players/news/adam-engstrom/36434",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-15-бернарду-силва-о-1-4-с-данией-плохая-игра",
+      "sport": "football",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Бернарду Силва о 1:4 с Данией: «Плохая игра»",
+      "summary": "Хавбек сборной Португалии, забивший единственный мяч в компенсированное время, прокомментировал домашний разгром в микст-зоне стадиона в Браге.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-11-14T23:42:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/video/a-reacao-de-bernardo-silva-a-humilhacao-contra-a-dinamarca-foi-um-mau-jogo-2026111423363243231",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -137,6 +261,54 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
+    },
+    {
+      "id": "2026-11-15-роналду-уже-не-в-сборной-жезуш-о-разгроме-1-4",
+      "sport": "football",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "«Роналду уже не в сборной»: Жезуш о разгроме 1:4",
+      "summary": "Тренер Португалии ответил на вопрос об отсутствии Криштиану после домашнего поражения от Дании в Браге и напомнил, что болельщики не забудут 23 года его карьеры в сборной.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-11-14T23:32:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/video/jorge-jesus-falta-de-ronaldo-ele-ja-nao-esta-na-selecao-2026111423262451813",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "abola.pt",
+          "url": "https://www.abola.pt/video/jorge-jesus-as-pessoas-nao-se-esquecem-do-que-o-cris-fez-durante-23-anos-2026111423252240229"
+        },
+        {
+          "domain": "ojogo.pt",
+          "url": "https://www.ojogo.pt/internacional/artigo/jorge-jesus-falta-de-cristiano-ronaldo-so-se-for-para-me-fazer-companhia/18148318"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-шайфли-стал-лучшим-снайпером-бомбардиром-в-истории-виннипега",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Шайфли стал лучшим снайпером-бомбардиром в истории «Виннипега»",
+      "summary": "В матче с «Чикаго» Шайфли набрал 930-е очко за франшизу и обошёл Дэйла Хаверчука (929), а также вышел на первое место по передачам (554) и повторил клубный рекорд по голам — 379.",
+      "bullets": [],
+      "category": "records",
+      "country": "canada",
+      "published_at": "2026-11-14T23:29:27+00:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/news/mark-scheifele-winnipeg-jets-all-time-scoring-points-leader-dale-hawerchuk",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/winnipeg-jets-chicago-blackhawks-game-recap-november-14-2026"
+        }
+      ]
     },
     {
       "id": "2026-11-15-тренер-мозамбика-едва-не-подрался-с-журналистом",
@@ -39619,151 +39791,6 @@
       "source_url": "https://www.thehockeynews.com/news/latest-news/hes-got-things-hes-got-to-decide-on-wilds-guerin-discusses-state-of-hughes-negotiations",
       "ru_covered": true,
       "ru_source": "sport-express.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-канселу-тренировался-без-ограничений-в-сборной-португалии",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Канселу тренировался без ограничений в сборной Португалии",
-      "summary": "Занятие прошло при закрытых дверях из-за непогоды (депрессия «Шарль»), но защитник отработал полностью.",
-      "bullets": [],
-      "category": "injury",
-      "country": "portugal",
-      "published_at": "2026-11-11T20:36:00+00:00",
-      "source_domain": "ojogo.pt",
-      "source_url": "https://www.ojogo.pt/internacional/artigo/joao-cancelo-no-treino-de-portugal-marcado-pelo-mau-tempo/18147239",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-миланская-встреча-мальдини-и-тео-эрнандес-снова-вместе",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Миланская встреча: Мальдини и Тео Эрнандес снова вместе",
-      "summary": "Бывшие партнёры по «Милану» встретились в день матчей сборных — почти в полном составе, не хватало только Рафаэла Леау.",
-      "bullets": [],
-      "category": "other",
-      "country": "italy",
-      "published_at": "2026-11-11T20:35:00+00:00",
-      "source_domain": "football-italia.net",
-      "source_url": "https://football-italia.net/milan-reunion-maldini-theo-hernandez-leao/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-даути-пропустил-тренировку-кингз-после-блока-броска",
-      "sport": "hockey",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Даути пропустил тренировку «Кингз» после блока броска",
-      "summary": "Защитник Лос-Анджелеса не выходил на лёд в среду из-за повреждения нижней части тела, полученного при блокировании броска Стэмкоса — его участие в матче с «Айлендерс» в четверг под вопросом.",
-      "bullets": [],
-      "category": "injury",
-      "country": "usa",
-      "published_at": "2026-11-11T15:30:12-05:00",
-      "source_domain": "dailyfaceoff.com",
-      "source_url": "https://www.dailyfaceoff.com/players/news/drew-doughty/744",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-арсенал-давит-по-нусе-45-млн-против-60",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "«Арсенал» давит по Нусе: 45 млн против 60",
-      "summary": "Лондонцы ускорились по вингеру «РБ Лейпциг» Антонио Нусе и готовы дать около 45 млн фунтов, тогда как немцы оценивают норвежца в 60 млн; сделка возможна в январе.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-11-11T21:30:00+01:00",
-      "source_domain": "fichajes.net",
-      "source_url": "https://www.fichajes.net/noticias/aceleran-antonio-nusa-20261111.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-филадельфия-активировала-ристолайнена-с-листа-травмированных",
-      "sport": "hockey",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "«Филадельфия» активировала Ристолайнена с листа травмированных",
-      "summary": "Клуб официально объявил, что защитник Расмус Ристолайнен выведен из списка травмированных и будет доступен уже в сегодняшнем выездном матче против «Эдмонтона».",
-      "bullets": [],
-      "category": "transfers",
-      "country": "usa",
-      "published_at": "2026-11-11T15:30:00-05:00",
-      "source_domain": "nhl.com",
-      "source_url": "https://www.nhl.com/news/flyers-activate-defenseman-rasmus-ristolainen-off-injured-reserve",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-громкий-новичок-браги-милошевич-всё-ещё-без-голов",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Громкий новичок «Браги» Милошевич всё ещё без голов",
-      "summary": "Купленного у «Штутгарта» за 8 млн евро серба подписали на пять лет с отступными 60 млн, но результативность не пришла.",
-      "bullets": [],
-      "category": "other",
-      "country": "portugal",
-      "published_at": "2026-11-11T20:28:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/chegou-da-bundelisga-como-reforco-sonante-mas-ainda-procura-afirmacao-no-sc-braga-2026111118313678783",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-зидан-не-стал-отрицать-интерес-к-ювентусу",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Зидан не стал отрицать интерес к «Ювентусу»",
-      "summary": "В Италии тренера сборной Франции спросили о возвращении в Турин — он ответил «почему нет, если продолжу тренировать», напомнив, что его контракт с федерацией рассчитан до июня 2030 года.",
-      "bullets": [],
-      "category": "statements",
-      "country": "italy",
-      "published_at": "2026-11-11T21:26:00+01:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a8711369458709160902-zinedine-zidane-ne-dit-pas-non-a-la-juventus",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "calciomercato.com",
-          "url": "https://www.calciomercato.com/notizie/zidane-mi-piacerebbe-allenare-la-juventus-quando-puo-tornare-in-bianconero/blt5e8839b0d7166851"
-        },
-        {
-          "domain": "tuttosport.com",
-          "url": "https://www.tuttosport.com/video/calcio/uefa-nations-league/2026/11/11-152531131/zidane_mi_piacerebbe_allenare_la_juventus"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-рио-фердинанд-высказался-о-скором-приходе-почеттино",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Рио Фердинанд высказался о скором приходе Почеттино",
-      "summary": "Легенда «Манчестер Юнайтед» раскрыл своё настоящее отношение к назначению Маурисио Почеттино на место Каррика.",
-      "bullets": [],
-      "category": "statements",
-      "country": "england",
-      "published_at": "2026-11-11T20:25:12+00:00",
-      "source_domain": "onefootball.com",
-      "source_url": "https://onefootball.com/en/news/rio-ferdinand-shares-his-true-feelings-on-mauricio-pochettinos-imminent-man-united-arrival-43763144",
-      "ru_covered": false,
-      "ru_source": "",
       "related": []
     }
   ]
