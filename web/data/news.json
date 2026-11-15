@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-11-15T04:16:16.500064+00:00",
+  "generated_at": "2026-11-15T05:09:25.789354+00:00",
   "items": [
+    {
+      "id": "2026-11-15-оттава-готова-расстаться-с-бураковски-после-восьми-матчей",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "«Оттава» готова расстаться с Бураковски после восьми матчей",
+      "summary": "Фридман сообщил, что «Сенаторз» изучают обмен 31-летнего швед с зарплатой $5,5 млн — за восемь игр он не набрал ни одного очка и дважды попадал в лазарет.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "canada",
+      "published_at": "2026-11-15T04:32:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/report-senators-andre-burakovsky-may-043239785.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "prohockeyrumors.com",
+          "url": "https://www.prohockeyrumors.com/2026/11/senators-open-to-trading-andre-burakovsky.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-бенн-набрал-1000-е-очко-эттингер-четвёртый-шатаут",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Бенн набрал 1000-е очко, Эттингер — четвёртый шатаут",
+      "summary": "«Даллас» обыграл «Баффало» 2:0: капитан Джейми Бенн стал 104-м игроком в истории НХЛ с 1000 очков, а Эттингер отразил 22 броска и вышел на первое место в лиге по шатаутам.",
+      "bullets": [],
+      "category": "records",
+      "country": "usa",
+      "published_at": "2026-11-14T23:13:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/game/_/gameId/401892717",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/oettinger-makes-22-saves-stars-041317510.html"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/buffalo-sabres-dallas-stars-game-recap-november-14-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-каролина-выставила-майка-райлли-на-waivers",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "«Каролина» выставила Майка Райлли на waivers",
+      "summary": "Защитник не играл за «Хёррикейнз» с 18 октября и при непопадании под отказ отправится в АХЛ: в этом сезоне у него восемь матчей, две передачи и показатель «+4».",
+      "bullets": [],
+      "category": "transfers",
+      "country": "usa",
+      "published_at": "2026-11-15T03:54:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/former-canadiens-defenseman-placed-waivers-035445851.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/news/two-nhl-players-placed-waivers-november-14-carolina-hurricanes-mike-reilly-new-york-islanders-kyle-maclean"
+        }
+      ]
+    },
     {
       "id": "2026-11-15-хеллебайк-отразил-43-броска-нью-джерси-выиграл-7-4",
       "sport": "hockey",
@@ -28,6 +98,89 @@
         {
           "domain": "newjerseyhockeynow.com",
           "url": "https://newjerseyhockeynow.com/devils-capitals-nov-14-hameenaho-boqvist-recap/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-дубль-юрова-и-два-паса-капризова-в-бостоне",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Дубль Юрова и два паса Капризова в Бостоне",
+      "summary": "«Миннесота» выиграла 6:2: Юров забросил 8-ю и 9-ю шайбы сезона в третьем периоде, Капризов продлил результативную серию до 11 матчей, а «Уайлд» выдали восьмую победу в гостях подряд.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-14T22:28:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/recap?gameId=401892709",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/minnesota-wild-boston-bruins-game-recap-november-14-2026"
+        },
+        {
+          "domain": "allhockey.ru",
+          "url": "https://allhockey.ru/news/show/616155-Minnesota_pobedila_Boston_Yurov_zabil_dva_gola_u_Kaprizova_dva_pasa"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-как-торонто-вытащить-бобровского-из-кризиса",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "analytics",
+      "title": "Как «Торонто» вытащить Бобровского из кризиса",
+      "summary": "Разбор The Hockey News: россиянин проигрывает конкуренцию Столарцу, и колумнист предлагает план, как клубу восстановить вратаря.",
+      "bullets": [
+        "Бобровский стоял в воротах в пяти из семи последних поражений «Торонто», в трёх из них пропустив четыре и больше шайб.",
+        "Его показатели сезона — 88,1% отражённых броском, КН 3,47 и баланс 3-8-2, тогда как у Столарца 90,0%, 2,90 и 5-3-0 в восьми матчах.",
+        "Лишь в пяти играх Бобровский отразил 90% и больше, а минимум три шайбы он пропускал в 12 из 13 стартов.",
+        "Контракт россиянина — $7 млн в год (по данным PuckPedia), и дальше у «Мэйпл Лифс» относительно щадящий отрезок: «Чикаго», «Лос-Анджелес» и «Коламбус»."
+      ],
+      "category": "russians",
+      "country": "canada",
+      "published_at": "2026-11-14T22:23:00-05:00",
+      "source_domain": "thehockeynews.com",
+      "source_url": "https://www.thehockeynews.com/news/latest-news/how-the-toronto-maple-leafs-can-build-up-sergei-bobrovsky",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "thehockeywriters.com",
+          "url": "https://thehockeywriters.com/maple-leafs-already-having-buyers-remorse-with-bobrovsky/"
+        },
+        {
+          "domain": "cbssports.com",
+          "url": "https://www.cbssports.com/nhl/news/nhl-power-rankings-maple-leafs-sergei-bobrovsky/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-маккиннон-выбыл-на-месяц-макар-на-две-недели",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Маккиннон выбыл на месяц, Макар — на две недели",
+      "summary": "Беднар объявил сроки перед матчем с «Монреалем»: оба лидера «Колорадо» получили повреждения низа тела в игре с «Оттавой», и «Эвеланш» без них выиграл 4:1.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-14T22:19:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/recap?gameId=401892711",
+      "ru_covered": true,
+      "ru_source": "matchtv.ru",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/nathan-mackinnon-cale-makar-injury-update-colorado-avalanche-november-14-2026"
+        },
+        {
+          "domain": "tsn.ca",
+          "url": "https://www.tsn.ca/nhl/article/avalanche-to-be-without-mackinnon-for-a-month-makar-out-for-two-weeks/"
         }
       ]
     },
@@ -39761,123 +39914,6 @@
       "published_at": "2026-11-11T22:58:00+01:00",
       "source_domain": "footmercato.net",
       "source_url": "https://www.footmercato.net/a800778765528355692-ldc-f-lol-lyonnes-humilie-la-juventus-sur-le-score-de-6-0",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-ануна-мбаппе-сам-не-захотел-играть-с-италией",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Ануна: Мбаппе сам не захотел играть с Италией",
-      "summary": "Телеведущий Сириль Ануна написал в X, что Мбаппе не хотел выходить на матч Лиги наций и Зидан пообещал ему место в составе в воскресенье «при хорошем поведении» — официальная версия штаба говорит о физическом дискомфорте.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "france",
-      "published_at": "2026-11-11T22:56:00+01:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a2189488159193665111-equipe-de-france-cyril-hanouna-revele-une-grosse-information-sur-kylian-mbappe-et-zinedine-zidane",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-две-драки-за-две-недели-что-движет-маккинноном",
-      "sport": "hockey",
-      "date": "2026-11-11",
-      "section": "analytics",
-      "title": "Две драки за две недели: что движет Маккинноном",
-      "summary": "Канадская пресса разбирает, как Натан Маккиннон переплавляет злость после разгрома в финале Запада в пятое место в гонке бомбардиров.",
-      "bullets": [
-        "31-летний Маккиннон набрал 30 очков (10+20) в 19 матчах и идёт пятым в списке снайперов и бомбардиров лиги, а в первые две недели сезона дважды снимал перчатки.",
-        "Кейл Макар — со смехом: «Может, он летом отрабатывал драки и захотел проверить это пораньше». Нэйзем Кадри: «Он не может иначе — держит себя на безумно высокой планке».",
-        "Фон — провал прошлой весны: «Президентс Трофи» в регулярке и сухой вылет 0-4 от «Вегаса» в финале Запада. «Чем выше ожидания, тем тяжелее проигрывать», — говорит сам Маккиннон.",
-        "«Колорадо» (11-6-2) идёт вторым в Центральном дивизионе в темпе 106 очков: делят первое место в лиге по забитым (4,11 за игру), но лишь середина по пропущенным (3,05)."
-      ],
-      "category": "other",
-      "country": "usa",
-      "published_at": "2026-11-11T16:54:59-05:00",
-      "source_domain": "tsn.ca",
-      "source_url": "https://www.tsn.ca/nhl/article/cant-help-it-mackinnons-competitive-fire-still-raging-for-avalanche/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-зидан-мбаппе-пропустит-италию-жду-его-к-воскресенью",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Зидан: Мбаппе пропустит Италию, жду его к воскресенью",
-      "summary": "На пресс-конференции перед матчем Лиги наций на «Сан-Сиро» тренер сборной Франции подтвердил, что капитан выпал из заявки, и выразил надежду увидеть его в следующей игре.",
-      "bullets": [],
-      "category": "injury",
-      "country": "france",
-      "published_at": "2026-11-11T22:43:00+01:00",
-      "source_domain": "tuttosport.com",
-      "source_url": "https://www.tuttosport.com/video/calcio/uefa-nations-league/2026/11/11-152531881/zidane_mbapp_out_spero_di_averlo_domenica",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "sport-express.net",
-          "url": "https://www.sport-express.net/football/nation-league/news/mbappe-ne-sygraet-za-sbornuyu-francii-v-matche-s-italiey-v-lige-naciy-2473844/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-зидан-когда-нибудь-хотел-бы-возглавить-ювентус",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "Зидан: «Когда-нибудь хотел бы возглавить «Ювентус»",
-      "summary": "На пресс-конференции перед матчем Италия — Франция тренер сборной Франции не стал скрывать интерес к туринцам: «Если продолжу тренировать, однажды хотел бы. Почему нет?» — при контракте с федерацией до 2030 года.",
-      "bullets": [],
-      "category": "statements",
-      "country": "italy",
-      "published_at": "2026-11-11T22:38:00+01:00",
-      "source_domain": "calciomercato.com",
-      "source_url": "https://www.calciomercato.com/notizie/zidane-mi-piacerebbe-allenare-la-juventus-quando-puo-tornare-in-bianconero/blt5e8839b0d7166851",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-11-сша-сняли-команду-с-юношеского-чм-в-катаре",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "США сняли команду с юношеского ЧМ в Катаре",
-      "summary": "US Soccer отозвала сборную U17 с чемпионата мира, стартующего 19 ноября в Дохе, сославшись на третий уровень опасности от Госдепа — это первая из 48 команд, отказавшихся от турнира.",
-      "bullets": [],
-      "category": "other",
-      "country": "other",
-      "published_at": "2026-11-11T22:38:00+01:00",
-      "source_domain": "sport1.de",
-      "source_url": "https://www.sport1.de/news/fussball/wm/2026/11/sicherheitsbedenken-usa-zieht-team-von-u17-wm-zurueck",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "goal.com",
-          "url": "https://www.goal.com/en/news/united-states-withdraw-u17-world-cup-qatar-eight-days-before-kick-off-amid-middle-east-security-concerns/blt87a7123dd364520b"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-санта-клара-проиграла-по-пенальти-на-турнире-в-вальядолиде",
-      "sport": "football",
-      "date": "2026-11-11",
-      "section": "news",
-      "title": "«Санта-Клара» проиграла по пенальти на турнире в Вальядолиде",
-      "summary": "Португальский клуб уступил в серии с 11 метров в Trofeo Ciudad de Valladolid — товарищеском турнире во время паузы на матчи сборных.",
-      "bullets": [],
-      "category": "match",
-      "country": "portugal",
-      "published_at": "2026-11-11T21:38:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/santa-clara-derrota-nos-penaltis-no-trofeo-ciudad-de-valladolid-2026111121292729409",
       "ru_covered": false,
       "ru_source": "",
       "related": []
