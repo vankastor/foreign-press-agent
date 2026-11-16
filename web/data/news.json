@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-16T00:25:42.060651+00:00",
+  "generated_at": "2026-11-16T01:19:34.031786+00:00",
   "items": [
+    {
+      "id": "2026-11-16-почему-англия-выстояла-там-где-рухнула-с-аргентиной",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "analytics",
+      "title": "Почему Англия выстояла там, где рухнула с Аргентиной",
+      "summary": "BBC Sport сравнивает концовку в Мадриде с провалом в полуфинале ЧМ против Аргентины: что Тухель сделал иначе и о чём говорят цифры.",
+      "bullets": [
+        "В последние 30 минут Англия пропустила по своим воротам 19 ударов (7 в створ) при xG 2,53 — против Аргентины за тот же отрезок было 10 ударов, 4 в створ и xG 1,41.",
+        "С мячом картина почти идентичная: 61 пас против Испании и 65 против Аргентины, точность около 64% в обоих случаях — для сравнения, в матче с Хорватией было 557 передач при 89%.",
+        "Ключевое отличие — тайминг замен: против Аргентины Конса вышел на 72-й минуте, а против Испании первая замена (Льюис-Скелли вместо Кейна) случилась лишь на 78-й, через 15 минут после удаления, и среди вышедших был форвард Калверт-Льюин.",
+        "Тухель признал, что команда села в схему 4-4-1: «Полчаса против чемпионов мира тянулись как три часа, волна за волной»."
+      ],
+      "category": "match",
+      "country": "england",
+      "published_at": "2026-11-16T00:02:22+00:00",
+      "source_domain": "bbc.com",
+      "source_url": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-эндрик-толкнул-арбитра-в-матче-с-японией",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Эндрик толкнул арбитра в матче с Японией",
+      "summary": "В видео с товарищеской игры, которую Бразилия проиграла 2:3, видно, как Эндрик толкает судью Янсена Фу в спину — нарушение осталось без наказания.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "other",
+      "published_at": "2026-11-16T01:01:03+01:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a2924909689575013179-endrick-a-agresse-un-arbitre",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
     {
       "id": "2026-11-16-итоги-тура-бельгия-в-плей-офф-албания-и-черногория-повышены",
       "sport": "football",
@@ -45,6 +84,37 @@
       ]
     },
     {
+      "id": "2026-11-16-два-акта-англии-в-мадриде-блеск-и-героизм",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "analytics",
+      "title": "Два акта Англии в Мадриде: блеск и героизм",
+      "summary": "Сид Лоу разбирает, как Англия сначала разгромила Испанию по игре, а потом в меньшинстве дотерпела 3:2 и оборвала историческую серию чемпионов мира.",
+      "bullets": [
+        "Англия стала первой командой, обыгравшей Испанию в основное/дополнительное время за 44 матча — почти тысячу дней: прошлое поражение было от Колумбии два с половиной года назад, а последнее в официальном матче — от Шотландии в марте 2023-го.",
+        "ФИФА называла серию «Роха» самой长 длинной в истории; единственная осечка внутри неё — поражение Португалии по пенальти в финале Лиги наций 2025-го.",
+        "Концовку вытащил вратарь Джеймс Траффорд феноменальным двойным спасением, а Дэн Бёрн вышел на последние минуты именно под «выносы» головой.",
+        "Де ла Фуэнте признал неизбежность: «С каждым новым матчем поражение становится ближе», — а Деклан Райс заявил: «Мы знали, что обыграем их»."
+      ],
+      "category": "match",
+      "country": "spain",
+      "published_at": "2026-11-15T23:50:31+00:00",
+      "source_domain": "theguardian.com",
+      "source_url": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "bbc.com",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o"
+        },
+        {
+          "domain": "dailymail.co.uk",
+          "url": "https://www.dailymail.co.uk/sport/football/article-16290271/England-deliver-spectacular-Three-Lions-men-strip-world-champions-Spain-invincibility-Thomas-Tuchel-proof-coaching-working-writes-OLIVER-HOLT.html"
+        }
+      ]
+    },
+    {
       "id": "2026-11-16-гасперини-пошёл-в-суд-из-за-слов-экс-руководителя-ромы",
       "sport": "football",
       "date": "2026-11-16",
@@ -82,6 +152,28 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
+    },
+    {
+      "id": "2026-11-16-порту-встал-на-защиту-кивёра-после-критики-в-польше",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "«Порту» встал на защиту Кивёра после критики в Польше",
+      "summary": "Клуб публично поддержал центрального защитника посланием «Душа Дракона. Наш Кивёр» после жёсткой критики его игры против Румынии в Лиге наций.",
+      "bullets": [],
+      "category": "statements",
+      "country": "portugal",
+      "published_at": "2026-11-15T23:46:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/alma-de-dragao-nosso-kiwior-fc-porto-deixa-mensagem-de-apoio-ao-central-polaco",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "ojogo.pt",
+          "url": "https://www.ojogo.pt/futebol/artigo/fc-porto-sai-em-defesa-de-kiwior-apos-criticas-ferozes-ao-central-na-polonia/18148591"
+        }
+      ]
     },
     {
       "id": "2026-11-16-ювентус-ждут-плохие-новости-йылдыз-может-вернуться-в-2027-м",
@@ -123,6 +215,40 @@
       "related": []
     },
     {
+      "id": "2026-11-16-первый-матч-после-смерти-игрока-прервали-из-за-травмы",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Первый матч после смерти игрока прервали из-за травмы",
+      "summary": "В 8-м дивизионе Англии игру остановили на 12-й минуте: защитник «Хендона» получил двойной перелом ключицы — это была первая встреча после гибели футболиста.",
+      "bullets": [],
+      "category": "injury",
+      "country": "england",
+      "published_at": "2026-11-15T23:34:51+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/maldicao-na-8-divisao-primeiro-jogo-apos-morte-de-jogador-interrompido-devido-a-grave-lesao",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-limak-достроит-камп-ноу-инвесторы-внесли-300-млн-евро",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Limak достроит «Камп Ноу»: инвесторы внесли 300 млн евро",
+      "summary": "«Барселона» и турецкий подрядчик подписали план финального этапа: Big Lift стартует после сезона и должен завершиться во второй половине 2027/28, смены компании не будет.",
+      "bullets": [],
+      "category": "other",
+      "country": "spain",
+      "published_at": "2026-11-16T00:30:00+01:00",
+      "source_domain": "mundodeportivo.com",
+      "source_url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261116/1004251316/esta-firmado-limak-culminara-spotify-camp-nou.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
       "id": "2026-11-16-детройт-возвращения-тарасов-и-сага-ларкина",
       "sport": "hockey",
       "date": "2026-11-16",
@@ -140,6 +266,135 @@
       "published_at": "2026-11-15T18:30:00-05:00",
       "source_domain": "thehockeywriters.com",
       "source_url": "https://thehockeywriters.com/red-wings-week-ahead-schedule-storylines-kasper-and-appleton-return-larkin-drama-continues-and-more/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-лейшойнш-победил-шавеш-2-0-после-шести-туров",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "«Лейшойнш» победил «Шавеш» 2:0 после шести туров",
+      "summary": "Голы Клаудиу Араужу и Амаду Балде вернули команде из Матозиньюша первую победу во втором португальском дивизионе за шесть матчей.",
+      "bullets": [],
+      "category": "match",
+      "country": "portugal",
+      "published_at": "2026-11-15T23:29:09+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/2--liga/detalhe/leixoes-chaves-2-0-bebes-do-mar-regressam-aos-triunfos-seis-jornadas-depois",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-де-ла-фуэнте-поблагодарил-игроков-после-первого-поражения",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Де ла Фуэнте поблагодарил игроков после первого поражения",
+      "summary": "После 2:3 с Англией тренер Испании поблагодарил команду и напомнил, что за время серии «Роха» взяла Лигу наций, Евро и чемпионат мира.",
+      "bullets": [],
+      "category": "statements",
+      "country": "spain",
+      "published_at": "2026-11-16T00:26:03+01:00",
+      "source_domain": "footmercato.net",
+      "source_url": "https://www.footmercato.net/a4438811788308996722-espagne-luis-de-la-fuente-remercie-ses-joueurs-malgre-la-defaite",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "record.pt",
+          "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/de-la-fuente-orgulhoso-apesar-da-derrota-com-inglaterra-so-tiro-coisas-positivas"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-крамер-о-таланте-гладбаха-огромный-тип",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Крамер — о таланте «Гладбаха»: огромный тип",
+      "summary": "Кристоф Крамер похвалил 17-летнего Ваэля Мохью и заявил, что «Гладбах», идущий последним с 4 очками после 9 туров, от вылета спасётся.",
+      "bullets": [],
+      "category": "statements",
+      "country": "germany",
+      "published_at": "2026-11-16T00:24:57+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/fussball/bundesliga/2026/11/kramer-schwaermt-von-gladbach-talent-mohya",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-зидан-признал-провальный-первый-тайм-с-турцией",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Зидан признал провальный первый тайм с Турцией",
+      "summary": "После победы 2:1 тренер Франции сказал, что команда сама поставила себя в трудное положение в первой половине, но похвалил реакцию во втором тайме.",
+      "bullets": [],
+      "category": "statements",
+      "country": "france",
+      "published_at": "2026-11-15T23:23:53+00:00",
+      "source_domain": "hurriyet.com.tr",
+      "source_url": "https://www.hurriyet.com.tr/sporarena/zinedine-zidanedan-turkiye-itirafi-zor-duruma-dusurulduk-43379599",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "rmcsport.bfmtv.com",
+          "url": "https://rmcsport.bfmtv.com/football/equipe-de-france/video-france-2-1-turquie-defaillants-zidane-n-a-pas-aime-la-premiere-periode_VN-202611150452.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-беллингем-сцепился-с-кукурельей-в-мадриде",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Беллингем сцепился с Кукурельей в Мадриде",
+      "summary": "В матче Испания — Англия (2:3) Джуд Беллингем подошёл к лежавшему после подката Андерсона Марку Кукурелье и начал выяснять отношения — разводить их пришлось Ойарсабалю и Ямалю.",
+      "bullets": [],
+      "category": "scandals",
+      "country": "spain",
+      "published_at": "2026-11-16T00:23:09+01:00",
+      "source_domain": "sport1.de",
+      "source_url": "https://www.sport1.de/news/fussball/uefa-nations-league/2026/11/hitzige-szene-bellingham-knoepft-sich-cucurella-vor",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-бордо-встретил-своего-зизу-нельзя-было-пропустить",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Бордо встретил своего Зизу: «Нельзя было пропустить»",
+      "summary": "На матче Франция — Турция (2:1) город, где Зинедин Зидан вышел на большой уровень, устроил тренеру сборной отдельный приём — притягательность Зидана осталась прежней.",
+      "bullets": [],
+      "category": "other",
+      "country": "france",
+      "published_at": "2026-11-16T00:21:31+01:00",
+      "source_domain": "lequipe.fr",
+      "source_url": "https://www.lequipe.fr/Football/Actualites/A-bordeaux-les-supporters-ont-celebre-le-retour-de-leur-zizou-avec-les-bleus-il-ne-fallait-pas-le-louper/1743930",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-клопп-против-хави-германия-и-нидерланды-делят-группу",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Клопп против Хави: Германия и Нидерланды делят группу",
+      "summary": "В Берлине решается судьба группы A2 Лиги наций: Германии Клоппа нужна победа или результат лучше греческого, Нидерландам Хави хватает ничьей, Френки де Йонг выбыл из-за спины.",
+      "bullets": [],
+      "category": "match",
+      "country": "germany",
+      "published_at": "2026-11-16T00:20:36+01:00",
+      "source_domain": "mundodeportivo.com",
+      "source_url": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261116/1004251462/alemania-juega-xavi.html",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -39770,257 +40025,6 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
-    },
-    {
-      "id": "2026-11-12-айлендерс-активировали-маччелли-и-пулока-перед-игрой-с-кингз",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "«Айлендерс» активировали Маччелли и Пулока перед игрой с «Кингз»",
-      "summary": "Финн Маччелли (контракт на год, $2,25 млн) и защитник Пулок выходят из списка травмированных, Пажо пропустит матч из-за повреждения нижней части тела.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "usa",
-      "published_at": "2026-11-12T16:00:00-05:00",
-      "source_domain": "prohockeyrumors.com",
-      "source_url": "https://www.prohockeyrumors.com/2026/11/islanders-activate-matias-maccelli.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-эдвинссон-ждёт-обмена-а-не-контракта-с-детройтом",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Эдвинссон ждёт обмена, а не контракта с «Детройтом»",
-      "summary": "Мэтт Ларкин в эфире Daily Faceoff LIVE: переговоры «Ред Уингс» со шведом «на месте» уже два месяца, и 23-летний защитник, судя по всему, ждёт sign-and-trade — подписать контракт нужно до 1 декабря, иначе сезон пропущен.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "usa",
-      "published_at": "2026-11-12T21:00:00+00:00",
-      "source_domain": "dailyfaceoff.com",
-      "source_url": "https://www.dailyfaceoff.com/news/clock-ticking-simon-edvinsson-signing-detroit-red-wings-nhl-rfa-news",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-леванте-прошёл-кубок-короля-пенальти-на-120-4",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "«Леванте» прошёл Кубок короля пенальти на 120+4",
-      "summary": "Команда Луиша Каштру вырвала путёвку в следующий раунд с точки в самой концовке дополнительного времени; «Бетис» тоже прошёл с трудом.",
-      "bullets": [],
-      "category": "match",
-      "country": "spain",
-      "published_at": "2026-11-12T20:47:25+00:00",
-      "source_domain": "record.pt",
-      "source_url": "https://www.record.pt/internacional/paises/espanha/detalhe/levante-de-luis-castro-avanca-na-taca-do-rei-com-penalti-aos-120-4",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-реал-может-выкупить-рамона-и-сразу-перепродать",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "«Реал» может выкупить Рамона и сразу перепродать",
-      "summary": "У мадридцев остаётся клаузула на защитника «Комо» Хакобо Рамона, и вариант «выкупить и продать в Премьер-лигу» в клубе не исключают.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "spain",
-      "published_at": "2026-11-12T20:43:00+00:00",
-      "source_domain": "getfootballnewsspain.com",
-      "source_url": "https://getfootballnewsspain.com/real-madrid-could-activate-buyback-clause-before-selling-defender-to-premier-league/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-геррин-уклонился-от-вопроса-про-юрова-и-ларкина",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Геррин уклонился от вопроса про Юрова и Ларкина",
-      "summary": "Генменеджер «Миннесоты» Билл Геррин на радио WCCO не стал подтверждать сообщения, что в пакет за капитана «Детройта» Дилана Ларкина включён Данила Юров: «никто не знает, что я предлагал». По Куинну Хьюзу решения тоже нет.",
-      "bullets": [],
-      "category": "statements",
-      "country": "usa",
-      "published_at": "2026-11-12T20:42:28+00:00",
-      "source_domain": "nhl.com",
-      "source_url": "https://www.nhl.com/news/minnesota-wild-gm-bill-guerin-talks-on-yurov-for-red-wings-larkin-trade-report",
-      "ru_covered": true,
-      "ru_source": "allhockey.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-моуринью-объяснил-прогресс-шелдерупа-в-бенфике",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Моуринью объяснил прогресс Шелдерупа в «Бенфике»",
-      "summary": "Тренер вспомнил, что поначалу норвежец ему не нравился, и назвал его игроком, который прибавил сильнее всех в команде.",
-      "bullets": [],
-      "category": "statements",
-      "country": "portugal",
-      "published_at": "2026-11-12T20:41:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/o-que-mourinho-disse-de-schjelderup-o-jogador-de-quem-nao-gostava-e-que-mais-evoluiu-2026111220275407181",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-псж-следит-за-нико-пасом-у-реала-приоритет",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "«ПСЖ» следит за Нико Пасом, у «Реала» приоритет",
-      "summary": "Париж присматривается к аргентинцу, но у мадридцев остаётся приоритетная опция обратного выкупа примерно за 80 млн евро следующим летом.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "france",
-      "published_at": "2026-11-12T20:40:00+00:00",
-      "source_domain": "butfootballclub.fr",
-      "source_url": "https://www.butfootballclub.fr/1713254-rc-lens-mercato-le-psg-a-flashe-sur-le-bourreau-de-cahuzac/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-диллон-бушер-дошёл-до-нхл-в-29-лет",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "analytics",
-      "title": "Диллон Бушер дошёл до НХЛ в 29 лет",
-      "summary": "The Hockey Writers проследил невероятный путь дебютанта «Чикаго» — через юниорскую лигу Квебека, канадский университет и четыре сезона в ECHL.",
-      "bullets": [
-        "Дебют состоялся 4 ноября 2026 года в возрасте 29 лет, а уже 5 ноября Бушер провёл первый бой в НХЛ — против Джеффри Виля.",
-        "За два полных сезона в Кейп-Бретоне — всего 13 голов и 25 очков в 104 матчах.",
-        "В MHL за «Мирамиши» он выдал 24 гола и 47 очков в 42 играх — это и перезапустило карьеру.",
-        "В ECHL за два полных сезона: 140 матчей, 35 очков и 224 минуты штрафа."
-      ],
-      "category": "other",
-      "country": "usa",
-      "published_at": "2026-11-12T20:40:00+00:00",
-      "source_domain": "thehockeywriters.com",
-      "source_url": "https://thehockeywriters.com/dillon-bouchers-improbable-nhl-debut-for-the-blackhawks/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-у-эдмонтона-скоро-будет-проблема-трёх-вратарей",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "analytics",
-      "title": "У «Эдмонтона» скоро будет проблема трёх вратарей",
-      "summary": "Разбор The Hockey Writers: Тристан Джарри и Девон Леви тащат «Ойлерз» к лучшему старту за 40 лет, но через месяц из лазарета вернётся Фредерик Андерсен.",
-      "bullets": [
-        "«Эдмонтон» идёт 14-3-3 — лучший старт после чемпионских 1983-84 и 1984-85.",
-        "Джарри: 5-1-3, 2.39 пропущенной за игру и 90,7% отражённых броских; Леви — 8-1-0 при 2.75 и 89,9%.",
-        "Андерсена, выигравшего Кубок Стэнли с «Каролиной», не ждут раньше чем через месяц — тогда вратарей станет трое.",
-        "Сам Джарри о ситуации: «Обычно трёх вратарей не бывает, но, кажется, это сильно помогло»."
-      ],
-      "category": "other",
-      "country": "canada",
-      "published_at": "2026-11-12T20:35:00+00:00",
-      "source_domain": "thehockeywriters.com",
-      "source_url": "https://thehockeywriters.com/oilers-will-soon-have-a-very-interesting-dilemma-between-the-pipes/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-espn-барселона-давит-но-не-забивает",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "analytics",
-      "title": "ESPN: «Барселона» давит, но не забивает",
-      "summary": "Колонка о 1:1 «Барселоны» с «Арсеналом» в женской Лиге чемпионов: тотальное территориальное преимущество каталонок обернулось одним голом.",
-      "bullets": [
-        "«Барселона» наработала 70% владения, 49 касаний мяча в чужой штрафной и 23 удара с суммарным xG 2.15 — и забила всего раз.",
-        "Главный тревожный сигнал: форвард Эва Пайор не нанесла за матч ни одного удара.",
-        "«Арсенал» ответил семью шансами, из которых три дошли до створа, и увёз важное очко с «Камп Ноу».",
-        "Авторы связывают это с системной нестабильностью лондонской команды: в своём чемпионате она идёт шестой и отстаёт от «Манчестер Сити» на 12 очков."
-      ],
-      "category": "match",
-      "country": "eurocups",
-      "published_at": "2026-11-12T15:32:00-05:00",
-      "source_domain": "espn.com",
-      "source_url": "https://www.espn.com/soccer/story/_/id/50464177/inconsistencies-continue-arsenal-vulnerable-barcelona-uwcl",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "skysports.com",
-          "url": "https://www.skysports.com/football/news/12040/13610422/barcelona-1-1-arsenal-renee-slegers-side-withstand-onslaught-from-european-champions-to-snatch-point-in-wcl"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-арсенал-вырвал-ничью-у-барселоны-в-женской-лч",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "«Арсенал» вырвал ничью у «Барселоны» в женской ЛЧ",
-      "summary": "Гостьи выстояли под давлением действующих победительниц и увезли 1:1: Фрида Манум вывела «Арсенал» вперёд, Каролин Грэм Хансен сравняла на 59-й минуте, лондонки вернулись в топ-4 и отстают от «Лиона» на два очка.",
-      "bullets": [],
-      "category": "match",
-      "country": "eurocups",
-      "published_at": "2026-11-12T20:31:00+00:00",
-      "source_domain": "skysports.com",
-      "source_url": "https://www.skysports.com/football/news/13610422/barcelona-1-1-arsenal-renee-slegers-side-withstand-onslaught-from-european-champions-to-snatch-point-in-wcl",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "onefootball.com",
-          "url": "https://onefootball.com/en/news/arsenal-dig-deep-to-earn-wcl-draw-in-face-of-barcelona-dominance-43768455"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-арду-гюлера-сравнили-с-месси-после-гола-бельгии",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Арду Гюлера сравнили с Месси после гола Бельгии",
-      "summary": "Зарубежная пресса отреагировала на изящный мяч со штрафного в игре с Бельгией и провела параллель с Лионелем Месси.",
-      "bullets": [],
-      "category": "statements",
-      "country": "turkey",
-      "published_at": "2026-11-12T23:31:00+03:00",
-      "source_domain": "fotomac.com.tr",
-      "source_url": "https://www.fotomac.com.tr/millitakim/2026/11/12/enfes-frikik-golu-sonrasi-dis-basindan-arda-gulere-messi-benzetmesi",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-невилл-назвал-два-условия-почеттино-для-мю",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Невилл назвал два условия Почеттино для «МЮ»",
-      "summary": "Экс-защитник «Юнайтед» считает, что аргентинец обязан выбить у руководства два трансферных требования, прежде чем подписывать контракт после увольнения Кэррика.",
-      "bullets": [],
-      "category": "statements",
-      "country": "england",
-      "published_at": "2026-11-12T20:30:14+00:00",
-      "source_domain": "givemesport.com",
-      "source_url": "https://www.givemesport.com/man-utd-gary-neville-mauricio-pochettino-transfer-demands/",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "kicker.de",
-          "url": "https://www.kicker.de/transferticker-953155/artikel"
-        }
-      ]
     }
   ]
 }
