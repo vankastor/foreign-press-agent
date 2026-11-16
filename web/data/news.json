@@ -1,6 +1,98 @@
 {
-  "generated_at": "2026-11-16T22:18:30.362892+00:00",
+  "generated_at": "2026-11-16T23:22:02.844980+00:00",
   "items": [
+    {
+      "id": "2026-11-16-сент-луис-вызвал-нейтана-уокера-из-ахл",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "«Сент-Луис» вызвал Нейтана Уокера из АХЛ",
+      "summary": "Клуб официально поднял форварда из «Спрингфилд Тандербёрдс» — очередная перестановка в составе «Блюз» на фоне кадровых потерь.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "usa",
+      "published_at": "2026-11-16T22:43:43+00:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/players/news/nathan-walker/2831",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-детройт-назвал-цену-за-ларкина-готовый-снайпер",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "«Детройт» назвал цену за Ларкина — готовый снайпер",
+      "summary": "По данным Detroit Free Press, за отстранённого капитана клуб хочет established-снайпера на 30 голов, желательно центра: пакета «Миннесоты» с Данилой Юровым, тремя пиками первого раунда и Райаном Хартманом не хватило.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "usa",
+      "published_at": "2026-11-16T22:33:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/report-reveals-why-detroit-red-223316699.html",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "detroitsportsnation.com",
+          "url": "https://detroitsportsnation.com/red-wings-dylan-larkin-trade-offers-asking-price/richardknight/detroit-red-wings/11/16/2026/508260/"
+        },
+        {
+          "domain": "thehockeywriters.com",
+          "url": "https://thehockeywriters.com/nhl-rumors-matthews-comments-anderson-extension-larkin-offer-jagr-retiring-11-16-2026/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-сан-хосе-оборвал-серию-нэшвилла-и-нашёл-вратаря",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "analytics",
+      "title": "«Сан-Хосе» оборвал серию «Нэшвилла» — и нашёл вратаря",
+      "summary": "Превью недели для «Шаркс»: как клуб с отрицательным балансом остановил самую горячую команду Запада.",
+      "bullets": [
+        "«Сан-Хосе» идёт 10-11-2, но 15 ноября обыграл «Нэшвилл» 4:2, прервав серию соперника из семи побед.",
+        "Алекс Недельькович отразил 32 броска — ключевой фактор той победы.",
+        "Маклин Селебрини набрал три очка в этом матче.",
+        "Кифер Шервуд day-to-day с травмой руки, а Ярослав Аскаров по-прежнему описан как часть долгосрочного плана клуба в воротах."
+      ],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-16T22:20:00+00:00",
+      "source_domain": "thehockeywriters.com",
+      "source_url": "https://thehockeywriters.com/sharks-week-ahead-schedule-storylines-celebrini-smith-nedeljkovic-shine-and-more/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-летние-решения-торонто-не-выдержали-проверки-сезоном",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "analytics",
+      "title": "Летние решения «Торонто» не выдержали проверки сезоном",
+      "summary": "Аналитический разбор провальной перестройки «Мейпл Лифс»: контракты Бобровского, Раддыша и Марченко против результата 8-12-2.",
+      "bullets": [
+        "Три главных контракта лета: Бобровский — $7 млн за сезон, Раддыш — $8,5 млн, Марченко — $12,5 млн (начинает действовать с 2027-28).",
+        "Бобровский пришёл после сезона с показателем 87,7% отражённых броском и −12,2 goals saved above expected во «Флориде» — 9-й худший результат НХЛ по данным MoneyPuck.",
+        "Группа поддержки не отработала: у Блюгера 5 очков в 22 матчах, у Дюэйма — 4, у Пола — 7.",
+        "«Торонто» идёт 8-12-2 и седьмым в Атлантике, при этом клуб не контролирует свой пик первого раунда на следующих двух драфтах, если тот окажется в топ-5."
+      ],
+      "category": "transfers",
+      "country": "canada",
+      "published_at": "2026-11-16T16:15:00-06:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/maple-leafs-summer-decisions-have-not-aged-well.html",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "tsn.ca",
+          "url": "https://www.tsn.ca/nhl/article/these-leafs-look-a-lot-like-last-years-leafs/"
+        }
+      ]
+    },
     {
       "id": "2026-11-16-айлендерс-на-неделю-возвращение-барзала-и-травма-хорвата",
       "sport": "hockey",
@@ -44,6 +136,28 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
+    },
+    {
+      "id": "2026-11-16-защитник-миннесоты-маатта-выбыл-минимум-на-неделю",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Защитник «Миннесоты» Маатта выбыл минимум на неделю",
+      "summary": "Олли Маатта помещён в список травмированных с повреждением верхней части тела: у финна 19:16 среднего игрового времени и шесть очков в 18 матчах, вместо него выйдет Мэтт Кирстед.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-16T21:54:36+00:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/players/news/olli-maatta/1792",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "prohockeyrumors.com",
+          "url": "https://www.prohockeyrumors.com/2026/11/olli-maatta-out-with-upper-body-injury.html"
+        }
+      ]
     },
     {
       "id": "2026-11-16-псж-интересуется-невостребованным-у-флика-бальде",
@@ -173,6 +287,32 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
+    },
+    {
+      "id": "2026-11-16-оттава-вызвала-буше-дебют-спустя-пять-лет-после-драфта",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "«Оттава» вызвала Буше: дебют спустя пять лет после драфта",
+      "summary": "Выбранный под 10-м номером драфта-2021 Тайлер Буше поднят из «Бельвилля» и дебютирует во вторник в Виннипеге — у «Сенаторз» вне состава пять форвардов.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "canada",
+      "published_at": "2026-11-16T21:32:00+00:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/five-years-being-drafted-10th-213214796.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "thehockeywriters.com",
+          "url": "https://thehockeywriters.com/"
+        },
+        {
+          "domain": "prohockeyrumors.com",
+          "url": "https://www.prohockeyrumors.com/2026/11/senators-recall-tyler-boucher.html"
+        }
+      ]
     },
     {
       "id": "2026-11-16-турция-официально-понижена-в-дивизион-b-лиги-наций",
@@ -39590,113 +39730,6 @@
           "url": "https://www.getfootballnewsfrance.com/2026/walid-regragui-in-contention-for-rc-lens-job/"
         }
       ]
-    },
-    {
-      "id": "2026-11-13-нью-джерси-вызвал-силаева-вместо-травмированного-ковачевича",
-      "sport": "hockey",
-      "date": "2026-11-13",
-      "section": "news",
-      "title": "«Нью-Джерси» вызвал Силаева вместо травмированного Ковачевича",
-      "summary": "Джонатан Ковачевич отправлен в список травмированных с повреждением голеностопа, а 20-летний россиянин Антон Силаев (10-й пик драфта-2024, 4 очка в 12 матчах за «Ютику») впервые ждёт дебюта в НХЛ.",
-      "bullets": [],
-      "category": "russians",
-      "country": "usa",
-      "published_at": "2026-11-13T15:33:05-05:00",
-      "source_domain": "dailyfaceoff.com",
-      "source_url": "https://www.dailyfaceoff.com/news/new-jersey-devils-johnathan-kovacevic-injured-reserve-recall-anton-silaev-nhl",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "prohockeyrumors.com",
-          "url": "https://www.prohockeyrumors.com/2026/11/devils-place-jonathan-kovacevic-on-ir-recall-anton-silayev.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-13-экс-защитник-ромы-бертольд-пойдёт-в-президенты-от-адг",
-      "sport": "football",
-      "date": "2026-11-13",
-      "section": "news",
-      "title": "Экс-защитник «Ромы» Бертольд пойдёт в президенты от АдГ",
-      "summary": "62-летнего Томаса Бертольда, игравшего в Серии А с 1987 по 1991 год, крайне правая «Альтернатива для Германии» выдвинула кандидатом на пост федерального президента.",
-      "bullets": [],
-      "category": "other",
-      "country": "germany",
-      "published_at": "2026-11-13T21:31:53+01:00",
-      "source_domain": "gazzetta.it",
-      "source_url": "https://www.gazzetta.it/Calcio/Serie-A/Roma/13-11-2026/berthold-candidato-afd-verona-roma.shtml",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-13-монреаль-набирает-очки-12-матчей-подряд-впервые-с-1993-го",
-      "sport": "hockey",
-      "date": "2026-11-13",
-      "section": "news",
-      "title": "«Монреаль» набирает очки 12 матчей подряд — впервые с 1993-го",
-      "summary": "После победы над «Бостоном» 5:2 «Канадиенс» вышли на серию из 12 игр с набранными очками, а Коул Кофилд забивал «Брюинз» восемь встреч подряд.",
-      "bullets": [],
-      "category": "records",
-      "country": "canada",
-      "published_at": "2026-11-13T20:30:34+00:00",
-      "source_domain": "sports.yahoo.com",
-      "source_url": "https://sports.yahoo.com/articles/canadiens-roll-203034974.html",
-      "ru_covered": true,
-      "ru_source": "allhockey.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-13-short-shifts-топ-моменты-недели-от-nhl-com",
-      "sport": "hockey",
-      "date": "2026-11-13",
-      "section": "news",
-      "title": "Short Shifts: топ-моменты недели от NHL.com",
-      "summary": "Еженедельный «человеческий» рейтинг лиги: Сет Джарвис дегустирует финскую кухню с Ахо и Котканиеми перед Global Series, мама новичка «Тампы» Сэма О'Райли плачет на его дебюте, а Дастин Вулф пишет на блокере девиз Девина Кули.",
-      "bullets": [],
-      "category": "other",
-      "country": "usa",
-      "published_at": "2026-11-13T20:28:00+00:00",
-      "source_domain": "nhl.com",
-      "source_url": "https://www.nhl.com/news/short-shifts-power-rankings-november-13-2026",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-13-жезус-я-провёл-с-кришем-не-неделю-а-год",
-      "sport": "football",
-      "date": "2026-11-13",
-      "section": "news",
-      "title": "Жезус: «Я провёл с Кришем не неделю, а год»",
-      "summary": "На пресс-конференции перед Данией тренер Португалии похвалил лучшего снайпера Серии А Густаву Варелу, напомнил, что семь игроков в шаге от дисквалификации, и назвал Бернарду Силву «мыслителем».",
-      "bullets": [],
-      "category": "statements",
-      "country": "portugal",
-      "published_at": "2026-11-13T20:28:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/homenagem-a-cr7-estreantes-e-a-posicao-de-bernardo-tudo-o-que-disse-jorge-jesus-2026111313554510320",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-13-юнайтед-нашёл-двух-сменщиков-бруну-фернандешу",
-      "sport": "football",
-      "date": "2026-11-13",
-      "section": "news",
-      "title": "«Юнайтед» нашёл двух сменщиков Бруну Фернандешу",
-      "summary": "TEAMtalk: после отказа Фернандеша от нового контракта «МЮ» внёс в шортлист пару из «Комо» — Мартина Батурину и Нико Паса, общая оценка около £134 млн.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "england",
-      "published_at": "2026-11-13T20:27:00+00:00",
-      "source_domain": "teamtalk.com",
-      "source_url": "https://www.teamtalk.com/manchester-united/man-utd-bruno-fernandes-replacement-nico-paz-martin-baturina-como",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
     }
   ]
 }
