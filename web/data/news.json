@@ -1,6 +1,154 @@
 {
-  "generated_at": "2026-11-16T03:20:30.140410+00:00",
+  "generated_at": "2026-11-16T04:13:38.073094+00:00",
   "items": [
+    {
+      "id": "2026-11-16-робертсон-в-овертайме-принёс-далласу-победу-над-флоридой",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Робертсон в овертайме принёс «Далласу» победу над «Флоридой»",
+      "summary": "«Даллас» выиграл 2:1 ОТ: Робертсон забил на 2:56 овертайма с передачи Хинца и прервал шестиматчевую серию поражений от «Флориды», а Ткачук набрал 700-е очко карьеры в большинстве.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-15T23:04:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/nhl/recap?gameId=401892722",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/florida-panthers-dallas-stars-game-recap-november-15-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-макдэвид-повторил-рекорд-гретцки-по-скорости-40-передач",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Макдэвид повторил рекорд Гретцки по скорости 40 передач",
+      "summary": "«Эдмонтон» выиграл в Филадельфии 5:2, Макдэвид оформил 40-ю передачу в 22-м матче сезона — ровно как Гретцки в 1984/85; Драйзайтль сделал дубль и первым в лиге дошёл до 20 голов, Подколзин забил в большинстве.",
+      "bullets": [],
+      "category": "records",
+      "country": "canada",
+      "published_at": "2026-11-15T22:38:00-05:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/draisaitl-scores-twice-mcdavid-ties-033853653.html",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/edmonton-oilers-philadelphia-flyers-game-recap-november-15-2026"
+        },
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/flyers-special-teams-nightmare-night-031251116.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-готье-забивает-девять-матчей-подряд-лучшая-серия-за-29-лет",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Готье забивает девять матчей подряд — лучшая серия за 29 лет",
+      "summary": "«Анахайм» разгромил «Калгари» 6:1: Готье продлил голевую серию до девяти игр (16 голов за серию, 18 в сезоне — второй показатель НХЛ), Сеннеке сделал дубль, Хуссо отразил 20 броском.",
+      "bullets": [],
+      "category": "records",
+      "country": "usa",
+      "published_at": "2026-11-15T22:37:00-05:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/cutter-gauthier-extends-goal-streak-033735306.html",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "tsn.ca",
+          "url": "https://www.tsn.ca/nhl/article/gauthier-extends-goal-streak-to-9-games-leading-ducks-past-flames/"
+        },
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/recap?gameId=401892723"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/calgary-flames-anaheim-ducks-game-recap-november-15-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-шайфли-переписал-рекорды-виннипега-колонка-о-редкой-верности",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "analytics",
+      "title": "Шайфли переписал рекорды «Виннипега»: колонка о редкой верности",
+      "summary": "Адам Проту разбирает, почему рекорды Марка Шайфли в «Джетс» на фоне запроса Хеллебайка на обмен выглядят исчезающим примером преданности клубу.",
+      "bullets": [
+        "933 очка Шайфли — новый клубный рекорд: он обошёл Дэйла Хаверчука (929), а 379-м голом сравнялся с его же снайперским рекордом «Виннипега».",
+        "Рекордное очко пришло в матче с «Чикаго» (5:4 по буллитам) — шестой победе «Джетс» подряд.",
+        "В 14-м полном сезоне у Шайфли 26 очков в 21 игре, баланс «Виннипега» — 10-8-3.",
+        "Автор прямо противопоставляет Шайфли Коннору Хеллебайку, который запросил обмен из клуба."
+      ],
+      "category": "records",
+      "country": "canada",
+      "published_at": "2026-11-15T22:37:00-05:00",
+      "source_domain": "thehockeynews.com",
+      "source_url": "https://thehockeynews.com/news/latest-news/mark-scheifele-setting-jets-franchise-records-highlights-his-refreshing-loyalty-to-winnipeg",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "thehockeywriters.com",
+          "url": "https://thehockeywriters.com/winnipeg-jets-mark-scheifele-franchise-points-leader/"
+        },
+        {
+          "domain": "tsn.ca",
+          "url": "https://www.tsn.ca/nhl/article/scheifele-becomes-jets-all-time-points-leader-passes-hawerchuk/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-ньюджент-хопкинс-пропустил-матч-с-филадельфией-без-объяснени",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Ньюджент-Хопкинс пропустил матч с «Филадельфией» без объяснений",
+      "summary": "Бэбкок объявил перед игрой, что ветеран «Эдмонтона» не сыграет против «Флайерз», причину клуб не раскрыл; у форварда 4+7 в 12 матчах, в ноябре он побил клубный рекорд по числу игр.",
+      "bullets": [],
+      "category": "injury",
+      "country": "canada",
+      "published_at": "2026-11-15T22:06:00-05:00",
+      "source_domain": "sports.yahoo.com",
+      "source_url": "https://sports.yahoo.com/articles/oilers-lose-veteran-forward-undisclosed-030641842.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-веренски-и-обвал-коламбуса-пора-ли-пересматривать-верность-к",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "analytics",
+      "title": "Веренски и обвал «Коламбуса»: пора ли пересматривать верность клубу",
+      "summary": "Джим Парсонс разбирает, почему провальный старт «Блю Джекетс» может заставить Зака Веренски пожалеть о решении остаться в Огайо.",
+      "bullets": [
+        "«Коламбус» идёт 7-11-0 — последнее место на Востоке при четырёх поражениях подряд.",
+        "43 забитых гола (меньше 2,39 за игру) — худшая атака лиги по подсчётам автора.",
+        "У Веренски 15 очков против 34 у Эвана Бушара и 30 у Куинна Хьюза — конкуренты за «Норрис» ушли далеко вперёд.",
+        "Летом на столе был обмен в «Даллас», но защитник сам его заблокировал; клуб не выходит в плей-офф пятый сезон подряд."
+      ],
+      "category": "other",
+      "country": "usa",
+      "published_at": "2026-11-15T22:05:00-05:00",
+      "source_domain": "thehockeynews.com",
+      "source_url": "https://thehockeynews.com/news/latest-news/will-zach-werenski-be-reconsidering-his-commitment-to-the-blue-jackets",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-15-подколзин-забил-10-й-эдмонтон-разобрался-с-филадельфией",
       "sport": "hockey",
@@ -24,6 +172,32 @@
         {
           "domain": "sports.yahoo.com",
           "url": "https://sports.yahoo.com/nhl/edmonton-oilers-philadelphia-flyers-2026111515/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-рейнджерс-выменяли-вратаря-сёдерблума-у-чикаго",
+      "sport": "hockey",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "«Рейнджерс» выменяли вратаря Сёдерблума у «Чикаго»",
+      "summary": "Нью-Йорк отдал Спенсера Мартина и взял на себя весь контракт Сёдерблума (два года, $5,5 млн): оба вратаря отправлены в АХЛ, $1,525 млн шведа пойдут из LTIR-пула, освободившегося после травмы Шестёркина.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "usa",
+      "published_at": "2026-11-15T22:00:00-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/rangers-acquire-arvid-soderblom.html",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "tsn.ca",
+          "url": "https://www.tsn.ca/nhl/article/rangers-blackhawks-complete-backup-goalie-swap/"
+        },
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/news/chicago-blackhawks-acquire-spencer-martin-new-york-rangers-arvid-soderblom-nhl-trade-news-ahl"
         }
       ]
     },
@@ -39860,166 +40034,6 @@
       "published_at": "2026-11-12T21:57:09+00:00",
       "source_domain": "thehockeynews.com",
       "source_url": "https://thehockeynews.com/news/latest-news/how-the-nhls-best-defensemen-are-raising-the-bar-for-offensive-production",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-кейн-побил-рекорд-шилтона-и-вывел-англию-в-плей-офф",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Кейн побил рекорд Шилтона и вывел Англию в плей-офф",
-      "summary": "Англия победила Хорватию 2:1 на «Уэмбли» (Роджерс — 24', Сучич — 59', Кейн — 64' с пенальти): форвард провёл 126-й матч за сборную, обошёл Питера Шилтона, забил 92-й гол и в тот же вечер показал трибунам «Золотой мяч».",
-      "bullets": [],
-      "category": "records",
-      "country": "england",
-      "published_at": "2026-11-12T21:56:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/liga-das-nacoes-inglaterra-garante-apuramento-na-noite-da-consagracao-do-bola-de-ouro-2026111221564799187",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "onefootball.com",
-          "url": "https://onefootball.com/en/news/england-2-1-croatia-harry-kane-with-the-winner-to-cap-special-night-43768858"
-        },
-        {
-          "domain": "sporx.com",
-          "url": "https://www.sporx.com/ingiltere-hirvatistan-a-wembley-de-gecit-vermedi-SXHBQ1182685SXQ"
-        },
-        {
-          "domain": "goal.com",
-          "url": "https://www.goal.com/en/news/harry-kane-breaks-36-year-old-record-and-scores-winning-goal-for-england/blt1d54b7e25ee2fe5c"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-фридман-флайерз-собирали-команду-прямо-перед-ссорой-мичкова",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Фридман: «Флайерз» собирали команду прямо перед ссорой Мичкова",
-      "summary": "Инсайдер рассказал, что клуб проводил сбор для сплочения раздевалки за считаные дни до перепалки Мичкова с Силером; у россиянина 10 голов в 21 матче, Бриэр уверяет, что обмен «не обсуждался».",
-      "bullets": [],
-      "category": "russians",
-      "country": "usa",
-      "published_at": "2026-11-12T16:55:00-05:00",
-      "source_domain": "bleacherreport.com",
-      "source_url": "https://bleacherreport.com/articles/25532757-new-nhl-rumors-detail-matvei-michkovs-talks-flyers-teammates-video-heated-exchange",
-      "ru_covered": true,
-      "ru_source": "sport-express.ru",
-      "related": [
-        {
-          "domain": "nhl.com",
-          "url": "https://www.nhl.com/news/matvei-michkov-happy-with-philadelphia-flyers-amid-reports"
-        },
-        {
-          "domain": "thefourthperiod.com",
-          "url": "https://www.thefourthperiod.com/nov-2026/michkov-wants-new-start-team-surpised"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-манчини-франция-могла-нас-уничтожить",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Манчини: «Франция могла нас уничтожить»",
-      "summary": "После 3:1 тренер Италии предупредил, что работа не закончена: чтобы удержать первое место в группе, нужно побеждать в Бельгии в последнем туре.",
-      "bullets": [],
-      "category": "statements",
-      "country": "italy",
-      "published_at": "2026-11-12T21:54:30+00:00",
-      "source_domain": "football-italia.net",
-      "source_url": "https://football-italia.net/mancini-italy-stayed-calm-france-could-destroy/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-седины-вышли-под-огонь-задавайте-тяжёлые-вопросы",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Седины вышли под огонь: «Задавайте тяжёлые вопросы»",
-      "summary": "При 3-16-1 — худшем старте в истории клуба — сопрезиденты «Ванкувера» провели пресс-конференцию и попросили терпения: «Мы не сидим и не принимаем то, где находимся».",
-      "bullets": [],
-      "category": "statements",
-      "country": "canada",
-      "published_at": "2026-11-12T21:54:29+00:00",
-      "source_domain": "sportsnet.ca",
-      "source_url": "https://www.sportsnet.ca/nhl/article/amid-the-storm-canucks-sedins-not-shying-away-from-blowback/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "canucksarmy.com",
-          "url": "https://canucksarmy.com/news/sedins-show-united-front-appeal-patience-assessing-vancouver-canucks-disappointing-start-season"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-вушкович-мечтает-о-реале-следит-и-ливерпуль",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Вушкович мечтает о «Реале», следит и «Ливерпуль»",
-      "summary": "По данным Флориана Плеттенберга, 19-летний защитник «Брайтона» видит своим будущим мадридский клуб, но его перспективы отслеживает и «Ливерпуль».",
-      "bullets": [],
-      "category": "rumors",
-      "country": "spain",
-      "published_at": "2026-11-12T21:53:00+00:00",
-      "source_domain": "getfootballnewsspain.com",
-      "source_url": "https://getfootballnewsspain.com/premier-league-sensation-dreams-of-joining-real-madrid/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-разбор-оценок-италия-франция-кто-провалил-вечер",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "analytics",
-      "title": "Разбор оценок Италия — Франция: кто провалил вечер",
-      "summary": "Foot Mercato разбирает 3:1 на «Сан-Сиро» по каждому игроку: что сломалось у Франции во втором тайме и почему Италия выглядела сильнее.",
-      "bullets": [
-        "Доннарумма отразил 4 из 5 французских ударов в створ — и при этом сам подарил гол, отдав мяч прямо на Олисе при выходе из обороны.",
-        "Барелла закончил матч с 98% точных передач и восемью подборами мяча — он и был опорой итальянского давления.",
-        "Себастьяно Эспозито за первый тайм коснулся мяча лишь 18 раз, а пенальти пробил мимо створа; выручил брат Пио дублем.",
-        "Мало Гюсто получил оценку 2 («совершенно провальный вечер»), Упамекано привёз второй пенальти на 74-й минуте; Бастони — 5 выносов, 3 перехвата, 4 подбора."
-      ],
-      "category": "match",
-      "country": "france",
-      "published_at": "2026-11-12T22:52:59+01:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a4035716968713708846-italie-france-les-notes-du-match",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "getfootballnewsfrance.com",
-          "url": "https://www.getfootballnewsfrance.com/2026/player-ratings-italy-3-1-france-disastrous-second-half-undoes-france-in-zinedine-zidanes-first-defeat-as-les-bleus-boss/"
-        },
-        {
-          "domain": "butfootballclub.fr",
-          "url": "https://www.butfootballclub.fr/1713341-italie-france-3-1-premiere-defaite-de-lere-zidane-les-tops-et-flops-des-bleus/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-франция-потеряла-матч-а-звезда-псж-зуб",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Франция потеряла матч, а звезда ПСЖ — зуб",
-      "summary": "Форвард «ПСЖ» Дезире Дуэ лишился части переднего зуба после попадания локтем от Фраттези — арбитр эпизод не наказал.",
-      "bullets": [],
-      "category": "injury",
-      "country": "france",
-      "published_at": "2026-11-12T21:51:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/franca-perdeu-o-jogo-e-estrela-do-psg-um-dente-2026111221513580237",
       "ru_covered": false,
       "ru_source": "",
       "related": []
