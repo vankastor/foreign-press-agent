@@ -1,6 +1,149 @@
 {
-  "generated_at": "2026-11-16T02:18:34.046990+00:00",
+  "generated_at": "2026-11-16T03:20:30.140410+00:00",
   "items": [
+    {
+      "id": "2026-11-15-подколзин-забил-10-й-эдмонтон-разобрался-с-филадельфией",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "Подколзин забил 10-й, «Эдмонтон» разобрался с «Филадельфией»",
+      "summary": "Василий Подколзин оформил 10-ю шайбу сезона в большинстве, Леон Драйзайтль сделал дубль (19-й и 20-й голы), а Коннор Макдэвид продлил результативную серию до 22 матчей и сравнялся с Уэйном Гретцки по очкам в большинстве за «Ойлерз» (439); итог — 5:2.",
+      "bullets": [],
+      "category": "russians",
+      "country": "canada",
+      "published_at": "2026-11-15T22:05:00-05:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/oilers/news/live-updates-oilers-at-flyers-11-15-26",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/boxscore/_/gameId/401892721"
+        },
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/nhl/edmonton-oilers-philadelphia-flyers-2026111515/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-роналдиньо-после-дебюта-позовёт-президент-вернусь",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Роналдиньо после дебюта: «Позовёт президент — вернусь»",
+      "summary": "46-летний бразилец отыграл первый тайм в победе «Равенны» над «Форли» (2:0) в Серии C при 12 тысячах зрителей, поучаствовал в голевой атаке и не исключил новых матчей по ходу сезона: «Теперь всё зависит от президента».",
+      "bullets": [],
+      "category": "statements",
+      "country": "italy",
+      "published_at": "2026-11-16T00:00:00-03:00",
+      "source_domain": "ge.globo.com",
+      "source_url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/16/ronaldinho-gaucho-aprova-retorno-e-nao-descarta-mais-jogos-pelo-ravenna-se-o-presidente-chamar.ghtml",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "hindustantimes.com",
+          "url": "https://www.hindustantimes.com/sports/football/ronaldinho-makes-his-pro-football-return-with-italys-ravenna-101794793465761.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-франция-прошла-в-плей-офф-2-1-с-турцией-и-первый-гол-крупи",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Франция прошла в плей-офф: 2:1 с Турцией и первый гол Крупи",
+      "summary": "Франция выиграла группу A1 с 13 очками: автогол Эмирхана Топчу, 20-летний Эли Жуниор Крупи забил первый мяч за сборную с передачи Шерки, Бардакчи отыграл один гол в концовке; лучшим по оценкам стал Шерки (8,8), у Турции выделили Арду Гюлера (7,4).",
+      "bullets": [],
+      "category": "match",
+      "country": "france",
+      "published_at": "2026-11-16T08:22:12+05:30",
+      "source_domain": "sportstar.thehindu.com",
+      "source_url": "https://sportstar.thehindu.com/football/france-vs-turkiye-player-ratings-eli-junior-kroupi-goal-fra-v-tur-score-goals-highlights-zidane-nations-league/article71706660.ece",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-рентген-вратарей-бенфики-антирекорд-самуэла-соареша",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Рентген вратарей «Бенфики»: антирекорд Самуэла Соареша",
+      "summary": "Record сравнил Самуэла Соареша и Трубина и зафиксировал: в тяжёлой победе над «Эштрелой» (3:2) перед паузой на сборные Соареш впервые в сезоне не сделал ни одного спасения в чемпионате — два удара в створ, два пропущенных мяча.",
+      "bullets": [],
+      "category": "records",
+      "country": "portugal",
+      "published_at": "2026-11-16T02:48:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/samuel-soares-ganha-com-os-pes-trubin-com-as-maos-o-raio-x-aos-guarda-redes-do-benfica",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-маритиму-вышел-из-отпуска-без-двух-игроков-сборных",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "«Маритиму» вышел из отпуска без двух игроков сборных",
+      "summary": "Перед кубковым матчем с «Шавешем» Митчелл ван дер Гааг получил полностью здоровую группу (восстановились Доминге и Йеллу Сантьяго), но без Бассуамины (сборная Конго) и вратаря Кимисса Завалы (Мозамбик); поле в Санту-Антониу приводили в порядок после ливней на Мадейре.",
+      "bullets": [],
+      "category": "other",
+      "country": "portugal",
+      "published_at": "2026-11-16T02:35:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/maritimo/detalhe/regresso-sem-internacionais",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-босния-румыния-матч-где-решается-судьба-румынии",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "analytics",
+      "title": "Босния — Румыния: матч, где решается судьба Румынии",
+      "summary": "Большой разбор заключительного тура группы B4: боснийцы уже вторые и идут в плей-офф за лигу A, а Румынии Хаджи нужна победа, чтобы избежать прямого вылета.",
+      "bullets": [
+        "Румыния проиграла первые четыре матча кампании (3 забитых, 13 пропущенных), но сенсационно обыграла Польшу 2:1 и отстаёт от зоны плей-офф всего на 1 очко.",
+        "Босния (8 очков) уступила Швеции 3:2 — это её первое поражение в группе после двух побед и двух ничьих; в сентябре боснийцы разобрались с Румынией 4:2.",
+        "Команда Сергея Барбареза не проигрывала два матча подряд с ноября 2024 года.",
+        "Румыния не побеждала в восьми выездных матчах подряд — с разгрома Сан-Марино 5:1 в марте 2025-го (6 поражений, 2 ничьи)."
+      ],
+      "category": "match",
+      "country": "other",
+      "published_at": "2026-11-16T02:26:14+00:00",
+      "source_domain": "sportsmole.co.uk",
+      "source_url": "https://www.sportsmole.co.uk/football/bosnia-herzegovina/uefa-nations-league/preview/bosnia-hvina-vs-romania-prediction-team-news-lineups_609182.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-зидан-о-слухах-про-конфликт-с-мбаппе-это-чушь",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Зидан о слухах про конфликт с Мбаппе: «Это чушь»",
+      "summary": "Тренер сборной Франции отказался обсуждать разговоры о недовольстве капитана его ролью на левом фланге: «Я не могу запретить людям говорить, но это чушь, это стыдно и порядком раздражает»; в матче с Турцией Мбаппе отыграл все 90 минут в центре атаки, а Дембеле выпал из заявки из-за травмы.",
+      "bullets": [],
+      "category": "statements",
+      "country": "france",
+      "published_at": "2026-11-16T09:23:58+07:00",
+      "source_domain": "cnnindonesia.com",
+      "source_url": "https://www.cnnindonesia.com/olahraga/20261116084958-142-1427509/zidane-bantah-ribut-dengan-mbappe-omong-kosong-menyebalkan",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/soccer/"
+        }
+      ]
+    },
     {
       "id": "2026-11-16-макдэвид-повторил-рекорд-гретцки-по-скорости-40-передач",
       "sport": "hockey",
@@ -24,6 +167,54 @@
       ]
     },
     {
+      "id": "2026-11-16-умер-дино-сани-чемпион-мира-1958-года-легенда-милана",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Умер Дино Сани — чемпион мира 1958 года, легенда «Милана»",
+      "summary": "Бразильскому полузащитнику было 94 года: он играл за «Сан-Паулу», «Боку Хуниорс» и «Милан» (чемпион Италии 1961/62 и обладатель Кубка европейских чемпионов 1962/63), а как тренер поднял поколение «Интернасьонала» с Фалькао; живыми чемпионами 1958-го остались Пепе, Моасир и Мазолла.",
+      "bullets": [],
+      "category": "other",
+      "country": "other",
+      "published_at": "2026-11-15T23:06:18-03:00",
+      "source_domain": "ge.globo.com",
+      "source_url": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/11/15/morre-dino-sani-ex-jogador-campeao-do-mundo-com-o-brasil-em-1958.ghtml",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "uol.com.br",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/15/morre-dino-sani-ex-jogador-campeao-da-copa-do-mundo-de-1958-aos-94-anos.ghtm"
+        },
+        {
+          "domain": "oglobo.globo.com",
+          "url": "https://oglobo.globo.com/esportes/futebol/noticia/2026/11/15/morre-dino-sani-campeao-mundial-de-1958-e-referencia-de-elegancia-no-meio-campo-aos-94-anos.ghtml"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-анахайм-активировал-защитника-яна-мура-из-списка-травмирован",
+      "sport": "hockey",
+      "date": "2026-11-15",
+      "section": "news",
+      "title": "«Анахайм» активировал защитника Яна Мура из списка травмированных",
+      "summary": "24-летний защитник пропустил первые 20 матчей сезона из-за повреждения нижней части тела и был активирован незадолго до стартового вбрасывания против «Калгари».",
+      "bullets": [],
+      "category": "transfers",
+      "country": "usa",
+      "published_at": "2026-11-15T21:05:00-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/ducks-activate-ian-moore-from-injured-reserve.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/players/news/ian-moore/31897"
+        }
+      ]
+    },
+    {
       "id": "2026-11-16-хейсканен-нацелен-на-возвращение-во-вторник-в-вегасе",
       "sport": "hockey",
       "date": "2026-11-16",
@@ -36,6 +227,23 @@
       "published_at": "2026-11-15T20:03:52-06:00",
       "source_domain": "prohockeyrumors.com",
       "source_url": "https://www.prohockeyrumors.com/2026/11/lineup-notes-heiskanen-sharks-gudas.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-пятёрка-травмированных-морейренсе-вернётся-на-день-раньше",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Пятёрка травмированных «Морейренсе» вернётся на день раньше",
+      "summary": "Франсишку Домингуш, Жуан Велозу, Кику Бондозу, Александр Парсемен и Тиагу Андраде выйдут на работу на сутки раньше остальной команды и продолжат восстановление под контролем медицинского штаба на стадионе клуба.",
+      "bullets": [],
+      "category": "injury",
+      "country": "portugal",
+      "published_at": "2026-11-16T02:01:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/moreirense/detalhe/quinteto-do-moreirense-com-regresso-antecipado",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -75,6 +283,110 @@
       "published_at": "2026-11-16T01:48:02+00:00",
       "source_domain": "nhl.com",
       "source_url": "https://www.nhl.com/ducks/news/gauthier-continues-to-be-scorching-hot",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-насьонал-ждёт-трёх-травмированных-к-дерби-с-маритиму",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "«Насьонал» ждёт трёх травмированных к дерби с «Маритиму»",
+      "summary": "Весли Газолина, Филипе Соареш и Лизиеро могут вернуться к тренировкам на этой неделе в ограниченном режиме; команда Жуана Энрикеша выбита из Кубка Португалии и проведёт ещё один свободный уик-энд, а трое игроков сборных приедут на Мадейру только к середине недели.",
+      "bullets": [],
+      "category": "injury",
+      "country": "portugal",
+      "published_at": "2026-11-16T01:45:00+00:00",
+      "source_domain": "record.pt",
+      "source_url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/nacional/detalhe/prioridade-e-recuperar-lesionados",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-арсенал-выдохнул-у-цолиса-нет-серьёзной-травмы",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "«Арсенал» выдохнул: у Цолиса нет серьёзной травмы",
+      "summary": "Грек прошёл МРТ после дискомфорта в матче сборной с Нидерландами, повреждение не подтвердилось, и он может сыграть с Сербией; «Арсеналу» это важно перед выездом к «Ньюкаслу» в 11-м туре АПЛ, где других левых вингеров в заявке нет.",
+      "bullets": [],
+      "category": "injury",
+      "country": "england",
+      "published_at": "2026-11-16T01:44:30+00:00",
+      "source_domain": "sportsmole.co.uk",
+      "source_url": "https://www.sportsmole.co.uk/football/arsenal/injury-news/news/positive-update-early-mri-boost-for-gunners-before-clash-with-magpies_609187.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-16-англия-обыграла-испанию-и-прервала-серию-в-43-матча",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Англия обыграла Испанию и прервала серию в 43 матча",
+      "summary": "В Мадриде Англия победила 3:2 (пенальти Кейна — его 93-й гол за сборную, голы Консы и Бена Уайта), почти полчаса играла вдесятером после красной Эллиота Андерсона и первой с марта 2023-го обыграла чемпионов мира; Бельгия разгромила Италию 4:1 и вместе с Францией вышла в четвертьфинал.",
+      "bullets": [],
+      "category": "match",
+      "country": "england",
+      "published_at": "2026-11-16T07:11:33+05:30",
+      "source_domain": "hindustantimes.com",
+      "source_url": "https://www.hindustantimes.com/sports/football/england-topple-spain-as-belgium-smash-italy-to-reach-nations-league-quarters-101794793197759.html",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "sportstar.thehindu.com",
+          "url": "https://sportstar.thehindu.com/football/spain-vs-england-score-goals-highlights-player-ratings-harry-kane-lamine-yamal-uefa-nations-league-news/article71706643.ece"
+        },
+        {
+          "domain": "skysports.com",
+          "url": "https://www.skysports.com/football/news/13611877/spain-2-3-england-three-lions-hold-on-for-famous-win-after-elliot-anderson-red-card-to-top-nations-league-group-a3"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-манчини-объяснил-провал-италии-в-брюсселе-1-4-от-бельгии",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "news",
+      "title": "Манчини объяснил провал Италии в Брюсселе: 1:4 от Бельгии",
+      "summary": "После поражения, из-за которого Италия осталась третьей в группе и не вышла в четвертьфинал Лиги наций, Манчини признал превосходство соперника: «Они были лучше, нам было тяжело физически в единоборствах, мы устали после матча с Францией».",
+      "bullets": [],
+      "category": "statements",
+      "country": "italy",
+      "published_at": "2026-11-16T08:40:05+07:00",
+      "source_domain": "cnnindonesia.com",
+      "source_url": "https://www.cnnindonesia.com/olahraga/20261116081815-142-1427501/kata-kata-mancini-usai-italia-gagal-ke-perempat-final-nations-league",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "football-italia.net",
+          "url": "https://football-italia.net/van-bommel-belgium-donnarumma-de-bruyne/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-польша-швеция-расклад-перед-матчем-за-выживание",
+      "sport": "football",
+      "date": "2026-11-16",
+      "section": "analytics",
+      "title": "Польша — Швеция: расклад перед матчем за выживание",
+      "summary": "Разбор ключевой игры для Польши Яна Урбана: Швеция Грэма Поттера уже вышла в лигу A, а хозяевам нужен результат, чтобы не свалиться в зону прямого понижения.",
+      "bullets": [
+        "Польша третья с 4 очками, лишь на одно больше Румынии; поражение румын в Бухаресте (1:2) стоило ей гарантированного места в стыках.",
+        "Швеция не проиграла в группе ни разу (13 очков): в игре с Боснией Даниэль Свенссон забил на 5-й минуте, Виктор Йокереш оформил два пенальти.",
+        "Швеция забивала в первые 20 минут в шести из семи последних матчей Лиги наций, а в 13 из 15 последних игр команды результативными были обе стороны.",
+        "Швеция выиграла восемь из девяти последних личных встреч, но дома в этой группе Польша не проигрывала: 0:0 с Боснией и 6:0 с Румынией."
+      ],
+      "category": "match",
+      "country": "other",
+      "published_at": "2026-11-16T01:18:47+00:00",
+      "source_domain": "sportsmole.co.uk",
+      "source_url": "https://www.sportsmole.co.uk/football/poland/uefa-nations-league/preview/poland-vs-sweden-prediction-team-news-lineups_609183.html",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -39708,326 +40020,6 @@
       "published_at": "2026-11-12T21:51:00+00:00",
       "source_domain": "abola.pt",
       "source_url": "https://www.abola.pt/noticias/franca-perdeu-o-jogo-e-estrela-do-psg-um-dente-2026111221513580237",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-кейн-выведен-из-списка-травмированных-чикаго",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Кейн выведен из списка травмированных «Чикаго»",
-      "summary": "Форвард пропустил три матча из-за повреждения верхней части тела и возвращается в состав на игру с «Баффало»; из Рокфорда вызван вратарь Дрю Коммессо.",
-      "bullets": [],
-      "category": "injury",
-      "country": "usa",
-      "published_at": "2026-11-12T21:49:28+00:00",
-      "source_domain": "dailyfaceoff.com",
-      "source_url": "https://www.dailyfaceoff.com/news/chicago-blackhawks-patrick-kane-activated-ir-injured-reserve-expected-return-buffalo-sabres-nhl-news",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "prohockeyrumors.com",
-          "url": "https://www.prohockeyrumors.com/2026/11/blackhawks-recall-drew-commesso-place-patrick-kane-on-ir.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-оценки-за-италия-франция-эспозито-8-зидан-5",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "analytics",
-      "title": "Оценки за Италия — Франция: Эспозито — 8, Зидан — 5",
-      "summary": "Большой разбор с оценками обеих команд от Андреа Дистазо: кто вытащил матч для азурров и за что наказали французов.",
-      "bullets": [
-        "Пио Эспозито получил 8 и признан MVP матча — автор называет его доминирующим на всех фронтах.",
-        "Доннарумме поставили 5,5 за короткую передачу, из которой вырос гол Олисе, но отметили последующее «искупление».",
-        "Манчини — 7,5 за перестроенную игру и камбэк; Зидану — 5: по версии издания, Франция «успокоилась на лаврах» после 1:1.",
-        "Поражение гостей автор списывает на ошибки защиты — Мало Гюсто, Жаке и Трюффера; сюрпризами матча названы Кайоде и Скальвини."
-      ],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-11-12T22:48:00+01:00",
-      "source_domain": "calciomercato.com",
-      "source_url": "https://www.calciomercato.com/notizie/italia-francia-le-pagelle-di-cm-pio-esposito-mvp-da-dominatore-donnarumma-papera-e-riscatto-cambiaghi-kayode-e-scalvini-che-sorprese/blt9ceb3f977a28eefb",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "football-italia.net",
-          "url": "https://football-italia.net/player-ratings-italy-3-1-france-pio-and-cambiaghi-shine-donnarumma-forgiven/"
-        },
-        {
-          "domain": "sportmediaset.mediaset.it",
-          "url": "https://www.sportmediaset.mediaset.it/calcio/le-pagelle-di-italia-francia-pio-doppietta-da-8-che-bravo-cambiaghi-male-gigio-e-seba-esposito_118917021-202602k.shtml"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-дезире-дуэ-вышел-из-матча-с-повреждённым-зубом",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Дезире Дуэ вышел из матча с повреждённым зубом",
-      "summary": "Вингер сборной Франции провёл невыразительный вечер в Милане и покинул поле с разбитым зубом — снимок уже разошёлся по сети.",
-      "bullets": [],
-      "category": "injury",
-      "country": "france",
-      "published_at": "2026-11-12T22:45:37+01:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a4907154425464064887-limage-choquante-de-la-dent-de-desire-doue",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-испания-выиграла-пятый-матч-из-пяти-в-лиге-наций",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Испания выиграла пятый матч из пяти в Лиге наций",
-      "summary": "В Праге Испания победила Чехию 2:0 — Баэна реализовал пенальти на 39-й минуте, Пубиль добил в компенсированное время, хозяева с 72-й играли в меньшинстве после удаления Крейчи; у команды де ла Фуэнте 15 очков и матч с Англией 15 ноября.",
-      "bullets": [],
-      "category": "match",
-      "country": "spain",
-      "published_at": "2026-11-13T00:45:00+03:00",
-      "source_domain": "sporx.com",
-      "source_url": "https://www.sporx.com/ispanya-dan-5-te-5-cekya-ya-gecit-vermedi-SXHBQ1182687SXQ",
-      "ru_covered": true,
-      "ru_source": "sport-express.ru",
-      "related": [
-        {
-          "domain": "goal.com",
-          "url": "https://www.goal.com/en/news/spain-player-ratings-vs-czechia-alex-baena-marc-pubill-strike-la-roja-dominate-in-prague/blte2c385ecd8208f6e"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-монтгомери-поддержал-дворски-после-посадки-на-лавку",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Монтгомери поддержал Дворски после посадки на лавку",
-      "summary": "«Мы в него верим» — тренер «Сент-Луиса» о 21-летнем центре, чьё игровое время падало до 10:14 и 6:36, а на счету 4 гола и 5 очков в 18 матчах.",
-      "bullets": [],
-      "category": "statements",
-      "country": "usa",
-      "published_at": "2026-11-12T21:43:07+00:00",
-      "source_domain": "sports.yahoo.com",
-      "source_url": "https://sports.yahoo.com/articles/believe-him-blues-coach-reinstates-214307530.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-италия-разобрала-францию-и-возглавила-группу",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Италия разобрала Францию и возглавила группу",
-      "summary": "Дубль Пио Эспозито и гол Фраттези — 3:1 на «Сан-Сиро»: первое поражение Зидана во главе Франции и первая домашняя победа Италии над «трёхцветными» с 1962 года.",
-      "bullets": [],
-      "category": "match",
-      "country": "italy",
-      "published_at": "2026-11-12T21:41:33+00:00",
-      "source_domain": "football-italia.net",
-      "source_url": "https://football-italia.net/nations-league-italy-3-1-france-pio-esposito/",
-      "ru_covered": true,
-      "ru_source": "sport-express.ru",
-      "related": [
-        {
-          "domain": "record.pt",
-          "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/20261112-165655-italia-franca-em-direto"
-        },
-        {
-          "domain": "footmercato.net",
-          "url": "https://www.footmercato.net/a7993308481398219843-ligue-des-nations-premiere-defaite-des-bleus-de-zinedine-zidane-face-a-une-italie-renversante"
-        },
-        {
-          "domain": "getfootballnewsfrance.com",
-          "url": "https://www.getfootballnewsfrance.com/2026/player-ratings-italy-3-1-france-disastrous-second-half-undoes-france-in-zinedine-zidanes-first-defeat-as-les-bleus-boss/"
-        },
-        {
-          "domain": "kicker.de",
-          "url": "https://www.kicker.de/kane-trifft-im-rekordspiel-italien-sorgt-fuer-erste-zidane-niederlage-als-frankreich-coach-1270216/artikel"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-испания-забрала-прагу-и-сохранила-идеальный-ход",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Испания забрала Прагу и сохранила идеальный ход",
-      "summary": "Чехия — Испания 0:2: пять побед в пяти матчах Лиги наций, испанцы идут первыми в группе и подходят к последнему туру с отрывом в три очка от Англии.",
-      "bullets": [],
-      "category": "match",
-      "country": "spain",
-      "published_at": "2026-11-12T21:41:00+00:00",
-      "source_domain": "record.pt",
-      "source_url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/20261112-165412-espanha-rep-checa-em-direto",
-      "ru_covered": true,
-      "ru_source": "sport-express.ru",
-      "related": [
-        {
-          "domain": "footmercato.net",
-          "url": "https://www.footmercato.net/a2265969063570865956-ligue-des-nations-lespagne-simpose-harry-kane-donne-la-victoire-a-langleterre"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-баффало-отправил-хелениуса-в-лазарет-и-активировал-лайона",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "«Баффало» отправил Хелениуса в лазарет и активировал Лайона",
-      "summary": "20-летний финн, 14-й пик драфта-2024, не играет с 27 октября (3 очка в 11 матчах), а вратарь Алекс Лайон готов к дебюту в сезоне.",
-      "bullets": [],
-      "category": "injury",
-      "country": "usa",
-      "published_at": "2026-11-12T21:39:48+00:00",
-      "source_domain": "dailyfaceoff.com",
-      "source_url": "https://www.dailyfaceoff.com/news/buffalo-sabres-konsta-helenius-nhl-ir-injured-reserve-activate-alex-lyon-news",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-кейн-с-пенальти-вывел-англию-в-четвертьфинал",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Кейн с пенальти вывел Англию в четвертьфинал",
-      "summary": "Англия обыграла Хорватию 2:1 на «Уэмбли» — Роджерс открыл счёт, Сучич сравнял, Кейн реализовал пенальти после проверки VAR; в последнем туре англичане поспорят за первое место со Испанией.",
-      "bullets": [],
-      "category": "match",
-      "country": "england",
-      "published_at": "2026-11-12T21:38:00+00:00",
-      "source_domain": "record.pt",
-      "source_url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/20261112-165107-inglaterra-croacia-em-direto",
-      "ru_covered": true,
-      "ru_source": "championat.com",
-      "related": [
-        {
-          "domain": "footmercato.net",
-          "url": "https://www.footmercato.net/a2265969063570865956-ligue-des-nations-lespagne-simpose-harry-kane-donne-la-victoire-a-langleterre"
-        },
-        {
-          "domain": "givemesport.com",
-          "url": "https://www.givemesport.com/england-croatia-fans-done-with-liability-jarell-quansah-football-soccer/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-две-оплеухи-показали-как-далеко-баффало-до-элиты",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "analytics",
-      "title": "Две оплеухи показали, как далеко «Баффало» до элиты",
-      "summary": "Адам Прото разбирает поражения «Сейбрз» от «Вегаса» и «Тампы» и провалы по всем линиям.",
-      "bullets": [
-        "Два поражения подряд — от «Вегаса» и «Тампы» — с общим счётом 4:12 обнажили проблемы на обоих концах площадки.",
-        "«Баффало» лишь 20-й в лиге по забитым (2,94 за игру) и 27-й по пропущенным (3,56).",
-        "Большинство — 29-е место в НХЛ (15,3%), меньшинство — 26-е (69,8%).",
-        "Вывод автора: до элитной формы прошлого сезона этой версии «Сейбрз» ещё очень далеко."
-      ],
-      "category": "other",
-      "country": "usa",
-      "published_at": "2026-11-12T21:34:50+00:00",
-      "source_domain": "sports.yahoo.com",
-      "source_url": "https://sports.yahoo.com/articles/sabres-losses-golden-knights-lightning-213450883.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-баффало-отправил-хелениуса-в-список-травмированных",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "«Баффало» отправил Хелениуса в список травмированных",
-      "summary": "Молодой центр не играет с 27 октября из-за повреждения верхней части тела, клуб оформил IR задним числом; на его счету 3 очка (1+2) в 11 матчах.",
-      "bullets": [],
-      "category": "injury",
-      "country": "usa",
-      "published_at": "2026-11-12T21:31:06+00:00",
-      "source_domain": "dailyfaceoff.com",
-      "source_url": "https://www.dailyfaceoff.com/players/news/konsta-helenius/38139",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-манчестер-сити-ищет-сменщика-холанда",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "«Манчестер Сити» ищет сменщика Холанда",
-      "summary": "По данным Fichajes, Виана и Мареска подбирают форварда на случай уходa норвежца: в списке Эванилсон из «Борнмута» (оценка Transfermarkt — 35 млн евро) и Николо Трезольди из «Брюгге» (запрос около 70 млн).",
-      "bullets": [],
-      "category": "transfers",
-      "country": "england",
-      "published_at": "2026-11-12T22:30:00+01:00",
-      "source_domain": "fichajes.net",
-      "source_url": "https://www.fichajes.net/noticias/buscan-sustituto-haaland-20261112.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-the-hockey-news-разбирает-ситуацию-мичкова-в-филадельфии",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "The Hockey News разбирает ситуацию Мичкова в «Филадельфии»",
-      "summary": "В свежем выпуске подкаста Wraparound Андре Леал, Эмма Линган и Майкл Аугелло обсуждают сообщения о желании россиянина сменить клуб.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "usa",
-      "published_at": "2026-11-12T21:30:00+00:00",
-      "source_domain": "thehockeynews.com",
-      "source_url": "https://thehockeynews.com/news/podcast/making-sense-of-matvei-michkov-s-situation-with-the-philadelphia-flyers-the-hockey-news-wraparound",
-      "ru_covered": true,
-      "ru_source": "sport-express.ru",
-      "related": [
-        {
-          "domain": "thehockeynews.com",
-          "url": "https://thehockeynews.com/news/latest-news/nhl-rumor-roundup-its-not-sunny-in-philadelphia-for-michkov-and-the-flyers"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-sportsnet-что-миннесоте-делать-с-куинном-хьюзом",
-      "sport": "hockey",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Sportsnet: что «Миннесоте» делать с Куинном Хьюзом",
-      "summary": "Фрэнк Серавалли и Джон Буччигросс в Frankly Hockey разбирают варианты Билла Герина с защитником в последний год контракта.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "usa",
-      "published_at": "2026-11-12T21:21:45+00:00",
-      "source_domain": "sportsnet.ca",
-      "source_url": "https://www.sportsnet.ca/nhl/video/what-is-best-option-for-wild-gm-guerin-in-dealing-with-hughes/",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-12-секу-фофана-может-вернуться-в-ланс-зимой",
-      "sport": "football",
-      "date": "2026-11-12",
-      "section": "news",
-      "title": "Секу Фофана может вернуться в «Ланс» зимой",
-      "summary": "Тренер «Ренна» Пьер Саж, по информации французской прессы, уже зондировал вариант возвращения ивуарийца в «Ланс» в январе.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "france",
-      "published_at": "2026-11-12T21:20:00+00:00",
-      "source_domain": "butfootballclub.fr",
-      "source_url": "https://www.butfootballclub.fr/1713407-stade-rennais-mercato-seko-fofana-vers-un-grand-retour-au-rc-lens-cet-hiver/",
       "ru_covered": false,
       "ru_source": "",
       "related": []
