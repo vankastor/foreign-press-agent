@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:37:17.507531+00:00",
+  "generated_at": "2026-11-17T01:10:35.321322+00:00",
   "items": [
     {
       "id": "2026-11-17-кофилд-о-леди-бинг-и-отношениях-с-арбитрами",
@@ -14,6 +14,23 @@
       "published_at": "2026-11-17T00:22:31+00:00",
       "source_domain": "sportsnet.ca",
       "source_url": "https://www.sportsnet.ca/nhl/video/canadiens-cole-caufield-reveals-which-fanbases-have-the-best-chirps/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-17-коламбус-уедет-в-четырёхматчевый-тур-без-монахана-и-гарленда",
+      "sport": "hockey",
+      "date": "2026-11-17",
+      "section": "news",
+      "title": "«Коламбус» уедет в четырёхматчевый тур без Монахана и Гарленда",
+      "summary": "Шон Монахан и Конор Гарленд с травмами верхней части тела не отправятся с «Блю Джекетс» в выездную серию из четырёх игр, зато в поездку поедет восстанавливающийся после операции на ахилле Исак Лундестрём — он может сыграть против «Чикаго».",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-16T19:00:00-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/evening-notes-blue-jackets-leason-dorofeyev.html",
       "ru_covered": false,
       "ru_source": "",
       "related": []
@@ -39689,28 +39706,6 @@
         {
           "domain": "thehockeywriters.com",
           "url": "https://thehockeywriters.com/nhl-rumors-hurricanes-karlsson-wild-hughes-maple-leafs-dilemma-11-13-2026/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-13-ювентус-снова-вернулся-к-идее-с-удоджи",
-      "sport": "football",
-      "date": "2026-11-13",
-      "section": "news",
-      "title": "«Ювентус» снова вернулся к идее с Удоджи",
-      "summary": "Туринцы ищут левого защитника и, по данным Gazzetta, готовы сделать запрос в «Тоттенхэм» по Дестини Удоджи — первым вариантом остаётся Райан Аит-Нури.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "italy",
-      "published_at": "2026-11-13T21:37:00+01:00",
-      "source_domain": "calciomercato.com",
-      "source_url": "https://www.calciomercato.com/notizie/juventus-a-sinistra-torna-l-idea-udogie-carnevali-prova-un-altro-colpo-dal-tottenham-il-piano-dei-bianconeri-e-tutti-i-nomi-per-l-esterno-sinistro/blt8f0a5691b29e2dfc",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "football-italia.net",
-          "url": "https://football-italia.net/report-udogie-could-eager-juventus-tottenham/"
         }
       ]
     }
