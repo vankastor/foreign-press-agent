@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-11-16T23:22:02.844980+00:00",
+  "generated_at": "2026-11-17T00:37:17.507531+00:00",
   "items": [
+    {
+      "id": "2026-11-17-кофилд-о-леди-бинг-и-отношениях-с-арбитрами",
+      "sport": "hockey",
+      "date": "2026-11-17",
+      "section": "news",
+      "title": "Кофилд — о «Леди Бинг» и отношениях с арбитрами",
+      "summary": "Форвард «Монреаля» в эфире Sportsnet рассказал о номинации на «Леди Бинг», общении с судьями и о том, у каких болельщиков самые злые кричалки.",
+      "bullets": [],
+      "category": "statements",
+      "country": "canada",
+      "published_at": "2026-11-17T00:22:31+00:00",
+      "source_domain": "sportsnet.ca",
+      "source_url": "https://www.sportsnet.ca/nhl/video/canadiens-cole-caufield-reveals-which-fanbases-have-the-best-chirps/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-17-лундквист-забил-вратарский-гол-в-матче-легенд-рейнджерс",
+      "sport": "hockey",
+      "date": "2026-11-17",
+      "section": "news",
+      "title": "Лундквист забил вратарский гол в матче легенд «Рейнджерс»",
+      "summary": "Легенда «Блюшертс» поймал бросок Брендана Смита, выкатился из вратарской и поразил пустые ворота на благотворительном Alumni Classic в «Гардене»; ранее в сезоне вратарский гол забивал Игорь Шестёркин.",
+      "bullets": [],
+      "category": "other",
+      "country": "usa",
+      "published_at": "2026-11-16T23:48:00+00:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/news/topic/short-shifts/henrik-lundqvist-goalie-goal-rangers-alumni-classic",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-17-канада-омолодила-состав-но-золото-снова-у-сша",
+      "sport": "hockey",
+      "date": "2026-11-17",
+      "section": "analytics",
+      "title": "Канада омолодила состав, но золото снова у США",
+      "summary": "Колонка Эмили Сэдлер на Sportsnet: почему обновлённая сборная Канады снова уступила американкам в финале женского ЧМ (2:6) и что в этом поражении обнадёживает.",
+      "bullets": [
+        "Хилари Найт в 37 лет и на своём 16-м чемпионате мира установила личный рекорд результативности — 9 голов в 7 матчах, причём оба её гола в финале переломили ход игры.",
+        "Сара Филльер пропустила два стартовых матча, но затем забивала в каждой из пяти своих игр и открывала счёт во всех трёх матчах медального раунда — 6 голов за турнир.",
+        "Канада играла без капитана Мари-Филип Пулен (восстановление после операции на колене): Сэдлер называет отсутствие «Captain Clutch» одной из главных сюжетных линий турнира.",
+        "Ставка на молодёжь сработала: защитница Хлоя Примерано стала лучшей по очкам среди канадских защитниц (6), Кендалл Купер набрала 5 — и все лидеры новой волны ещё играют в студенческом хоккее."
+      ],
+      "category": "match",
+      "country": "international",
+      "published_at": "2026-11-16T23:06:17+00:00",
+      "source_domain": "sportsnet.ca",
+      "source_url": "https://www.sportsnet.ca/wwhc/article/canadas-new-look-lineup-shows-promise-but-falls-short-for-gold/",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "thehockeynews.com",
+          "url": "https://thehockeynews.com/news/latest-news/team-usa-defeats-canada-to-secure-gold-at-iihf-womens-world-championship"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-калгари-отправил-вильяма-стромгрена-обратно-в-ахл",
+      "sport": "hockey",
+      "date": "2026-11-17",
+      "section": "news",
+      "title": "«Калгари» отправил Вильяма Стромгрена обратно в АХЛ",
+      "summary": "«Флэймз» объявили о спуске молодого форварда в фарм-клуб — очередное движение ростера перед выездной серией.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "canada",
+      "published_at": "2026-11-16T23:00:06+00:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/flames-reassign-william-stromgren.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-16-сент-луис-вызвал-нейтана-уокера-из-ахл",
       "sport": "hockey",
@@ -39633,101 +39711,6 @@
         {
           "domain": "football-italia.net",
           "url": "https://football-italia.net/report-udogie-could-eager-juventus-tottenham/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-13-овоно-дисквалифицирован-на-12-матчей-за-смертельное-столкнов",
-      "sport": "football",
-      "date": "2026-11-13",
-      "section": "news",
-      "title": "Овоно дисквалифицирован на 12 матчей за смертельное столкновение",
-      "summary": "Комитет по дисциплине RFEF назначил вратарю «Андорры» максимальное наказание за эпизод в матче с «Тенерифе» 2 ноября, после которого умер нападающий Хесус де Мигель.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "spain",
-      "published_at": "2026-11-13T21:36:21+01:00",
-      "source_domain": "mundodeportivo.com",
-      "source_url": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261113/1004250779/rfef-impone-owono-sancion-maxima-accion-sobre-jesus-miguel.html",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "rmcsport.bfmtv.com",
-          "url": "https://rmcsport.bfmtv.com/football/liga/mort-de-jesus-de-miguel-le-gardien-d-andorre-owono-suspendu-12-matchs_AD-202611130871.html"
-        },
-        {
-          "domain": "kicker.de",
-          "url": "https://www.kicker.de/nach-tod-von-gegenspieler-de-miguel-torhueter-owono-fuer-zwoelf-partien-gesperrt-1271394/artikel"
-        },
-        {
-          "domain": "ad.nl",
-          "url": "https://www.ad.nl/voetbal/keeper-krijgt-maandenlange-schorsing-na-dodelijke-botsing-met-jesus-de-miguel~af7785852/"
-        },
-        {
-          "domain": "record.pt",
-          "url": "https://www.record.pt/internacional/detalhe/owono-suspenso-por-12-jogos-pelo-choque-que-levou-a-morte-de-jesus-de-miguel"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-13-пьера-менеса-будут-судить-за-посягательства-на-трёх-женщин",
-      "sport": "football",
-      "date": "2026-11-13",
-      "section": "news",
-      "title": "Пьера Менеса будут судить за посягательства на трёх женщин",
-      "summary": "Известный французский телеэксперт, уже получивший один приговор несколько недель назад, предстанет перед судом в понедельник по делу о сексуальных посягательствах.",
-      "bullets": [],
-      "category": "scandals",
-      "country": "france",
-      "published_at": "2026-11-13T21:36:00+01:00",
-      "source_domain": "lequipe.fr",
-      "source_url": "https://www.lequipe.fr/Medias/Article/Quelques-semaines-apres-une-premiere-condamnation-pierre-menes-sera-juge-lundi-pour-agressions-sexuelles-sur-trois-femmes/1743431",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-13-нэшвилл-и-вегас-столкнутся-сериями-в-воротах-хилл",
-      "sport": "hockey",
-      "date": "2026-11-13",
-      "section": "news",
-      "title": "«Нэшвилл» и «Вегас» столкнутся сериями, в воротах Хилл",
-      "summary": "Предикторс (10-4-5) едут к «Голден Найтс» (13-5-2): Вегас доверяет рамку Эдину Хиллу (7-2-0, 2,54, 90,3%), в составе гостей — Стэмкос, Форсберг и Виталий Пинчук.",
-      "bullets": [],
-      "category": "match",
-      "country": "usa",
-      "published_at": "2026-11-13T20:35:32+00:00",
-      "source_domain": "nhl.com",
-      "source_url": "https://www.nhl.com/news/nashville-predators-vegas-golden-knights-game-preview-november-13-2026",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "sports.yahoo.com",
-          "url": "https://sports.yahoo.com/articles/adin-hill-gets-nod-golden-212212055.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-13-пети-лоббирует-реграги-на-пост-тренера-ланса",
-      "sport": "football",
-      "date": "2026-11-13",
-      "section": "news",
-      "title": "Пети лоббирует Реграги на пост тренера «Ланса»",
-      "summary": "В эфире RMC чемпион мира 1998 года Эмманюэль Пети назвал Валида Реграги приоритетом для «Ланса» после отставки Янника Каюзака и скептически отозвался о возвращении Пьера Сажа.",
-      "bullets": [],
-      "category": "statements",
-      "country": "france",
-      "published_at": "2026-11-13T21:34:00+01:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a8925845224579726634-rc-lens-un-champion-du-monde-1998-milite-pour-walid-regragui",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "getfootballnewsfrance.com",
-          "url": "https://www.getfootballnewsfrance.com/2026/walid-regragui-in-contention-for-rc-lens-job/"
         }
       ]
     }
