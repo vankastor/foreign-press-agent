@@ -1,6 +1,179 @@
 {
-  "generated_at": "2026-11-18T00:19:28.705673+00:00",
+  "generated_at": "2026-11-18T01:17:53.809727+00:00",
   "items": [
+    {
+      "id": "2026-11-18-анахайм-потерял-сеннеке-перед-матчем-с-сент-луисом",
+      "sport": "hockey",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "«Анахайм» потерял Сеннеке перед матчем с «Сент-Луисом»",
+      "summary": "Бекетт Сеннеке пропустит игру из-за болезни, в состав «Дакс» вошёл Сэм Коланджело, а в воротах — Вилле Хуссо, выведший команду на разминку.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-17T19:56:51-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/players/news/beckett-sennecke/36637",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/players/news/sam-colangelo/32857"
+        },
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/players/news/ville-husso/3837"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-профессор-майк-выставил-торонто-оценки-за-четверть-сезона",
+      "sport": "hockey",
+      "date": "2026-11-18",
+      "section": "analytics",
+      "title": "«Профессор Майк» выставил «Торонто» оценки за четверть сезона",
+      "summary": "Аналитик TSN Майк Джонсон раздаёт оценки «Мейпл Лифс» на четверти дистанции сезона — при 8-12-2 и последнем месте в Атлантическом дивизионе.",
+      "bullets": [
+        "Баланс «Торонто» на момент разбора — 8-12-2, это дно Атлантического дивизиона.",
+        "Разбор привязан к символической отметке четверти регулярки — моменту, когда в Торонто уже заговорили о провале сезона.",
+        "Оценки выставляет Майк Джонсон — бывший игрок НХЛ и штатный аналитик TSN Hockey."
+      ],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-17T19:51:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/nhl/video/2026/11/18/professor-mike-hands-out-his-grades-for-the-maple-leafs-at-the-quarter-point/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-cf7-португалия-нашла-новый-седьмой-номер",
+      "sport": "football",
+      "date": "2026-11-18",
+      "section": "analytics",
+      "title": "CF7: Португалия нашла новый седьмой номер",
+      "summary": "Разбор ESPN о том, как Карлуш Форбс в футболке Криштиану Роналду стал героем вечера в Кардиффе.",
+      "bullets": [
+        "Форбс забил победный гол на 70-й минуте при счёте 2:2 — это его первый мяч за сборную.",
+        "Он играл под седьмым номером, историческим номером Криштиану Роналду, и партнёры назвали гол «особенным».",
+        "Португалия выиграла пять из шести матчей группового этапа и финишировала первой.",
+        "Жеребьёвка четвертьфиналов Лиги наций пройдёт в пятницу."
+      ],
+      "category": "match",
+      "country": "portugal",
+      "published_at": "2026-11-17T19:41:00-05:00",
+      "source_domain": "espn.com",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50514967/portugal-carlos-forbs-cristiano-ronaldo-7-jersey-wales",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "abola.pt",
+          "url": "https://www.abola.pt/noticias/escadaria-do-castelo-gales-bem-ingreme-ate-ao-topo-cronica-2026111723233982765"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-аннунен-стартовый-вратарь-нэшвилла-в-миннесоте",
+      "sport": "hockey",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "Аннунен — стартовый вратарь «Нэшвилла» в Миннесоте",
+      "summary": "«Предаторз» официально объявили Юстуса Аннунена основным голкипером на выездной матч против «Уайлд» во вторник.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-17T19:31:11-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/players/news/justus-annunen/29146",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-арсенал-держит-на-радаре-винисиуса-за-150-млн",
+      "sport": "football",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "«Арсенал» держит на радаре Винисиуса за 150 млн",
+      "summary": "Лондонцы продолжают следить за ситуацией бразильца в «Реале» — испанская пресса называет ориентир в 150 млн евро.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "spain",
+      "published_at": "2026-11-18T01:30:00+01:00",
+      "source_domain": "fichajes.net",
+      "source_url": "https://www.fichajes.net/noticias/150-millones-vinicius-20261118.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-дрегер-хватит-ли-торонто-активов-на-эдвинссона",
+      "sport": "hockey",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "Дрегер: хватит ли «Торонто» активов на Эдвинссона",
+      "summary": "Инсайдер TSN Даррен Дрегер обсуждает, есть ли у «Мейпл Лифс» ресурс под крупный обмен, и затрагивает будущее Симона Эдвинссона и Дилана Ларкина в «Детройте».",
+      "bullets": [],
+      "category": "rumors",
+      "country": "canada",
+      "published_at": "2026-11-17T19:22:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/video/2026/11/18/do-leafs-have-enough-assets-to-acquire-edvinsson/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-тампа-убрала-из-состава-лиллеберга-и-крозье",
+      "sport": "hockey",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "«Тампа» убрала из состава Лиллеберга и Крозье",
+      "summary": "Защитники Эмиль Лиллеберг и Максвелл Крозье стали здоровыми запасными на матч с «Вашингтоном», а Скотт Сабурин вернулся в заявку «Лайтнинг».",
+      "bullets": [],
+      "category": "transfers",
+      "country": "usa",
+      "published_at": "2026-11-17T19:20:51-05:00",
+      "source_domain": "dailyfaceoff.com",
+      "source_url": "https://www.dailyfaceoff.com/players/news/emil-lilleberg/37940",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/players/news/scott-sabourin/2171"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-что-изменилось-у-виннипега-на-серии-из-шести-побед",
+      "sport": "hockey",
+      "date": "2026-11-18",
+      "section": "analytics",
+      "title": "Что изменилось у «Виннипега» на серии из шести побед",
+      "summary": "Карло Колайаково в эфире Domino's That's Hockey разбирает преображение «Джетс» и шансы «Оттавы» притормозить соперника.",
+      "bullets": [
+        "«Виннипег» выиграл шесть матчей подряд и поднялся на вторую позицию уайлд-кард на Западе.",
+        "Разворот тем ценнее, что серии побед предшествовал спад — команда полностью перевернула ход сезона.",
+        "Отдельный вопрос эфира: способна ли «Оттава» выйти на новый уровень в этом сезоне и остановить «Джетс»."
+      ],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-17T19:01:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/nhl/video/2026/11/17/what-changed-for-the-jets-and-can-the-senators-slow-them-down/",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "sports.ru",
+          "url": "https://www.sports.ru/hockey/1117437136-vinnipeg-vyigral-6-j-match-podryad-posle-serii-iz-9-porazhenij-i-idet-.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-18-милан-готовит-70-млн-за-эндрика-моуринью-против",
       "sport": "football",
@@ -157,6 +330,49 @@
       "related": []
     },
     {
+      "id": "2026-11-18-шервуд-выпал-из-состава-сан-хосе-на-недели",
+      "sport": "hockey",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "Шервуд выпал из состава «Сан-Хосе» на недели",
+      "summary": "Главный тренер «Шаркс» Райан Варсофски сообщил, что Кифер Шервуд травмировал верхнюю часть тела и выйдет из строя на неопределённый срок; операция не нужна, из АХЛ вызван Бретт Лисон.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-17T18:47:00-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/kiefer-sherwood-out-week-to-week.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-генменеджер-торонто-сезон-ещё-не-потерян",
+      "sport": "hockey",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "Генменеджер «Торонто»: сезон ещё не потерян",
+      "summary": "Джон Чайка заявил, что провальное начало ноября «не определит этот сезон» — панель TSN Hockey разбирает слова менеджера на фоне 0-6 дома и последнего места в Атлантике.",
+      "bullets": [],
+      "category": "statements",
+      "country": "canada",
+      "published_at": "2026-11-17T18:34:00-05:00",
+      "source_domain": "tsn.ca",
+      "source_url": "https://www.tsn.ca/nhl/video/2026/11/17/im-not-ready-to-call-it-a-colossal-disaster-yet-assessing-the-leafs-disappointing-season/",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "tsn.ca",
+          "url": "https://www.tsn.ca/nhl/video/2026/11/17/carlo-reacts-are-opponents-excited-to-play-the-maple-leafs/"
+        },
+        {
+          "domain": "allhockey.ru",
+          "url": "https://allhockey.ru/news/show/616547-Genmenedzher_Toronto_bolel_schiki_zasluzhivajut_bol_shego"
+        }
+      ]
+    },
+    {
       "id": "2026-11-18-гонсалу-рамуш-семь-матчей-без-гола-и-месяц-без-удара-в-створ",
       "sport": "football",
       "date": "2026-11-18",
@@ -223,6 +439,23 @@
       ]
     },
     {
+      "id": "2026-11-18-украина-спаслась-в-дивизионе-b-за-счёт-гола-сикана",
+      "sport": "football",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "Украина спаслась в дивизионе B за счёт гола Сикана",
+      "summary": "Голом примерно на 50-й секунде Данило Сикан принёс победу над Грузией 1:0 и сохранил прописку в лиге B; Судаков вышел в основе, Трубин остался на скамейке.",
+      "bullets": [],
+      "category": "match",
+      "country": "other",
+      "published_at": "2026-11-17T23:20:00+00:00",
+      "source_domain": "abola.pt",
+      "source_url": "https://www.abola.pt/noticias/sudakov-e-trubin-no-banco-vencem-bednarek-empata-gyokeres-2026111721524818751",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
       "id": "2026-11-18-черняк-и-чирелли-прошли-предматчевую-проверку",
       "sport": "hockey",
       "date": "2026-11-18",
@@ -269,6 +502,23 @@
           "url": "https://www.rotowire.com/hockey/headlines/brandon-hagel-injury-not-playing-tuesday-600081"
         }
       ]
+    },
+    {
+      "id": "2026-11-18-почеттино-возьмёт-в-юнайтед-первого-тренера-женщину",
+      "sport": "football",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "Почеттино возьмёт в «Юнайтед» первого тренера-женщину",
+      "summary": "Обзор британской прессы: с аргентинцем в Манчестер едет тренер по физподготовке Сильвия Туйя, а «Арсенал» конкурирует с «Барселоной» и «ПСЖ» за Эли Жуниора Крупи.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "england",
+      "published_at": "2026-11-17T23:13:00+00:00",
+      "source_domain": "skysports.com",
+      "source_url": "https://www.skysports.com/football/transfer-paper-talk/13613427/man-utd-boss-mauricio-pochettino-to-appoint-clubs-first-ever-female-coach-paper-talk",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
     },
     {
       "id": "2026-11-18-луис-энрике-стал-лишним-в-интере-и-уйдёт-в-январе",
@@ -39363,243 +39613,6 @@
       "published_at": "2026-11-14T20:01:00+00:00",
       "source_domain": "thehockeynews.com",
       "source_url": "https://www.thehockeynews.com/news/latest-news/breaking-down-the-oilers-drastic-defensive-improvements",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-14-как-эдмонтон-превратил-худшую-оборону-в-одну-из-лучших",
-      "sport": "hockey",
-      "date": "2026-11-14",
-      "section": "analytics",
-      "title": "Как «Эдмонтон» превратил худшую оборону в одну из лучших",
-      "summary": "Джим Парсонс разбирает, за счёт чего «Ойлерз» совершили резкий рывок в защитной статистике после провального прошлого сезона.",
-      "bullets": [
-        "По данным Natural Stat Trick, «Эдмонтон» имеет 4-й процент отражённых броском показатель в формате 5 на 5 (7-й во всех ситуациях) — год назад команда была последней в НХЛ по этому параметру.",
-        "Девон Леви, приобретённый из «Баффало», приезжал в лагерь третьим вратарём, пропустил семь матчей из-за травмы и в первой же игре после возвращения сделал 20 сэйвов.",
-        "Тристан Джарри выдал два «сухих» матча подряд; в игре с «Филадельфией» «Ойлерз» проиграли по броскам 24:32 и всё равно не пропустили.",
-        "Фредрик Андерсен вернётся примерно через полтора месяца, а тренерский штаб признал, что вратарская линия работает «намного лучше, чем мы рассчитывали»."
-      ],
-      "category": "records",
-      "country": "canada",
-      "published_at": "2026-11-14T20:01:00+00:00",
-      "source_domain": "thehockeynews.com",
-      "source_url": "https://thehockeynews.com/news/latest-news/breaking-down-the-oilers-drastic-defensive-improvements",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-14-мю-снова-нанял-тренера-который-был-нужен-раньше",
-      "sport": "football",
-      "date": "2026-11-14",
-      "section": "analytics",
-      "title": "«МЮ» снова нанял тренера, который был нужен раньше",
-      "summary": "Колонка Джонатана Уилсона: назначение Почеттино — очередной ответ клуба не на сегодняшний вопрос, а на вопрос пятилетней давности.",
-      "bullets": [
-        "Уилсон сравнивает рекрутинг «Юнайтед» со скетчем «Двух Ронни», где участник викторины отвечает на предыдущий вопрос: клуб нанимает лучшего тренера не на сейчас, а на несколько лет назад.",
-        "Жёсткая статистика в поддержку аргумента: только четыре тренера в истории выигрывали чемпионат Англии более чем с одним клубом — успех почти всегда контекстный.",
-        "Кейс Моуринью: его кандидатура всплыла ещё в 2013-м после Фергюсона, но, по одной из версий, сэр Бобби Чарльтон опасался за имидж клуба; к 2016 году португалец уже растерял ауру.",
-        "По Почеттино автор фиксирует «ощущение дрейфа» карьеры в 54 года, несмотря на скромные успехи со сборной США."
-      ],
-      "category": "other",
-      "country": "england",
-      "published_at": "2026-11-14T20:00:53+00:00",
-      "source_domain": "theguardian.com",
-      "source_url": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": []
-    },
-    {
-      "id": "2026-11-14-германия-u19-упустила-две-форы-против-португалии",
-      "sport": "football",
-      "date": "2026-11-14",
-      "section": "news",
-      "title": "Германия U19 упустила две форы против Португалии",
-      "summary": "Во втором туре отбора на Евро-2027 юношеская сборная Германии дважды вела, но проиграла хозяевам на поздней стадии матча.",
-      "bullets": [],
-      "category": "match",
-      "country": "germany",
-      "published_at": "2026-11-14T20:00:42+00:00",
-      "source_domain": "kicker.de",
-      "source_url": "https://www.kicker.de/portugal-gegen-deutschland-2026-u-em-qualifikation-5264750/spielbericht",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-14-ньюкасл-принял-твёрдое-решение-по-новичку-за-30-млн",
-      "sport": "football",
-      "date": "2026-11-14",
-      "section": "news",
-      "title": "«Ньюкасл» принял твёрдое решение по новичку за £30 млн",
-      "summary": "Перед январским окном клуб определился с судьбой летнего приобретения.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-11-14T20:00:00+00:00",
-      "source_domain": "caughtoffside.com",
-      "source_url": "https://www.caughtoffside.com/2026/11/14/newcastle-make-firm-decision-on-30m-summer-signing-ahead-of-january-window/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-14-ромарио-потребовал-отставки-анчелотти",
-      "sport": "football",
-      "date": "2026-11-14",
-      "section": "news",
-      "title": "Ромарио потребовал отставки Анчелотти",
-      "summary": "Легенда бразильского футбола публично призвал убрать итальянца с поста тренера сборной сразу после поражения 2:3 от Японии.",
-      "bullets": [],
-      "category": "statements",
-      "country": "other",
-      "published_at": "2026-11-14T20:59:14+01:00",
-      "source_domain": "mundodeportivo.com",
-      "source_url": "https://www.mundodeportivo.com/futbol/internacional/20261114/1004251097/romario-pide-dimision-ancelotti.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-14-да-кунья-на-седьмом-небе-от-вызова-во-францию",
-      "sport": "football",
-      "date": "2026-11-14",
-      "section": "news",
-      "title": "Да Кунья на седьмом небе от вызова во Францию",
-      "summary": "Дебютант сборной эмоционально отреагировал на свой шанс в национальной команде Зидана.",
-      "bullets": [],
-      "category": "statements",
-      "country": "france",
-      "published_at": "2026-11-14T20:57:00+01:00",
-      "source_domain": "footmercato.net",
-      "source_url": "https://www.footmercato.net/a3279047909565218792-equipe-de-france-lucas-da-cunha-est-aux-anges",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "footmercato.net",
-          "url": "https://www.footmercato.net/a3970443537780481228-equipe-de-france-lucas-da-cunha-na-pris-aucune-revanche"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-14-тухель-я-никогда-не-говорил-о-расизме-в-испании",
-      "sport": "football",
-      "date": "2026-11-14",
-      "section": "news",
-      "title": "Тухель: «Я никогда не говорил о расизме в Испании»",
-      "summary": "Тренер Англии назвал историю с расизмом примером того, как «из ничего создают путаницу», ответив на слова Де ла Фуэнте «в Испании расизма нет» перед матчем за первое место в группе на «Метрополитано».",
-      "bullets": [],
-      "category": "statements",
-      "country": "spain",
-      "published_at": "2026-11-14T19:56:13+00:00",
-      "source_domain": "mundodeportivo.com",
-      "source_url": "https://www.mundodeportivo.com/seleccion-espanola/20261114/1004251072/tuchel-nunca-hable-sobre-racismo-espana-ejemplo-crear-polemica.html",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "theguardian.com",
-          "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league"
-        },
-        {
-          "domain": "bbc.co.uk",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo"
-        },
-        {
-          "domain": "rmcsport.bfmtv.com",
-          "url": "https://rmcsport.bfmtv.com/football/ligue-des-nations/il-n-y-a-pas-de-racisme-en-espagne-de-la-fuente-repond-a-l-avertissement-de-tuchel-avant-espagne-angleterre_AN-202611140335.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-14-ламин-ямаль-тренируется-с-испанией-в-общей-группе",
-      "sport": "football",
-      "date": "2026-11-14",
-      "section": "news",
-      "title": "Ламин Ямаль тренируется с Испанией в общей группе",
-      "summary": "Вингер «Барселоны» вернулся в расположение сборной и отработал полноценно перед игрой с Англией, а Де ла Фуэнте и Баэна снова публично защитили тренерскую линию по «делу Ламина».",
-      "bullets": [],
-      "category": "statements",
-      "country": "spain",
-      "published_at": "2026-11-14T19:56:05+00:00",
-      "source_domain": "mundodeportivo.com",
-      "source_url": "https://www.mundodeportivo.com/seleccion-espanola/20261114/1004251052/fuente-baena-defienden-lamine-partidazo-inglaterra.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-14-манчини-с-бельгией-ничья-нас-не-устроит",
-      "sport": "football",
-      "date": "2026-11-14",
-      "section": "news",
-      "title": "Манчини: с Бельгией ничья нас не устроит",
-      "summary": "Перед решающим матчем за выход в плей-офф Лиги наций в Брюсселе тренер Италии признал игру опасной, напомнив, что бельгийцы выбили его команду 2:0 в Риме, а с ЧМ ушли от Испании на 88-й минуте.",
-      "bullets": [],
-      "category": "statements",
-      "country": "italy",
-      "published_at": "2026-11-14T19:55:00+00:00",
-      "source_domain": "football-italia.net",
-      "source_url": "https://football-italia.net/mancini-italy-start-with-a-slight-advantage/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "tuttosport.com",
-          "url": "https://www.tuttosport.com/news/calcio/italia/2026/11/14-152592339/mancini_sicuro_italia_ci_credevo_anche_prima_col_belgio_come_con_la_francia_idee_chiare/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-14-холанд-прервал-молчание-о-деле-манчестер-сити",
-      "sport": "football",
-      "date": "2026-11-14",
-      "section": "news",
-      "title": "Холанд прервал молчание о деле «Манчестер Сити»",
-      "summary": "После победы над Уэльсом норвежец назвал тему финансового расследования вокруг клуба «сложной» и напомнил о контракте до 2034 года.",
-      "bullets": [],
-      "category": "statements",
-      "country": "england",
-      "published_at": "2026-11-14T19:55:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/haaland-quebra-o-silencio-sobre-escandalo-do-manchester-city-e-dificil-2026111419455965667",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-14-тухель-о-испании-главный-тест-в-мировом-футболе",
-      "sport": "football",
-      "date": "2026-11-14",
-      "section": "news",
-      "title": "Тухель о Испании: «Главный тест в мировом футболе»",
-      "summary": "Тренер Англии перед матчем Лиги наций назвал сборную Испании сильнейшим соперником, какой только может быть.",
-      "bullets": [],
-      "category": "statements",
-      "country": "england",
-      "published_at": "2026-11-14T19:53:00+00:00",
-      "source_domain": "skysports.com",
-      "source_url": "https://www.skysports.com/football/video/13612334/nations-league-thomas-tuchel-says-spain-represent-the-biggest-test-in-world-football",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-14-выживший-в-трагедии-шапекоэнсе-проведёт-последний-матч",
-      "sport": "football",
-      "date": "2026-11-14",
-      "section": "news",
-      "title": "Выживший в трагедии «Шапекоэнсе» проведёт последний матч",
-      "summary": "Футболист, переживший авиакатастрофу бразильского клуба, завершает карьеру — история, которую трудно читать спокойно.",
-      "bullets": [],
-      "category": "other",
-      "country": "other",
-      "published_at": "2026-11-14T19:53:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/video/que-loucura-sobreviveu-a-tragedia-da-chapecoense-e-vai-fazer-o-ultimo-jogo-da-carreira-2026111419483998570",
       "ru_covered": false,
       "ru_source": "",
       "related": []
