@@ -1,6 +1,79 @@
 {
-  "generated_at": "2026-11-19T01:30:54.048132+00:00",
+  "generated_at": "2026-11-19T02:16:40.161781+00:00",
   "items": [
+    {
+      "id": "2026-11-19-европа-выстроилась-в-очередь-за-18-летним-холлом",
+      "sport": "football",
+      "date": "2026-11-19",
+      "section": "news",
+      "title": "Европа выстроилась в очередь за 18-летним Холлом",
+      "summary": "Голеадор «Нью-Йорк Ред Буллз» Джулиан Холл забил 16 мячей в 35 матчах МЛС-2026 и стал самым молодым автором хет-трика в истории лиги — интерес к нему проявляют «Ньюкасл», «Атлетико» и «Лейпциг», контракт рассчитан до 2029/30.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "other",
+      "published_at": "2026-11-19T01:46:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/the-new-york-red-bulls-ultimate-weapon-why-europe-is-desperate-to-sign-julian-hall/bltfeb76f354aa3c560",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "calciomercato.com",
+          "url": "https://www.calciomercato.com/notizie/chi-e-julian-hall-il-nuovo-lewandowski-della-mls/bltb492d1046ad30040"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-звезда-нба-вышел-в-свитере-юты-к-winter-classic",
+      "sport": "hockey",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "Звезда НБА вышел в свитере «Юты» к Winter Classic",
+      "summary": "Центровой «Джаз» Лаури Маркканен приехал на матч с «Лейкерс» в только что представленном свитере «Юты Маммот» к Winter Classic — ретродизайне Mountain Blue с хоботом мамонта на груди; форма поступила в продажу в среду, игра с «Колорадо» пройдёт 31 декабря на Rice-Eccles.",
+      "bullets": [],
+      "category": "other",
+      "country": "usa",
+      "published_at": "2026-11-18T20:46:00-05:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/news/utah-jazz-rock-new-winter-classic-jerseys",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-бриер-назвал-полной-чушью-версию-фридмана-о-готье",
+      "sport": "hockey",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "Бриер назвал «полной чушью» версию Фридмана о Готье",
+      "summary": "Генменеджер «Филадельфии» Даниэль Бриер в эфире 97.5 The Fanatic отверг отчёт Элиотта Фридмана о нарушенных обещаниях, из-за которых Каттер Готье отказался играть за «Флайерз»: «До моих уш�ей никогда не доходило, что были какие-то обещания».",
+      "bullets": [],
+      "category": "statements",
+      "country": "usa",
+      "published_at": "2026-11-18T20:32:00-05:00",
+      "source_domain": "nhltradetalk.com",
+      "source_url": "https://nhltradetalk.com/thats-total-nonsense-briere-responds-to-gauthier-accusations/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-18-коламбус-вернул-лундстрёма-из-долгосрочного-лазарета",
+      "sport": "hockey",
+      "date": "2026-11-18",
+      "section": "news",
+      "title": "«Коламбус» вернул Лундстрёма из долгосрочного лазарета",
+      "summary": "27-летний центр Исак Лундстрём активирован с долгосрочного списка травмированных после операции на ахилле и дебютирует в сезоне 2026/27 в четверг в Чикаго; у «Блю Джекетс» пять поражений подряд и ПК 72,5% — 10-й худший показатель лиги, контракт игрока с кэпхитом $1,3 млн истекает летом.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "usa",
+      "published_at": "2026-11-18T20:25:23-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/blue-jackets-activate-isac-lundestrom-off-long-term-injured-reserve.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
     {
       "id": "2026-11-19-цифры-первой-четверти-сезона-рейнджерс",
       "sport": "hockey",
@@ -20,6 +93,32 @@
       "ru_covered": false,
       "ru_source": "",
       "related": []
+    },
+    {
+      "id": "2026-11-19-реал-закрыл-вопрос-зимнего-ухода-родриго",
+      "sport": "football",
+      "date": "2026-11-19",
+      "section": "news",
+      "title": "«Реал» закрыл вопрос зимнего ухода Родриго",
+      "summary": "Мадридцы категорически отказали «Сантосу», который через неофициальный контакт зондировал аренду бразильца: Родриго не провёл ни одной официальной минуты в сезоне после разрыва крестообразных связок, возвращение ожидается в 2027 году, контракт действует до лета 2028-го.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "spain",
+      "published_at": "2026-11-19T02:00:00+01:00",
+      "source_domain": "fichajes.net",
+      "source_url": "https://www.fichajes.net/noticias/real-madrid-define-futuro-rodrygo-20261119.html",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "sporx.com",
+          "url": "https://www.sporx.com/real-madrid-den-rodrygo-ya-izin-yok-SXHBQ1183258SXQ"
+        },
+        {
+          "domain": "footmercato.net",
+          "url": "https://www.footmercato.net/a2631971060675653371-real-madrid-un-surprenant-courtisan-veut-recuperer-rodrygo-en-pret-cet-hiver"
+        }
+      ]
     },
     {
       "id": "2026-11-19-барра-атлетико-минейро-пришла-к-вратарю-перед-финалом",
@@ -39176,101 +39275,6 @@
       "source_url": "https://www.lequipe.fr/Football/Actualites/A-bordeaux-les-supporters-ont-celebre-le-retour-de-leur-zizou-avec-les-bleus-il-ne-fallait-pas-le-louper/1743930",
       "ru_covered": false,
       "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-16-клопп-против-хави-германия-и-нидерланды-делят-группу",
-      "sport": "football",
-      "date": "2026-11-16",
-      "section": "news",
-      "title": "Клопп против Хави: Германия и Нидерланды делят группу",
-      "summary": "В Берлине решается судьба группы A2 Лиги наций: Германии Клоппа нужна победа или результат лучше греческого, Нидерландам Хави хватает ничьей, Френки де Йонг выбыл из-за спины.",
-      "bullets": [],
-      "category": "match",
-      "country": "germany",
-      "published_at": "2026-11-16T00:20:36+01:00",
-      "source_domain": "mundodeportivo.com",
-      "source_url": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261116/1004251462/alemania-juega-xavi.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-16-рейнджерс-держатся-третьими-несмотря-на-лазарет",
-      "sport": "hockey",
-      "date": "2026-11-16",
-      "section": "analytics",
-      "title": "«Рейнджерс» держатся третьими, несмотря на лазарет",
-      "summary": "Разбор недели Нью-Йорка: команда идёт третьей в дивизионе при постоянных потерях в обороне и проведёт всего один матч.",
-      "bullets": [
-        "«Рейнджерс» идут 12-8-1 с 25 очками — третье место в Метрополитен-дивизионе.",
-        "Защитник Албертс Смитс выбыл «от недели к неделе» с травмой верхней части тела.",
-        "На этой неделе у Нью-Йорка всего одна игра — 16 ноября против «Монреаля» (19:30).",
-        "Следующий матч после этого — только 22 ноября против «Каролины»: почти неделя простоя."
-      ],
-      "category": "match",
-      "country": "usa",
-      "published_at": "2026-11-15T18:20:00-05:00",
-      "source_domain": "thehockeywriters.com",
-      "source_url": "https://thehockeywriters.com/rangers-week-ahead-schedule-storylines-maintaining-momentum-defensive-injuries-and-more/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-16-пио-эспозито-в-21-год-догнал-дзолу-по-голам-за-италию",
-      "sport": "football",
-      "date": "2026-11-16",
-      "section": "news",
-      "title": "Пио Эспозито в 21 год догнал Дзолу по голам за Италию",
-      "summary": "Форвард «Интера» забил 10-й мяч в 15 матчах за сборную, сравнявшись с Дзолой, Кассано и Инсинье, — и это несмотря на нереализованный пенальти в концовке с Бельгией.",
-      "bullets": [],
-      "category": "records",
-      "country": "italy",
-      "published_at": "2026-11-16T00:18:00+01:00",
-      "source_domain": "tuttomercatoweb.com",
-      "source_url": "https://www.tuttomercatoweb.com/serie-a/pio-esposito-aggancia-zola-eguagliera-riva-serve-attacco-2294295",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-16-эдмонтон-потерял-нюджент-хопкинса-перед-игрой-в-филадельфии",
-      "sport": "hockey",
-      "date": "2026-11-16",
-      "section": "news",
-      "title": "«Эдмонтон» потерял Нюджент-Хопкинса перед игрой в Филадельфии",
-      "summary": "Центрфорвард выпал из состава «Ойлерз» на воскресный матч с «Флайерз» из-за неназванного повреждения, в заявку вместо него вернулся Филип Халландер.",
-      "bullets": [],
-      "category": "injury",
-      "country": "canada",
-      "published_at": "2026-11-15T18:15:44-05:00",
-      "source_domain": "dailyfaceoff.com",
-      "source_url": "https://www.dailyfaceoff.com/players/news/ryan-nugent-hopkins/1733",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-16-espn-победа-над-испанией-то-заявление-которого-ждала-англия",
-      "sport": "football",
-      "date": "2026-11-16",
-      "section": "analytics",
-      "title": "ESPN: победа над Испанией — то заявление, которого ждала Англия",
-      "summary": "Джеймс Олли и Алекс Киркланд разбирают, почему 3:2 в Мадриде стали доказательством зрелости команды Тухеля — и где она всё же едва не рассыпалась.",
-      "bullets": [
-        "Испания нанесла 23 удара, Траффорд сделал шесть спасений, включая дубль в компенсированное время против Ямаля и Лапорта.",
-        "Ямаль набрал 73 касания (второй показатель в составе Испании и больше, чем у любого англичанина), шесть ударов — вдвое больше, чем у Кейна, плюс пять созданных моментов и четыре ключевых паса.",
-        "29 передач Ямаля в финальной трети против 12 у Беллингема; в первые 10 минут Англия владела мячом 67% времени.",
-        "«63 минуты они были абсолютно великолепны», — пишет Олли: Тухель 15 минут после красной не менял ничего, затем убрал Кейна, позже Беллингема."
-      ],
-      "category": "match",
-      "country": "england",
-      "published_at": "2026-11-15T18:14:00-05:00",
-      "source_domain": "espn.com",
-      "source_url": "https://www.espn.com/soccer/story/_/id/50494867/england-spain-nations-league-win-tuchel",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
       "related": []
     }
   ]
