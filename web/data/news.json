@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-19T06:16:13.349184+00:00",
+  "generated_at": "2026-11-19T07:09:12.860258+00:00",
   "items": [
+    {
+      "id": "2026-11-19-юта-прервала-серию-поражений-симашев-забил-в-меньшинстве",
+      "sport": "hockey",
+      "date": "2026-11-19",
+      "section": "news",
+      "title": "«Юта» прервала серию поражений, Симашев забил в меньшинстве",
+      "summary": "«Мамонт» дома обыграли «Колорадо» 4:1 и остановили отрезок 0-3-3: Винсент Трочек и Кевин Стенлунд набрали по два очка, Дмитрий Симашев на 1:02 третьего периода прошёл площадку и забил в меньшинстве, Себастьян Косса сделал 30 сейвов.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-19T01:18:05-05:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/news/colorado-avalanche-utah-mammoth-game-recap-november-18-2026",
+      "ru_covered": true,
+      "ru_source": "sport-express.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "http://www.espn.com/nhl/recap?gameId=401892741"
+        }
+      ]
+    },
     {
       "id": "2026-11-19-симашев-забил-в-меньшинстве-юта-прервала-серию-поражений",
       "sport": "hockey",
@@ -41,6 +63,33 @@
       "related": []
     },
     {
+      "id": "2026-11-19-почему-монреаль-неудобный-соперник-для-девилз",
+      "sport": "hockey",
+      "date": "2026-11-19",
+      "section": "analytics",
+      "title": "Почему «Монреаль» — неудобный соперник для «Девилз»",
+      "summary": "Колонка The Hockey News разбирает, что именно сломало атаку «Нью-Джерси» в поражении 2:3 от «Канадиенс» после 12 заброшенных шайб в двух предыдущих матчах.",
+      "bullets": [
+        "«Девилз» забили 12 голов в двух предыдущих играх и повели двумя шайбами в первом периоде, но выпустили матч во втором и третьем отрезках.",
+        "Шеф «Монреаля» бросил Филипа Данó на звено Джека Хьюза; Кифу пришлось признать силу центров соперника: «очень хороши в центре площадки… доминируют на точке».",
+        "Лейн Хатсон поучаствовал во всех трёх голах «Канадиенс», победный бросок нанёс Джейк Эванс.",
+        "Кифф о вратарской дуэли: «Хелли сделал несколько отличных сейвов, их вратарь — тоже; просто такая ночь»."
+      ],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-19T00:59:49-05:00",
+      "source_domain": "thehockeynews.com",
+      "source_url": "https://thehockeynews.com/nhl/new-jersey-devils/latest-news/canadiens-provide-unique-obstacles-for-the-devils-they-must-address",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/canadiens-unique-obstacles-devils-must-055949039.html"
+        }
+      ]
+    },
+    {
       "id": "2026-11-19-лукаку-ищут-клуб-фенер-рискует-потерять-мурики",
       "sport": "football",
       "date": "2026-11-19",
@@ -59,6 +108,58 @@
         {
           "domain": "fanatik.com.tr",
           "url": "https://www.fanatik.com.tr/fenerbahce/hem-romelu-lukaku-hem-de-vedat-muriqi-transferde-buyuk-bomba-2645012"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-бостон-испортил-детройту-вековой-юбилейный-матч",
+      "sport": "hockey",
+      "date": "2026-11-19",
+      "section": "news",
+      "title": "«Бостон» испортил «Детройту» вековой юбилейный матч",
+      "summary": "«Брюинз» прервали серию из трёх поражений, обыграв «Ред Уингз» 4:1 в игре, посвящённой 100-летию клуба из Детройта: Давид Пастрняк — гол плюс передача, Джереми Свейман — 20 сейвов, у Даниила Тарасова 27 отражённых броска.",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-19T00:39:00-05:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/news/boston-bruins-detroit-red-wings-game-recap-november-18-2026",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/bruins-beat-red-wings-spoil-034806893.html"
+        },
+        {
+          "domain": "espn.com",
+          "url": "http://www.espn.com/nhl/recap?gameId=401892739"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-бедард-третья-травма-плеча-менее-чем-за-год",
+      "sport": "hockey",
+      "date": "2026-11-19",
+      "section": "news",
+      "title": "Бедард — третья травма плеча менее чем за год",
+      "summary": "NBC Sports: 21-летний центр «Чикаго» Коннор Бедард получил повреждение правого плеча на вбрасывании в матче с «Торонто» и ждёт результатов обследования — это уже третья проблема с плечами за неполный год после июльской операции на левом.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-19T00:38:45-05:00",
+      "source_domain": "nbcsports.com",
+      "source_url": "https://www.nbcsports.com/nhl/news/blackhawks-center-connor-bedard-dealing-with-his-3rd-shoulder-injury-in-less-than-a-year",
+      "ru_covered": true,
+      "ru_source": "allhockey.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/story/_/id/50522884/connor-bedard-awaiting-test-results-injured-shoulder"
+        },
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/blackhawks-center-connor-bedard-dealing-053845756.html"
         }
       ]
     },
@@ -39172,106 +39273,6 @@
           "url": "https://www.nhl.com/news/calgary-flames-anaheim-ducks-game-recap-november-15-2026"
         }
       ]
-    },
-    {
-      "id": "2026-11-16-шайфли-переписал-рекорды-виннипега-колонка-о-редкой-верности",
-      "sport": "hockey",
-      "date": "2026-11-16",
-      "section": "analytics",
-      "title": "Шайфли переписал рекорды «Виннипега»: колонка о редкой верности",
-      "summary": "Адам Проту разбирает, почему рекорды Марка Шайфли в «Джетс» на фоне запроса Хеллебайка на обмен выглядят исчезающим примером преданности клубу.",
-      "bullets": [
-        "933 очка Шайфли — новый клубный рекорд: он обошёл Дэйла Хаверчука (929), а 379-м голом сравнялся с его же снайперским рекордом «Виннипега».",
-        "Рекордное очко пришло в матче с «Чикаго» (5:4 по буллитам) — шестой победе «Джетс» подряд.",
-        "В 14-м полном сезоне у Шайфли 26 очков в 21 игре, баланс «Виннипега» — 10-8-3.",
-        "Автор прямо противопоставляет Шайфли Коннору Хеллебайку, который запросил обмен из клуба."
-      ],
-      "category": "records",
-      "country": "canada",
-      "published_at": "2026-11-15T22:37:00-05:00",
-      "source_domain": "thehockeynews.com",
-      "source_url": "https://thehockeynews.com/news/latest-news/mark-scheifele-setting-jets-franchise-records-highlights-his-refreshing-loyalty-to-winnipeg",
-      "ru_covered": true,
-      "ru_source": "sport-express.ru",
-      "related": [
-        {
-          "domain": "thehockeywriters.com",
-          "url": "https://thehockeywriters.com/winnipeg-jets-mark-scheifele-franchise-points-leader/"
-        },
-        {
-          "domain": "tsn.ca",
-          "url": "https://www.tsn.ca/nhl/article/scheifele-becomes-jets-all-time-points-leader-passes-hawerchuk/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-16-макдэвид-повторил-рекорд-гретцки-по-скорости-до-40-передач",
-      "sport": "hockey",
-      "date": "2026-11-16",
-      "section": "news",
-      "title": "Макдэвид повторил рекорд Гретцки по скорости до 40 передач",
-      "summary": "В победе «Эдмонтона» над «Филадельфией» (5:2) Макдэвид набрал 1+2, довёл результативную серию со старта сезона до 22 матчей и достиг 40 ассистов за 22 игры — как Гретцки в 1984/85; Драйзайтль первым в лиге забил 20-й гол, Хайман оформил 500-е очко в НХЛ, у «Ойлерз» забивал Василий Подколзин, а Матвей Мичков продлил свою серию до четырёх матчей.",
-      "bullets": [],
-      "category": "records",
-      "country": "canada",
-      "published_at": "2026-11-15T22:33:00-05:00",
-      "source_domain": "dailyfaceoff.com",
-      "source_url": "https://www.dailyfaceoff.com/news/edmonton-oilers-connor-mcdavid-ties-wayne-gretzky-fastest-reach-40-assists-season-nhl",
-      "ru_covered": true,
-      "ru_source": "sports.ru",
-      "related": [
-        {
-          "domain": "espn.com",
-          "url": "https://www.espn.com/nhl/story/_/id/50498352/oilers-connor-mcdavid-ties-wayne-gretzky-fastest-40-assists"
-        },
-        {
-          "domain": "sports.yahoo.com",
-          "url": "https://sports.yahoo.com/articles/draisaitl-scores-twice-mcdavid-ties-033853653.html"
-        },
-        {
-          "domain": "nhl.com",
-          "url": "https://www.nhl.com/news/edmonton-oilers-philadelphia-flyers-game-recap-november-15-2026"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-16-ньюджент-хопкинс-пропустил-матч-с-филадельфией-без-объяснени",
-      "sport": "hockey",
-      "date": "2026-11-16",
-      "section": "news",
-      "title": "Ньюджент-Хопкинс пропустил матч с «Филадельфией» без объяснений",
-      "summary": "Бэбкок объявил перед игрой, что ветеран «Эдмонтона» не сыграет против «Флайерз», причину клуб не раскрыл; у форварда 4+7 в 12 матчах, в ноябре он побил клубный рекорд по числу игр.",
-      "bullets": [],
-      "category": "injury",
-      "country": "canada",
-      "published_at": "2026-11-15T22:06:00-05:00",
-      "source_domain": "sports.yahoo.com",
-      "source_url": "https://sports.yahoo.com/articles/oilers-lose-veteran-forward-undisclosed-030641842.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-16-веренски-и-обвал-коламбуса-пора-ли-пересматривать-верность-к",
-      "sport": "hockey",
-      "date": "2026-11-16",
-      "section": "analytics",
-      "title": "Веренски и обвал «Коламбуса»: пора ли пересматривать верность клубу",
-      "summary": "Джим Парсонс разбирает, почему провальный старт «Блю Джекетс» может заставить Зака Веренски пожалеть о решении остаться в Огайо.",
-      "bullets": [
-        "«Коламбус» идёт 7-11-0 — последнее место на Востоке при четырёх поражениях подряд.",
-        "43 забитых гола (меньше 2,39 за игру) — худшая атака лиги по подсчётам автора.",
-        "У Веренски 15 очков против 34 у Эвана Бушара и 30 у Куинна Хьюза — конкуренты за «Норрис» ушли далеко вперёд.",
-        "Летом на столе был обмен в «Даллас», но защитник сам его заблокировал; клуб не выходит в плей-офф пятый сезон подряд."
-      ],
-      "category": "other",
-      "country": "usa",
-      "published_at": "2026-11-15T22:05:00-05:00",
-      "source_domain": "thehockeynews.com",
-      "source_url": "https://thehockeynews.com/news/latest-news/will-zach-werenski-be-reconsidering-his-commitment-to-the-blue-jackets",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
     }
   ]
 }
