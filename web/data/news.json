@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-20T01:17:39.707794+00:00",
+  "generated_at": "2026-11-20T02:12:26.413073+00:00",
   "items": [
+    {
+      "id": "2026-11-20-инфантино-10-месяцев-тайно-договаривался-с-кушнерами",
+      "sport": "football",
+      "date": "2026-11-20",
+      "section": "news",
+      "title": "Инфантино 10 месяцев тайно договаривался с Кушнерами",
+      "summary": "Goal со ссылкой на Telegraph: переговоры о продаже доли в правах на ЧМ шли десять месяцев, встреча 4 ноября прошла в офисе Джареда Кушнера — ФИФА собиралась продать 20% новой коммерческой структуры примерно за $4,2 млрд, а инвестгруппу должна была возглавить компания, связанная с Джошуа Кушнером; окружение Джареда настаивает, что он «не был вовлечён».",
+      "bullets": [],
+      "category": "scandals",
+      "country": "other",
+      "published_at": "2026-11-20T01:50:00+00:00",
+      "source_domain": "goal.com",
+      "source_url": "https://www.goal.com/en/news/new-details-trump-s-son-in-law-hosted-world-cup-sale-talks/bltade47bcf24a278e2",
+      "ru_covered": true,
+      "ru_source": "matchtv.ru",
+      "related": [
+        {
+          "domain": "telegraph.co.uk",
+          "url": "https://www.telegraph.co.uk/football/2026/11/18/infantino-secret-kushner-talks-eight-months-before-sell-off/"
+        }
+      ]
+    },
     {
       "id": "2026-11-20-эберль-успокоил-баварию-по-срокам-дэвиса",
       "sport": "football",
@@ -54,6 +76,28 @@
         {
           "domain": "foxsports.com",
           "url": "https://www.foxsports.com/nhl"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-колорадо-отправил-макара-в-список-травмированных",
+      "sport": "hockey",
+      "date": "2026-11-20",
+      "section": "news",
+      "title": "«Колорадо» отправил Макара в список травмированных",
+      "summary": "Клуб официально поместил Кэйла Макара на IR из-за повреждения нижней части тела и вызвал из «Колорадо Иглз» Адама Бекмана, который лидирует в АХЛ-фарме с 8 голами в 19 матчах.",
+      "bullets": [],
+      "category": "injury",
+      "country": "usa",
+      "published_at": "2026-11-19T19:51:00-05:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/avalanche-recall-adam-beckman-place-cale-makar-on-injured-reserve.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/injuries"
         }
       ]
     },
@@ -38998,40 +39042,6 @@
       "published_at": "2026-11-16T19:57:00+00:00",
       "source_domain": "abola.pt",
       "source_url": "https://www.abola.pt/noticias/lenda-do-milan-maravilhada-com-amorim-e-um-grande-treinador-2026111619495374232",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-16-парма-потеряла-ромеро-до-конца-2026-года",
-      "sport": "football",
-      "date": "2026-11-16",
-      "section": "news",
-      "title": "«Парма» потеряла Ромеро до конца 2026 года",
-      "summary": "Футболист получил серьёзную травму плеча и пропустит остаток календарного года.",
-      "bullets": [],
-      "category": "injury",
-      "country": "italy",
-      "published_at": "2026-11-16T19:56:00+00:00",
-      "source_domain": "football-italia.net",
-      "source_url": "https://football-italia.net/parma-lose-romero-for-rest-of-2026-injury/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-16-скалони-хочет-протестировать-престианни-из-бенфики",
-      "sport": "football",
-      "date": "2026-11-16",
-      "section": "news",
-      "title": "Скалони хочет протестировать Престианни из «Бенфики»",
-      "summary": "Крайний форвард лиссабонцев должен выйти в стартовом составе сборной Аргентины.",
-      "bullets": [],
-      "category": "other",
-      "country": "portugal",
-      "published_at": "2026-11-16T19:54:00+00:00",
-      "source_domain": "abola.pt",
-      "source_url": "https://www.abola.pt/noticias/scaloni-quer-testar-prestianni-extremo-do-benfica-deve-ser-titular-2026111619545010782",
       "ru_covered": false,
       "ru_source": "",
       "related": []
