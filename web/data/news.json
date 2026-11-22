@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-11-22T19:20:25.739811+00:00",
+  "generated_at": "2026-11-22T20:21:44.188037+00:00",
   "items": [
+    {
+      "id": "2026-11-22-детройт-смягчил-цену-за-дилана-ларкина",
+      "sport": "hockey",
+      "date": "2026-11-22",
+      "section": "news",
+      "title": "«Детройт» смягчил цену за Дилана Ларкина",
+      "summary": "По данным Эллиотта Фридмана, «Ред Уингз» теперь готовы рассматривать в обмене молодых игроков, но по-прежнему не хотят драфт-пики; Ларкин с 26 октября потерял более $1 млн зарплаты и согласен перейти лишь в 10 клубов.",
+      "bullets": [],
+      "category": "rumors",
+      "country": "usa",
+      "published_at": "2026-11-22T14:08:00-06:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/red-wings-will-consider-young-players-in-return-for-dylan-larkin.html",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": [
+        {
+          "domain": "thescore.com",
+          "url": "https://www.thescore.com/nhl/news/3662428"
+        },
+        {
+          "domain": "bleacherreport.com",
+          "url": "https://bleacherreport.com/articles/25536407-how-much-money-dylan-larkin-has-lost-leaving-red-wings-amid-suspension-trade-request-revealed"
+        },
+        {
+          "domain": "thefourthperiod.com",
+          "url": "https://www.thefourthperiod.com/nov-2026/red-wings-now-open-to-young-pieces-for-larkin"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-монреаль-выигрывает-на-выезде-и-проваливает-домашние-матчи",
+      "sport": "hockey",
+      "date": "2026-11-22",
+      "section": "analytics",
+      "title": "«Монреаль» выигрывает на выезде и проваливает домашние матчи",
+      "summary": "Разбор парадокса «Канадиенс»: при общем балансе 14-6-4 команда играет дома заметно хуже, чем в гостях, и ключ — в статистике вратаря Джейкоба Фаулера.",
+      "bullets": [
+        "Общий баланс 14-6-4, но дома всего 5-4-2 против 9-2-1 на выезде.",
+        "Фаулер: 2,31 и 918% в среднем, но 3,00 и 885% в «Белл-Центре» против 1,57 и 948% на чужом льду.",
+        "Дома разница шайб минус 6 (34:44), в гостях плюс 13 (40:27).",
+        "Вывод автора: «Обладатели Кубка Стэнли умеют защищать свой лёд» — и этого «Монреалю» пока не хватает."
+      ],
+      "category": "match",
+      "country": "canada",
+      "published_at": "2026-11-22T19:40:00+00:00",
+      "source_domain": "thehockeywriters.com",
+      "source_url": "https://thehockeywriters.com/canadiens-need-to-fix-their-home-ice-struggles/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-22-келлер-пропустил-игру-дюмулен-оштрафован-маккенна-без-мчм",
+      "sport": "hockey",
+      "date": "2026-11-22",
+      "section": "news",
+      "title": "Келлер пропустил игру, Дюмулен оштрафован, Маккенна без МЧМ",
+      "summary": "Дневная сводка НХЛ: Клейтон Келлер (29 очков в 23 матчах) не играл против «Анахайма» из-за болезни, защитник «Кингз» Брайан Дюмулен получил максимальный штраф $5000 за кросс-чек Джордану Спенсу, а «Торонто» не отпустит Гэвина Маккенну на МЧМ-2027.",
+      "bullets": [],
+      "category": "other",
+      "country": "usa",
+      "published_at": "2026-11-22T13:37:00-06:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/afternoon-notes-keller-dumoulin-mckenna.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/brian-dumoulin-fined-maximum-for-cross-checking-in-kings-game"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-кайзер-дисквалифицирован-на-три-матча-за-удар-в-голову",
+      "sport": "hockey",
+      "date": "2026-11-22",
+      "section": "news",
+      "title": "Кайзер дисквалифицирован на три матча за удар в голову",
+      "summary": "Департамент безопасности НХЛ отстранил защитника «Чикаго» Уайетта Кайзера за иллегальный силовой приём в голову форварду «Калгари» Мартину Поспишилу: игрок потеряет $26 288,67 и пропустит матчи с «Ванкувером», «Сиэтлом» и «Рейнджерс».",
+      "bullets": [],
+      "category": "scandals",
+      "country": "usa",
+      "published_at": "2026-11-22T19:25:00+00:00",
+      "source_domain": "thehockeynews.com",
+      "source_url": "https://thehockeynews.com/news/latest-news/why-the-nhl-issued-a-three-game-suspension-to-blackhawks-defensemen-wyatt-kaiser",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "espn.com",
+          "url": "https://www.espn.com/nhl/story/_/id/50563989/blackhawks-wyatt-kaiser-suspended-3-games-illegal-check"
+        },
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/nhl-suspends-blackhawks-wyatt-kaiser-193007783.html"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/wyatt-kaiser-suspended-three-games-for-actions-in-blackhawks-game"
+        }
+      ]
+    },
     {
       "id": "2026-11-22-фаулер-не-только-главный-на-колдер-но-и-кандидат-на-везину",
       "sport": "hockey",
@@ -39179,89 +39283,6 @@
       "published_at": "2026-11-17T06:00:00-05:00",
       "source_domain": "pensionplanpuppets.com",
       "source_url": "https://www.pensionplanpuppets.com/tuesdays-ftb-changes-or-no-changes/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-17-барса-и-паузы-на-сборные-19-матчей-без-поражений",
-      "sport": "football",
-      "date": "2026-11-17",
-      "section": "analytics",
-      "title": "«Барса» и паузы на сборные: 19 матчей без поражений",
-      "summary": "Статистический разбор перед игрой с «Вильярреалом»: как «Барселона» пять лет подряд безупречно возвращается в чемпионат после матчей сборных.",
-      "bullets": [
-        "После пауз на сборные каталонцы не проигрывают 19 матчей подряд: 16 побед и 3 ничьи с разницей мячей 47:9 начиная с сезона 2021/22.",
-        "Последнее поражение в такой ситуации было 14 сентября 2021 года — 0:3 от «Баварии» в Лиге чемпионов при Куmане.",
-        "При Хави баланс 7 побед и 2 ничьи в девяти матчах (13:2), причём и его дебют пришёлся на игру после паузы — 1:0 с «Эспаньолом» 20 ноября 2021-го.",
-        "При Флике такие матчи почти всегда крупные: 1:4 «Жироне», 5:1 «Севилье», 6:0 «Валенсии», 4:0 «Атлетику», 3:0 «Хетафе» — в воскресенье проверку устроит «Вильярреал»."
-      ],
-      "category": "records",
-      "country": "spain",
-      "published_at": "2026-11-17T12:00:00+01:00",
-      "source_domain": "mundodeportivo.com",
-      "source_url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004251768/barca-maneja-regresos-liga-selecciones.html",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-17-дьёкереш-гремит-за-швецию-но-сидит-в-запасе-арсенала",
-      "sport": "football",
-      "date": "2026-11-17",
-      "section": "news",
-      "title": "Дьёкереш гремит за Швецию, но сидит в запасе «Арсенала»",
-      "summary": "Форвард блистает в сборной, однако в клубе остаётся резервистом — и это открывает окно для январского трансфера, несмотря на его собственные заявления о желании остаться.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-11-17T11:58:00+01:00",
-      "source_domain": "calciomercato.com",
-      "source_url": "https://www.calciomercato.com/notizie/viktor-gyokeres-inarrestabile-con-la-svezia-ma-riserva-all-arsenal-occasione-per-gennaio-va-convinto-all-addio/blteeaba4d9304eaa1e",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-17-четверть-сезона-нхл-макдэвид-в-фаворитах-овечкин-разочарован",
-      "sport": "hockey",
-      "date": "2026-11-17",
-      "section": "analytics",
-      "title": "Четверть сезона НХЛ: Макдэвид в фаворитах, Овечкин — разочарование",
-      "summary": "USA Today подводит итоги первых 20 матчей: лидеры гонок за «Харт», «Везину» и «Колдер», лучшие и худшие сделки межсезонья.",
-      "bullets": [
-        "Макдэвид — фаворит на «Харт»: рекорд НХЛ по матчам с передачей на старте сезона (18) и результативная серия из 22 игр с первого тура; его 41 передача равна всей сумме очков второго бомбардира лиги Драйзайтля.",
-        "Главным разочарованием назван Овечкин: 1 гол в 18 матчах, безголевая серия из 13 игр (карьерный антирекорд — 14), менее двух броском за игру и карьерный минимум по времени на льду — 13:37.",
-        "Худшее приобретение межсезонья — Бобровский: 38-летний вратарь «Торонто» пропускал три и больше в 12 из 13 матчей при 3.47 и 88,1%, в контракте ещё два года под $7 млн кэпа.",
-        "Кучеров после ставшей публичной 30 октября просьбы об обмене набрал 11 очков в 8 матчах, а генменеджер «Тампы» БризБуа повторяет, что менять его не намерен."
-      ],
-      "category": "records",
-      "country": "usa",
-      "published_at": "2026-11-17T05:56:23-05:00",
-      "source_domain": "usatoday.com",
-      "source_url": "https://www.usatoday.com/story/sports/nhl/2026/11/17/nhl-season-quarter-mark-awards-suprises-disappointments/92760482007/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "sports.yahoo.com",
-          "url": "https://sports.yahoo.com/articles/nhl-awards-leaders-surprises-disappointments-105623118.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-17-капитан-лейпцига-порвала-ахилл-на-разминке",
-      "sport": "football",
-      "date": "2026-11-17",
-      "section": "news",
-      "title": "Капитан «Лейпцига» порвала ахилл на разминке",
-      "summary": "33-летняя Сандра Штарке получила разрыв ахиллова сухожилия перед матчем с «Айнтрахтом» (1:5) и уже перенесла операцию — срок возвращения не назван. Виола Одебрехт: «Потеря Сандры — это шок».",
-      "bullets": [],
-      "category": "injury",
-      "country": "germany",
-      "published_at": "2026-11-17T11:56:00+01:00",
-      "source_domain": "sport1.de",
-      "source_url": "https://www.sport1.de/news/fussball/frauen-bundesliga/2026/11/leipzig-starke-nach-achillessehnenriss-operiert",
       "ru_covered": false,
       "ru_source": "",
       "related": []
