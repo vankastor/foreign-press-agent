@@ -1,6 +1,101 @@
 {
-  "generated_at": "2026-11-23T02:17:15.064789+00:00",
+  "generated_at": "2026-11-23T03:10:13.832341+00:00",
   "items": [
+    {
+      "id": "2026-11-23-торонто-эклунд-и-тампа-вечерняя-сводка-по-травмам",
+      "sport": "hockey",
+      "date": "2026-11-23",
+      "section": "news",
+      "title": "«Торонто», Эклунд и «Тампа»: вечерняя сводка по травмам",
+      "summary": "Колтон Сиссонс и Джек Рословик у «Мэйпл Лифс» переведены в статус «день ко дню», Уильям Эклунд снял фиксирующий ботинок и может успеть к серии в Германии 18 декабря, а «Тампа» ждёт Хагела и Гиргенсонса к среде.",
+      "bullets": [],
+      "category": "injury",
+      "country": "canada",
+      "published_at": "2026-11-22T21:00:17-06:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/injury-updates-maple-leafs-eklund-lightning-carlile.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
+    },
+    {
+      "id": "2026-11-23-оценки-обмена-ларкина-почему-выиграл-монреаль",
+      "sport": "hockey",
+      "date": "2026-11-23",
+      "section": "analytics",
+      "title": "Оценки обмена Ларкина: почему выиграл «Монреаль»",
+      "summary": "Разбор Bleacher Report: как Ларкин закрывает главную дыру «Канадиенс» и какую цену клуб реально заплатил, отдав своего лучшего проспекта.",
+      "bullets": [
+        "Ларкин был нужен «Монреалю» сильнее, чем любому другому клубу: за Ником Сузуки шли Данó Филип Данó — Данолт, Джейк Эванс и Оливер Капанен, и в плей-офф против «Флориды», «Тампы» или «Оттавы» эта группа центров была бы разорвана.",
+        "Для самого Ларкина это удачный расклад: в Детройте он тащил слабую команду, а в «Монреале» встанет вторым центром под Сузуки и получит более атакующую роль за счёт своей скорости и плеймейкерства.",
+        "Майкл Хейдж — не просто лучший проспект «Монреаля», а один из сильнейших игроков вне НХЛ; клуб смог себе позволить такую цену только из-за выгодных контрактов Кофилда, Хатсона, Демидова и Сузуки.",
+        "Контракт Ларкина — $8,7 млн до 2031 года — автор называет выгодным, при этом «Детройту» ещё предстоит разрулить нерешённую историю Симона Эдвинссона."
+      ],
+      "category": "transfers",
+      "country": "canada",
+      "published_at": "2026-11-22T21:55:06-05:00",
+      "source_domain": "bleacherreport.com",
+      "source_url": "https://bleacherreport.com/articles/25536668-nhl-trade-grades-blockbuster-dylan-larkin-deal-between-red-wings-and-canadiens",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/athletic/7804975/2026/11/22/dylan-larkin-montreal-nhl-trade-grades/"
+        },
+        {
+          "domain": "thehockeywriters.com",
+          "url": "https://thehockeywriters.com/grading-the-canadiens-and-red-wings-dylan-larkin-trade/"
+        },
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/dylan-larkin-trade-grades-won-021753205.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-эттингер-отстоял-на-ноль-даллас-обыграл-питтсбург",
+      "sport": "hockey",
+      "date": "2026-11-23",
+      "section": "news",
+      "title": "Эттингер отстоял на ноль: «Даллас» обыграл «Питтсбург»",
+      "summary": "Джейк Эттингер сделал 34 сейва и оформил пятый «сухарь» в сезоне — лучший показатель НХЛ и 21-й в карьере; гол Кивиранты принёс 1:0 и пятую победу «Старз» подряд.",
+      "bullets": [],
+      "category": "records",
+      "country": "usa",
+      "published_at": "2026-11-22T21:40:49-05:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/news/pittsburgh-penguins-dallas-stars-game-recap-november-22-2026",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": []
+    },
+    {
+      "id": "2026-11-23-дубль-томпсона-баффало-разгромил-тампу-6-2",
+      "sport": "hockey",
+      "date": "2026-11-23",
+      "section": "news",
+      "title": "Дубль Томпсона: «Баффало» разгромил «Тампу» 6:2",
+      "summary": "«Сейбрз» завершили шестиматчевый выезд победой, Кучеров забил в большинстве, Луукконен отразил 29 бросков — «Тампа» проиграла дома лишь второй раз в сезоне (10-2-0).",
+      "bullets": [],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-22T21:18:00-05:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/news/buffalo-sabres-tampa-bay-lightning-game-recap-november-22-2026",
+      "ru_covered": true,
+      "ru_source": "championat.com",
+      "related": [
+        {
+          "domain": "diebytheblade.com",
+          "url": "https://www.diebytheblade.com/two-for-tage-win-no-100-for-upl-sabres-beat-lightning-6-2/"
+        },
+        {
+          "domain": "sportsnet.ca",
+          "url": "https://www.sportsnet.ca/nhl/article/tage-thompson-scores-twice-as-sabres-top-lightning/"
+        }
+      ]
+    },
     {
       "id": "2026-11-23-монреаль-выменял-дилана-ларкина-у-детройта",
       "sport": "hockey",
@@ -42,6 +137,73 @@
           "url": "https://nhltradetalk.com/canadiens-dylan-larkin-trade/"
         }
       ]
+    },
+    {
+      "id": "2026-11-23-ларкин-уехал-в-монреаль-сага-завершена",
+      "sport": "hockey",
+      "date": "2026-11-23",
+      "section": "news",
+      "title": "Ларкин уехал в «Монреаль»: сага завершена",
+      "summary": "«Детройт» обменял экс-капитана Дилана Ларкина в «Монреаль» на Кирби Дака, голкипера Сэма Монтембо, топ-проспекта Майкла Хейджа и четыре драфт-пика — после пяти месяцев конфликта и отстранения без зарплаты.",
+      "bullets": [],
+      "category": "transfers",
+      "country": "canada",
+      "published_at": "2026-11-22T19:50:20-06:00",
+      "source_domain": "prohockeyrumors.com",
+      "source_url": "https://www.prohockeyrumors.com/2026/11/canadiens-acquire-dylan-larkin.html",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": [
+        {
+          "domain": "nytimes.com",
+          "url": "https://www.nytimes.com/athletic/7345593/2026/11/22/dylan-larkin-trade-red-wings-canadiensnhl/"
+        },
+        {
+          "domain": "sportsnet.ca",
+          "url": "https://www.sportsnet.ca/nhl/article/canadiens-acquire-dylan-larkin-from-red-wings/"
+        },
+        {
+          "domain": "thescore.com",
+          "url": "https://www.thescore.com/nhl/news/3613846/red-wings-trade-larkin-to-canadiens-in-blockbuster-deal"
+        },
+        {
+          "domain": "thehockeynews.com",
+          "url": "https://thehockeynews.com/news/latest-news/montreal-canadiens-acquire-dylan-larkin-in-massive-package-deal-with-detroit-red-wings"
+        },
+        {
+          "domain": "dailyfaceoff.com",
+          "url": "https://www.dailyfaceoff.com/news/montreal-canadiens-acquire-dylan-larkin-detroit-red-wings-nhl-trade-news-dach-hage-nhl-draft"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/dylan-larkin-traded-to-montreal-canadiens-from-detroit-red-wings"
+        },
+        {
+          "domain": "nbcsports.com",
+          "url": "https://www.nbcsports.com/nhl/news/red-wings-trade-ex-captain-dylan-larkin-to-canadiens-in-multiplayer-and-draft-pick-deal"
+        },
+        {
+          "domain": "hockeybuzz.com",
+          "url": "https://www.hockeybuzz.com/2026/11/22/canadiens-acquire-dylan-larkin-red-wings-blockbuster-trade"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-драйзайтль-набрал-1100-е-очко-в-нхл",
+      "sport": "hockey",
+      "date": "2026-11-23",
+      "section": "news",
+      "title": "Драйзайтль набрал 1100-е очко в НХЛ",
+      "summary": "Форвард «Эдмонтона» Леон Драйзайтль достиг отметки 1100 очков в карьере, отличившись голом в выездном матче против «Сент-Луиса».",
+      "bullets": [],
+      "category": "records",
+      "country": "canada",
+      "published_at": "2026-11-22T20:36:32-05:00",
+      "source_domain": "sportsnet.ca",
+      "source_url": "https://www.sportsnet.ca/nhl/video/oilers-draisaitl-reaches-1100-career-points-with-goal-vs-blues/",
+      "ru_covered": false,
+      "ru_source": "",
+      "related": []
     },
     {
       "id": "2026-11-23-ахо-стал-вторым-снайпером-в-истории-каролины",
@@ -39369,123 +39531,6 @@
       "published_at": "2026-11-17T14:39:56+00:00",
       "source_domain": "kicker.de",
       "source_url": "https://www.kicker.de/kompany-musiala-diaz-so-steht-es-um-bayerns-rueckkehrer-1272417/video",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-17-детское-звено-сан-хосе-подарило-клубу-лицо",
-      "sport": "hockey",
-      "date": "2026-11-17",
-      "section": "analytics",
-      "title": "Детское звено «Сан-Хосе» подарило клубу лицо",
-      "summary": "Дипанджан Митра объясняет, почему тройка Стенберг — Селебрини — Смит стала идентичностью «Шаркс», которой им не хватало.",
-      "bullets": [
-        "В победе 4:2 над «Нэшвиллом» тройка набрала 8 очков и забила 3 из 4 голов, прервав серию «Предаторз» из семи побед.",
-        "Селебрини и Смит сделали по 1+2, Стенберг — 1+1, включая подкат в центре площадки, после которого Смит ушёл на выход один на один.",
-        "Тренер Райан Варсофски назвал первый период лучшим отрезком «Сан-Хосе» в сезоне.",
-        "Отрезвляющий контекст от автора: при всей яркости молодёжи клуб идёт 10-11-2."
-      ],
-      "category": "match",
-      "country": "usa",
-      "published_at": "2026-11-17T14:35:00+00:00",
-      "source_domain": "thehockeywriters.com",
-      "source_url": "https://thehockeywriters.com/sharks-kid-line-is-providing-the-identity-theyve-been-missing/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-17-espn-расклад-на-уайлд-кард-плей-офф-млс",
-      "sport": "football",
-      "date": "2026-11-17",
-      "section": "analytics",
-      "title": "ESPN: расклад на уайлд-кард плей-офф МЛС",
-      "summary": "Большое превью ESPN на стыковые матчи MLS Cup (Орландо — Цинциннати, Сиэтл — Солт-Лейк) с прогнозами американских аналитиков издания.",
-      "bullets": [
-        "Эффект Гризманна в Орландо: «ошеломительные 1,06 гола и ассиста на 90 минут», команда подняла показатель очков за игру с 0,93 до 1,68 — шестой результат в МЛС после паузы на ЧМ.",
-        "При этом 78 пропущенных мячей Орландо за сезон — второй худший показатель в истории лиги, а в день закрытия регулярки у клуба в заявке остался «ровно один настоящий центральный защитник» после травмы Робина Янссона.",
-        "«Цинциннати» потратил на зарплаты защитников больше любого другого клуба лиги в этом году (по майскому отчёту профсоюза игроков MLSPA).",
-        "Сиэтл заплатил 6 млн долларов за Деяна Йовелича из «Спортинга Канзас-Сити»; при этом команда с низшим сеяным номером выигрывала уайлд-кард лишь один раз из шести попыток."
-      ],
-      "category": "match",
-      "country": "other",
-      "published_at": "2026-11-17T09:34:00-05:00",
-      "source_domain": "espn.com",
-      "source_url": "https://www.espn.com/soccer/story/_/id/50462986/mls-cup-playoff-wild-card-predictions",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-17-диалло-идёт-в-президенты-фифа-у-меня-уже-55-голосов",
-      "sport": "football",
-      "date": "2026-11-17",
-      "section": "news",
-      "title": "Диалло идёт в президенты ФИФА: «У меня уже 55 голосов»",
-      "summary": "Глава Федерации футбола Франции Филипп Диалло объявил о выдвижении на выборы президента ФИФА в марте и заявил, что стартует с поддержкой 55 европейских голосов.",
-      "bullets": [],
-      "category": "other",
-      "country": "other",
-      "published_at": "2026-11-17T15:32:00+01:00",
-      "source_domain": "corrieredellosport.it",
-      "source_url": "https://www.corrieredellosport.it/news/calcio/2026/11/17-152653940/diallo_candidato_alla_presidenza_della_fifa_parto_gi_da_55_voti",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "footmercato.net",
-          "url": "https://www.footmercato.net/a4387667708581399046-fff-emmanuel-macron-a-appele-philippe-diallo"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-17-германия-u17-разгромила-северную-ирландию-и-выиграла-группу",
-      "sport": "football",
-      "date": "2026-11-17",
-      "section": "news",
-      "title": "Германия U17 разгромила Северную Ирландию и выиграла группу",
-      "summary": "4:0 в последнем матче первого раунда квалификации Евро U17: Ассомо открыл счёт, Гютер дожал после перерыва — немцы первыми прошли дальше.",
-      "bullets": [],
-      "category": "match",
-      "country": "germany",
-      "published_at": "2026-11-17T14:31:34+00:00",
-      "source_domain": "kicker.de",
-      "source_url": "https://www.kicker.de/nordirland-gegen-deutschland-2026-u-em-qualifikation-5207716/spielbericht",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-17-интер-навёл-прицел-на-проvstгорда-нужно-40-млн",
-      "sport": "football",
-      "date": "2026-11-17",
-      "section": "news",
-      "title": "«Интер» навёл прицел на Проvstгорда: нужно 40 млн",
-      "summary": "Миланцы изучают центрального защитника «Лацио» Оливера Проvstгорда — оценка игрока около 40 млн евро.",
-      "bullets": [],
-      "category": "transfers",
-      "country": "italy",
-      "published_at": "2026-11-17T15:31:00+01:00",
-      "source_domain": "calciomercato.com",
-      "source_url": "https://www.calciomercato.com/notizie/inter-fari-puntati-su-provstaard-quanto-costa-il-difensore-della-lazio/bltc6d65a02f51ea772",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-17-доган-о-тендере-на-тв-права-турецкой-лиги",
-      "sport": "football",
-      "date": "2026-11-17",
-      "section": "news",
-      "title": "Доган о тендере на ТВ-права турецкой лиги",
-      "summary": "Глава Союза клубов Эртугрул Доган заявил, что клубы ждут от тендера на права трансляций сумму около 500 миллионов.",
-      "bullets": [],
-      "category": "other",
-      "country": "turkey",
-      "published_at": "2026-11-17T17:27:00+03:00",
-      "source_domain": "sporx.com",
-      "source_url": "https://www.sporx.com/ertugrul-dogan-dan-naklen-yayin-ihalesi-aciklamasi-SXHBQ1183158SXQ",
       "ru_covered": false,
       "ru_source": "",
       "related": []
