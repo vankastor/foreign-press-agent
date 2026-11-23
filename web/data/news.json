@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-11-23T06:24:55.402644+00:00",
+  "generated_at": "2026-11-23T07:36:08.310396+00:00",
   "items": [
+    {
+      "id": "2026-11-23-как-сент-луис-отыграл-минус-три-за-десять-минут",
+      "sport": "hockey",
+      "date": "2026-11-23",
+      "section": "analytics",
+      "title": "Как «Сент-Луис» отыграл минус три за десять минут",
+      "summary": "Разбор исторического камбэка «Блюз» против «Эдмонтона» — 5:4 по буллитам, четвёртая победа подряд и гол Бучневича.",
+      "bullets": [
+        "«Блюз» впервые в истории клуба выиграли матч, отыграв три шайбы в последние 10 минут третьего периода: Броберг, Бучневич и Снаггеруд забили за 5:11 при счёте 1:4.",
+        "Тренер Джим Монтгомери объяснил перелом сменой установки: «Мы говорили о том, чтобы стать командой объёма бросков, о чём обычно не говорим» — звено Томаса устроило серию из четырёх бросков около 11-й минуты, и трибуны ожили.",
+        "Голу 2:4 предшествовал форчек Нэйтана Уокера, дебютировавшего в сезоне после вызова из Спрингфилда (АХЛ): он выгрыз шайбу, Нейборс заработал малый штраф, Броберг забил с левого круга на 10:27.",
+        "«Эдмонтон» проводил 13-й матч за 23 дня и завершал выезд из шести игр за девять дней; Хофер затем отразил буллиты Драйзайтля и Майклза, а «Сент-Луис» (13-9-2) взял четвёртую победу подряд."
+      ],
+      "category": "match",
+      "country": "usa",
+      "published_at": "2026-11-23T06:12:02+00:00",
+      "source_domain": "thehockeynews.com",
+      "source_url": "https://thehockeynews.com/nhl/st-louis-blues/latest-news/instant-analysis-blues-stun-oilers-5-4-in-shootout-with-another-third-period-comeback",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "sports.yahoo.com",
+          "url": "https://sports.yahoo.com/articles/instant-analysis-blues-stun-oilers-061202162.html"
+        },
+        {
+          "domain": "nhl.com",
+          "url": "https://www.nhl.com/news/edmonton-oilers-st-louis-blues-game-recap-november-22-2026"
+        }
+      ]
+    },
     {
       "id": "2026-11-23-ванкувер-как-сейсмограф-разбор-провала-с-чикаго",
       "sport": "hockey",
@@ -33,6 +64,36 @@
         {
           "domain": "sportsnaut.com",
           "url": "https://sportsnaut.com/nhl/vancouver-canucks/slumbering-canucks-no-answer-at-home-against-blackhawks"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-канцеров-оформил-первый-хет-трик-в-нхл",
+      "sport": "hockey",
+      "date": "2026-11-23",
+      "section": "news",
+      "title": "Канцеров оформил первый хет-трик в НХЛ",
+      "summary": "Россиянин набрал 3+1, «Чикаго» разнёс «Ванкувер» 6:3 и стал первым новичком «Блэкхокс» с четырьмя очками за матч со времён Бедарда в марте 2024-го.",
+      "bullets": [],
+      "category": "russians",
+      "country": "usa",
+      "published_at": "2026-11-23T06:04:00+00:00",
+      "source_domain": "nhl.com",
+      "source_url": "https://www.nhl.com/news/chicago-blackhawks-vancouver-canucks-game-recap-november-22-2026",
+      "ru_covered": true,
+      "ru_source": "sports.ru",
+      "related": [
+        {
+          "domain": "secondcityhockey.com",
+          "url": "https://www.secondcityhockey.com/hes-going-the-distance-hes-going-for-speed-blackhawks-6-canucks-3/"
+        },
+        {
+          "domain": "chicagohockeynow.com",
+          "url": "https://chicagohockeynow.com/roman-kantserov-scored-first-nhl-hat-trick-blackhawks-beat-canucks/"
+        },
+        {
+          "domain": "tsn.ca",
+          "url": "https://www.tsn.ca/nhl/article/rookie-kantserov-scores-hat-trick-as-blackhawks-beat-canucks/"
         }
       ]
     },
@@ -39595,45 +39656,6 @@
       "published_at": "2026-11-17T16:16:05+00:00",
       "source_domain": "goal.com",
       "source_url": "https://www.goal.com/en/originals/marshall-islands-fifa-membership/blt07a37bc493343594",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": []
-    },
-    {
-      "id": "2026-11-17-монако-откроет-дверь-балогану-для-юнайтед",
-      "sport": "football",
-      "date": "2026-11-17",
-      "section": "news",
-      "title": "«Монако» откроет дверь Балогану для «Юнайтед»",
-      "summary": "Клуб из Монако готов отпустить форварда в январе — это серьёзно упрощает трансфер игрока, которого ценит Почеттино.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "england",
-      "published_at": "2026-11-17T16:16:00+00:00",
-      "source_domain": "caughtoffside.com",
-      "source_url": "https://www.caughtoffside.com/2026/11/17/man-united-handed-major-boost-in-pursuit-of-19-goal-target-pochettino-admires/",
-      "ru_covered": false,
-      "ru_source": "",
-      "related": [
-        {
-          "domain": "onefootball.com",
-          "url": "https://onefootball.com/en/news/manchester-united-handed-major-january-transfer-boost-as-monaco-open-door-for-folarin-balogun-43791416"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-17-бешикташ-нацелился-на-звезду-манчестер-юнайтед",
-      "sport": "football",
-      "date": "2026-11-17",
-      "section": "news",
-      "title": "«Бешикташ» нацелился на звезду «Манчестер Юнайтед»",
-      "summary": "Турецкий клуб готовит громкий трансфер и забросил крючок игроку английского гранда.",
-      "bullets": [],
-      "category": "rumors",
-      "country": "turkey",
-      "published_at": "2026-11-17T19:14:00+03:00",
-      "source_domain": "fanatik.com.tr",
-      "source_url": "https://www.fanatik.com.tr/besiktas/besiktas-transferde-bombayi-patlatiyor-manchester-unitedin-yildizina-kanca-2644870",
       "ru_covered": false,
       "ru_source": "",
       "related": []
